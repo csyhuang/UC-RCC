@@ -1,0 +1,1657 @@
+1
+00:00:00,192 --> 00:00:02,467
+- Anybody tell me how much
+cases usually run?
+
+2
+00:00:02,467 --> 00:00:04,394
+[Background Chatter]
+
+3
+00:00:04,394 --> 00:00:06,925
+- At Radio Shack, they're 30 dollars.
+
+4
+00:00:06,925 --> 00:00:08,713
+- Okay, you know what?
+
+5
+00:00:08,713 --> 00:00:11,199
+So we'll factor that in in a minute.
+
+6
+00:00:11,199 --> 00:00:12,268
+But Alex, you had your hand raised.
+
+7
+00:00:12,268 --> 00:00:13,473
+So I'd like to hear from you.
+
+8
+00:00:13,473 --> 00:00:15,517
+- I was just gonna say that
+the 199,
+
+9
+00:00:15,517 --> 00:00:17,004
+tax is gonna come in anyway,
+
+10
+00:00:17,004 --> 00:00:18,397
+so [inaudible]
+
+11
+00:00:18,397 --> 00:00:21,670
+- What if you got a deal
+about it that paid
+
+12
+00:00:21,670 --> 00:00:23,202
+the tax and shipping?
+
+13
+00:00:23,202 --> 00:00:26,465
+[Background Chatter]
+
+14
+00:00:29,085 --> 00:00:30,261
+- Okay, hold up.
+
+15
+00:00:30,261 --> 00:00:31,584
+Cynthia.
+
+16
+00:00:31,584 --> 00:00:33,715
+- But even though...
+
+17
+00:00:34,417 --> 00:00:36,298
+Even though if you use 12,
+
+18
+00:00:36,298 --> 00:00:38,852
+you're only gonna have a
+couple dollars left over.
+
+19
+00:00:38,852 --> 00:00:41,499
+With the economy these days,
+
+20
+00:00:41,499 --> 00:00:42,799
+things are not cheap.
+
+21
+00:00:42,799 --> 00:00:45,005
+So you can't buy something
+with five dollars.
+
+22
+00:00:45,005 --> 00:00:46,955
+You're not gonna get
+a case for that cheap.
+
+23
+00:00:46,955 --> 00:00:48,070
+- That's probably right.
+
+24
+00:00:48,070 --> 00:00:49,974
+[Background Chatter]
+
+25
+00:00:49,974 --> 00:00:51,297
+- I'm gonna hear two more of you,
+
+26
+00:00:51,297 --> 00:00:52,807
+and then I have something I wanna drop
+
+27
+00:00:52,807 --> 00:00:54,275
+into this conversation that several
+
+28
+00:00:54,275 --> 00:00:55,646
+of you talked about,
+
+29
+00:00:55,646 --> 00:00:57,271
+and I think is really
+important to point out.
+
+30
+00:00:57,271 --> 00:00:59,013
+So I wanna hear what you
+two have to say,
+
+31
+00:00:59,013 --> 00:01:00,638
+and then I'm gonna go
+back to something
+
+32
+00:01:00,638 --> 00:01:02,170
+several of you kinda mentioned.
+
+33
+00:01:02,170 --> 00:01:02,890
+Go ahead.
+
+34
+00:01:02,890 --> 00:01:05,351
+- It's better to have more money
+than less money
+
+35
+00:01:05,351 --> 00:01:09,147
+because if you exactly calculate it to...
+
+36
+00:01:09,147 --> 00:01:11,367
+199,
+
+37
+00:01:11,367 --> 00:01:15,883
+then you'd still have zero dollars left,
+
+38
+00:01:15,883 --> 00:01:19,764
+but it's better to have
+equal or more money.
+
+39
+00:01:19,764 --> 00:01:22,062
+- Okay, that's, you know I think you're right.
+
+40
+00:01:22,062 --> 00:01:24,222
+That seems like it just
+makes sense, right?
+
+41
+00:01:24,222 --> 00:01:25,753
+And one more, yeah.
+
+42
+00:01:25,753 --> 00:01:28,609
+- Actually, when I bought my phone,
+
+43
+00:01:28,609 --> 00:01:32,673
+I got a case just for
+about five dollars on ebay.
+
+44
+00:01:32,673 --> 00:01:34,276
+- Ebay, so you got a used one?
+
+45
+00:01:34,276 --> 00:01:35,599
+- And it paid for shipping,
+
+46
+00:01:35,599 --> 00:01:37,247
+so I didn't, yes I did.
+
+47
+00:01:37,247 --> 00:01:38,339
+- Okay well you know what?
+
+48
+00:01:38,339 --> 00:01:39,384
+I wanna talk about that
+
+49
+00:01:39,384 --> 00:01:41,056
+because that's actually
+what you guys just said
+
+50
+00:01:41,056 --> 00:01:41,914
+is really important,
+
+51
+00:01:41,914 --> 00:01:43,864
+and several of you others mentioned it.
+
+52
+00:01:43,864 --> 00:01:45,235
+Maybe we don't want,
+
+53
+00:01:45,235 --> 00:01:47,441
+maybe I don't want to have
+the exactly the price,
+
+54
+00:01:47,441 --> 00:01:50,848
+maybe I want to have at least...
+
+55
+00:01:51,666 --> 00:01:53,362
+200 dollars.
+
+56
+00:01:54,612 --> 00:01:58,167
+And if I say I wanna have
+at least 200 dollars,
+
+57
+00:01:58,167 --> 00:02:01,906
+is there a way to say at
+least with math symbols?
+
+58
+00:02:01,906 --> 00:02:04,159
+To make that equation
+change so it says least.
+
+59
+00:02:04,159 --> 00:02:05,389
+'Cause right now, it says equal.
+
+60
+00:02:05,389 --> 00:02:07,293
+Is there a way to do
+it so it says at least?
+
+61
+00:02:08,083 --> 00:02:09,208
+Colin?
+
+62
+00:02:10,878 --> 00:02:13,613
+- If you, you need to get
+the iPhone and the case
+
+63
+00:02:13,613 --> 00:02:16,469
+in the same shipping order,
+
+64
+00:02:16,469 --> 00:02:18,373
+or else it's gonna cost
+more for shipping.
+
+65
+00:02:18,373 --> 00:02:19,487
+- Oh okay.
+
+66
+00:02:19,487 --> 00:02:21,043
+So yeah, I need at least
+a certain amount.
+
+67
+00:02:21,043 --> 00:02:22,064
+- Yeah.
+
+68
+00:02:22,064 --> 00:02:23,643
+So you're gonna [inaudible].
+
+69
+00:02:23,643 --> 00:02:24,874
+- Wanna jump in on that, guys?
+
+70
+00:02:24,874 --> 00:02:26,942
+- You need to put the greater than
+
+71
+00:02:26,942 --> 00:02:28,039
+or equal to sign.
+
+72
+00:02:28,039 --> 00:02:29,756
+- But what does that look like?
+
+73
+00:02:30,946 --> 00:02:33,192
+- The greater than sign
+with a line under it.
+
+74
+00:02:33,192 --> 00:02:34,261
+- Okay.
+
+75
+00:02:37,481 --> 00:02:39,554
+And what's the word in
+English that we have
+
+76
+00:02:39,554 --> 00:02:41,389
+for that symbol?
+
+77
+00:02:43,279 --> 00:02:44,686
+Yeah, say it again, Alexis.
+
+78
+00:02:44,686 --> 00:02:45,429
+- That least.
+
+79
+00:02:45,429 --> 00:02:46,520
+- It is.
+
+80
+00:02:46,520 --> 00:02:49,833
+So now, how much do
+I need to save to get
+
+81
+00:02:51,123 --> 00:02:53,455
+at least 200 dollars, right?
+
+82
+00:02:53,455 --> 00:02:56,450
+So it's okay if I have
+exactly or more than.
+
+83
+00:02:56,450 --> 00:02:58,772
+So that kinda talks about what
+you guys are talking about.
+
+84
+00:02:58,772 --> 00:03:00,189
+Maybe I need more money,
+
+85
+00:03:00,189 --> 00:03:02,719
+if she wants more,
+more than just a phone.
+
+86
+00:03:02,719 --> 00:03:04,066
+I'm sure she does, right?
+
+87
+00:03:05,256 --> 00:03:06,615
+- With the...
+
+88
+00:03:06,736 --> 00:03:10,301
+[inaudible]
+
+89
+00:03:11,831 --> 00:03:13,725
+What about the [inaudible]
+
+90
+00:03:13,725 --> 00:03:15,815
+just come with the phone.
+
+91
+00:03:15,815 --> 00:03:17,533
+Just that, or does it
+come with something else?
+
+92
+00:03:17,533 --> 00:03:18,462
+Like a...
+
+93
+00:03:18,462 --> 00:03:21,039
+Charger, battery, or even a case itself.
+
+94
+00:03:21,039 --> 00:03:22,552
+- So again you're saying
+
+95
+00:03:22,552 --> 00:03:24,410
+I need at least 200 dollars, right?
+
+96
+00:03:24,410 --> 00:03:25,919
+Depending on what comes with the phone.
+
+97
+00:03:25,919 --> 00:03:27,916
+- [inaudible] like a Christmas special?
+
+98
+00:03:27,916 --> 00:03:29,239
+Like half off or something?
+
+99
+00:03:29,239 --> 00:03:32,944
+[Background Chatter]
+
+100
+00:03:35,761 --> 00:03:38,286
+- What you can...
+
+101
+00:03:39,034 --> 00:03:41,613
+Also think is where you gonna buy it?
+
+102
+00:03:42,443 --> 00:03:46,190
+And where is there's no tax and stuff?
+
+103
+00:03:46,980 --> 00:03:49,439
+So, it depends on where
+you're gonna buy it.
+
+104
+00:03:49,439 --> 00:03:52,689
+If you want no tax, that means
+like on Ebay or something,
+
+105
+00:03:52,689 --> 00:03:55,761
+but... [inaudible]
+
+106
+00:03:56,217 --> 00:03:59,795
+It might be 50 percent
+off and stuff like that.
+
+107
+00:03:59,795 --> 00:04:01,397
+- Okay, interesting.
+
+108
+00:04:01,397 --> 00:04:02,326
+- I'm just saying,
+
+109
+00:04:02,326 --> 00:04:05,367
+it depends where you're gonna buy
+
+110
+00:04:05,367 --> 00:04:05,833
+your phone.
+
+111
+00:04:05,833 --> 00:04:07,644
+- Okay, no, I like that a lot.
+
+112
+00:04:08,354 --> 00:04:10,825
+- When I was doing my equation,
+
+113
+00:04:10,825 --> 00:04:12,828
+11 times 11,
+
+114
+00:04:12,828 --> 00:04:15,869
+I got 121.
+
+115
+00:04:15,869 --> 00:04:18,493
+So you would still have
+a dollar left over.
+
+116
+00:04:18,493 --> 00:04:22,671
+And you know how Cassidy said that she can
+
+117
+00:04:22,671 --> 00:04:24,375
+get it on Ebay, that much.
+
+118
+00:04:24,375 --> 00:04:25,938
+Most people, they...
+
+119
+00:04:26,268 --> 00:04:27,568
+I understand that it's cheap,
+
+120
+00:04:27,568 --> 00:04:29,798
+and most people want it like that,
+
+121
+00:04:29,798 --> 00:04:32,863
+but I bought stuff off the line before,
+
+122
+00:04:32,863 --> 00:04:34,674
+and some of the stuff does work good,
+
+123
+00:04:34,674 --> 00:04:37,181
+and some of 'em you
+drop them and it breaks.
+
+124
+00:04:37,181 --> 00:04:39,248
+So, it's not always good.
+
+125
+00:04:39,248 --> 00:04:41,036
+- Somethin' to pay attention to.
+
+126
+00:04:41,036 --> 00:04:43,566
+All right, I'm gonna change
+the conversation a little bit
+
+127
+00:04:43,566 --> 00:04:46,144
+because I think you guys are
+doing really really well.
+
+128
+00:04:46,144 --> 00:04:47,862
+Let's go with what you guys said
+
+129
+00:04:47,862 --> 00:04:50,532
+and say I need at least 200 dollars.
+
+130
+00:04:50,532 --> 00:04:52,459
+If that's true,
+
+131
+00:04:52,459 --> 00:04:54,386
+is there any way to find out,
+
+132
+00:04:54,386 --> 00:04:56,384
+or to answer the original question,
+
+133
+00:04:56,384 --> 00:04:57,197
+which Nick brought up.
+
+134
+00:04:57,197 --> 00:04:59,146
+How much money do I need
+to save each day
+
+135
+00:04:59,146 --> 00:05:01,677
+based on what we have so far?
+
+136
+00:05:01,677 --> 00:05:03,256
+Where do I go from here?
+
+137
+00:05:03,256 --> 00:05:05,624
+- There is a way to solve it.
+
+138
+00:05:05,624 --> 00:05:08,387
+You grab 200 dollars,
+
+139
+00:05:08,387 --> 00:05:11,081
+and then you subtract 80 from it.
+
+140
+00:05:11,081 --> 00:05:12,335
+- Okay, I'm gonna stop
+you right there.
+
+141
+00:05:12,335 --> 00:05:13,542
+I don't mean to interrupt.
+
+142
+00:05:13,542 --> 00:05:15,772
+Katherine, you're watching
+this and I saw your paper,
+
+143
+00:05:15,772 --> 00:05:18,023
+what do you think about
+what Najeem just said?
+
+144
+00:05:19,813 --> 00:05:21,906
+- Like [inaudible]
+
+145
+00:05:21,906 --> 00:05:23,591
+- Okay, and why is that?
+
+146
+00:05:25,331 --> 00:05:26,849
+- I don't know.
+
+147
+00:05:29,819 --> 00:05:32,857
+That's how you solve it in equality.
+
+148
+00:05:32,857 --> 00:05:34,901
+- Okay, so can you repeat
+what you said?
+
+149
+00:05:34,901 --> 00:05:38,524
+- You subtract 80 from both sides.
+
+150
+00:05:38,524 --> 00:05:39,405
+- Okay.
+
+151
+00:05:39,405 --> 00:05:41,310
+I'm gonna go ahead and do
+that right now.
+
+152
+00:05:50,060 --> 00:05:51,386
+And what does that leave us with?
+
+153
+00:05:51,386 --> 00:05:52,594
+- 120.
+
+154
+00:05:52,594 --> 00:05:54,033
+- And you know what,
+
+155
+00:05:54,033 --> 00:05:54,683
+I have a question.
+
+156
+00:05:54,683 --> 00:05:56,378
+What does that 120 represent?
+
+157
+00:05:56,378 --> 00:05:58,050
+I mean, if 200 is how
+much the phone costs,
+
+158
+00:05:58,050 --> 00:05:59,467
+what's 120 about?
+
+159
+00:05:59,467 --> 00:06:00,442
+I'm not sure.
+
+160
+00:06:00,442 --> 00:06:02,624
+- How much you need to raise,
+
+161
+00:06:02,624 --> 00:06:03,530
+until then.
+
+162
+00:06:03,530 --> 00:06:05,039
+- Okay, okay.
+
+163
+00:06:05,039 --> 00:06:06,827
+And Nayanna?
+
+164
+00:06:06,827 --> 00:06:08,406
+Can you comment on what you think
+
+165
+00:06:08,406 --> 00:06:10,263
+might be the next step?
+
+166
+00:06:13,403 --> 00:06:15,511
+- Divide 12 from 120.
+
+167
+00:06:15,511 --> 00:06:16,742
+- Again.
+
+168
+00:06:16,742 --> 00:06:18,994
+- Divide 12 from 120.
+
+169
+00:06:18,994 --> 00:06:20,271
+- Okay.
+
+170
+00:06:22,271 --> 00:06:24,752
+And, somebody else, jump in.
+
+171
+00:06:24,752 --> 00:06:27,120
+- The answer was [inaudible].
+
+172
+00:06:27,120 --> 00:06:29,164
+The answer would be 10
+
+173
+00:06:29,164 --> 00:06:32,066
+because 12 and 120 equals 10.
+
+174
+00:06:32,066 --> 00:06:34,667
+- Okay, and Katie you were
+ready to say something.
+
+175
+00:06:34,667 --> 00:06:35,711
+What would you say?
+
+176
+00:06:35,711 --> 00:06:39,408
+- I was about to say [inaudible].
+
+177
+00:06:40,638 --> 00:06:42,584
+- Equals 10.
+
+178
+00:06:42,584 --> 00:06:44,372
+X equals 10 and--
+
+179
+00:06:44,372 --> 00:06:46,898
+[Background Chatter]
+
+180
+00:06:47,971 --> 00:06:50,177
+- X equals at least 10.
+
+181
+00:06:50,177 --> 00:06:51,640
+- Oh, it was so you're not liking what
+
+182
+00:06:51,640 --> 00:06:52,731
+I wrote over here, Alexis.
+
+183
+00:06:52,731 --> 00:06:55,030
+- At least 'cause
+you have to keep the
+
+184
+00:06:55,030 --> 00:06:58,048
+[inaudible] all the way down.
+
+185
+00:06:58,048 --> 00:06:59,186
+- Okay, Katherine,
+
+186
+00:06:59,186 --> 00:07:00,626
+what do you think?
+
+187
+00:07:00,626 --> 00:07:02,692
+- I agree with Alexis
+
+188
+00:07:02,692 --> 00:07:04,335
+because...
+
+189
+00:07:05,618 --> 00:07:08,677
+it can't just like change,
+
+190
+00:07:08,916 --> 00:07:10,210
+because...
+
+191
+00:07:11,840 --> 00:07:12,847
+- When you say it can't change,
+
+192
+00:07:12,847 --> 00:07:13,485
+what do you mean?
+
+193
+00:07:13,485 --> 00:07:14,484
+- the side.
+
+194
+00:07:14,484 --> 00:07:16,202
+- Oh [laughs]
+
+195
+00:07:16,202 --> 00:07:18,013
+Okay, that's good [laughs].
+
+196
+00:07:18,013 --> 00:07:20,265
+I didn't know what it was
+I'm just asking.
+
+197
+00:07:20,265 --> 00:07:23,307
+- And then you
+have to put what X means.
+
+198
+00:07:26,337 --> 00:07:30,148
+[Background Chatter]
+
+199
+00:07:33,823 --> 00:07:35,279
+- Oh, Oh.
+
+200
+00:07:35,796 --> 00:07:37,049
+Oh, so what is the label?
+
+201
+00:07:37,049 --> 00:07:38,744
+What are the units we're talkin' about?
+
+202
+00:07:38,744 --> 00:07:41,246
+[Background Chatter]
+
+203
+00:07:41,507 --> 00:07:42,361
+Ah.
+
+204
+00:07:43,624 --> 00:07:45,939
+- [inaudible] the blue tooth.
+
+205
+00:07:45,939 --> 00:07:48,841
+If you wanna have a little extra money,
+
+206
+00:07:48,841 --> 00:07:50,536
+you could have more, and plus,
+
+207
+00:07:50,536 --> 00:07:52,650
+if you get a little extra money one day,
+
+208
+00:07:52,650 --> 00:07:54,530
+but you have the same another,
+
+209
+00:07:54,530 --> 00:07:56,782
+and you get a little less the next day,
+
+210
+00:07:56,782 --> 00:07:58,593
+you could raise up for another day.
+
+211
+00:07:58,593 --> 00:08:00,172
+- Oh, like if I'm going
+to collect cans
+
+212
+00:08:00,172 --> 00:08:01,938
+and I don't collect as many cans one day,
+
+213
+00:08:01,938 --> 00:08:03,771
+but I collect extra the next day.
+
+214
+00:08:03,771 --> 00:08:05,048
+- Yeah, like that.
+
+215
+00:08:05,048 --> 00:08:06,511
+- Nayanna, you had your hand raised.
+
+216
+00:08:06,511 --> 00:08:09,854
+- When you have to add 40 to 200,
+
+217
+00:08:09,854 --> 00:08:11,178
+for the Bluetooth.
+
+218
+00:08:11,178 --> 00:08:12,919
+- Ah, that's an interesting idea.
+
+219
+00:08:12,919 --> 00:08:15,009
+So maybe we, so tell me what to write.
+
+220
+00:08:16,859 --> 00:08:19,096
+Instead of this, how would you change this
+
+221
+00:08:19,096 --> 00:08:20,976
+to incorporate what you just said?
+
+222
+00:08:20,976 --> 00:08:24,041
+- 80 plus X equals 240.
+
+223
+00:08:29,281 --> 00:08:30,927
+- Okay, are you pleased,
+
+224
+00:08:30,927 --> 00:08:32,482
+are you okay with that?
+
+225
+00:08:32,482 --> 00:08:34,038
+- I disagree.
+
+226
+00:08:34,038 --> 00:08:35,803
+- Cynthia.
+
+227
+00:08:35,803 --> 00:08:39,912
+- I disagree with
+your answer on that one.
+
+228
+00:08:39,912 --> 00:08:43,334
+I don't agree that it's 10 because
+
+229
+00:08:43,334 --> 00:08:45,544
+if like they were saying
+
+230
+00:08:45,544 --> 00:08:47,777
+earlier if you wanted some extra money,
+
+231
+00:08:47,777 --> 00:08:48,855
+you would...
+
+232
+00:08:49,023 --> 00:08:50,313
+You should...
+
+233
+00:08:50,683 --> 00:08:52,694
+You should do 11
+
+234
+00:08:52,694 --> 00:08:56,617
+for a day because if
+you do you'll get 132,
+
+235
+00:08:56,617 --> 00:08:59,010
+and then you'll have extra money.
+
+236
+00:08:59,010 --> 00:08:59,762
+- Okay.
+
+237
+00:08:59,762 --> 00:09:03,265
+[Background Chatter]
+
+238
+00:09:04,150 --> 00:09:06,653
+- But that's the problem [inaudible].
+
+239
+00:09:07,888 --> 00:09:09,443
+- What do you mean when you
+say it's not asking?
+
+240
+00:09:09,443 --> 00:09:12,254
+- Well, it's not asking
+for extra money,
+
+241
+00:09:12,254 --> 00:09:15,360
+or anything, it's just asking how many...
+
+242
+00:09:15,621 --> 00:09:17,059
+How much money you need per day.
+
+243
+00:09:17,059 --> 00:09:19,423
+[Background Chatter]
+
+244
+00:09:20,356 --> 00:09:22,260
+- Anthony, I noticed you've
+got some stuff
+
+245
+00:09:22,260 --> 00:09:22,980
+written down.
+
+246
+00:09:22,980 --> 00:09:24,855
+What do you think about...
+
+247
+00:09:24,931 --> 00:09:26,509
+I wanna go back to what Nayanna said.
+
+248
+00:09:26,509 --> 00:09:29,063
+She says she's gonna
+change the equation here,
+
+249
+00:09:29,063 --> 00:09:31,107
+and she put 240 up there, why?
+
+250
+00:09:31,107 --> 00:09:33,732
+Why did she do that, and
+do you agree with that?
+
+251
+00:09:33,732 --> 00:09:36,331
+- Yeah, 'cause then you
+would have a little
+
+252
+00:09:36,331 --> 00:09:37,655
+extra money left.
+
+253
+00:09:37,655 --> 00:09:38,514
+- A little bit.
+
+254
+00:09:38,514 --> 00:09:39,332
+- You would have a little bit
+
+255
+00:09:39,332 --> 00:09:40,179
+of extra money left.
+
+256
+00:09:40,179 --> 00:09:40,587
+- Okay.
+
+257
+00:09:40,587 --> 00:09:44,770
+- [inaudible] like
+the Bluetooth in the case,
+
+258
+00:09:45,410 --> 00:09:45,889
+maybe?
+
+259
+00:09:45,889 --> 00:09:46,548
+- Okay.
+
+260
+00:09:46,548 --> 00:09:48,883
+- Isn't this another problem?
+
+261
+00:09:48,883 --> 00:09:52,174
+Another problem [inaudible]
+
+262
+00:09:52,174 --> 00:09:54,148
+not a part of this one yet?
+
+263
+00:09:54,148 --> 00:09:55,865
+- Yeah, 'cause they're
+not asking how
+
+264
+00:09:55,865 --> 00:09:57,119
+much extra money do you need.
+
+265
+00:09:57,119 --> 00:09:59,348
+This problem, this question's
+not asking how much
+
+266
+00:09:59,348 --> 00:10:01,414
+extra do you need for
+a Bluetooth, also.
+
+267
+00:10:01,414 --> 00:10:01,926
+- Okay.
+
+268
+00:10:01,926 --> 00:10:03,063
+- How much are the phone and Bluetooth,
+
+269
+00:10:03,063 --> 00:10:04,386
+it's just asking for the phone.
+
+270
+00:10:04,386 --> 00:10:04,945
+- Okay.
+
+271
+00:10:04,945 --> 00:10:06,772
+[Background Chatter]
+
+272
+00:10:07,847 --> 00:10:10,557
+- I think because...
+
+273
+00:10:11,236 --> 00:10:14,482
+The question wasn't asking to
+
+274
+00:10:14,974 --> 00:10:16,623
+bring extra money into it.
+
+275
+00:10:17,783 --> 00:10:20,454
+We just brought the
+extra money to round the,
+
+276
+00:10:20,454 --> 00:10:23,852
+make the equation easier
+and round the
+
+277
+00:10:23,952 --> 00:10:25,972
+199.99 to 200,
+
+278
+00:10:25,972 --> 00:10:27,991
+and extra money is okay,
+
+279
+00:10:27,991 --> 00:10:30,545
+but we shouldn't change the equation.
+
+280
+00:10:30,545 --> 00:10:32,915
+'Cause it's not asking you to.
+
+281
+00:10:32,915 --> 00:10:33,843
+- Okay.
+
+282
+00:10:33,843 --> 00:10:36,165
+- This question isn't saying
+anything about
+
+283
+00:10:36,165 --> 00:10:37,930
+case or a Bluetooth yet,
+
+284
+00:10:37,930 --> 00:10:39,252
+it's a yes question.
+
+285
+00:10:39,252 --> 00:10:40,762
+And this question talks about Bluetooth.
+
+286
+00:10:40,762 --> 00:10:42,945
+- Okay, so what
+I kinda like is you guys
+
+287
+00:10:42,945 --> 00:10:44,640
+were doin' this problem,
+
+288
+00:10:44,640 --> 00:10:46,473
+and a couple of ya jumped
+ahead to this problem,
+
+289
+00:10:46,473 --> 00:10:48,146
+which is no problem at all.
+
+290
+00:10:49,106 --> 00:10:51,737
+Let's jump ahead just for a
+minute and assume that I did
+
+291
+00:10:51,737 --> 00:10:53,167
+want to get the Bluetooth.
+
+292
+00:10:53,167 --> 00:10:55,350
+Would this be the equation to represent?
+
+293
+00:10:55,350 --> 00:10:56,581
+And before I answer this question,
+
+294
+00:10:56,581 --> 00:10:57,672
+what I would like to do,
+
+295
+00:10:57,672 --> 00:11:00,272
+I'm gonna call on Olivia, and
+then I'm gonna have everybody
+
+296
+00:11:00,272 --> 00:11:02,664
+switch so the pilots go
+back to the co-pilots,
+
+297
+00:11:02,664 --> 00:11:04,126
+and the pilots come up, but not yet.
+
+298
+00:11:04,126 --> 00:11:05,387
+Let's hear what Olivia has to say.
+
+299
+00:11:05,387 --> 00:11:09,009
+- Would it be [inaudible] equals 12 X,
+
+300
+00:11:09,009 --> 00:11:11,191
+if you wanted to get it before Christmas?
+
+301
+00:11:11,191 --> 00:11:12,631
+Or would it be after?
+
+302
+00:11:12,631 --> 00:11:14,187
+- One more time,
+I could barely hear ya.
+
+303
+00:11:14,187 --> 00:11:16,067
+- Would we still get
+that before Christmas,
+
+304
+00:11:16,067 --> 00:11:17,484
+or would it be after?
+
+305
+00:11:17,484 --> 00:11:18,831
+- Before, before.
+
+306
+00:11:18,831 --> 00:11:20,386
+- So would it be 12?
+
+307
+00:11:20,386 --> 00:11:21,686
+- Comments on that?
+
+308
+00:11:21,686 --> 00:11:23,358
+- I agree with that.
+
+309
+00:11:23,358 --> 00:11:25,117
+[Background Chatter]
+
+310
+00:11:25,117 --> 00:11:26,679
+- Thumbs up if you think 12,
+
+311
+00:11:26,679 --> 00:11:29,158
+thumbs down if you think no,
+we don't need 12 on this one.
+
+312
+00:11:30,283 --> 00:11:31,422
+Okay, Adrian, you have something?
+
+313
+00:11:31,422 --> 00:11:33,377
+- We need to know how much money
+
+314
+00:11:33,377 --> 00:11:35,049
+you earned each day.
+
+315
+00:11:35,049 --> 00:11:36,721
+- Well that's...
+
+316
+00:11:36,721 --> 00:11:39,750
+What do you guys think
+about that question?
+
+317
+00:11:39,750 --> 00:11:41,549
+- Well that's what we're
+finding out right now.
+
+318
+00:11:43,029 --> 00:11:44,307
+- I know, but how much you earn.
+
+319
+00:11:44,307 --> 00:11:45,747
+That's how much he has to save.
+
+320
+00:11:45,747 --> 00:11:47,580
+- Pilots, switch with
+
+321
+00:11:47,580 --> 00:11:49,479
+somebody in the back.
+
+322
+00:11:49,926 --> 00:11:53,473
+[Background Chatter]
+
+323
+00:12:14,909 --> 00:12:16,158
+All right, here we go.
+
+324
+00:12:17,789 --> 00:12:20,198
+So now, I have a question for you.
+
+325
+00:12:21,225 --> 00:12:23,800
+Can everybody turn around
+for just a minute please?
+
+326
+00:12:23,800 --> 00:12:24,412
+Thank you.
+
+327
+00:12:24,412 --> 00:12:25,526
+Question for you.
+
+328
+00:12:25,526 --> 00:12:28,708
+If I wanted to graph
+our first solution
+
+329
+00:12:30,388 --> 00:12:31,796
+on a number line,
+
+330
+00:12:31,796 --> 00:12:33,792
+what might that graph look like?
+
+331
+00:12:33,792 --> 00:12:35,533
+So will you guys agree that okay,
+
+332
+00:12:35,533 --> 00:12:37,206
+we need to earn a minimum amount.
+
+333
+00:12:37,206 --> 00:12:39,040
+And at least 10 dollars a day,
+
+334
+00:12:39,040 --> 00:12:40,573
+but if I wanted to graph that,
+
+335
+00:12:40,573 --> 00:12:42,963
+put that on a number line
+represent that graphically,
+
+336
+00:12:42,963 --> 00:12:45,263
+what would that look like?
+
+337
+00:12:47,553 --> 00:12:49,692
+- It would be like a...
+
+338
+00:12:50,069 --> 00:12:51,828
+It would be [inaudible].
+
+339
+00:12:52,693 --> 00:12:55,288
+But the circle...
+
+340
+00:12:55,827 --> 00:12:57,678
+[inaudible]
+
+341
+00:12:58,428 --> 00:12:59,821
+- What kind of circle?
+
+342
+00:12:59,821 --> 00:13:00,378
+I didn't hear you.
+
+343
+00:13:00,378 --> 00:13:01,405
+- Shaded.
+
+344
+00:13:02,115 --> 00:13:03,798
+- So you want to put this up here?
+
+345
+00:13:03,798 --> 00:13:04,540
+- Yeah.
+
+346
+00:13:04,540 --> 00:13:06,509
+[inaudible]
+
+347
+00:13:07,094 --> 00:13:09,161
+- Amarra, I'd like to hear
+your opinion on that.
+
+348
+00:13:11,941 --> 00:13:15,157
+- I don't, I never understood
+the shaded thing.
+
+349
+00:13:15,157 --> 00:13:16,759
+I don't know why it's shaded.
+
+350
+00:13:16,759 --> 00:13:19,684
+- It's shaded because it's not,
+
+351
+00:13:19,684 --> 00:13:23,352
+I think if it's not shaded
+it means greater than,
+
+352
+00:13:23,352 --> 00:13:26,186
+I mean greater or less than.
+
+353
+00:13:26,186 --> 00:13:29,993
+But when it's shaded I think [inaudible].
+
+354
+00:13:29,993 --> 00:13:32,455
+It means equal to or less than or...
+
+355
+00:13:32,455 --> 00:13:34,144
+With.
+
+356
+00:13:35,055 --> 00:13:36,797
+- Okay, Tara, do you wanna
+contribute to that
+
+357
+00:13:36,797 --> 00:13:39,956
+[inaudible]
+
+358
+00:13:42,136 --> 00:13:45,248
+- Well, whenever it says greater than,
+
+359
+00:13:45,248 --> 00:13:46,757
+or equal to,
+
+360
+00:13:46,757 --> 00:13:49,589
+the dotted means it could
+be 10 because it could
+
+361
+00:13:49,589 --> 00:13:52,097
+be equal to, or greater than,
+
+362
+00:13:52,097 --> 00:13:53,885
+which is over 10.
+
+363
+00:13:53,885 --> 00:13:55,720
+But greater than or less than
+
+364
+00:13:55,720 --> 00:13:59,598
+can't be that number so
+it has to be open circle.
+
+365
+00:14:01,258 --> 00:14:02,872
+And than greater than or equal to.
+
+366
+00:14:02,872 --> 00:14:05,030
+- Anybody have an example of a problem
+
+367
+00:14:05,030 --> 00:14:07,584
+or words that we would
+use to put an open circle,
+
+368
+00:14:07,584 --> 00:14:08,607
+unshaded circle?
+
+369
+00:14:08,607 --> 00:14:10,580
+In real life, what might we say
+
+370
+00:14:10,580 --> 00:14:14,035
+for something to represent
+an unshaded circle?
+
+371
+00:14:14,249 --> 00:14:15,496
+- Go ahead, Al.
+
+372
+00:14:15,595 --> 00:14:18,335
+- Fewer than 14 students
+have mechanical pencils.
+
+373
+00:14:18,335 --> 00:14:19,589
+- A little louder.
+
+374
+00:14:19,589 --> 00:14:22,817
+- I got fewer than 14 students
+have mechanical pencils.
+
+375
+00:14:22,817 --> 00:14:24,998
+- So in that problem,
+
+376
+00:14:24,998 --> 00:14:27,785
+could 14 students have
+mechanical pencils,
+
+377
+00:14:27,785 --> 00:14:29,480
+if you have fewer than 14?
+
+378
+00:14:29,480 --> 00:14:30,687
+- No.
+
+379
+00:14:30,687 --> 00:14:31,918
+- So that would be unshaded.
+
+380
+00:14:31,918 --> 00:14:33,845
+'Cause 14 doesn't count.
+
+381
+00:14:34,865 --> 00:14:37,766
+So in this question, Amarra,
+the least number of money
+
+382
+00:14:37,766 --> 00:14:39,654
+I should save per day is how much?
+
+383
+00:14:40,604 --> 00:14:43,361
+- I think 10 is
+
+384
+00:14:43,791 --> 00:14:45,073
+a good answer.
+
+385
+00:14:45,073 --> 00:14:49,084
+because it does go into the number.
+
+386
+00:14:49,972 --> 00:14:51,807
+- And so would be shaded or unshaded?
+
+387
+00:14:51,807 --> 00:14:52,457
+- Shaded.
+
+388
+00:14:52,457 --> 00:14:55,197
+- Oh, is that the only
+number amount of money
+
+389
+00:14:55,197 --> 00:14:56,520
+I should save each day?
+
+390
+00:14:56,520 --> 00:14:57,147
+Is that it?
+
+391
+00:14:57,147 --> 00:14:59,005
+Are their other possibilities out?
+
+392
+00:14:59,005 --> 00:15:00,240
+- Yeah, you could do--
+

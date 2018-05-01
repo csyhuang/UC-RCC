@@ -1,0 +1,163 @@
+Oh, water, or more?
+[Voiceover] I guess.
+[Voiceover] And what gets thrown into the pond?
+[Voiceover] The pebble.
+[Voiceover] Is there a pebble? Oh, that's so cute, okay. So, wait, what order these, do these rings show up?
+What order?
+Yeah, like, what's the procedure when this was like, like this, and then this one, or then this one?
+They start small, and bigger, and bigger.
+So, drop your pebble in the pond, there you go.
+And it gets bigger as it goes up.
+[Voiceover] Okay, and so now, maybe talk through... (bell ringing) Maybe talk through what is the given, what's the constant rate of change, where you're looking for it, and how would that be seen, visually?
+So, the rate is increasing constantly at one foot per second.
+Per second. The ADT is two pi R, BR, the first.
+[Voiceover] Which one are you guys on? Number one, okay, good.
+In order for you to find for QR, may define the ADT. We need to find the ADT of different orbs.
+[Voiceover] What?
+[Voiceover] The ADT concentrating with them.
+[Voiceover] So, it's like, four for DR.
+Okay, so.
+What did you do with your sand? Show me what happened here.
+[Voiceover] Okay, air is gonna come into the clear hole, and then right into...
+You picked the sand problem, tell me about your sand problem.
+It's talking about sand quality to a, how to apply it at a rate to be permanent.
+Okay.
+And out of the following, the diameter of the base in it. Is...
+[Voiceover] It's going to make the shape of a cone when you pour it in one spot, that's the idea.
+[Voiceover] And the shape of the cone will be approximately three times however high the sand is being poured from.
+Okay, so, our cone has been smooshed, but you see how it's still kinda narrow, a little mountain in sort of the shape of a cone?
+Right.
+And what's the unknown, what are we looking for here?
+We're trying to find the rate of the height of the pile.
+[Voiceover] Oh, you can do it.
+We said that's possible.
+Okay, so, Kathy, you're able, would that be DVDT, DHDT, DRDT, all these DTs, we can kinda run together?
+[Voiceover] Just blow it up?
+Can we do AHDT?
+Sure, AHDT because you're looking for a rate of change for the height. Now, you're actually on the hardest problem. This is the trickiest problem, and you have correctly chosen the cards for these. But, here's what makes it tricky. I want you to read through this slowly, and let's figure out the unknown, and if they give us, what other rates they give us. Now, you actually just told me what the unknown is, right?
+DHDT?
+DHDT. Okay, what other variables do we have on this card besides DHDT and the rate of change?
+AR, ARDT.
+ARDT, and DVDT. Okay, now, you read it again while y'all are listening and see if you can pick out, maybe do DVDT or DRDT.
+What was that?
+For both.
+At a sand and gravel plant, sand is falling off the conveyor and onto a conical pile at a rate of
+Plus? What information did you just get? You can say it again if you need to.
+Sand is falling off a conveyor and onto the conical pile at a rate of 10 cubic feet per minute.
+Okay. Good, that's DVDT 'cause it's the amount the volume changes, and the label kinda gets screwy, too, right? Okay, so now, we're listening for DRDT. We hope we hear DRDT because we need that also, right?
+The diameter of the base of the cone is approximately three times the altitude. So... (mumbling)
+Okay, so it's giving us information about radius compared to altitude, but it doesn't seem to be giving us DRDT, right? Which means we don't have DRDT.
+[Voiceover] And the radius is two feet.
+And the radius is two feet.
+[Voiceover] So, what's the height again?
+It's the height of DT. So, we need to find how fast the radius is changing...
+So, this right here is the decision.
+Nice. The DVDT equals four pi R squared to the DRDT.
+[Voiceover] So, this is the hardest when you get to the math.
+[Voiceover] What we need to find is DRDT when the radius equals two feet.
+[Voiceover] Okay.
+[Voiceover] All right.
+[Voiceover] Okay. I guess the next one we can figure out right now...
+How many cubes we got?
+Three.
+Three, okay. All the edges of the cube are expanding at a rate of three centimeters per second. How fast is the volume changing if each edge is one centimeter?
+[Voiceover] We have you doing the edges of a cube, the radius of an aired balloon. (mixed chatter)
+So, the radius, one...
+370
+370?
+370.
+So, D, DS over DT is three?
+Right.
+Plug that, we can just plug that in 'cause it's not a constant.
+Tell me a little bit about the problem you're on. Does it have three cubes in your problem? Like, why does it have three cubes in the box?
+We started with that, this other one.
+[Voiceover] Okay.
+And it shows after a second, it would be that big. And then after another second, it would be that big.
+Oh, good, okay, so, it's showing that it's the same cube, and it's getting bigger. It's like three stages in an environment. Very good, very good. Correct interpretation. Yes.
+And... It also shows the volume of the... (mumbling)
+Now, what does this question ask you for at the very end? What are you gonna be trying to find?
+How fast the volume changes when it enters from...
+Yes. I have a question for you, here's a think about it question. Cause you're finding DVDT when it is exactly one centimeter, right, that's what the question's asking? Do you think DVDT would be greater or smaller when it's past one centimeter? Do you think the rate of change of volume will be getting bigger faster, or will it slow down?
+Slow down.
+Slow down.
+Slow down.
+My challenge to you is after you do the math problem and you have your equation to work with, try two centimeters and see if you were right. Yeah, so, go above and beyond the question. Was your conjecture right, or were you like, oh, no, we were backwards? Kay?
+Okay.
+[Voiceover] The base is gonna be point oh eight with the ball, at a descending rate. And it is asking how fast the pouch is moving to the wall in the last part.
+[Voiceover] Oh, you look great.
+[Voiceover] D two? So, okay, let's pour the sand again. So, what, five? So, it's pouring at 10 cubic feet per minute.
+[Voiceover] Talking about the change in output. (mumbling)
+So, what's constant?
+Its cubic feet per minute.
+So, that's the...
+The sand being poured in it.
+So, that's the volume? I don't know. Okay. We have choices as to who can't...
+I have four. And zero to bring it down. Yeah, I'm just gonna bring it down.
+[Voiceover] Problem number what? Problem one?
+[Voiceover] Okay, next problem. Are we agreed?
+A ladder 25 feet long is leaning against the wall of a house. The base of the ladder is pulled away from the wall at a rate of two feet per second. How fast is the top moving down the wall when the base of the ladder is 24 feet from the wall?
+So, then...
+[Voiceover] You definitely got the demonstration item perfect, that's right, that's exactly what's happening.
+All right. Okay. You guys are gonna get this one. It's what's supposed to be a... Length.
+[Voiceover] And what made you pick that one?
+[Voiceover] It's the Pythagorean theorem.
+[Voiceover] And then why would you wanna use the Pythagorean theorem?
+[Voiceover] Because it's a three sided, it's equal to the right triangle.
+[Voiceover] Yeah, exactly, uh huh.
+[Voiceover] All right. (mumbling)
+Okay, now I've got a question for ya. Is there any part of that equation that will always give confirmation we want to, that you would actually be able to substitute a number in at the very beginning? Okay, good, good.
+All right.
+What would that mean about your derivative card? What would you know for sure? If you put 25 right there.
+[Voiceover] Get a constant rate of one foot per second.
+Anything special for this derivative card?
+DZ over DT equals...
+[Voiceover] Well, if the original, if your ladder is 25 right here, where would the 25 originally be put?
+[Voiceover] In the Z.
+[Voiceover] In the Z, okay. I that would say that X squared plus Y squared equals 25. Now, take the derivative of this with respect to time. Would it look exactly like this or a little bit different?
+[Voiceover] One, we're at a constant rate.
+Right. And so, when you do your math, you can go ahead and put that as zero, and then just work with those. Good. That's good.
+[Voiceover] So...
+[Voiceover] What's the...
+The balloon's increasing.
+Yeah.
+[Voiceover] Following the radius.
+It's the, what's the radius, it's four feet. The radius, yeah, you have to find what the radius is at four feet, and...
+[Voiceover] Find the radius when it's at four feet.
+[Voiceover] Which one are you on? P two?
+When the radius is four feet, at what rate is the total area of the disturbed water treatment area? So, you would define the area.
+[Voiceover] Wait, which, are you on... Okay, so you have three balloons.
+[Voiceover] Right.
+[Voiceover] And you could use those three balloons if they are different sizes to show what?
+[Voiceover] Okay.
+[Voiceover] Okay.
+[Voiceover] The rate of change. So, if you have one balloon and put one back into it, and then that's when you have...
+Okay, let's see what they look like. So, let's see if we can have different stages of our balloon here. You look like you must be at the last stage 'cause that looks pretty big. Okay, that must be the beginning. That looks like the beginning, too. (laughing) Can one of 'em get middle stage? I think you've got the baby balloon, though, I think that's the biggest that guy's getting.
+I didn't know they were different sizes.
+Yeah, they are actually different sizes. One more. Do it! And you let some out, maybe you got it. Oh, perfect, okay. Tell me about what's going on with this balloon. What's goin' on?
+Oh, increase...
+Four cubic feet, and they...
+[Voiceover] Oh, what are they?
+I think I'm thinking of the wrong one. Like, it's not... (mumbling) Like, it's not measuring each breath, it's something...
+No, you are thinking right. This is, is this like what we had?
+Two days ago?
+Yeah, a couple days ago. Like, is, what was constant a couple days ago in our activity?
+Air is being continuous air pulled away by the rate of...
+Yes. So, like, the volume, the rate of change of volume is constant. Is that true on this or is that a different problem? Okay, and so, what is the unknown that you are trying to figure out?
+The change of the radius. How the radius is...
+And what do you predict will happen with the rate of change of radius with the larger the radius gets?
+It'll stretch out.
+That, I'm sorry?
+It'll slow down.
+Yeah, I think that's a good conjecture. That would be like what happened the other day when we looked at it, slowed down quite a bit the bigger the radius got. Sounds good. And it is because it was what?
+[Voiceover] The volume...
+[Voiceover] 'Cause the volume...
+[Voiceover] Yeah. (mixed chatter)
+F four for that, that'll go on the left. F four and D six.
+[Voiceover] Have you gotten to the balloon part yet? Let's talk about the other one, okay? One. Okay, the other balloon problem was about surface area? Is that right? Have you done this one yet?
+Yes.
+Okay, how many, blow up the balloon and let's see what's happening in that balloon. Kevin, what was happening on this balloon?
+[Voiceover] It's the rate of the...
+[Voiceover] The puddle?
+B, a formula problem.
+Okay, so, how is Jesse gonna show us the surface area of DVDT? Okay, so let's demo that. Causing ripples. Thank you, nice demonstration. (laughing) What is constant on this problem?
+[Voiceover] The area and then... Yeah, the radius?

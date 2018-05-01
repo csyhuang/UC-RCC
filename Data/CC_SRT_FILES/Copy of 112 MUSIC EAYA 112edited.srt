@@ -1,0 +1,816 @@
+1
+00:00:00,000 --> 00:00:09,886
+(papers rustling)
+
+2
+00:00:09,886 --> 00:00:13,748
+- [Teacher] who's done writing?
+
+3
+00:00:13,748 --> 00:00:25,616
+Okay. Alright.
+
+4
+00:00:25,616 --> 00:00:29,029
+Ok, couple of goals for this piece today.
+
+5
+00:00:29,029 --> 00:00:30,039
+Here's where we're at here.
+
+6
+00:00:30,039 --> 00:00:33,162
+One, clearly get the
+notes and rhythms down,
+
+7
+00:00:33,162 --> 00:00:36,248
+because this Comstock piece, ok,
+
+8
+00:00:36,248 --> 00:00:38,920
+and so is the second Middleston
+piece, three, the primo.
+
+9
+00:00:38,920 --> 00:00:41,358
+So we'll do both those today,
+wanna get the notes learned,
+
+10
+00:00:41,358 --> 00:00:42,775
+the notes and rhythms learned,
+
+11
+00:00:42,775 --> 00:00:45,840
+but I also want to treat
+this piece today as though
+
+12
+00:00:45,840 --> 00:00:47,599
+it were a sight reading piece,
+
+13
+00:00:47,599 --> 00:00:50,489
+just like if we were getting
+ready for contest in March,
+
+14
+00:00:50,489 --> 00:00:55,622
+do one of those little example
+pieces for sight singing.
+
+15
+00:00:55,622 --> 00:01:00,852
+So we'll treat this in
+the same manner as that.
+
+16
+00:01:00,852 --> 00:01:06,063
+Then I wanted to also, as
+we're reading the piece,
+
+17
+00:01:06,063 --> 00:01:09,232
+take a look at how the
+structure of the piece
+
+18
+00:01:09,232 --> 00:01:13,308
+can inform how we might
+go about learning it.
+
+19
+00:01:13,308 --> 00:01:15,142
+You'll see some things here in a minute.
+
+20
+00:01:15,142 --> 00:01:20,599
+Alright, so, if we take
+a look at the piece
+
+21
+00:01:20,599 --> 00:01:22,410
+and we've already written solfège in.
+
+22
+00:01:22,410 --> 00:01:23,562
+We take a look at the piece,
+
+23
+00:01:23,562 --> 00:01:25,382
+what markings on the score can you see
+
+24
+00:01:25,382 --> 00:01:31,040
+that might jump out at you
+that might be different?
+
+25
+00:01:31,040 --> 00:01:32,115
+[inaudible]
+
+26
+00:01:32,115 --> 00:01:33,781
+Repeats, okay, even before that,
+
+27
+00:01:33,781 --> 00:01:34,878
+like right up by the title.
+
+28
+00:01:34,878 --> 00:01:35,691
+- [Student] Canon.
+
+29
+00:01:35,691 --> 00:01:36,805
+- [Teacher] Canon, what's that mean?
+
+30
+00:01:36,805 --> 00:01:39,034
+(students talking over each other)
+
+31
+00:01:39,034 --> 00:01:40,335
+The canon, okay, what's a canon?
+
+32
+00:01:40,335 --> 00:01:41,428
+- [Female Student] It's a round.
+
+33
+00:01:41,428 --> 00:01:42,545
+- [Teacher] It's a round, right,
+
+34
+00:01:42,545 --> 00:01:43,623
+so you have one set of music,
+
+35
+00:01:43,623 --> 00:01:46,947
+and then the same set of
+music follows it later, right?
+
+36
+00:01:46,947 --> 00:01:48,980
+We do that in warm ups, okay.
+
+37
+00:01:48,980 --> 00:01:51,268
+Alright, so a canon.
+
+38
+00:01:51,268 --> 00:01:53,792
+So you think soprano
+and alto are in canon?
+
+39
+00:01:53,792 --> 00:01:56,745
+- [Male Student] It'd
+probably be women and men.
+
+40
+00:01:56,745 --> 00:02:00,758
+- [Teacher] Probably women and
+men, good, good observation.
+
+41
+00:02:00,758 --> 00:02:03,638
+So we look at the structure,
+
+42
+00:02:03,638 --> 00:02:07,524
+where might that canon begin?
+
+43
+00:02:07,524 --> 00:02:09,420
+(students speaking)
+
+44
+00:02:09,420 --> 00:02:11,146
+After a P at the bottom of the page, okay.
+
+45
+00:02:11,146 --> 00:02:15,395
+So pick up to measure 11, alright.
+
+46
+00:02:15,395 --> 00:02:19,313
+Okay, so what kind of material
+do the guys have there?
+
+47
+00:02:19,313 --> 00:02:21,502
+- [Male Student] It says we
+mix with the women's structure.
+
+48
+00:02:21,502 --> 00:02:25,305
+- [Teacher] Exactly, that same
+material that the girls do.
+
+49
+00:02:25,305 --> 00:02:28,311
+So in our rehearsal,
+
+50
+00:02:28,311 --> 00:02:31,261
+noting that this is a canon,
+
+51
+00:02:31,261 --> 00:02:32,677
+at least to that point,
+
+52
+00:02:32,677 --> 00:02:35,108
+how might we rehearse this or set it up
+
+53
+00:02:35,108 --> 00:02:38,289
+so we can have success right away?
+
+54
+00:02:38,289 --> 00:02:40,176
+- [Female Student] Girls and
+guys sing their parts together.
+
+55
+00:02:40,176 --> 00:02:41,778
+- [Teacher] Girls and guys
+sing their parts together,
+
+56
+00:02:41,778 --> 00:02:46,030
+good, easy.
+
+57
+00:02:46,030 --> 00:02:48,685
+So if we do that, then
+what might something else
+
+58
+00:02:48,685 --> 00:02:53,970
+be helpful for us to do?
+
+59
+00:02:53,970 --> 00:02:58,127
+We're singing parts together...
+
+60
+00:02:58,127 --> 00:03:01,283
+maybe pair up?
+
+61
+00:03:01,283 --> 00:03:03,293
+Typically we get together and we chant,
+
+62
+00:03:03,293 --> 00:03:04,628
+so let's do that first.
+
+63
+00:03:04,628 --> 00:03:06,553
+Let's do the chanting just
+like we do for sight singing,
+
+64
+00:03:06,553 --> 00:03:07,884
+so you can practice that.
+
+65
+00:03:07,884 --> 00:03:11,251
+Okay, so what are our pairs gonna be?
+
+66
+00:03:11,251 --> 00:03:14,919
+Soprano and tenor, so you have to move,
+
+67
+00:03:14,919 --> 00:03:18,320
+and bass and alto.
+
+68
+00:03:18,320 --> 00:03:22,146
+So starting at solfège, girls
+you start at the beginning,
+
+69
+00:03:22,146 --> 00:03:24,392
+guys you simply start at measure...
+
+70
+00:03:24,392 --> 00:03:30,257
+pick up at measure 11,
+okay? Go on and move.
+
+71
+00:03:30,257 --> 00:03:34,959
+Yes, circle up right here.
+
+72
+00:03:34,959 --> 00:03:37,161
+Alright, who's gonna be our leader?
+
+73
+00:03:37,161 --> 00:03:42,776
+(chairs moving, students talking)
+
+74
+00:03:42,776 --> 00:03:44,004
+Who wants to start us off?
+
+75
+00:03:44,004 --> 00:03:45,217
+- [Female Student] Alena?
+
+76
+00:03:45,217 --> 00:03:47,521
+- [Teacher] Alena? Okay,
+you can start us off.
+
+77
+00:03:47,521 --> 00:03:50,545
+(students talking)
+
+78
+00:03:50,545 --> 00:03:54,091
+Who's going to start the...
+you. Okay, there you go.
+
+79
+00:03:54,091 --> 00:03:56,403
+Okay, good, go for it. Chant it, quickly.
+
+80
+00:03:56,403 --> 00:03:57,918
+- [Female Student] Let's
+start at the beginning,
+
+81
+00:03:57,918 --> 00:04:00,548
+we are on the pick up to 4.
+
+82
+00:04:00,548 --> 00:04:03,699
+So 1, 2, 3, and 4.
+
+83
+00:04:03,699 --> 00:04:09,022
+♫ So so mi fa so do re mi ♫
+
+84
+00:04:09,022 --> 00:04:40,607
+(students singing in a round)
+
+85
+00:04:40,607 --> 00:04:42,271
+- [Teacher] Okay so now
+we got to the end of that,
+
+86
+00:04:42,271 --> 00:04:44,467
+go to measure 11 for the girls,
+
+87
+00:04:44,467 --> 00:04:49,330
+and measure 21 for the guys.
+
+88
+00:04:49,330 --> 00:04:53,383
+Go right there and start it again.
+
+89
+00:04:53,383 --> 00:04:55,529
+So now girls you go measure 11,
+
+90
+00:04:55,529 --> 00:04:56,783
+which is right where you finished,
+
+91
+00:04:56,783 --> 00:04:58,228
+and guys go to 21.
+
+92
+00:04:58,228 --> 00:05:02,109
+Same thing here that's
+a little bit different.
+
+93
+00:05:02,109 --> 00:05:06,714
+(students talking)
+
+94
+00:05:06,714 --> 00:05:08,928
+- [Female Student] Alright, 1 and 2.
+
+95
+00:05:08,928 --> 00:05:57,410
+(students singing)
+
+96
+00:05:57,410 --> 00:06:04,816
+(students and teacher talking
+while others are singing)
+
+97
+00:06:04,816 --> 00:06:06,939
+- [Teacher] Let's all
+chant together in rhythm.
+
+98
+00:06:06,939 --> 00:06:08,090
+Stay in your groups.
+
+99
+00:06:08,090 --> 00:06:10,074
+Stay in your groups please,
+
+100
+00:06:10,074 --> 00:06:12,299
+but we're gonna start with
+the sopranos and altos,
+
+101
+00:06:12,299 --> 00:06:13,524
+and then we'll pick up with the guys
+
+102
+00:06:13,524 --> 00:06:14,729
+at the bottom of the page.
+
+103
+00:06:14,729 --> 00:06:15,967
+So start at the beginning everybody.
+
+104
+00:06:15,967 --> 00:06:18,730
+1, 2, and ready, and go.
+
+105
+00:06:18,730 --> 00:06:21,832
+(students singing, teacher
+snapping to rhythm)
+
+106
+00:06:49,832 --> 00:06:51,865
+Stop, okay, now guys
+you're gonna pick up there,
+
+107
+00:06:51,865 --> 00:06:53,903
+and girls, you're gonna
+come in 2 beats later.
+
+108
+00:06:53,903 --> 00:06:56,548
+Here we go, ready and go.
+
+109
+00:06:56,548 --> 00:08:03,137
+(students singing)
+
+110
+00:08:03,137 --> 00:08:04,946
+Okay, go right on the coda please.
+
+111
+00:08:04,946 --> 00:08:06,262
+So we would've done the repeat,
+
+112
+00:08:06,262 --> 00:08:07,609
+now we go back here.
+
+113
+00:08:07,609 --> 00:08:09,025
+Go right on the coda please,
+
+114
+00:08:09,025 --> 00:08:11,414
+right after the double bar, ready, and go.
+
+115
+00:08:11,414 --> 00:08:19,168
+(students singing)
+
+116
+00:08:19,168 --> 00:08:23,096
+3, 4, fermata... cut off please.
+
+117
+00:08:23,096 --> 00:08:24,455
+Sopranos, ready, and go.
+
+118
+00:08:24,455 --> 00:08:30,602
+(students singing)
+
+119
+00:08:30,602 --> 00:08:31,934
+Bass.
+
+120
+00:08:31,934 --> 00:08:37,261
+(students singing)
+
+121
+00:08:37,261 --> 00:08:39,183
+Okay, pretty good,
+we'll come back to that.
+
+122
+00:08:39,183 --> 00:08:41,831
+That takes a little bit of
+fordating when you get together.
+
+123
+00:08:41,831 --> 00:08:44,197
+Okay, go back to sections,
+
+124
+00:08:44,197 --> 00:08:46,826
+let's do right in the... not
+your traditional sections.
+
+125
+00:08:46,826 --> 00:08:49,635
+Let's keep the basses over
+here, altos over here,
+
+126
+00:08:49,635 --> 00:08:51,400
+tenors and sopranos over here.
+
+127
+00:08:51,400 --> 00:08:58,508
+So do two rows, back in your sections.
+
+128
+00:08:58,508 --> 00:09:00,594
+Okay, so we're gonna do
+just like we chanted,
+
+129
+00:09:00,594 --> 00:09:01,680
+we're gonna partner up,
+
+130
+00:09:01,680 --> 00:09:04,570
+and we're gonna sing it at the same time.
+
+131
+00:09:04,570 --> 00:09:08,261
+Okay, at the same time.
+
+132
+00:09:08,261 --> 00:09:10,026
+So guys, you're starting in measure 11.
+
+133
+00:09:10,026 --> 00:09:15,886
+Girls, you're starting
+in measure pick up to 1.
+
+134
+00:09:15,886 --> 00:09:17,402
+Ready, and
+
+135
+00:09:17,402 --> 00:09:24,617
+(students singing)
+
+136
+00:09:24,617 --> 00:09:25,888
+♫ Do do do do do ♫
+
+137
+00:09:25,888 --> 00:09:29,719
+Sing that first note please
+sopranos and altos, and
+
+138
+00:09:29,719 --> 00:09:33,167
+(students sing single note)
+
+139
+00:09:33,167 --> 00:09:34,935
+okay, tenors and
+
+140
+00:09:34,935 --> 00:09:36,482
+(students sing single note)
+
+141
+00:09:36,482 --> 00:09:40,093
+Basses, okay let's sing
+all at the same time
+
+142
+00:09:40,093 --> 00:09:43,462
+right where your canon,
+first name of the canon is.
+
+143
+00:09:43,462 --> 00:09:48,175
+Here we go, 1, 2, and ready, and sing.
+
+144
+00:09:48,175 --> 00:10:27,012
+(students singing)
+
+145
+00:10:27,012 --> 00:10:29,884
+Okay sopranos, sorry, altos and basses,
+
+146
+00:10:29,884 --> 00:10:30,854
+here we go,
+
+147
+00:10:30,854 --> 00:10:33,774
+♫ Doo doo that's a mi ♫
+
+148
+00:10:33,774 --> 00:10:36,926
+Here we go, start that again,
+1 and beginning and go.
+
+149
+00:10:37,314 --> 00:11:08,799
+(students singing)
+
+150
+00:11:08,799 --> 00:11:11,051
+Okay, go back to the do.
+
+151
+00:11:11,051 --> 00:11:14,178
+♫ Do mi so la
+
+152
+00:11:14,178 --> 00:11:16,292
+♫ Fa do la fa ♫
+
+153
+00:11:16,292 --> 00:11:19,201
+Sing that, ready, on the do, 1, 2.
+
+154
+00:11:19,201 --> 00:11:26,890
+(students singing)
+
+155
+00:11:26,890 --> 00:11:29,928
+Do that again, same spot, 1, 2.
+
+156
+00:11:29,928 --> 00:11:37,288
+(students singing)
+
+157
+00:11:37,288 --> 00:11:39,309
+Okay good, excellent
+reading, good for you.
+
+158
+00:11:39,309 --> 00:11:42,984
+Now putting it together.
+
+159
+00:11:42,984 --> 00:11:44,075
+Canon, lots of people think
+
+160
+00:11:44,075 --> 00:11:46,064
+"oh canons are easy, no
+problem, it's the same thing."
+
+161
+00:11:46,064 --> 00:11:48,482
+Except canons tend to be
+tricky, we'll see how it goes.
+
+162
+00:11:48,482 --> 00:11:50,493
+Here we go, soprano and alto first.
+
+163
+00:11:50,493 --> 00:11:55,313
+♫ Do mi so mi do ♫
+
+164
+00:11:55,313 --> 00:11:57,775
+Sing your first notes girls, ready, and
+
+165
+00:11:57,775 --> 00:12:01,675
+(female students singing)
+
+166
+00:12:01,675 --> 00:12:05,432
+Here we go, 1, 2, and ready and go
+
+167
+00:12:05,432 --> 00:13:57,190
+(students singing)
+
+168
+00:13:57,190 --> 00:13:58,606
+Okay good, I was gonna
+stop you before then,
+
+169
+00:13:58,606 --> 00:14:00,696
+but you did so well, so we kept singing.
+
+170
+00:14:00,696 --> 00:14:01,671
+Good for you.
+
+171
+00:14:01,671 --> 00:14:03,684
+Okay, so what happens at 21 for the girls?
+
+172
+00:14:03,684 --> 00:14:07,522
+Well not, sorry, measure 11 for the girls?
+
+173
+00:14:07,522 --> 00:14:10,285
+(student speaking inaudibly)
+
+174
+00:14:10,285 --> 00:14:13,552
+Does what, something different,
+so what would we call it?
+
+175
+00:14:13,552 --> 00:14:17,205
+B, or the counter melody of this. Okay.
+
+176
+00:14:17,205 --> 00:14:20,688
+So it's kind of the same shape,
+
+177
+00:14:20,688 --> 00:14:25,842
+but it starts on what
+pitch class instead of do?
+
+178
+00:14:25,842 --> 00:14:29,255
+No, sorry, what did we first
+start at the beginning?
+
+179
+00:14:29,255 --> 00:14:32,390
+So and mi, and this starts on do.
+
+180
+00:14:32,390 --> 00:14:33,853
+So different pitch class, same shape,
+
+181
+00:14:33,853 --> 00:14:37,793
+but it's singing the fifth
+lower, okay, for soprano.
+
+182
+00:14:37,793 --> 00:14:40,331
+Okay good, let me hear the guys please.
+
+183
+00:14:40,331 --> 00:14:43,244
+You did really well until
+we got to the B section.
+
+184
+00:14:43,244 --> 00:14:47,157
+Let me hear, actually let's
+hear everybody do the B section.
+
+185
+00:14:47,157 --> 00:14:48,527
+So guys, you're gonna start at 21,
+
+186
+00:14:48,527 --> 00:14:51,476
+girls, you're gonna start at 11.
+
+187
+00:14:51,476 --> 00:14:53,530
+Basses, it's just...
+
+188
+00:14:53,530 --> 00:14:56,398
+No it's not, it's not different at all.
+
+189
+00:14:56,398 --> 00:14:58,309
+♫ Do here is do ♫
+
+190
+00:14:58,309 --> 00:14:59,286
+Find your first pitch.
+

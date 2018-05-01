@@ -1,0 +1,199 @@
+Three.
+Oh, it makes like a cubic graph.
+It's like a cube.
+Oh, whoa, that's pretty cool.
+What about... what if only two of them are the same?
+It's like a quadratic. 
+All right, so as we go through the investigation now we're gonna look at, try to come up with conjecture for that. Numerically, why do you think that happens? If two factors are the same.
+Because it makes... like,  because if you have two factors are the same that's the same as, like, squaring one of the factors.
+What happens if you square numbers?
+They become positive, I believe. So, it's always positive for that section.
+Very nice. Okay, keep on, keep on going with that.
+All right.
+ Just say A, B, C, D, E, etcetera. E is the zeros of the law.
+I'm on the first one.
+Why are they the same? They're squared.
+
+Go to Google Docs. See if you can do files. 
+The file is gray.
+Okay, so what's gonna happen is you're gonna have a factor formula. Unlike the other one we had it instead. And what you want to look at is look at the factors, and look at the zeros. What's the relationship between the factors and zeros. You may already know what the relationship is. Can you predict what it's gonna be?
+That the factors tell you the zeros? Like the numbers and the factors tell you what the zeros are?
+And why would that makes sense to you?
+Oh, because when it's X and you have a number after that, that's where it is on the X axis. So, that could be where the zeros in a set right, maybe?
+Teresa, does that make sense to you? You look kinda confused.
+Like, so X minus one is... No, that is wrong then.
+Well here, look at your flag. Look right here. It's sittin' right here. So X minus one.
+So that's one. So, there's one one. And then X minus two is the there too.
+Oh, so it's the opposite of the form.
+
+So, if you haven't factored form then you know that it's even zero.
+
+ Yeah, yeah. It would be equal to zero right?
+Yeah, you're right. Remember in algebra one the zero chronic thing?
+Yeah.
+All right, so that does make sense. Does the end behavior make sense? It's in factored form, but what's the degree of that?
+It's three.
+It's the third degree.
+And what does a third degree, what did we learn last time.
+It can intersect three times.
+It can intersect three times. Does it?
+Yeah.
+And what's the end date?
+Down and up.
+Down and up. And it is, right?
+Yup.
+So, that makes sense.
+That does make sense.
+Why don't you try it with quadratic factor here. And why don't you put in an extra factor.
+Just edit that.
+Just add that X, whatever something we've not used yet.
+What's the F in this one?
+ The eraser.
+But you added this one, right?
+Yeah.
+So what do we except's gonna happen? How many zeros are we gonna get this time?
+ Four?
+ What's the degree? So, what should the end behavior be? Because you weren't here last time, so let's see if you pick it up. So, if it's fourth degree, what's gonna happen on the right? What's gonna happen on the left?
+ Both... 
+ Good.
+ Yay.
+ High five.
+ Get rid of the space after the parenthesis.
+ Which one?
+ Between the parenthesis and the F. Yeah add a space.
+ There's not an F. See the sliders here?
+ This F was there to start out with. So, just delete it then. Yeah, just delete that. So, X minus E is just that.
+ So we expect... did it come out the way you excepted it to come out?
+ Yeah, there's four zeros.
+And if you slide those zeros, go ahead and slide some zeros and see if it still makes sense.
+Oh, that's good.
+Oh, because it changes whatever the final one would be at.
+So, if we had, like, X plus something, where is the actual zero?
+Oh, it is X plus something, it's the actual place that it is instead of the opposite of the place.
+So if we say X, X plus three, where's the zero?
+Negative three.
+Does that make sense? Because X plus three equals zero.
+Yeah.
+All right, what's the next question on there?
+Does the Y intercept change?
+All right, so let's look at your zeros and look at your Y intercept. As you change the sliders, does the Y intercept change?
+ We can't see our Y intercept, you gotta scroll out.
+Mr. Dillard, would you get me me the mouse over there? The silver one.
+Yeah, it's a lot easier to do this with a mouse.
+ I got it.
+ Other way. Because the Y intercept is...
+Now it might be really...
+Yeah, it's right there.
+Why don't we try making some of these factors smaller, so that we can see it a little better.
+ I got it.
+ Oh, fine. I see how it is.
+ Okay, can you see it?
+ It's like at negative 15.
+Okay, is there a relationship between that Y intercept and the factors? Or the zeros? Why don't you guys talk it over.
+ What are the zeros?
+ So, the zeros are, what are the zeros? And the zeros are all the numbers that are, they're the opposite of this. So, it would be negative two, four and a half, and one.
+ Wait, what's the Y intercept? It's 15?
+ Two.
+Yeah, it's down here. It's actually 18.
+And it's negative 18.
+Four and a half times two is nine, times two is 18 times one. It's 18. You multiply all the end numbers together and you get the Y intercept.
+Well, that's nice.
+That is cool.
+ But, why does that make sense? Why would that work?
+Why does that work?
+ Oh! Because to get the Y intercept, the Y intercept doesn't have an X value so you just, in order to factor this equation, you would just multiply all the end ones to get it.
+Oh, yeah because it's the numbers after X, like, almost...
+zeros... zeros?
+ Well, are the numbers after X the actual zeros? If it said X plus three.
+The roots.
+ X plus three, what would the zero be for that?
+ Negative.
+So, they're the inverse of the zeros.
+The opposite.
+The opposite, yeah.
+ You have to be careful with the word inverse because it has a lot more meaning. All right, so, if we know what the zeros are, and we multiply those and we got the Y intercept, right?
+ Yeah.
+ What about A? What happens when you slide A around? Does that change?
+ Slide A around.
+ I already know what should happen.
+ You can just use the mouse.
+ I can't click it.
+ Move.
+ Oh, that's why.
+It changes the middle one.
+ Did it change the zero? Start with that. Does it change the zeros at all?
+ No.
+ No.
+ No, it doesn't change the zeros.
+ Well, okay, go back to...
+ It's not changing the zero. Well actually...
+ Well, it's just changing it's steepness.
+ Yeah, it's changing it's steepness and the width, but it's not changing the zeros.
+ Well, yeah it does, because when it's flat then every number's changed.
+ But when its flat, but that's only
+ If A is zero, since they're multiplying everything by A, then if A is zero, everything is zero.
+So, yeah, you have a zero degree polynomial at that point.
+ Yeah.
+ Yeah.
+Okay, so other than when A is zero...
+ All it's changing is the steepness of the graph. And not changing the zeros.
+So, does that change the Y intercept?
+ Um, yes, it is changing the Y intercept. But I think it still works out as, um, you can still multiply all of them together.
+ Does that make sense? Check and see if it still works.
+ Oh, whatever A is, is A is the opposite of the Y intercept. Because if A is four then the Y intercept here is, or that might just be...
+Well, that's a good conjecture. Check some of the other things and see if it still works.
+ Um, try changing, yeah.
+
+ Yeah, no, that's not right.
+That would be cool.
+ It was just the way I had it.
+And, that's one of the nice thing with the sliders, because you might see a connection, but you can quickly see if it works for all cases and not just one case.
+ The Y intercept is six. Yeah, it's still, ah, when you change A, it's still going to effect the Y intercept, and as changing, as multiplying all the numbers together and then multiplying by A.
+ Does that make sense?
+ Yeah.
+ So, all those numbers multiplied together is still... six. Keep going with this, because the next thing we're gonna look at is what happens when some of the zeros are the same. When we use the factor more than once. Okay? Keep going.
+
+ Are we on six now?
+ Yes.
+ What happens when two or more factors are the same? So, make E and E.
+ I'm gonna make them all three.
+ I work hard for you guys, you criticize me.
+ Um, the E, the E. Oh, it makes the, when they're the same...
+
+ Try changing one of them. Try changing one of the sliders.
+
+ We figured that one. It just turns out to be the opposite.
+ So, go ahead and change one slider. Just pick one other than A. Pick B or something like that.
+The opposite of that variable becomes the...
+Y intercept.
+That doesn't explain the zeros.
+ Now, something we want to find out,
+Is there a relationship between the zeros and the Y intercept?
+Oh, there is. When you change the Y, then the zeros equal the opposite of the Y intercept.
+Okay, what happens if you change two?
+ No, it doesn't. Oh yeah, yeah it does.
+Oh yeah, zero does. The one that isn't the same numerical I think.
+ The right most zero becomes it.
+When you move them, the Y intercept and the zero both change at the same rate.   Because if you move, like, C steadily to the left, once C is two, negative two...
+ Jacob said, "Half the time, when you multiply them all together you get it."
+
+ Yeah, that's what we're discussing.
+
+ The absolute value of the Y intercept and then the absolute value of the zero, if two of the factors are the same that's in.
+ If all of the variables are the same except one of them, it becomes the zero, it becomes the zero and the opposite of the Y intercept.
+ So, now as you slide, you'll actually be able to see the Y intercept.
+ If you set all the variables the same and change one of them, it becomes the zero and the opposite of the Y intercept.
+ Okay, so on Dave's right here... 
+ Yeah the multiplication,  in case you, like, if you multiply all the zeros together, you get the opposite of the Y intercept.
+
+ Does it have to do with the factor formula?
+ Yeah.
+ Yeah.
+ So, the absolute value of the...
+If you multiply the zero,
+ So, does it make sense algebraically?
+ Yes.
+Why does it make sense algebraically?
+When you find the factor with that new grouping you have to, it becomes the opposite.
+But Y intercepts, algebraically.
+ Because the Y intercept is when all the X's are zeros, so you're just left with the one that doesn't have an X on it. And that is the multiplication of all the factors. All the numbers.

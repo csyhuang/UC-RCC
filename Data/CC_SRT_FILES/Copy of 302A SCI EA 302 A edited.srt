@@ -1,0 +1,1367 @@
+1
+00:00:00,114 --> 00:00:02,546
+- I want you to go ahead
+and put a "C" over your 10
+
+2
+00:00:02,724 --> 00:00:04,030
+at the top of this if you haven't.
+
+3
+00:00:06,365 --> 00:00:08,531
+And I want you to take
+a look at the part one
+
+4
+00:00:08,916 --> 00:00:09,829
+on your paper.
+
+5
+00:00:11,330 --> 00:00:13,217
+Yesterday, we looked at how pressure
+
+6
+00:00:13,404 --> 00:00:14,722
+could effect the mantle,
+
+7
+00:00:15,102 --> 00:00:17,122
+but now we need to look
+at something different.
+
+8
+00:00:19,596 --> 00:00:22,365
+I want you to answer
+number one and two first
+
+9
+00:00:22,521 --> 00:00:23,833
+and then we'll talk about it.
+
+10
+00:00:23,917 --> 00:00:27,096
+This is just what you know
+before you come in my room
+
+11
+00:00:27,775 --> 00:00:29,506
+to get you into the lesson.
+
+12
+00:00:29,506 --> 00:00:31,791
+So, number one wants to
+know list a few things
+
+13
+00:00:31,839 --> 00:00:34,028
+that you have seen float before.
+
+14
+00:00:34,741 --> 00:00:38,653
+Number two wants to know
+what do you think
+
+15
+00:00:38,868 --> 00:00:40,567
+might cause these things to float.
+
+16
+00:00:40,567 --> 00:00:44,259
+So, first just make a little
+list of two, three things
+
+17
+00:00:44,483 --> 00:00:45,734
+that you've seen floating before
+
+18
+00:00:46,440 --> 00:00:48,191
+and then tell me on number two,
+
+19
+00:00:48,217 --> 00:00:51,957
+if it's a hypothesis you may
+not know for sure that's fine,
+
+20
+00:00:52,439 --> 00:00:55,480
+but what do you think
+causes them to float.
+
+21
+00:00:55,964 --> 00:00:57,114
+Nathan.
+
+22
+00:00:57,125 --> 00:00:58,809
+- Are we allowed to write both?
+
+23
+00:00:59,398 --> 00:01:00,256
+- Yeah.
+
+24
+00:01:00,907 --> 00:01:02,601
+Yeah, so right now,
+you're just going to make
+
+25
+00:01:02,662 --> 00:01:04,267
+a little list on number one
+
+26
+00:01:04,451 --> 00:01:05,555
+and then number two,
+
+27
+00:01:05,711 --> 00:01:09,058
+you're going to tell me what do you
+think actually causes these things
+
+28
+00:01:09,184 --> 00:01:12,111
+that you wrote down to be able to float.
+
+29
+00:01:12,833 --> 00:01:14,633
+We're going to start with that first.
+
+30
+00:01:20,018 --> 00:01:22,835
+This is just to get us thinking
+
+31
+00:01:23,684 --> 00:01:26,200
+about what we're doing today.
+
+32
+00:01:34,951 --> 00:01:36,209
+One and two, please.
+
+33
+00:01:52,610 --> 00:01:53,930
+What do you think causes them to float?
+
+34
+00:01:56,538 --> 00:01:58,106
+You might not be sure of the answer
+
+35
+00:01:58,189 --> 00:02:01,590
+to number two, but I still
+want you to make a hypothesis.
+
+36
+00:02:01,674 --> 00:02:03,090
+You don't have to write
+"I think because,"
+
+37
+00:02:03,343 --> 00:02:07,267
+but you can tell me what
+you think causes that.
+
+38
+00:02:23,442 --> 00:02:24,710
+Number two's going to be harder
+
+39
+00:02:24,710 --> 00:02:25,626
+than number one.
+
+40
+00:02:25,906 --> 00:02:26,933
+- Yeah.
+
+41
+00:02:36,728 --> 00:02:37,997
+- Let's take four things,
+
+42
+00:02:38,385 --> 00:02:40,718
+tell me four things that
+you've seen float before.
+
+43
+00:02:41,148 --> 00:02:43,016
+We'll take four, because
+we can probably sit here
+
+44
+00:02:43,016 --> 00:02:44,165
+and name like 100.
+
+45
+00:02:44,165 --> 00:02:45,078
+Cole, give me one.
+
+46
+00:02:45,078 --> 00:02:46,028
+- Ice cubes.
+
+47
+00:02:46,028 --> 00:02:46,983
+- Ice cubes. Sadie?
+
+48
+00:02:47,348 --> 00:02:48,097
+- Boat.
+
+49
+00:02:48,097 --> 00:02:49,181
+- A boat. Alex.
+
+50
+00:02:49,181 --> 00:02:50,617
+- Shoes.
+
+51
+00:02:50,673 --> 00:02:52,241
+- Shoes. And Emily?
+
+52
+00:02:52,910 --> 00:02:53,841
+- Dog toy.
+
+53
+00:02:53,938 --> 00:02:54,871
+- Dog toys, okay.
+
+54
+00:02:56,692 --> 00:02:58,727
+Now, we know things can float
+
+55
+00:02:59,464 --> 00:03:00,438
+and that's great.
+
+56
+00:03:03,376 --> 00:03:08,376
+But, what do you think
+causes these things to float?
+
+57
+00:03:09,870 --> 00:03:14,050
+Why do you think dog toys
+and a boat and ice cubes
+
+58
+00:03:14,340 --> 00:03:15,298
+and things like that,
+
+59
+00:03:15,325 --> 00:03:18,594
+why are they are going
+to be able to float.
+
+60
+00:03:18,594 --> 00:03:19,563
+Ebony, what do you think?
+
+61
+00:03:19,930 --> 00:03:20,908
+- The air in them.
+
+62
+00:03:21,132 --> 00:03:22,554
+- The amount of air that's in them.
+
+63
+00:03:22,981 --> 00:03:25,174
+Anybody else?
+
+64
+00:03:25,770 --> 00:03:26,398
+Dylan?
+
+65
+00:03:26,398 --> 00:03:27,365
+- They are less dense.
+
+66
+00:03:27,365 --> 00:03:29,611
+- Okay. Sean?
+
+67
+00:03:29,938 --> 00:03:30,967
+- Surface tension.
+
+68
+00:03:30,967 --> 00:03:32,097
+- Surface tension.
+
+69
+00:03:32,472 --> 00:03:36,389
+- Little air pockets that are in them.
+
+70
+00:03:36,389 --> 00:03:37,635
+- Okay, air pockets.
+
+71
+00:03:38,284 --> 00:03:40,719
+- I was thinking like the less density
+
+72
+00:03:40,719 --> 00:03:44,258
+inside of it.
+
+73
+00:03:44,258 --> 00:03:47,578
+- Okay,alright, we're going to
+take a look at that today.
+
+74
+00:03:47,803 --> 00:03:49,512
+So, you've got a kind of idea,
+
+75
+00:03:49,512 --> 00:03:52,074
+we're going to look at what
+causes something to sink
+
+76
+00:03:52,725 --> 00:03:55,321
+and what effects if something floats.
+
+77
+00:03:55,474 --> 00:03:57,812
+Alright, we have two parts
+
+78
+00:03:57,918 --> 00:04:00,341
+that we are going to be going
+to our last stations for.
+
+79
+00:04:00,341 --> 00:04:02,087
+So, let's take a look at part two
+
+80
+00:04:02,231 --> 00:04:03,710
+last station observation.
+
+81
+00:04:04,462 --> 00:04:06,598
+You have two setups at your lab station.
+
+82
+00:04:06,652 --> 00:04:11,213
+You have a black tray that
+has three objects in it.
+
+83
+00:04:11,428 --> 00:04:15,499
+You've got a bouncy ball, a
+marble and a styrofoam ball,
+
+84
+00:04:15,880 --> 00:04:16,567
+alright?
+
+85
+00:04:16,622 --> 00:04:19,035
+You also have a setup
+at your lab station
+
+86
+00:04:19,083 --> 00:04:21,103
+that has liquids in cups.
+
+87
+00:04:21,738 --> 00:04:24,786
+This is for part three.
+
+88
+00:04:26,110 --> 00:04:28,611
+Alright, I don't want you
+touching this stuff yet.
+
+89
+00:04:28,968 --> 00:04:30,214
+We're going to come back later
+
+90
+00:04:30,301 --> 00:04:31,625
+and you're going to
+look at that stuff.
+
+91
+00:04:31,625 --> 00:04:34,389
+I don't want any of the
+cups knocked over,
+
+92
+00:04:34,640 --> 00:04:36,307
+I don't want any of the
+objects put into the cups, okay?
+
+93
+00:04:37,537 --> 00:04:39,037
+These two things are separate,
+
+94
+00:04:39,037 --> 00:04:40,837
+your black tray and the piece of paper
+
+95
+00:04:40,837 --> 00:04:42,395
+with the cups are separate.
+
+96
+00:04:42,574 --> 00:04:44,073
+What you're going to do first
+
+97
+00:04:44,073 --> 00:04:46,397
+is use the black tray
+and the objects in it.
+
+98
+00:04:46,978 --> 00:04:48,045
+You're going to tell me
+
+99
+00:04:48,045 --> 00:04:50,785
+with the marble, the bouncy
+ball, and the styrofoam ball
+
+100
+00:04:50,785 --> 00:04:52,954
+if we were to put these in water,
+
+101
+00:04:52,954 --> 00:04:54,206
+which we are going to test them,
+
+102
+00:04:54,206 --> 00:04:55,450
+but if we were to put
+these in water,
+
+103
+00:04:56,048 --> 00:04:58,634
+do you think these objects
+would sink or float?
+
+104
+00:04:59,493 --> 00:05:01,812
+So, you just go through
+and if you want
+
+105
+00:05:01,892 --> 00:05:04,034
+you can just write an "F" or an "S."
+
+106
+00:05:05,276 --> 00:05:06,802
+You're going to say what you think
+
+107
+00:05:06,838 --> 00:05:09,235
+and I want you to wait until
+you get to your lab stations
+
+108
+00:05:09,519 --> 00:05:11,868
+so you can pick them up, feel them
+
+109
+00:05:12,085 --> 00:05:15,350
+to see, that might make a
+difference in your guess.
+
+110
+00:05:16,132 --> 00:05:18,952
+Then, I also want you
+to tell me why.
+
+111
+00:05:19,435 --> 00:05:23,167
+While you are at your lab station,
+float or sink in water
+
+112
+00:05:23,167 --> 00:05:24,389
+and why.
+
+113
+00:05:24,908 --> 00:05:27,948
+You're not going to do
+the did it actually float
+
+114
+00:05:27,948 --> 00:05:29,668
+because we're going to look
+at that when we come back.
+
+115
+00:05:29,793 --> 00:05:31,324
+These are our results.
+
+116
+00:05:31,811 --> 00:05:33,462
+So, you're going to do
+the first two columns,
+
+117
+00:05:33,462 --> 00:05:35,049
+float or sink, why, float or sink,
+
+118
+00:05:35,051 --> 00:05:36,364
+why, float or sink, why.
+
+119
+00:05:36,975 --> 00:05:38,616
+- Then we are going to come to that?
+
+120
+00:05:38,839 --> 00:05:39,612
+- And we are going to come back,
+
+121
+00:05:39,612 --> 00:05:41,401
+and we're going to do an
+observation together.
+
+122
+00:05:42,383 --> 00:05:44,823
+So these two columns have
+got to be filled out
+
+123
+00:05:46,007 --> 00:05:47,592
+before you get back to your seats.
+
+124
+00:05:48,178 --> 00:05:50,135
+Got it? Let's go.
+
+125
+00:06:03,795 --> 00:06:06,226
+- Marble, sink. Rubber, float.
+
+126
+00:06:11,206 --> 00:06:12,671
+[Background Chatter]
+
+127
+00:06:12,671 --> 00:06:15,195
+- Rubber, float.
+Styrofoam, float.
+
+128
+00:06:21,404 --> 00:06:23,145
+- The marble will probably sink,
+
+129
+00:06:23,145 --> 00:06:23,936
+it's heavy.
+
+130
+00:06:24,982 --> 00:06:25,865
+- It has no air in it.
+
+131
+00:06:37,245 --> 00:06:38,185
+- Bouncy ball.
+
+132
+00:06:38,185 --> 00:06:42,208
+The bouncy ball probably can float.
+
+133
+00:06:42,208 --> 00:06:43,467
+- Yeah.
+
+134
+00:06:43,584 --> 00:06:44,762
+- I mean it's not light,
+
+135
+00:06:45,306 --> 00:06:46,125
+- It's gonna float.
+
+136
+00:06:51,034 --> 00:06:52,334
+Bouncy ball, same thing.
+
+137
+00:06:54,973 --> 00:06:56,224
+- Bouncy ball, heavy.
+
+138
+00:06:58,171 --> 00:07:01,866
+Marble, heavy with no air pockets.
+
+139
+00:07:02,939 --> 00:07:04,221
+No--
+
+140
+00:07:18,411 --> 00:07:19,726
+- This one will definitely float
+
+141
+00:07:19,935 --> 00:07:21,348
+because it's lightweight
+
+142
+00:07:23,396 --> 00:07:24,416
+and it has these little pores.
+
+143
+00:07:24,842 --> 00:07:27,513
+- This bounces a lot, 
+his bounces a little bit
+
+144
+00:07:28,189 --> 00:07:30,463
+and this bounces not at all.
+
+145
+00:07:30,753 --> 00:07:32,201
+- Yeah, but this one, but this one
+
+146
+00:07:32,215 --> 00:07:33,469
+[Background Chatter]
+
+147
+00:07:34,411 --> 00:07:35,564
+- If this one can float,
+
+148
+00:07:35,564 --> 00:07:37,911
+then why not think
+that one could float?
+
+149
+00:07:38,004 --> 00:07:40,316
+- Okay.
+
+150
+00:08:01,390 --> 00:08:03,463
+- If you don't go
+with your group,
+
+151
+00:08:04,144 --> 00:08:08,513
+that's okay, but you still
+need to a connection.
+
+152
+00:08:10,203 --> 00:08:16,823
+If you are finished before the timer goes
+off you need to come back to your seat.
+
+153
+00:08:17,103 --> 00:08:17,716
+- This will float.
+
+154
+00:08:18,063 --> 00:08:19,079
+- This will fall.
+
+155
+00:08:21,218 --> 00:08:22,769
+[marble ball hits surface]
+
+156
+00:08:25,379 --> 00:08:26,440
+- Fail.
+
+157
+00:08:39,365 --> 00:08:42,367
+- If you finish, you need
+to come back to your seats.
+
+158
+00:08:43,325 --> 00:08:44,664
+You guys all finished?
+
+159
+00:09:41,237 --> 00:09:42,229
+I want to go ahead
+
+160
+00:09:42,720 --> 00:09:43,680
+and take a look,
+
+161
+00:09:44,203 --> 00:09:46,342
+before we see the results.
+
+162
+00:09:51,651 --> 00:09:53,581
+Before we look at the
+results and test this,
+
+163
+00:09:53,993 --> 00:09:56,524
+I want to see what we think.
+
+164
+00:09:57,192 --> 00:09:58,005
+So first off,
+
+165
+00:09:58,038 --> 00:10:00,077
+let's start with the marble
+since it's at the top.
+
+166
+00:10:00,077 --> 00:10:04,100
+Raise your hand if you
+think the marble will float.
+
+167
+00:10:06,604 --> 00:10:09,010
+Okay, so we're all together
+on this one,
+
+168
+00:10:09,222 --> 00:10:10,239
+it's not going to float.
+
+169
+00:10:10,625 --> 00:10:13,596
+Who can tell me why
+they're thinking
+
+170
+00:10:14,211 --> 00:10:15,445
+it's not going to float?
+
+171
+00:10:15,445 --> 00:10:18,954
+We'll take like three
+guesses, three explanations.
+
+172
+00:10:19,262 --> 00:10:19,988
+JC?
+
+173
+00:10:20,601 --> 00:10:22,248
+- It's heavy, with no air pockets.
+
+174
+00:10:22,435 --> 00:10:24,713
+- Heavy with no air pockets, good.
+
+175
+00:10:25,063 --> 00:10:25,778
+Frayla?
+
+176
+00:10:25,833 --> 00:10:28,893
+- It can't capture air,
+it can't float.
+
+177
+00:10:28,893 --> 00:10:30,675
+- Can't capture air, can't float.
+
+178
+00:10:31,099 --> 00:10:32,675
+Alright and Emma.
+
+179
+00:10:32,885 --> 00:10:33,937
+Heavy and solid.
+
+180
+00:10:34,059 --> 00:10:35,014
+- Heavy and solid.
+
+181
+00:10:35,298 --> 00:10:38,068
+Alright, now what about the bouncy ball.
+
+182
+00:10:38,421 --> 00:10:40,733
+Raise your hand if you think
+this is going to float.
+
+183
+00:10:42,752 --> 00:10:43,623
+Alright, there's a mix.
+
+184
+00:10:43,779 --> 00:10:45,167
+- What, that's heavier
+than the marble.
+
+185
+00:10:45,689 --> 00:10:46,507
+- Well, let's hear --
+
+186
+00:10:46,818 --> 00:10:47,662
+[Background Chatter]
+
+187
+00:10:49,120 --> 00:10:51,768
+Somebody give me an explanation
+for why it would float.
+
+188
+00:10:52,280 --> 00:10:54,524
+If you guessed float tell
+me why you thought that.
+
+189
+00:10:55,905 --> 00:10:56,877
+Sean.
+
+190
+00:10:56,877 --> 00:10:58,194
+Because there's air inside.
+
+191
+00:10:58,273 --> 00:10:59,263
+- Okay, there's air inside.
+
+192
+00:11:00,233 --> 00:11:01,056
+Alex.
+
+193
+00:11:01,183 --> 00:11:03,867
+- I dropped it in the pond
+and it still floated.
+
+194
+00:11:04,130 --> 00:11:06,268
+- Bouncy ball floated in the
+pond when you did it before.
+
+195
+00:11:06,986 --> 00:11:07,659
+Ali.
+
+196
+00:11:07,659 --> 00:11:08,769
+I've seen it happen.
+
+197
+00:11:08,769 --> 00:11:09,790
+- Okay, you've seen it happen.
+
+198
+00:11:10,168 --> 00:11:12,565
+Now, some of us said it would sink.
+
+199
+00:11:13,945 --> 00:11:15,299
+Why did you say it would sink?
+
+200
+00:11:15,872 --> 00:11:16,658
+Matt Weaver.
+
+201
+00:11:16,717 --> 00:11:17,586
+- Because it's heavy.
+
+202
+00:11:17,586 --> 00:11:19,335
+- It's heavy.  Frayla.
+
+203
+00:11:19,814 --> 00:11:29,033
+[Background Chatter]
+
+204
+00:11:30,451 --> 00:11:31,474
+Okay, Jared.
+
+205
+00:11:32,049 --> 00:11:34,385
+[Background Chatter]
+
+206
+00:11:34,385 --> 00:11:35,635
+Okay, so prior experience.
+
+207
+00:11:36,088 --> 00:11:39,056
+Now, last one is our styrofoam ball.
+
+208
+00:11:40,369 --> 00:11:41,676
+Float, raise your hand.
+
+209
+00:11:46,057 --> 00:11:49,657
+Alright, somebody give me a
+reason why it's going to float.
+
+210
+00:11:49,942 --> 00:11:51,154
+We're all together on this one, too.
+
+211
+00:11:51,154 --> 00:11:53,999
+We all agree the marble is going to sink,
+
+212
+00:11:54,012 --> 00:11:57,425
+we all agree the styrofoam
+ball is going to float.
+
+213
+00:11:57,778 --> 00:11:58,437
+Matt Cook.
+
+214
+00:11:59,151 --> 00:12:00,964
+- It's light and has air pockets.
+
+215
+00:12:01,182 --> 00:12:02,495
+- It's light and has air pockets.
+
+216
+00:12:04,664 --> 00:12:05,380
+Alex?
+
+217
+00:12:05,959 --> 00:12:10,042
+[Background Chatter]
+
+218
+00:12:10,042 --> 00:12:11,084
+You're talking alot of things,
+
+219
+00:12:11,891 --> 00:12:13,766
+the pond was last time, okay.
+
+220
+00:12:15,483 --> 00:12:16,009
+Frayla.
+
+221
+00:12:16,191 --> 00:12:17,915
+It's very lightweight
+
+222
+00:12:17,915 --> 00:12:23,553
+[Background Chatter]
+
+223
+00:12:24,107 --> 00:12:26,161
+- Okay, alright, let's test it out.
+
+224
+00:12:26,339 --> 00:12:28,231
+We're just going to test
+it out upfront here,
+
+225
+00:12:28,552 --> 00:12:31,765
+so I'm just going to
+use this big beaker.
+
+226
+00:12:32,305 --> 00:12:33,784
+What do we want to see first?
+
+227
+00:12:34,297 --> 00:12:35,769
+- Marble.
+
+228
+00:12:36,549 --> 00:12:37,891
+- Bouncy ball.
+
+229
+00:12:41,169 --> 00:12:44,187
+- Alright, record sink for your actual.
+
+230
+00:12:46,775 --> 00:12:48,607
+I guess we'll do bouncy ball,
+
+231
+00:12:48,607 --> 00:12:49,723
+we'll just go in order.
+
+232
+00:12:49,813 --> 00:12:51,429
+Alright, bouncy ball, ready?
+
+233
+00:12:51,843 --> 00:12:53,286
+The moment of truth.
+
+234
+00:12:55,000 --> 00:12:57,489
+[cheers]
+
+235
+00:12:59,101 --> 00:13:00,687
+And styrofoam ball.
+
+236
+00:13:01,732 --> 00:13:03,078
+- Yeah.
+
+237
+00:13:04,217 --> 00:13:06,483
+- A different bouncy ball didn't float.
+
+238
+00:13:06,670 --> 00:13:08,618
+- But you saw the bouncy
+ball I was using, right?
+
+239
+00:13:08,740 --> 00:13:09,474
+- Yeah.
+
+240
+00:13:10,984 --> 00:13:11,529
+- So, it was fair, right?
+
+241
+00:13:12,156 --> 00:13:12,709
+- Yeah.
+
+242
+00:13:15,834 --> 00:13:20,446
+- Very simple, but let's take
+a look at what's going on.
+
+243
+00:13:20,736 --> 00:13:22,636
+For number four,
+I'd like you to tell me,
+
+244
+00:13:22,636 --> 00:13:24,740
+I want you to answer first
+and then we'll discuss.
+
+245
+00:13:25,537 --> 00:13:26,645
+What I'd like you to tell me,
+
+246
+00:13:26,983 --> 00:13:29,578
+why do you think some of these
+objects were able to float,
+
+247
+00:13:29,826 --> 00:13:31,241
+while others were able to sink?
+
+248
+00:13:31,331 --> 00:13:32,517
+And I want you to be specific.
+
+249
+00:13:32,862 --> 00:13:35,477
+At the beginning, I asked
+you the same question
+
+250
+00:13:36,062 --> 00:13:37,956
+on number two in prior knowledge.
+
+251
+00:13:38,148 --> 00:13:40,527
+Why do you think some
+of these things float.
+
+252
+00:13:40,775 --> 00:13:43,021
+I want you to revisit
+that question again.
+
+253
+00:13:43,567 --> 00:13:46,353
+So, why do you think the
+marble and the bouncy ball sank
+
+254
+00:13:46,965 --> 00:13:49,380
+and the styrofoam ball was floating.
+
+255
+00:13:49,796 --> 00:13:51,836
+I want you to be specific on number four.
+
+256
+00:13:51,836 --> 00:13:53,991
+I want you to answer first on your paper
+
+257
+00:13:54,112 --> 00:13:55,840
+and then we're going to share, okay?
+
+258
+00:14:51,419 --> 00:14:53,791
+What kinds of things did
+we say for number four?
+
+259
+00:14:54,006 --> 00:14:56,707
+Now that we've looked at
+this in a different way.
+
+260
+00:14:57,002 --> 00:14:59,234
+Before, I just asked you to
+think of things in your past
+
+261
+00:14:59,234 --> 00:15:00,027
+that you've seen float.
+
+262
+00:15:00,027 --> 00:15:02,602
+Now, we've looked at our marble,
+
+263
+00:15:02,723 --> 00:15:04,598
+our bouncy ball and
+our styrofoam ball.
+
+264
+00:15:05,772 --> 00:15:06,963
+What did you say?
+
+265
+00:15:06,963 --> 00:15:07,604
+Nick.
+
+266
+00:15:07,604 --> 00:15:10,602
+- Bouncy ball didn't have enough air
+
+267
+00:15:10,876 --> 00:15:13,867
+to keep it up and it was too heavy.
+
+268
+00:15:14,277 --> 00:15:17,148
+- Okay, anybody else say anything.
+
+269
+00:15:17,556 --> 00:15:19,921
+Nick said, bouncy ball
+didn't have enough air
+
+270
+00:15:20,430 --> 00:15:22,033
+to keep it up so it sank.
+
+271
+00:15:23,108 --> 00:15:24,921
+Anybody say something different?
+
+272
+00:15:25,201 --> 00:15:25,887
+Ebony?
+
+273
+00:15:26,802 --> 00:15:28,921
+- Density and buoyancy.
+
+274
+00:15:28,996 --> 00:15:31,103
+- All right, what do you mean
+density and buoyancy?
+
+275
+00:15:36,172 --> 00:15:38,023
+Okay, Frayla?
+
+276
+00:15:38,899 --> 00:15:41,413
+- I said that some objects
+had air holes
+
+277
+00:15:41,558 --> 00:15:42,978
+and some were just solid.
+
+278
+00:15:43,198 --> 00:15:46,285
+- Okay.  Now let's think of
+this in a different way.
+
+279
+00:15:46,505 --> 00:15:48,413
+We've got this really small marble
+
+280
+00:15:49,029 --> 00:15:52,077
+and we've got a much
+larger styrofoam ball.
+
+281
+00:15:53,482 --> 00:15:56,163
+So, normally if something's smaller,
+
+282
+00:15:57,105 --> 00:15:59,252
+you think it's going to be lighter,
+
+283
+00:15:59,296 --> 00:15:59,997
+it should float.
+
+284
+00:15:59,997 --> 00:16:01,257
+Something heavier,
+
+285
+00:16:01,406 --> 00:16:02,654
+this is much larger,
+
+286
+00:16:03,762 --> 00:16:04,891
+but it didn't sink.
+
+287
+00:16:04,891 --> 00:16:06,331
+If I have one book,
+
+288
+00:16:06,331 --> 00:16:11,175
+if I'm carrying one book
+versus carrying five books,
+
+289
+00:16:11,293 --> 00:16:13,492
+that's different because
+five books are bigger
+
+290
+00:16:13,864 --> 00:16:14,743
+than one book.
+
+291
+00:16:15,183 --> 00:16:20,183
+So, what is going on with the
+amount of stuff in the marble
+
+292
+00:16:21,119 --> 00:16:23,950
+and the amount of stuff
+in the styrofoam ball.
+
+293
+00:16:24,092 --> 00:16:28,167
+Is it the same amount of stuff
+in the same amount of space?
+
+294
+00:16:29,864 --> 00:16:31,724
+Does the marble have
+the same amount of stuff
+
+295
+00:16:32,071 --> 00:16:34,564
+in the same amount of space
+that the styrofoam ball does?
+
+296
+00:16:36,024 --> 00:16:38,677
+Which one has more stuff,
+
+297
+00:16:39,145 --> 00:16:41,321
+more matter in a smaller space.
+
+298
+00:16:43,965 --> 00:16:46,474
+I want you to talk with the
+person sitting next to you
+
+299
+00:16:46,550 --> 00:16:47,330
+for one minute.
+
+300
+00:17:31,378 --> 00:17:35,639
+Okay, so, we've done this before.
+
+301
+00:17:39,682 --> 00:17:44,417
+Okay, so, marble's number one,
+styrofoam ball, two.
+
+302
+00:17:44,814 --> 00:17:48,519
+Which object has more stuff,
+more matter,
+
+303
+00:17:49,093 --> 00:17:51,442
+packed in a smaller space?
+
+304
+00:17:52,020 --> 00:17:54,696
+On the count of three, right here,
+
+305
+00:17:55,164 --> 00:17:57,254
+marble one, styrofoam ball two.
+
+306
+00:17:57,528 --> 00:17:59,163
+One, two, three.
+
+307
+00:18:00,210 --> 00:18:04,165
+- Marble.
+Good, marble.
+
+308
+00:18:05,413 --> 00:18:07,395
+So, let's write that down.
+
+309
+00:18:07,706 --> 00:18:10,112
+This is pretty much what
+number five is asking you.
+
+310
+00:18:10,196 --> 00:18:12,311
+So, when comparing the
+marble to the styrofoam ball,
+
+311
+00:18:12,689 --> 00:18:15,745
+which one has more mass,
+more matter, more stuff
+
+312
+00:18:16,115 --> 00:18:18,882
+in a smaller amount of
+space, which we call volume.
+
+313
+00:18:18,882 --> 00:18:23,033
+That would be the marble, alright.
+
+314
+00:18:26,620 --> 00:18:30,076
+People today, if you flip
+over to the next part,
+
+315
+00:18:30,414 --> 00:18:32,684
+I've heard the word
+density a couple times
+
+316
+00:18:33,425 --> 00:18:35,284
+and density is kind of.
+

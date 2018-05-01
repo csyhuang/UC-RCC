@@ -1,0 +1,1515 @@
+1
+00:00:00,399 --> 00:00:05,116
+- So, does percent always have to be 100?
+
+2
+00:00:05,516 --> 00:00:06,819
+- No.
+
+3
+00:00:06,819 --> 00:00:09,322
+- Because I see, none of the percents
+
+4
+00:00:09,322 --> 00:00:10,826
+up here are 100.
+
+5
+00:00:10,826 --> 00:00:13,631
+- They're all lower than 100%.
+
+6
+00:00:13,631 --> 00:00:16,244
+- So you think a percent
+can either be 100 or less.
+
+7
+00:00:16,244 --> 00:00:16,883
+- Yes.
+
+8
+00:00:16,883 --> 00:00:17,648
+- Okay, okay.
+
+9
+00:00:17,648 --> 00:00:18,827
+So that means you think this can be
+
+10
+00:00:18,827 --> 00:00:20,194
+called an improper.
+
+11
+00:00:20,194 --> 00:00:22,296
+Okay. Ian.
+
+12
+00:00:22,296 --> 00:00:27,296
+- Three-fourths and the
+decimal 0.75 are the same.
+
+13
+00:00:28,686 --> 00:00:31,273
+- What do you mean by the same?
+
+14
+00:00:31,273 --> 00:00:32,457
+One's a decimal, one's a fraction.
+
+15
+00:00:32,457 --> 00:00:34,094
+- Well, I mean like they're equivalent.
+
+16
+00:00:34,094 --> 00:00:36,393
+- Ah. Equivalent.
+
+17
+00:00:36,393 --> 00:00:39,120
+So, does that go back to what Alana said?
+
+18
+00:00:39,120 --> 00:00:41,036
+Alana, which ones did you have there?
+
+19
+00:00:41,036 --> 00:00:43,573
+- One-half and .5.
+
+20
+00:00:45,273 --> 00:00:46,577
+- So you're saying the
+same kind of relationship
+
+21
+00:00:46,577 --> 00:00:48,515
+is one and the same with 
+one-half and 5/10?
+
+22
+00:00:48,515 --> 00:00:48,992
+- Yeah.
+
+23
+00:00:48,992 --> 00:00:50,163
+- Okay. Alana, no?
+
+24
+00:00:50,163 --> 00:00:55,039
+- Well, I did one-fourth,
+three-fourths, 0.75 and 0.25
+
+25
+00:00:55,039 --> 00:00:56,745
+because they're all part of quarters.
+
+26
+00:00:56,745 --> 00:00:59,945
+- Ah, you did one-fourth,
+what was the other one?
+
+27
+00:00:59,945 --> 00:01:03,846
+- One... Wait, one-fourth, 
+three-fourths.
+
+28
+00:01:03,846 --> 00:01:05,483
+- All right.
+
+29
+00:01:05,483 --> 00:01:09,928
+- 0.75 and 0.25, because
+they're all part of quarters.
+
+30
+00:01:09,928 --> 00:01:11,988
+Ah.
+
+31
+00:01:11,988 --> 00:01:16,531
+- Okay, quarters. I can think of, 
+money. Quarters. Or...
+
+32
+00:01:16,531 --> 00:01:18,772
+- Yeah, 25 cents, 75 cents.
+
+33
+00:01:18,772 --> 00:01:21,895
+- Yeah, 25 cents is one quarter.
+
+34
+00:01:21,895 --> 00:01:23,357
+- 75 cents is three quarters.
+
+35
+00:01:23,357 --> 00:01:25,493
+Three-quarters, one-quarter.
+
+36
+00:01:25,493 --> 00:01:27,757
+- Excellent. Good, good. Ian?
+
+37
+00:01:27,757 --> 00:01:29,255
+- Everything can be made a percent
+
+38
+00:01:29,255 --> 00:01:31,062
+or a fraction or a decimal.
+
+39
+00:01:31,062 --> 00:01:32,952
+- Oooh. So you found a way
+
+40
+00:01:32,952 --> 00:01:35,990
+to connect every single one of them.
+
+41
+00:01:35,990 --> 00:01:39,217
+So everything can be made
+into... Say it again?
+
+42
+00:01:39,217 --> 00:01:41,690
+- A percent, fraction or decimal.
+
+43
+00:01:41,690 --> 00:01:43,571
+- Interesting.
+
+44
+00:01:43,571 --> 00:01:45,416
+So you're saying that I can take
+
+45
+00:01:45,416 --> 00:01:50,416
+this percent and write
+it as a, just a percent?
+
+46
+00:01:51,713 --> 00:01:53,136
+Or as a... What else?
+
+47
+00:01:53,136 --> 00:01:55,398
+- Fraction and decimal.
+
+48
+00:01:55,398 --> 00:01:57,162
+- So, okay, he's connecting all. He thinks
+
+49
+00:01:57,162 --> 00:01:59,661
+all three of them can become equivalent.
+
+50
+00:01:59,661 --> 00:02:01,795
+From the views before. 
+Excellent, Ian.
+
+51
+00:02:01,795 --> 00:02:05,558
+- Six-fourth, one-fourth and three-fourth, 
+they all have a denominator of four.
+
+52
+00:02:05,558 --> 00:02:08,262
+- Ah, yeah.
+
+53
+00:02:10,702 --> 00:02:12,338
+What does that mean that they all have
+
+54
+00:02:12,338 --> 00:02:14,581
+a denominator of four?
+
+55
+00:02:16,518 --> 00:02:21,518
+- Well, they're all like, sets of fourths.
+
+56
+00:02:21,829 --> 00:02:25,114
+- What does a denominator
+represent in a fraction?
+
+57
+00:02:25,114 --> 00:02:27,611
+- The, um...bottom number?
+
+58
+00:02:27,611 --> 00:02:29,004
+- When we write it as the bottom number,
+
+59
+00:02:29,004 --> 00:02:30,431
+when we're literally writing it,
+
+60
+00:02:30,431 --> 00:02:33,404
+what does it actually represent?
+
+61
+00:02:33,404 --> 00:02:34,912
+What's that for?
+
+62
+00:02:34,912 --> 00:02:36,872
+- How many equal parts it's split into.
+
+63
+00:02:36,872 --> 00:02:40,145
+- Ah, the number of equal
+parts it's split into.
+
+64
+00:02:40,145 --> 00:02:41,469
+So let me go back to Ian.
+
+65
+00:02:41,469 --> 00:02:43,620
+Ian is saying that
+everything can be written
+
+66
+00:02:43,620 --> 00:02:45,974
+as also, as a fraction,
+a decimal, and a percent.
+
+67
+00:02:45,974 --> 00:02:48,934 
+So can everything be in four parts?
+
+68
+00:02:48,934 --> 00:02:52,753
+What if it's in five parts?
+
+69
+00:02:52,753 --> 00:02:54,895
+Does that matter?
+
+70
+00:02:54,895 --> 00:02:56,930
+- I can do the five parts as a percent
+
+71
+00:02:56,930 --> 00:02:58,625
+or I can do four parts as a percent?
+
+72
+00:02:58,625 --> 00:03:00,331
+- Yeah.
+
+73
+00:03:01,421 --> 00:03:03,051
+- What about what Alan said?
+
+74
+00:03:03,071 --> 00:03:06,171
+Percent, is it up to a hundred
+and that's it?
+
+75
+00:03:06,171 --> 00:03:09,526
+- No, depends on the range
+that you set it.
+
+76
+00:03:11,846 --> 00:03:13,548
+- So can you give me an example
+
+77
+00:03:13,548 --> 00:03:17,685
+of when something would be more than 100%?
+
+78
+00:03:18,505 --> 00:03:19,690
+- Well, like, when something
+you did in Earth Science
+
+79
+00:03:19,690 --> 00:03:23,991
+we did to see if our
+grow-dino grew over 600%.
+
+80
+00:03:23,991 --> 00:03:25,337
+- Good connection. Okay.
+
+81
+00:03:25,337 --> 00:03:26,219
+So what did that mean
+
+82
+00:03:26,219 --> 00:03:29,295
+if it grew over 600%?
+
+83
+00:03:29,295 --> 00:03:33,694
+- It, like, grew bigger than, times...
+
+84
+00:03:33,694 --> 00:03:35,459
+- Over six hundred times its size?
+
+85
+00:03:35,459 --> 00:03:40,036
+- Yeah, 600 times its size. Okay.
+
+86
+00:03:40,036 --> 00:03:44,752
+So is it possible, so is
+that an improper percent?
+
+87
+00:03:44,752 --> 00:03:46,822
+No, but we sort of get stuck into thinking
+
+88
+00:03:46,822 --> 00:03:50,934
+that percent is 100%, 
+meybe we can't go over 100%.
+
+89
+00:03:50,934 --> 00:03:54,051
+What happened here?
+
+90
+00:03:54,051 --> 00:03:57,905
+You tell me about that percent.
+
+91
+00:03:57,905 --> 00:03:59,669
+(Inaudible)
+
+92
+00:03:59,669 --> 00:04:03,622
+- It's less than one percent.
+Is that possible?
+
+93
+00:04:03,622 --> 00:04:05,443
+Can you think of a
+real-life example
+
+94
+00:04:05,443 --> 00:04:09,109
+when you'd have less than one percent?
+
+95
+00:04:09,109 --> 00:04:12,002
+(Classroom chatter)
+
+96
+00:04:12,002 --> 00:04:13,951
+600% when we're talking
+about growing something
+
+97
+00:04:13,951 --> 00:04:15,345
+expanding over and over,
+
+98
+00:04:15,345 --> 00:04:18,840
+to 600 times its size.
+
+99
+00:04:20,250 --> 00:04:21,310
+Can you give a real-life example of
+
+100
+00:04:21,310 --> 00:04:23,806
+when I would have 0%?
+
+101
+00:04:23,806 --> 00:04:24,863
+- When you fail a test.
+
+102
+00:04:24,863 --> 00:04:28,810
+- Oh. Well, I could fail a test with 64%.
+
+103
+00:04:29,920 --> 00:04:34,003
+What does it mean if
+I fail a test with 0%?
+
+104
+00:04:35,133 --> 00:04:37,686
+Other than I'm in big trouble at home.
+
+105
+00:04:37,686 --> 00:04:38,428
+What does it mean?
+
+106
+00:04:38,428 --> 00:04:40,646
+What would that mean if
+you failed it with 0%?
+
+107
+00:04:40,646 --> 00:04:42,782
+What would that mean about
+what you did on the test?
+
+108
+00:04:42,782 --> 00:04:44,059
+- You didn't get anything right.
+
+109
+00:04:44,059 --> 00:04:47,205
+- Yeah, you got zero right, 
+nothing right.
+
+110
+00:04:47,205 --> 00:04:49,260
+Didn't get a single question right.
+
+111
+00:04:49,260 --> 00:04:52,445
+Can it be less than zero?
+
+112
+00:04:52,445 --> 00:04:54,221
+Is this less than zero?
+
+113
+00:04:54,221 --> 00:04:55,588
+- Yeah.
+
+114
+00:04:55,588 --> 00:04:57,122
+- No.
+
+115
+00:04:57,122 --> 00:04:59,642
+- It's less than one.
+
+116
+00:05:00,912 --> 00:05:03,048
+- So where is zero here?
+
+117
+00:05:03,048 --> 00:05:06,501
+(Classroom chatter)
+
+118
+00:05:09,331 --> 00:05:11,406
+- Tenths is that zeros?
+
+119
+00:05:11,406 --> 00:05:12,230
+- No.
+
+120
+00:05:12,230 --> 00:05:13,553
+- Where's zeros?
+
+121
+00:05:13,553 --> 00:05:15,191
+- Between.
+
+122
+00:05:15,191 --> 00:05:16,108
+- Where would they go?
+
+123
+00:05:16,108 --> 00:05:18,394
+Would they go in the
+ones place, tens place...
+
+124
+00:05:18,394 --> 00:05:20,264
+- Ones.
+
+125
+00:05:20,264 --> 00:05:23,906
+- In the ones place. We have zero ones.
+
+126
+00:05:23,906 --> 00:05:28,906
+So is this less than zero?
+
+127
+00:05:29,041 --> 00:05:31,804
+- Yes.
+
+128
+00:05:31,804 --> 00:05:32,582
+- No.
+
+129
+00:05:32,582 --> 00:05:33,789
+- No.
+
+130
+00:05:33,789 --> 00:05:36,610
+- No, because it's 0.1
+
+131
+00:05:36,610 --> 00:05:37,944
+(Classroom chatter)
+
+132
+00:05:37,944 --> 00:05:40,284
+- Interesting, okay.
+
+133
+00:05:40,284 --> 00:05:43,483
+So, can I have less than zero percent?
+
+134
+00:05:43,483 --> 00:05:45,305
+- No. You can have a negative, but
+
+135
+00:05:45,305 --> 00:05:48,515
+- If it's negative percent...
+
+136
+00:05:48,515 --> 00:05:51,311
+- Can you have a negative percent?
+
+137
+00:05:51,311 --> 00:05:53,647
+- What do you think?
+
+138
+00:05:53,647 --> 00:05:57,266
+- Well, I was going to say
+something could be, like,
+
+139
+00:05:57,266 --> 00:06:01,425
+one point, like, point one percent
+
+140
+00:06:01,425 --> 00:06:04,755
+less than something, if
+you're comparing two things.
+
+141
+00:06:04,755 --> 00:06:06,740
+- Okay, your percent of
+increase or decrease,
+
+142
+00:06:06,740 --> 00:06:08,934
+have you looked at that
+in Earth Science yet?
+
+143
+00:06:08,934 --> 00:06:10,474
+Standard deviation? Okay.
+
+144
+00:06:10,474 --> 00:06:11,836
+We'll talk about that somewhere else
+
+145
+00:06:11,836 --> 00:06:15,049
+the percentage of increase-decrease. 
+I'm talking about a negative
+
+146
+00:06:15,049 --> 00:06:17,272
+increase in or decrease in percent.
+
+147
+00:06:17,272 --> 00:06:19,395
+And whether that's below one or zero.
+
+148
+00:06:19,395 --> 00:06:21,288
+Okay, so can you give an example
+
+149
+00:06:21,288 --> 00:06:22,855
+of where this could occur?
+
+150
+00:06:22,855 --> 00:06:26,431
+Where I can have less than 1%?
+
+151
+00:06:26,431 --> 00:06:29,113
+- It can occur I think 
+with that fraction.
+
+152
+00:06:29,113 --> 00:06:30,944
+- Okay, but that's just a made up.
+
+153
+00:06:30,944 --> 00:06:32,986
+Can you give me something in real life
+
+154
+00:06:32,986 --> 00:06:36,063
+that I could have less than 1%?
+
+155
+00:06:36,063 --> 00:06:38,118
+You can have an example of 
+more than 100%.
+
+156
+00:06:38,118 --> 00:06:41,763
+So my question is, does
+percent go from 100 to one,
+
+157
+00:06:41,763 --> 00:06:45,164
+or zero, or is there
+anything less in between?
+
+158
+00:06:45,164 --> 00:06:47,463
+What do you think?
+
+159
+00:06:47,463 --> 00:06:50,864
+- Like, a gas tank in your backyard.
+
+160
+00:06:50,864 --> 00:06:51,782
+- Okay.
+
+161
+00:06:51,782 --> 00:06:56,782
+- Like when you call in to get
+it filled and it's really low.
+
+162
+00:06:57,075 --> 00:06:59,397
+The meter's low, and under one.
+
+163
+00:06:59,397 --> 00:07:02,218
+- Okay, that's typically not going to
+
+164
+00:07:02,218 --> 00:07:03,634
+be measured in percent,
+it's going to be measured
+
+165
+00:07:03,634 --> 00:07:05,434
+in how many gallons for your tank,
+
+166
+00:07:05,434 --> 00:07:08,081
+it's going to be a volume situation.
+
+167
+00:07:08,081 --> 00:07:08,882
+- Oh.
+
+168
+00:07:08,882 --> 00:07:10,402
+- Okay, but we'll talk about that.
+
+169
+00:07:10,402 --> 00:07:11,796
+So let's keep that in mind.
+
+170
+00:07:11,796 --> 00:07:13,223
+We're still trying to find an example
+
+171
+00:07:13,223 --> 00:07:15,615
+when we have less than 1%.
+
+172
+00:07:15,615 --> 00:07:17,739
+Think of one, Alice?
+
+173
+00:07:17,739 --> 00:07:20,223
+- Like, on the labels and
+stuff on the vitamins,
+
+174
+00:07:20,223 --> 00:07:24,277
+less than 1% of your
+recommended day or something.
+
+175
+00:07:24,277 --> 00:07:26,876
+- I just so happen to have here, vitamins.
+
+176
+00:07:26,876 --> 00:07:27,699
+You're right.
+
+177
+00:07:27,699 --> 00:07:29,755
+And there are some examples when,
+
+178
+00:07:29,755 --> 00:07:31,113
+if I take this, I'm not going to get
+
+179
+00:07:31,113 --> 00:07:33,822
+my daily 1%, I'm going
+to get less than that.
+
+180
+00:07:33,822 --> 00:07:37,479
+But there's some of these
+in here, ooh, like if I take
+
+181
+00:07:37,479 --> 00:07:41,659
+one of these I get 100% of vitamin C.
+
+182
+00:07:41,659 --> 00:07:43,713
+Now, I drank a glass of
+orange juice this morning,
+
+183
+00:07:43,713 --> 00:07:46,085
+when I took my vitamin.
+
+184
+00:07:47,335 --> 00:07:49,831
+What happened to the percent of vitamin C?
+
+185
+00:07:49,831 --> 00:07:50,992
+Where's it at?
+
+186
+00:07:50,992 --> 00:07:52,419
+- It went over 100.
+
+187
+00:07:52,419 --> 00:07:54,300
+- Over 100.
+
+188
+00:07:54,300 --> 00:07:56,053
+So, there's a real-life when I can
+
+189
+00:07:56,053 --> 00:07:58,753
+get over 100% of something.
+
+190
+00:07:58,753 --> 00:08:01,741
+Anybody get over 100%
+on a quiz or test ever?
+
+191
+00:08:01,741 --> 00:08:04,031
+Over?
+
+192
+00:08:04,031 --> 00:08:05,544
+And, how do you get that?
+
+193
+00:08:05,544 --> 00:08:06,414
+- Bonus.
+
+194
+00:08:06,414 --> 00:08:08,047
+- Ah, bonus questions.
+
+195
+00:08:08,047 --> 00:08:10,884
+So we're good with coming
+up with more than 100%.
+
+196
+00:08:10,884 --> 00:08:11,948
+But we're still trying to figure out
+
+197
+00:08:11,948 --> 00:08:12,978
+if we can think of an example
+
+198
+00:08:12,978 --> 00:08:14,635
+where it's less than one percent.
+
+199
+00:08:14,635 --> 00:08:16,410
+So, we'll go back to that.
+
+200
+00:08:16,410 --> 00:08:17,699
+Any other connections?
+
+201
+00:08:17,699 --> 00:08:18,918
+Let's see if we can connect the ones
+
+202
+00:08:18,918 --> 00:08:21,019
+we haven't done yet.
+
+203
+00:08:21,019 --> 00:08:24,382
+Anything with the leftover ones?
+
+204
+00:08:24,382 --> 00:08:27,172
+- One-fifth and 20% are equal.
+
+205
+00:08:27,172 --> 00:08:31,833
+- Okay. Box right there.
+
+206
+00:08:31,833 --> 00:08:35,079
+They're equivalent to each other, right?
+
+207
+00:08:35,079 --> 00:08:37,758
+How did you know they were equivalent?
+
+208
+00:08:37,758 --> 00:08:40,965
+- Because one-fifth of 100 is 20.
+
+209
+00:08:40,965 --> 00:08:44,185
+- Okay, she did one-fifth
+of 100, because we think of,
+
+210
+00:08:44,185 --> 00:08:47,471
+again we keep going back
+to a hundred for 100%,
+
+211
+00:08:47,471 --> 00:08:48,671
+is 20 out of 100.
+
+212
+00:08:48,671 --> 00:08:50,134
+Excellent. What else?
+
+213
+00:08:50,134 --> 00:08:52,316
+- One-tenth and 10%.
+
+214
+00:08:52,316 --> 00:08:54,592
+- Ah, what can you say
+about one-tenth and 10%?
+
+215
+00:08:54,592 --> 00:08:55,869
+- They're equivalent.
+
+216
+00:08:55,869 --> 00:08:58,771
+- Again, equivalent.
+
+217
+00:08:58,771 --> 00:09:00,489
+Going to go back to Ian.
+
+218
+00:09:00,489 --> 00:09:04,575
+Ian, they're finding
+the percent and the decimal,
+
+219
+00:09:04,575 --> 00:09:07,431
+but there's no fraction there.
+
+220
+00:09:07,431 --> 00:09:12,431
+Fraction with a percent, but
+there's no decimal.
+
+221
+00:09:12,655 --> 00:09:14,381
+Is there a third for all of them?
+
+222
+00:09:14,381 --> 00:09:15,944
+You said there's an equivalent fraction,
+
+223
+00:09:15,944 --> 00:09:18,053
+decimal, percent for all of them.
+
+224
+00:09:18,053 --> 00:09:18,750
+- No.
+
+225
+00:09:18,750 --> 00:09:19,703
+- But there can be.
+
+226
+00:09:19,703 --> 00:09:21,325
+- The decimal would be (inaudible)
+
+227
+00:09:21,325 --> 00:09:22,773
+- So what would you like to add here, Ian?
+
+228
+00:09:22,773 --> 00:09:27,330
+Let's go to the... which one? 
+You pick one.
+
+229
+00:09:27,330 --> 00:09:28,747
+Find the equivalent relationship
+
+230
+00:09:28,747 --> 00:09:32,195
+and see if we can find that
+third piece we're missing.
+
+231
+00:09:34,655 --> 00:09:38,008
+- Well, 150 and six-fourths is equal.
+
+232
+00:09:38,008 --> 00:09:39,812
+- Okay.
+
+233
+00:09:41,252 --> 00:09:44,321
+Do we think they equal each other?
+
+234
+00:09:44,321 --> 00:09:44,736
+- No.
+
+235
+00:09:44,736 --> 00:09:45,431
+- Yeah.
+
+236
+00:09:45,431 --> 00:09:47,664
+- Yeah.
+
+237
+00:09:47,664 --> 00:09:48,773
+- Convincing, but not yet,
+
+238
+00:09:48,773 --> 00:09:50,543
+you haven't convinced everybody.
+
+239
+00:09:50,543 --> 00:09:54,123
+(Classroom chatter)
+
+240
+00:09:55,405 --> 00:09:59,107
+Do you think that equals...?
+
+241
+00:10:00,087 --> 00:10:03,679
+Okay, four-fourths would equal 100%
+
+242
+00:10:03,679 --> 00:10:06,308
+- And one-fourth, each fourth is 25%
+
+243
+00:10:06,308 --> 00:10:07,714
+and if it's two over, then
+
+244
+00:10:07,714 --> 00:10:09,676
+- I've got two-fourths left over.
+
+245
+00:10:09,676 --> 00:10:12,134
+- And that'd be 50.
+
+246
+00:10:12,434 --> 00:10:14,556
+- And they can also equal 0.5.
+
+247
+00:10:14,556 --> 00:10:18,359
+- So now we need the decimal piece.
+
+248
+00:10:18,359 --> 00:10:19,776
+1.5. What did you say, Alan?
+
+249
+00:10:19,776 --> 00:10:22,817
+- Uh, two-fourths can equal 0.5.
+
+250
+00:10:22,817 --> 00:10:24,849
+- So what do you think six-fourths,
+
+251
+00:10:24,849 --> 00:10:26,996
+give me the decimal that I'll put here.
+
+252
+00:10:26,996 --> 00:10:28,529
+We agree that these are equal.
+
+253
+00:10:28,529 --> 00:10:29,992
+- 1.5.
+
+254
+00:10:29,992 --> 00:10:33,533
+- Oh, so there is a
+decimal that goes there.
+
+255
+00:10:33,533 --> 00:10:35,076
+- How'd you get 1.5?
+
+256
+00:10:35,076 --> 00:10:37,834
+- Oh, because one and a half.
+
+257
+00:10:37,834 --> 00:10:40,648
+- Got it? See where the half came from?
+
+258
+00:10:40,648 --> 00:10:42,715
+You said, Ruby, you had told us
+
+259
+00:10:42,715 --> 00:10:45,774
+that one-half and five-tenths were equal.
+
+260
+00:10:45,774 --> 00:10:48,908
+So, if we have that one-half here,
+
+261
+00:10:48,908 --> 00:10:49,813
+we do the same thing,
+
+262
+00:10:49,813 --> 00:10:52,061
+we combine it here to get the 50%.
+
+263
+00:10:52,061 --> 00:10:54,383
+Okay. So, any others?
+
+264
+00:10:54,383 --> 00:10:56,321
+What's the missing piece, Ian?
+
+265
+00:10:56,321 --> 00:10:59,622
+- Uh, you mean like
+another decimal to put in
+
+266
+00:10:59,622 --> 00:11:01,108
+or do you mean like, another...
+
+267
+00:11:01,108 --> 00:11:02,628
+- Well, pick two that are equivalent
+
+268
+00:11:02,628 --> 00:11:05,902
+and give me the missing third piece.
+
+269
+00:11:05,902 --> 00:11:10,326
+- One in one-thousands.
+
+270
+00:11:10,326 --> 00:11:12,093
+- One thousandths.
+
+271
+00:11:12,093 --> 00:11:15,968
+- One thousandths and 0.1%.
+
+272
+00:11:15,968 --> 00:11:17,466
+- Ah. Are these equivalent?
+
+273
+00:11:17,466 --> 00:11:18,649
+- No.
+
+274
+00:11:18,649 --> 00:11:20,047
+- Yes.
+
+275
+00:11:20,047 --> 00:11:21,488
+- No.
+
+276
+00:11:22,798 --> 00:11:23,955
+- You're going to have
+to convince them, Ian.
+
+277
+00:11:23,955 --> 00:11:26,021
+It's the day of Ian
+convincing, I don't know.
+
+278
+00:11:26,021 --> 00:11:28,423
+- They are.
+
+279
+00:11:28,423 --> 00:11:31,977
+- Why do you say they are?
+
+280
+00:11:31,977 --> 00:11:35,703
+- Because one percent over a hundred...
+
+281
+00:11:35,703 --> 00:11:39,174
+(Classroom discussion)
+
+282
+00:11:42,484 --> 00:11:47,115
+- Well, because that's tenth,
+that's not thousandths.
+
+283
+00:11:47,965 --> 00:11:52,965
+- It's not one-tenth, it's
+one-tenth of a percent.
+
+284
+00:11:53,842 --> 00:11:56,230
+So, here's another question then.
+
+285
+00:11:58,840 --> 00:12:00,495
+Are those equivalent?
+
+286
+00:12:00,495 --> 00:12:01,273
+- No.
+
+287
+00:12:01,273 --> 00:12:02,851
+- No. So be careful.
+
+288
+00:12:02,851 --> 00:12:05,649
+That's not one-tenth, that's
+one-tenth of a percent.
+
+289
+00:12:05,649 --> 00:12:07,832
+So could one tenth of
+a percent be the same as
+
+290
+00:12:07,832 --> 00:12:10,270
+one one-thousandths?
+
+291
+00:12:10,270 --> 00:12:11,917
+- Yes.
+
+292
+00:12:11,917 --> 00:12:13,893
+- Yeah, but when you divide it by 100.
+
+293
+00:12:13,893 --> 00:12:16,190
+- Ah, so we keep hearing,
+divide and multiply by a hundred,
+
+294
+00:12:16,190 --> 00:12:21,190
+so when I convert from
+a percent to a decimal,
+
+295
+00:12:21,297 --> 00:12:23,214
+or percent to a fraction,
+
+296
+00:12:23,214 --> 00:12:25,094
+I'm using powers of what?
+
+297
+00:12:25,094 --> 00:12:25,963
+- Ten.
+
+298
+00:12:25,963 --> 00:12:26,587
+- Ten.
+
+299
+00:12:26,587 --> 00:12:30,983
+So the question is: Is that
+the equivalent to that?
+
+300
+00:12:30,983 --> 00:12:32,040
+- Yeah.
+
+301
+00:12:32,040 --> 00:12:34,315
+- How do you want to do it, Ava?
+
+302
+00:12:34,315 --> 00:12:36,637
+- Um.
+
+303
+00:12:36,637 --> 00:12:38,158
+- Can you fill in the missing piece?
+
+304
+00:12:38,158 --> 00:12:39,760
+Can you give me the equivalent decimal
+
+305
+00:12:39,760 --> 00:12:42,639
+to try to convince me
+to go from here to here,
+
+306
+00:12:42,639 --> 00:12:44,659
+with a missing decimal that I have?
+
+307
+00:12:44,659 --> 00:12:46,772
+I have the percent and I have the fraction
+
+308
+00:12:46,772 --> 00:12:48,977
+but we think we're going to
+get all three of them.
+
+309
+00:12:48,977 --> 00:12:51,020
+Can you tell me what decimal that is?
+
+310
+00:12:51,020 --> 00:12:55,199
+- Um, zero and one-thousandth?
+
+311
+00:12:55,199 --> 00:12:57,092
+- How did you get that?
+
+312
+00:12:57,092 --> 00:12:58,519
+- Um, divide by 100.
+
+313
+00:12:58,519 --> 00:13:00,711
+- Ah. Dividing by 100.
+
+314
+00:13:00,711 --> 00:13:01,768
+What do you notice happens
+
+315
+00:13:01,768 --> 00:13:03,532
+when we divide by 100?
+
+316
+00:13:03,532 --> 00:13:04,891
+- It goes back.
+
+317
+00:13:04,891 --> 00:13:07,051
+- Okay, when we divide it...
+
+318
+00:13:07,051 --> 00:13:08,529
+- It moves two decimal places.
+
+319
+00:13:08,529 --> 00:13:10,666
+- And the decimal place
+moves two places over.
+
+320
+00:13:10,666 --> 00:13:12,210
+So did that happen?
+
+321
+00:13:12,210 --> 00:13:15,971
+So, are we convinced that
+these three are now equal?
+
+322
+00:13:15,971 --> 00:13:17,423
+- Yes.
+
+323
+00:13:17,423 --> 00:13:19,478
+- Can we see that now?
+
+324
+00:13:19,478 --> 00:13:22,588
+- But you divide 0.1%
+
+325
+00:13:22,588 --> 00:13:24,488
+you divide it by a hundred to get...
+
+326
+00:13:24,488 --> 00:13:25,584
+Oh yes, you're changing it back
+
+327
+00:13:25,584 --> 00:13:28,839
+because you multiply a decimal
+by 100 so you have that. Okay.
+
+328
+00:13:28,839 --> 00:13:33,216
+- Yeah. Now that Ava gave us the decimal,
+
+329
+00:13:33,216 --> 00:13:35,096
+is it easier to convince ourselves that
+
+330
+00:13:35,096 --> 00:13:37,662
+all three are equivalent to each other?
+
+331
+00:13:37,662 --> 00:13:38,521
+- Yes.
+
+332
+00:13:38,521 --> 00:13:39,740
+- Because now you when you read that,
+
+333
+00:13:39,740 --> 00:13:40,738
+you read it as what?
+
+334
+00:13:40,738 --> 00:13:44,500
+One and one one-thousandths.
+
+335
+00:13:44,500 --> 00:13:45,916
+So are we convinced that we can find
+
+336
+00:13:45,916 --> 00:13:48,284
+an equivalent fraction, decimal, percent
+
+337
+00:13:48,284 --> 00:13:53,093
+for every fraction, every
+decimal and every percent?
+
+338
+00:13:53,093 --> 00:13:54,510
+- Yes.
+
+339
+00:13:54,510 --> 00:13:56,426
+- So why do we have all three?
+
+340
+00:13:56,426 --> 00:13:58,660
+Why not do everything in fractions,
+
+341
+00:13:58,660 --> 00:14:02,197
+do everything in percents,
+or do everything in decimals?
+
+342
+00:14:02,197 --> 00:14:07,197
+Why do we have, in real life,
+all three things going on?
+
+343
+00:14:09,139 --> 00:14:09,934
+- Alice?
+
+344
+00:14:09,934 --> 00:14:11,269
+- Because for some things it's easier
+
+345
+00:14:11,269 --> 00:14:15,299
+to picture it in percent, in decimal.
+
+346
+00:14:15,299 --> 00:14:18,255
+- Okay, so picturing a
+visual to go with it,
+
+347
+00:14:18,255 --> 00:14:20,589
+can you think of an example of one we use
+
+348
+00:14:20,589 --> 00:14:22,411
+or, in real life?
+
+349
+00:14:22,411 --> 00:14:24,837
+- Well, like with money.
+It's like easier to think
+
+350
+00:14:24,837 --> 00:14:27,967
+that it's going to be 25 cents or 0.25
+
+351
+00:14:27,967 --> 00:14:30,079
+than like, 25% of a dollar.
+
+352
+00:14:30,079 --> 00:14:32,668
+Yeah, wouldn't that be
+interesting if they said,
+
+353
+00:14:32,668 --> 00:14:34,723
+how much is that salad today?
+
+354
+00:14:34,723 --> 00:14:37,475
+Well, it's something percent of a dollar.
+
+355
+00:14:37,475 --> 00:14:38,577
+- Okay, Ian?
+
+356
+00:14:38,577 --> 00:14:39,751
+- Well, with fractions,
+
+357
+00:14:39,751 --> 00:14:44,695
+one-third is equal to 0.333 and keep going.
+
+358
+00:14:44,695 --> 00:14:48,689
+- Ah, so if we did with
+fractions or decimals,
+
+359
+00:14:48,689 --> 00:14:53,689
+we might have some repeating...
+

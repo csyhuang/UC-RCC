@@ -1,0 +1,884 @@
+1
+00:00:00,233 --> 00:00:18,054
+(background chatter)
+
+2
+00:00:18,054 --> 00:00:22,930
+- Think out loud, what are we doing?
+
+3
+00:00:22,930 --> 00:00:25,251
+- OK, you know the area
+of the square is 196
+
+4
+00:00:25,251 --> 00:00:27,248
+so you want to
+
+5
+00:00:27,248 --> 00:00:31,892
+(background chatter)
+
+6
+00:00:31,892 --> 00:00:35,076
+- How do we do that?
+
+7
+00:00:35,076 --> 00:00:37,942
+- Take 196, divide it by four.
+
+8
+00:00:37,942 --> 00:00:41,582
+(background chatter)
+
+9
+00:00:41,582 --> 00:00:42,951
+- Hold on, let me hear from somebody
+
+10
+00:00:42,951 --> 00:00:48,053
+that I haven't heard from.
+
+11
+00:00:48,053 --> 00:00:50,165
+- Need to find the square root of 196.
+
+12
+00:00:50,165 --> 00:00:52,033
+- OK, why are we taking the square root
+
+13
+00:00:52,033 --> 00:00:54,710
+instead of dividing by four?
+
+14
+00:00:54,710 --> 00:00:58,356
+- Because all sides are equal?
+
+15
+00:00:58,356 --> 00:00:59,516
+- Well, if all sides were equal,
+
+16
+00:00:59,516 --> 00:01:02,058
+that's why we would divide by four.
+
+17
+00:01:02,058 --> 00:01:13,308
+(background chatter)
+
+18
+00:01:13,308 --> 00:01:17,871
+- Because to find the area of the square
+
+19
+00:01:17,871 --> 00:01:20,296
+you have to square it.
+
+20
+00:01:20,296 --> 00:01:22,828
+- So the opposite of
+squaring is square root.
+
+21
+00:01:22,828 --> 00:01:29,839
+- So, we would divide by
+four if we were given the...
+
+22
+00:01:29,839 --> 00:01:31,138
+perimeter.
+
+23
+00:01:31,138 --> 00:01:32,475
+If we were given the
+perimeter of the square
+
+24
+00:01:32,475 --> 00:01:33,380
+we would divide by four.
+
+25
+00:01:33,380 --> 00:01:37,060
+But we were given the area,
+so we need to square root.
+
+26
+00:01:37,060 --> 00:01:38,685
+- [Several] 14.
+
+27
+00:01:38,685 --> 00:01:41,351
+- OK, so the side lengths are 14.
+
+28
+00:01:41,351 --> 00:01:44,736
+- Multiply times 4.
+
+29
+00:01:44,746 --> 00:01:53,605
+- It's 56.
+
+30
+00:01:53,605 --> 00:01:56,520
+- Anybody see a problem with this?
+
+31
+00:01:56,520 --> 00:02:01,739
+(background chatter)
+
+32
+00:02:01,739 --> 00:02:07,328
+OK, so this side is on
+the inside of the figure.
+
+33
+00:02:07,328 --> 00:02:11,192
+So it doesn't count, so
+instead of doing 14 times 4,
+
+34
+00:02:11,192 --> 00:02:22,188
+- [Several] We do 14 times 3.
+
+35
+00:02:22,188 --> 00:02:26,920
+(background chatter)
+
+36
+00:02:26,920 --> 00:02:30,402
+- How do we find the
+perimeter of a semi-circle?
+
+37
+00:02:30,402 --> 00:02:35,301
+(background chatter)
+
+38
+00:02:35,301 --> 00:02:37,693
+- 2 pi R divided by 2 .
+
+39
+00:02:37,693 --> 00:02:40,142
+- 2 pi R divided by 2?
+
+40
+00:02:40,142 --> 00:02:52,188
+(background chatter)
+
+41
+00:02:52,188 --> 00:02:54,661
+- How do you find the
+perimeter of a semi-circle?
+
+42
+00:02:54,661 --> 00:03:04,817
+- 2 pi R divided by 2.
+
+43
+00:03:04,817 --> 00:03:08,433
+- So the radius, that means 7, 7 is 14.
+
+44
+00:03:08,433 --> 00:03:14,967
+2 times pi times 7.
+
+45
+00:03:14,967 --> 00:03:19,436
+So that should be 2 times 3.14...
+
+46
+00:03:19,436 --> 00:03:24,436
+(background chatter)
+
+47
+00:03:29,513 --> 00:03:32,927
+So the whole thing is 53.38.
+
+48
+00:03:32,927 --> 00:03:48,367
+(background chatter)
+
+49
+00:03:48,367 --> 00:03:50,608
+- So then, 2 pi R divided by 2?
+
+50
+00:03:50,608 --> 00:03:53,173
+- I got 2 times pi times 7 divided by two
+
+51
+00:03:53,173 --> 00:03:54,776
+cause the radius is only 7
+
+52
+00:03:54,776 --> 00:03:57,828
+cause that line was supposed to be 14.
+
+53
+00:03:57,828 --> 00:04:00,986
+So 14 divided by 2 is 7.
+
+54
+00:04:00,986 --> 00:04:11,736
+(background chatter)
+
+55
+00:04:11,736 --> 00:04:14,661
+- Here, Skye, can you take this?
+
+56
+00:04:14,661 --> 00:04:18,702
+Thank you.
+
+57
+00:04:18,702 --> 00:04:20,128
+Put the final answer on there
+
+58
+00:04:20,128 --> 00:04:23,960
+and then quick to the next problem.
+
+59
+00:04:23,960 --> 00:04:38,344
+(background chatter)
+
+60
+00:04:38,344 --> 00:04:54,940
+- C squared.
+
+61
+00:04:54,940 --> 00:04:58,602
+- OK, all of the line
+segments in the diagram
+
+62
+00:04:58,602 --> 00:05:00,539
+of the bathroom floor shown below
+
+63
+00:05:00,539 --> 00:05:02,792
+are either vertical or horizontal.
+
+64
+00:05:02,792 --> 00:05:05,533
+How many one inch square
+tiles would it take
+
+65
+00:05:05,533 --> 00:05:10,478
+to cover the figure?
+
+66
+00:05:10,478 --> 00:05:15,535
+(background chatter)
+
+67
+00:05:15,535 --> 00:05:25,146
+- Don't you got to work
+it into two rectangles?
+
+68
+00:05:25,146 --> 00:05:28,662
+- I think it'd be easier
+of you did it the long way.
+
+69
+00:05:28,662 --> 00:05:44,253
+(background chatter)
+
+70
+00:05:44,253 --> 00:05:46,355
+- Does it matter which way you split it?
+
+71
+00:05:46,355 --> 00:05:56,233
+(background chatter)
+
+72
+00:05:56,233 --> 00:05:59,844
+Either way you're going to
+have to split something, right?
+
+73
+00:05:59,844 --> 00:06:06,659
+(background chatter)
+
+74
+00:06:06,659 --> 00:06:16,956
+You can determine either
+of the missing sides.
+
+75
+00:06:16,956 --> 00:06:19,116
+- In order to find the area of a rectangle
+
+76
+00:06:19,116 --> 00:06:37,480
+you must apply (inaudible).
+
+77
+00:06:37,480 --> 00:06:41,377
+7 times 6 is 42.
+
+78
+00:06:41,377 --> 00:06:44,266
+- Where is...I don't
+see a 7 in my problem.
+
+79
+00:06:44,266 --> 00:06:48,424
+(background chatter)
+
+80
+00:06:48,424 --> 00:06:50,304
+OK, but what does 7 represent?
+
+81
+00:06:50,304 --> 00:06:51,639
+I don't see a 7, what is...?
+
+82
+00:06:51,639 --> 00:06:53,601
+- It represents the length of this.
+
+83
+00:06:53,601 --> 00:06:54,831
+- What length?
+
+84
+00:06:54,831 --> 00:06:56,782
+- From the line on down to 6.
+
+85
+00:06:56,782 --> 00:06:58,302
+- OK.
+
+86
+00:06:58,302 --> 00:06:59,742
+Could you label that with a 7?
+
+87
+00:06:59,742 --> 00:07:07,787
+Cause I still don't see 7.
+
+88
+00:07:07,787 --> 00:07:31,818
+(background chatter)
+
+89
+00:07:31,818 --> 00:07:36,164
+- It said, how many one
+inch squares (inaudible).
+
+90
+00:07:36,164 --> 00:07:38,532
+- OK, so you want to multiply what by 12?
+
+91
+00:07:38,532 --> 00:07:39,786
+- 87.
+
+92
+00:07:39,786 --> 00:07:41,203
+- 87 times 12?
+
+93
+00:07:41,203 --> 00:07:43,012
+- [Several] Why?
+
+94
+00:07:43,012 --> 00:07:47,865
+- But you made the 12 into a 7.
+
+95
+00:07:47,865 --> 00:07:50,084
+- OK, so you want to do
+85 and divide it by 12?
+
+96
+00:07:50,084 --> 00:07:51,730
+- Where are you all getting 12 from?
+
+97
+00:07:51,730 --> 00:07:54,030
+- A foot is 12 inches.
+
+98
+00:07:54,030 --> 00:07:58,511
+- There's one inch, not twelve.
+
+99
+00:07:58,511 --> 00:08:04,570
+- Oh, because I found the 87 feet squared.
+
+100
+00:08:04,570 --> 00:08:06,463
+I found the area of it,
+but then you've got to find
+
+101
+00:08:06,463 --> 00:08:08,506
+how many 1 inch, so you
+multiply it times 12
+
+102
+00:08:08,506 --> 00:08:21,008
+because there's 12 inches in a foot.
+
+103
+00:08:21,008 --> 00:08:23,169
+- So what are we multiplying with?
+
+104
+00:08:23,169 --> 00:08:25,246
+- [Several] 12.
+
+105
+00:08:25,246 --> 00:08:28,868
+- So we're doing 87 times 12?
+
+106
+00:08:28,868 --> 00:08:33,846
+(background chatter)
+
+107
+00:08:33,846 --> 00:08:36,743
+- Shouldn't you divide though?
+
+108
+00:08:36,743 --> 00:08:38,276
+- Try dividing.
+
+109
+00:08:38,276 --> 00:08:40,377
+What do you get when you divide?
+
+110
+00:08:40,377 --> 00:08:59,937
+(background chatter)
+
+111
+00:08:59,937 --> 00:09:01,180
+- Say that again.
+
+112
+00:09:01,180 --> 00:09:03,153
+- In one square foot,
+there are 144 inches.
+
+113
+00:09:03,153 --> 00:09:06,880
+Instead of going by 12
+which I said originally,
+
+114
+00:09:06,880 --> 00:09:08,900
+shouldn't we be doing it by 144?
+
+115
+00:09:08,900 --> 00:09:12,557
+Since one square foot is
+how many inches it is?
+
+116
+00:09:12,557 --> 00:09:16,016
+- But I've got 87 square foot.
+
+117
+00:09:16,016 --> 00:09:20,763
+- But I'm saying in each
+foot, there's 144 inches.
+
+118
+00:09:20,763 --> 00:09:26,162
+So instead of 12, there
+are 144 square inches.
+
+119
+00:09:26,162 --> 00:09:29,018
+So instead of multiplying by
+12 cause that would be wrong
+
+120
+00:09:29,018 --> 00:09:36,656
+now that I think about it,
+we should multiply it by 144.
+
+121
+00:09:36,656 --> 00:09:40,777
+(background chatter)
+
+122
+00:09:40,777 --> 00:09:42,298
+- OK, let me ask you guys this:
+
+123
+00:09:42,298 --> 00:09:46,140
+what if we converted all
+of the feet to inches
+
+124
+00:09:46,140 --> 00:09:49,137
+before we found our area?
+
+125
+00:09:49,137 --> 00:09:52,434
+- Could we do it that way?
+
+126
+00:09:52,434 --> 00:09:54,442
+- [Several] Yeah.
+
+127
+00:09:54,442 --> 00:09:59,258
+OK, let's try it that way.
+
+128
+00:09:59,258 --> 00:10:01,872
+What would 9 be in inches?
+
+129
+00:10:01,872 --> 00:10:03,554
+9 feet in inches?
+
+130
+00:10:03,554 --> 00:10:05,540
+- [Several] 108.
+
+131
+00:10:05,540 --> 00:10:09,116
+- 108? What would 5 be in inches?
+
+132
+00:10:09,116 --> 00:10:11,693
+60, thank you LaDarius.
+
+133
+00:10:11,693 --> 00:10:15,977
+7 in inches, 7 feet?
+
+134
+00:10:15,977 --> 00:10:17,300
+- 84.
+
+135
+00:10:17,300 --> 00:10:18,948
+- 84, thank you Kashmir.
+
+136
+00:10:18,948 --> 00:10:20,817
+And 6?
+
+137
+00:10:20,817 --> 00:10:22,268
+- 72.
+
+138
+00:10:22,268 --> 00:10:24,666
+- 72, thank you Sierra.
+
+139
+00:10:24,666 --> 00:10:27,639
+OK, we know what all
+our units are in inches.
+
+140
+00:10:27,639 --> 00:10:29,065
+Now when we find the area,
+
+141
+00:10:29,065 --> 00:10:34,883
+we're going to be finding square inches.
+
+142
+00:10:34,883 --> 00:10:39,223
+Somebody want to take over from here?
+
+143
+00:10:39,223 --> 00:10:41,465
+Skye, do you mind if you continue writing?
+
+144
+00:10:41,465 --> 00:10:43,287
+- Uhm yeah. No, I don't mind.
+
+145
+00:10:43,287 --> 00:10:48,999
+- Thank you.
+
+146
+00:10:48,999 --> 00:10:53,855
+You can erase all of it.
+
+147
+00:10:53,855 --> 00:11:02,571
+My eraser got stolen.
+
+148
+00:11:02,571 --> 00:11:08,212
+- So, do we do this the same way
+
+149
+00:11:08,212 --> 00:11:10,929
+but multiply the length
+and the width, right?
+
+150
+00:11:10,929 --> 00:11:12,890
+- Yeah.
+
+151
+00:11:12,890 --> 00:11:21,064
+(background chatter)
+
+152
+00:11:21,064 --> 00:11:22,142
+- It's what?
+
+153
+00:11:22,142 --> 00:11:27,448
+- 6,480.
+
+154
+00:11:27,448 --> 00:11:34,808
+(background chatter)
+
+155
+00:11:34,808 --> 00:11:36,183
+- It's multiplying.
+
+156
+00:11:36,183 --> 00:11:37,599
+- But that's wrong though.
+
+157
+00:11:37,599 --> 00:11:42,053
+Don't you still have to subtract...
+
+158
+00:11:42,053 --> 00:11:46,417
+I mean, like 84 minus 60
+because they're part of the...
+
+159
+00:11:46,417 --> 00:11:48,472
+- No, we didn't convert the 12.
+
+160
+00:11:48,472 --> 00:11:49,970
+We converted the 7.
+
+161
+00:11:49,970 --> 00:11:51,269
+- Oh, OK.
+
+162
+00:11:51,269 --> 00:11:53,395
+- So it's still already changed.
+
+163
+00:11:53,395 --> 00:11:55,854
+Good question though.
+
+164
+00:11:55,854 --> 00:12:08,928
+(background chatter)
+
+165
+00:12:08,928 --> 00:12:10,006
+What's the total?
+
+166
+00:12:10,006 --> 00:12:11,806
+- 12,528.
+
+167
+00:12:11,806 --> 00:12:14,686
+I just checked it originally
+with the 87 times 144
+
+168
+00:12:14,686 --> 00:12:15,789
+and that was correct.
+
+169
+00:12:15,789 --> 00:12:17,587
+You are supposed to multiply by 144.
+
+170
+00:12:17,587 --> 00:12:18,726
+- Good job.
+
+171
+00:12:18,726 --> 00:12:19,990
+- What did you say it was?
+
+172
+00:12:19,990 --> 00:12:24,010
+- 12,528.
+
+173
+00:12:24,010 --> 00:12:26,418
+- How'd you get that?
+
+174
+00:12:26,418 --> 00:12:39,989
+(background chatter)
+
+175
+00:12:39,989 --> 00:12:43,201
+- OK. Next problem.
+
+176
+00:12:43,201 --> 00:12:46,947
+No? You have a question?
+
+177
+00:12:46,947 --> 00:12:48,410
+Yes.
+
+178
+00:12:48,410 --> 00:13:00,647
+(inaudible)
+
+179
+00:13:00,647 --> 00:13:04,941
+- When you get 1000?
+
+180
+00:13:04,941 --> 00:13:08,900
+When did you have 1,044?
+
+181
+00:13:08,900 --> 00:13:13,509
+(background chatter)
+
+182
+00:13:13,509 --> 00:13:15,541
+Oh, and then you multiply by 12 again.
+
+183
+00:13:15,541 --> 00:13:17,491
+Because guess what 12 times 12 is.
+
+184
+00:13:17,491 --> 00:13:20,061
+- [Several] 144.
+
+185
+00:13:20,061 --> 00:13:22,280
+- So that's what you're doing.
+
+186
+00:13:22,280 --> 00:13:25,032
+You're multiplying by
+144, you just broke 144 up
+
+187
+00:13:25,032 --> 00:13:27,412
+into 12 and 12, right?
+
+188
+00:13:27,412 --> 00:13:34,040
+(background chatter)
+
+189
+00:13:34,040 --> 00:13:36,350
+- They way you get 15 from
+when the outside is 10
+
+190
+00:13:36,350 --> 00:13:40,612
+before the 15....(inaudible).
+
+191
+00:13:40,612 --> 00:13:43,015
+- From the very, very
+top to the very bottom.
+
+192
+00:13:43,015 --> 00:13:45,278
+- Thank you, because now
+we know that that's 1 inch.
+
+193
+00:13:45,278 --> 00:13:47,310
+- Can't you break it up?
+
+194
+00:13:47,310 --> 00:13:51,739
+- Now that we know the
+basic triangle in the back.
+
+195
+00:13:51,739 --> 00:13:54,517
+- That means you're breaking it up into...
+
+196
+00:13:54,517 --> 00:13:57,990
+a triangle and a square?
+
+197
+00:13:57,990 --> 00:14:02,819
+- Yes.
+
+198
+00:14:02,819 --> 00:14:04,630
+The square on the bottom.
+
+199
+00:14:04,630 --> 00:14:10,514
+- I'm sorry, Jacob?
+
+200
+00:14:10,514 --> 00:14:13,281
+The base of what?
+
+201
+00:14:13,281 --> 00:14:15,926
+- The base of the triangle in the back.
+
+202
+00:14:15,926 --> 00:14:24,040
+(background chatter)
+
+203
+00:14:24,040 --> 00:14:27,976
+- But what's the base?
+
+204
+00:14:27,976 --> 00:14:30,658
+- 5.
+
+205
+00:14:30,658 --> 00:14:34,232
+- The height is 5 and the base is 15.
+
+206
+00:14:34,232 --> 00:14:34,315
+(background chatter)
+
+207
+00:14:41,315 --> 00:14:43,056
+- Well yeah, but I was
+asking Jacob what the base
+
+208
+00:14:43,056 --> 00:14:47,259
+of the triangle was.
+
+209
+00:14:47,259 --> 00:14:50,938
+Can you explain why the
+base of the triangle is 18?
+
+210
+00:14:50,938 --> 00:14:56,255
+- Because the width of the rectangle is 10
+
+211
+00:14:56,255 --> 00:14:59,930
+and I have to add the
+sides of the triangle.
+

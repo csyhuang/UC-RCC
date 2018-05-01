@@ -1,0 +1,133 @@
+Right here. Okay, so is that gonna tell us what one of our asymptotes is?
+Yeah.
+Yes, because your asymptote is where this would be undefined, right? So, it's gonna be X equals what?
+Positive two?
+Positive, but, okay, if we put positive two there, we have two plus two.
+So, it'd be negative two?
+Negative two, that's why we have an asymptote that X equals negative two, okay? Now is there another number out here?
+No. No, so what would that other number be? See there is one here, but there's not one here.
+So it'd just be zero.
+So, it'd just be zero. So, does that tell you what your other asymptote is? Y equals zero, 'cause f of x stands for... that's your y isn't it? Okay. So, you can tell by looking at the function itself, what your asymptotes are gonna be. Okay, tell me what this asymptote's gonna be, your x, your vertical asymptote.
+ Zero?
+ Zero, X equals zero, so you're gonna be drawing your asymptote right there. What about your y? Remember how we covered this up, and you would have y equals what?
+Negative one?
+Negative one, y plus negative one. So, the function itself tells you your asymptotes, doesn't it? Okay, does that help?
+Yeah.
+ Okay. 
+ All right, so...
+ No, but it's like that right here though.
+ But see she has negative two.
+ Right here.
+ Then how did she get the, did we write the first one wrong then?
+ 'Cause x equals zero.
+ No, because she got zero and negative two, and that's what I got. You wrote it down wrong.
+ Where?
+ Right here, 'cause zero is supposed to be on top. Oh, so, no, never mind, you got it right.
+ It's the same. I just switched these around. No, but you're right because you know how x is vertical, okay, so, for this one it's going to be, the x is going to be negative 2, right?
+Mm-hmm.
+Okay I got it.
+ So wait, the asymptote isn't the same thing as the parent function, right?
+No.
+Did you have the graph? Did it turn out?
+And how do you know, up here?
+Check this thing out.
+Huh?
+ So, what would the parent function be?
+That's what I was trying to work out for you.
+ Did you find the parent function?
+For what?
+It's not x squared, is it?
+One over x.
+ All of them is going to be one over x.
+'Cause you can't just put x. She said put a one divided by x. That'd be the parent function.
+ All right.
+How do you know which is the parent function?
+It's the one that's consistent.
+That first one that you put.
+It's the one that's exactly in between the first and third quadrant. This is your parent function. This is your parent function.
+This one and this one, right? So blue right there and right there.
+But you totally ruined it.
+Yeah.
+Yeah, the colors I used are kind of weird.
+Do you have a red? Are you using it?
+This is the graph, right? So, if it's the first one and the third one, right?
+Hey wait, that first thingy comes out at negative three, not negative two.
+Hm?
+ This first little line right here comes out negative three, not negative two. Is the parent function still, I mean, is the asymptote still negative two?
+I think
+ 
+So, how is one negative two?
+ You gotta switch it, because the one x plus two when you use the calculator you go into a negative, so the y would be zero because it's not going to negative.
+How would the y be zero, the y is a negative?
+You got em' switched, all you gotta do is switch em'.
+I'm not understanding. She busy.
+Okay. Oh, I know why. It's because we don't have no y in the equation. Like this one, it'd have a y. The y would be negative one. And on this one, we don't have it, so, automatically the y would be zero and the x would be negative two.
+That makes more sense.
+ All right you got it.
+Yeah I had to think about that.
+
+ So, that's how you do it.
+So, then the asymptote is the...  right here?
+ Uh-huh.
+Which one?
+So, then the translation is the down one.
+Wait, what?
+The translation is the down one.
+So, what is this down?
+ Let me plug it in. Divide by x parentheses... One over, divided by x minus one.
+Okay, so we don't need no parenthesis?
+ No.
+ I'm almost done.
+You're crossing it, that's the y, yeah. But that's the x. This is x and this is y.
+Yes.
+ Well, look on the sheet. It will show you that, um...
+I basically used this one as an example. It's like the same type of format that the problem is.
+Okay.
+Okay, yeah that makes sense.
+So, the asymptote is zero.
+It says h equals x .
+Yeah.
+Yeah, so zero, yeah wait... Yeah.
+ This is the graph you start with?
+Yeah, that makes more sense 'cause that's how the graph is. Okay, we got the asymptote. X equals, is it zero? Yeah, and then y equals negative one. And the translation is one unit down. Do you have a value?
+Yeah.
+Uh-oh.
+So, it'd be three units down. We would put this on negative three cause that's y. So, since it's y, we would have to put it on negative three and zero.
+Right?
+ 'Cause it's the same as this.
+Yeah.
+And then y equals negative three.
+Yeah, x equals zero and y equals negative three. Translation, three units down.
+Wherever the lines, like, go the furthest but don't touch.
+Okay.
+Oh, you're just marking down the asymptotes?
+Yeah. She said she forgot, yeah, so I guess you can just put up there yellow.
+Okay. Are you on number four?
+Yes.
+So, on number four it would be five units to the left.
+Number four, yeah, yeah, you're good.
+Okay.
+She just told me, she just told,
+I just wrote it wrong I guess, then.
+How do you know how to graph it with... ?
+Like in the calculator?
+In here. And it's really not good to graph it here.
+Yeah.
+Okay.
+This seems to be not that hard, now that I get it.
+Really.
+Like, remember how Grayson thought that it was three I knew she was wrong... .
+I mean, I didn't think it was wrong.
+You just instinctively knew that it was wrong.
+
+ Is it going to have a vertical shift also?
+Yep, up, down, down.
+Okay, up or down?" Down how many?
+Two.
+On number five?
+Oh, three. It would be three.
+Three. Okay, so you're going to have two shifts on number five, right? Okay?
+Uh huh. I haven't plugged it in yet.
+We're going to have a shift here, right? What would make that undefined? If x equals...? How about positive two? Because two minus two is zero. I mean, the zero is where you needed to be. So, x equals two, right? Okay, now, what are we going to do with this thing out here? That's a vertical shift of y equals... negative three. Y equals negative three.
+
+So, we have two translations, okay? Two units right and...

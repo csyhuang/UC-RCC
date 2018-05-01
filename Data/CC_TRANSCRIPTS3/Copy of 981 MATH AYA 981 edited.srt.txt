@@ -1,0 +1,138 @@
+ Okay, you guys based on the answer tickets that we took yesterday, what we realized, or what I realized, is that there's still confusion on going from the general to factor. General to vertex, or vice versa on any of those three particular forms. Also, another objective we're gonna do is we're gonna figure out- determine why each form is important. So, the first thing I want you guys to do is, I want you guys to look at number one on that task card. Can someone read it out loud?
+ I will.
+ Yeah, Drew.
+ The Angry Bird was blasted through a slingshot at the initial height of 45 meters. The bird's initial velocity was 14.7 meters per second. Write an equation that gives the height of the Angry Bird as a function of time.
+ Okay, so what I need you guys to do is I need you guys to write that equation on the white board.
+
+ Okay, so now I want people to put it up on the board. Okay.  Okay, so can you guys look around to each other too, I know you guys are gonna want to,  like, show everybody what people are getting.
+ Yay...Cool...
+ Okay, guys, these are the four things, or the three things that I saw. Okay, so right here. So, if you notice a lot of you guys, you guys had the first one. Negative four point nine 'x' squared plus 14.7 'x' plus 49. Can someone tell me in words how you were able to figure that out?
+You just did it.
+What was the question?
+ So, can someone tell me how, like, relate this general formula to the story. Since you've read already, I wants someone else to speak. So who? Okay, Jamilah, can you explain how you were able to get this equation?
+So, the height is c, and the original equation is a 'x' squared, plus b 'x', plus c. And so the initial height is b, which is the y intercept. And then b is the initial velocity? And then negative four point nine is just the random number that they chose.
+ So, you guys, is it random?
+No.
+It's the scale factor.
+ Is there any other terminology for that?
+It's the starting point.
+ Hey guys, do you think it's the starting point? Is it the starting point? Or, what else...?
+It's gravity.
+ So wait, what does this negative four point nine mean?
+That's the constant. Remember, it's gravity.
+ So, I heard...
+Scale factor?
+ Okay, scale factor, but relatively to your projectile motion, what is it?
+Acceleration?
+ Acceleration. So you guys....
+ It's acceleration. So, right now, what I want you guys to do... Oh, actually once again, right here- here are different forms of an equation that I saw. So, right here what do you think? Can someone tell me what's wrong with this particular one?
+They don't have a squared and they don't have an 'x' after the 4.2 
+Okay, so, Ravelle, what's the problem with this one?
+There's no 'y' intercept or... .
+ So, once again, I still notice, now I want to go back to the original equation. Okay, someone tell me in words. Ah, Jamilah, she did a fantastic job explaining relatively to the a 'x' squared, plus b 'x', plus c, but according to the story, can someone refer to the story back to the general equation?
+Can you rephrase the question?
+ Yes. How are we able to get 14.7 here? How did we get 49 here? How do you know what stuff to use?
+The 49 is the initial height in meters, so that one's gonna be your 'y' intercept, And 14.7 is the initial velocity, and the initial velocity is always 'b' so... 
+ Awesome. So, now what I want you guys to do is, I want you to go to number two. So, I want you to put that on the white board.
+Can I read it again?
+ Well, actually, no. Let's have, Fatima, can you read number two?
+ What does the 'x' axis represent in this story? What does the 'y' axis represent in our story?
+ Okay, let's do that quickly.
+I have a question.
+ Yes.
+Did 'x', never mind, I'll wait until after this.
+ So, let's look around. So, a lot of people are getting what?
+'X' equals time. 'Y' equals height.
+ So Markeisha, what was your question?
+I was gonna say, could 'x' be distance as well?
+ Can 'x' be distance, people?
+No.
+No. If it wanted to. 
+ Why not?
+Because, it's meters per second, not meters per 
+ So, does that make sense?
+
+ All right. So, now what I want you guys to do...  So, so far, let's recap what we've done so far. Can everyone generalize what we've just done in the first couple of questions?
+We set up the equation and we figured out our 'x' and y axes, in the general form.
+ Okay, right now, what I want you guys to do is, I want you guys to work on number four. Okay, someone read that out loud that hasn't read out loud yet.
+I haven't.
+ So, Leslie, you want to read? Number four?
+ From the equation that you got from question number one, show the steps on how you translate the general form into the factor form.
+ Now what I want you guys to do, I want you to turn and talk about the strategies you're planning to use to work out this problem.
+
+ Okay, you guys, I'm gonna stop class real quick. You guys, I'm gonna stop class real quick.
+ Okay, so Mary, can you just ask the question that you just asked me?
+She asked me.
+ Okay, so one of you guys ask the question that we just talked about. So Markeisha, Jamilah?
+Can we use the box to figure it out?
+Yeah, you can.
+ Why? How? Hang on. Put that back away. So, you guys. So the question is... Okay, so Autumn just asked, can she use the diamond and rectangle method as opposed to  and why?
+
+ You guys... You guys, let's listen, please. Mary. Sorry.
+You figure it out by dividing negative four point nine by all the numbers. So, if you divide negative four point nine 'x' squared, by negative four point nine, you'll get 'x' squared. 14.7 divided by negative four point nine is negative three. And then 49 divided by negative four point nine is negative ten?
+ Okay, I'll stop you right there. So, back to what I said. Okay, so the diamond-rectangle method, people. So, when you are doing this, what are you finding?
+We're finding the box.
+ You're finding the box. So, what are those things outside of the box here? What are they called.
+The factors.
+ The factors. Okay. Okay, when you're using, it seems like a lot of you guys are using the quadratic formula. What are you trying to find then?
+
+ All right. So, right now... So, Autumn. So, you have questions on that right? So, later on... So, do you mind just moving over there real quick? Because Leslie said that you got it down. So, you guys, so take two more minutes. We're gonna see both methods.
+
+So, are you done yet?
+No.
+
+ Okay, you guys stop. Okay, right now,  I'm gonna put this up right here. We're gonna put up the most common mistakes that people tend to do. Okay, so right now, so how many people got negative five and two?
+ No...no...no.
+ So, what was it?
+Negative two .
+Oh, okay, I got negative two and five. My bad.
+ Okay, so right now. What do you think was the mistake that she did?
+She didn't square it.
+ She didn't what?
+She didn't square. And then she re-fixed it.
+ She fixed it?
+Yeah, she copied mine.
+It's supposed to be negative 14.7.
+ Is that what its supposed to be?
+Yeah.
+ And is that what she's missing?
+Yeah.
+ Okay, guys, so that's one mistake that happens quite a bit. Also, let's look at... Hey, you guys, what form is this right here? What method did they use?
+Box and diamond method.
+ Box and diamond method, right?
+Okay, so, you guys, what do you call these two items right here? What is it missing?
+The number at the beginning. The negative four.
+ And what is that again? What is the name of the four point nine again? Scale factor or what?
+Acceleration!
+ Acceleration. So, you guys, if you notice, this is something that tends to be missing also. So, now we will look at...ah...
+We have the same thing.
+We all have the same thing.  So, same thing, same thing. All right. Okay. So, right now I think we looked at all the common mistakes that people tend... Oh actually,  So, now what I want is... so, how many methods do people use?
+Two?
+Okay, so tell me one what was one method? What was the method that you used?
+Quadratic formula?
+Okay, Caleb? What was another method that people used?
+The box and diamond.
+ The box and diamond, right? So, right now, I want people to explain their thinking. So, what I want you to do is, okay, since... Tiffany, since you said you did the quadratic formula, you're gonna go up and talk about it. Just talk about the process of what you did.
+
+ How are you gonna explain the process?
+ All right. So, the  
+Can we do it on this hard board?
+ Yeah. Okay. Let's do it on this hard board.
+ Make sure you talk to us, okay?
+ Okay, while you're writing things down, talk about how you're going through the process.
+So, I used the quadratic formula?
+ So, what are you doing right now?
+I'm writing it.
+ Writing what?
+The quadratic formula.
+ Okay. So you see, instead of me asking, I just want you to explain all the things that you're doing.
+Okay.
+So, you guys need some visuals... This will be your a, your b, and your c. So, you plug all this into this.
+ Okay, so let's  do it.
+ I have a question.
+ Yes.
+ What if the b is already negative?
+ That's a good question.
+
+ So, you guys, while Tiffany is doing the quadratic formula, think about what common mistakes that we just talked about earlier, and what mistakes that she may or may not have.
+

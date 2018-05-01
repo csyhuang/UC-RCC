@@ -1,0 +1,1929 @@
+﻿1
+00:00:00,260 --> 00:00:01,300
+And...
+
+2
+00:00:01,300 --> 00:00:02,780
+So I wanted to 
+talk about impulse which
+
+3
+00:00:02,780 --> 00:00:05,300
+I think is the important 
+part about brain injuries.
+
+4
+00:00:05,300 --> 00:00:07,740
+I guess, because it has to do 
+with the time you have
+
+5
+00:00:07,740 --> 00:00:09,860
+and the force you feel.
+
+6
+00:00:09,860 --> 00:00:12,780
+So as we know...
+ Impulse...
+
+7
+00:00:16,380 --> 00:00:17,620
+equals
+
+8
+00:00:17,620 --> 00:00:20,500
+force times the change in time.
+
+9
+00:00:22,580 --> 00:00:25,380
+So that's impulse.
+
+10
+00:00:25,380 --> 00:00:26,660
+So when you get hit,
+
+11
+00:00:26,660 --> 00:00:28,540
+if you have... anyone 
+ever played football,
+
+12
+00:00:28,540 --> 00:00:32,380
+you have little helmets or if you've ever 
+ridden a bike, they've little pads on there,
+
+13
+00:00:32,380 --> 00:00:33,580
+and whenever you get hit,
+
+14
+00:00:33,580 --> 00:00:37,900
+those pads are on there to 
+make the time be a little bit longer.
+
+15
+00:00:37,900 --> 00:00:41,060
+So if you have bigger time,
+
+16
+00:00:41,060 --> 00:00:43,380
+if you have a big force, 
+it's going to decrease.
+
+17
+00:00:43,380 --> 00:00:45,140
+Because it's force / time.
+
+18
+00:00:45,140 --> 00:00:46,860
+Right?
+
+19
+00:00:46,860 --> 00:00:49,900
+So what they're trying to do is
+
+20
+00:00:49,900 --> 00:00:51,700
+helmets is...
+
+21
+00:00:51,700 --> 00:00:52,620
+This is one of the questions.
+
+22
+00:00:52,620 --> 00:00:55,660
+We have what we tell 'em 
+and you use science to prove it.
+
+23
+00:00:55,660 --> 00:00:58,060
+It's... What will you 
+tell them to do?
+
+24
+00:00:58,060 --> 00:00:59,900
+So... -Edward, let me just say...
+
+25
+00:00:59,900 --> 00:01:03,340
+Sorry to... 
+But to clarify the design,
+
+26
+00:01:03,340 --> 00:01:05,820
+Yes, the design of the helmet
+
+27
+00:01:05,820 --> 00:01:07,860
+So how would 
+you design the helmet
+
+28
+00:01:07,860 --> 00:01:09,300
+so that you 
+could have less force?
+
+29
+00:01:09,300 --> 00:01:10,860
+Because if you have less force,
+
+30
+00:01:10,860 --> 00:01:11,740
+that means that
+
+31
+00:01:11,740 --> 00:01:14,780
+your brain is going to move 
+less because of momentum.
+
+32
+00:01:14,780 --> 00:01:17,460
+So you're going to have 
+less momentum coming at you.
+
+33
+00:01:17,460 --> 00:01:19,020
+And...
+
+34
+00:01:19,020 --> 00:01:21,820
+So is that completely inelastic?
+
+35
+00:01:23,460 --> 00:01:24,260
+Ask Ether
+
+36
+00:01:24,260 --> 00:01:25,980
+That's completely 
+inelastic, right?
+
+37
+00:01:25,980 --> 00:01:28,340
+When something is not moving 
+and then you just hit it and then...
+
+38
+00:01:28,340 --> 00:01:29,300
+Yeah.
+
+39
+00:01:29,300 --> 00:01:32,420
+All right. So we have 
+completely inelastic or inelastic.
+
+40
+00:01:32,420 --> 00:01:35,700
+So if you raise up..., 
+if you have a big force,
+
+41
+00:01:35,700 --> 00:01:38,300
+and you have small time,
+
+42
+00:01:38,300 --> 00:01:40,660
+which is what people have 
+when they get hit with helmet.
+
+43
+00:01:40,660 --> 00:01:42,580
+So if you didn't have a helmet at all,
+
+44
+00:01:42,580 --> 00:01:44,300
+you'd get hit right away, right?
+
+45
+00:01:44,300 --> 00:01:45,820
+But if you have your helmet,
+
+46
+00:01:45,820 --> 00:01:49,500
+you're not going to hit the other side of your helmet, so...
+
+47
+00:01:49,500 --> 00:01:52,420
+a little bit longer, because 
+it's going to take the padding.
+
+48
+00:01:52,420 --> 00:01:53,980
+So if you have lot of padding,
+
+49
+00:01:53,980 --> 00:01:56,380
+so if you have like a
+huge helmet like this,
+
+50
+00:01:56,380 --> 00:01:57,540
+and you got hit,
+
+51
+00:01:57,540 --> 00:01:58,380
+you'd have to get...
+
+52
+00:01:58,380 --> 00:02:00,820
+The padding would have to 
+go all the way here, then hit you
+
+53
+00:02:00,820 --> 00:02:03,700
+and then it'd have to come over 
+here and hit the padding again.
+
+54
+00:02:03,700 --> 00:02:04,980
+So what would 
+happen to the force?
+
+55
+00:02:04,980 --> 00:02:07,820
+The force... If you have a longer time,
+
+56
+00:02:07,820 --> 00:02:09,980
+the force is still down.
+
+57
+00:02:09,980 --> 00:02:11,660
+So what I wanted 
+to ask you guys is-
+
+58
+00:02:11,660 --> 00:02:14,660
+How would you design 
+a helmet to make this?
+
+59
+00:02:14,660 --> 00:02:17,860
+So using this science,
+
+60
+00:02:17,860 --> 00:02:20,540
+to make it so that 
+people get less concussions
+
+61
+00:02:20,540 --> 00:02:24,420
+or the concussions 
+that are not as dangerous.
+
+62
+00:02:25,060 --> 00:02:28,700
+So I was looking in 
+materials to the helmets,
+
+63
+00:02:28,700 --> 00:02:30,220
+and I find out that
+
+64
+00:02:30,220 --> 00:02:33,980
+The problem is not the helmet, 
+the problem is the money.
+
+65
+00:02:33,980 --> 00:02:37,420
+(unintelligible) to have like
+
+66
+00:02:37,420 --> 00:02:39,420
+the 250
+
+67
+00:02:39,420 --> 00:02:43,220
+(unintelligible) the X1 is the 
+most expensive one.
+
+68
+00:02:43,220 --> 00:02:45,180
+So we also talk about-
+
+69
+00:02:45,180 --> 00:02:51,580
+there are more concussion 
+in high school football than in uh... 
+-NFL
+
+70
+00:02:51,580 --> 00:02:53,500
+Yeah...
+
+71
+00:02:53,500 --> 00:02:56,740
+So here's like... you can see that
+
+72
+00:02:56,740 --> 00:03:00,380
+the professional players who 
+can pay that money.
+
+73
+00:03:00,380 --> 00:03:02,500
+They're really rich,
+
+74
+00:03:02,500 --> 00:03:07,420
+so there's so much sponsors 
+that they pay for their helmets.
+
+75
+00:03:07,420 --> 00:03:11,660
+But like in... high school football
+
+76
+00:03:11,660 --> 00:03:15,380
+what they want is long pass
+
+77
+00:03:15,380 --> 00:03:17,980
+(unintelligible) cheaper material
+
+78
+00:03:17,980 --> 00:03:21,780
+So they don't 
+care much about
+
+79
+00:03:21,780 --> 00:03:25,620
+The health about the guys, 
+they want to go just...
+
+80
+00:03:25,620 --> 00:03:27,380
+Their problem is 
+the money of the helmets.
+
+81
+00:03:27,380 --> 00:03:29,700
+How much cost of helmet is...
+
+82
+00:03:29,700 --> 00:03:34,260
+like helmets with 
+Kevlar or that stuff.
+
+83
+00:03:34,260 --> 00:03:37,420
+like they use in 
+the military equipment.
+
+84
+00:03:37,420 --> 00:03:40,460
+(unintelligible)
+
+85
+00:03:40,460 --> 00:03:42,540
+So how can we combine
+
+86
+00:03:42,540 --> 00:03:47,020
+your thoughts and your thoughts
+
+87
+00:03:47,020 --> 00:03:49,940
+so that we can 
+save these thoughts?
+
+88
+00:03:54,340 --> 00:03:55,780
+So what kind of 
+ideas you guys have?
+
+89
+00:03:55,780 --> 00:03:58,020
+How could you design a helmet
+
+90
+00:03:58,020 --> 00:04:00,460
+so it's not this big
+
+91
+00:04:00,460 --> 00:04:04,900
+or really neat and super expensive?
+
+92
+00:04:04,900 --> 00:04:06,900
+The type of padding we use
+
+93
+00:04:06,900 --> 00:04:08,340
+So what ideas 
+do you guys have?
+
+94
+00:04:08,340 --> 00:04:10,940
+So what kind of...
+ So you play football...
+
+95
+00:04:10,940 --> 00:04:14,180
+What kind of padding right 
+now is inside of the helmet?
+
+96
+00:04:14,180 --> 00:04:15,780
+I mean they're not soft.
+
+97
+00:04:15,780 --> 00:04:18,140
+It's like it's air glove.
+
+98
+00:04:18,140 --> 00:04:21,620
+It's almost like a hard 
+balloon stuck to your head.
+
+99
+00:04:21,620 --> 00:04:25,180
+So it's just one on the side 
+and the whole top is full.
+
+100
+00:04:25,180 --> 00:04:27,700
+and one on the other side 
+and one in the back.
+
+101
+00:04:27,700 --> 00:04:31,300
+But that's it. I mean, you could 
+actually feel the hit.
+
+102
+00:04:31,300 --> 00:04:34,620
+But it... you just 
+don't get a concussion, unless
+you're heavy.
+
+103
+00:04:37,060 --> 00:04:39,620
+So have 
+you ever been hit?
+
+104
+00:04:39,620 --> 00:04:42,460
+Have you ever had 
+a helmet to helmet contact?
+
+105
+00:04:42,460 --> 00:04:44,340
+So where did you get hit?
+
+106
+00:04:44,340 --> 00:04:45,140
+My head
+
+107
+00:04:46,420 --> 00:04:47,980
+Almost like right here.
+
+108
+00:04:47,980 --> 00:04:50,300
+On top of your head.
+-Right, but there's padding there.
+
+109
+00:04:50,300 --> 00:04:52,660
+Oh, but you said 
+you could still feel it.
+
+110
+00:04:52,660 --> 00:04:55,180
+I mean, I could feel it for like 
+a quick couple of seconds or so.
+
+111
+00:04:55,180 --> 00:04:56,940
+Then it just goes away.
+
+112
+00:04:56,940 --> 00:04:58,860
+It's because of 
+the padding, I guess.
+
+113
+00:04:58,860 --> 00:05:00,740
+It's... umm...
+
+114
+00:05:00,740 --> 00:05:02,620
+It's like (unintelligible)
+
+115
+00:05:02,620 --> 00:05:06,020
+So is there any 
+way that you would change
+
+116
+00:05:06,020 --> 00:05:08,820
+the design of the 
+helmet that you have now?
+
+117
+00:05:10,860 --> 00:05:11,980
+Um...more cushion.
+
+118
+00:05:11,980 --> 00:05:14,420
+Okay. So that's 
+kind of going back to
+
+119
+00:05:14,420 --> 00:05:16,700
+what Angel was talking about.
+
+120
+00:05:16,700 --> 00:05:19,100
+So how can 
+we change the design
+
+121
+00:05:19,100 --> 00:05:21,300
+to make it more cushiony, but...
+
+122
+00:05:21,300 --> 00:05:23,980
+Because if you have 
+something that's too cushiony,
+
+123
+00:05:23,980 --> 00:05:28,180
+right, is that going 
+to decrease the time?
+
+124
+00:05:28,180 --> 00:05:30,700
+or increase the time 
+and decrease the force?
+
+125
+00:05:30,700 --> 00:05:32,380
+if it's really cushiony?
+
+126
+00:05:32,380 --> 00:05:34,220
+Oh, that's really cushiony? 
+-Yeah
+
+127
+00:05:34,220 --> 00:05:35,820
+Oh, you mean 
+like it will just go...
+
+128
+00:05:35,820 --> 00:05:37,140
+Yeah.
+-No.
+
+129
+00:05:37,140 --> 00:05:39,780
+Right. So you're saying 
+you want it more cushiony,
+
+130
+00:05:39,780 --> 00:05:42,980
+you're saying you want it cheaper, 
+you're saying you want it smaller.
+
+131
+00:05:42,980 --> 00:05:48,700
+I think like what Matt's kind of saying is more 
+for comfort than for safety. -Right. Right.
+
+132
+00:05:48,700 --> 00:05:53,900
+So why... So can you relate sort of to what 
+Angel's saying and why if it is more cushiony
+
+133
+00:05:53,900 --> 00:05:56,300
+it would be more dangerous.
+
+134
+00:05:56,300 --> 00:05:58,180
+Umm, with the head rattling?
+
+135
+00:05:58,180 --> 00:06:01,100
+Like if it hits on this side, 
+it's quicker to hit the other side.
+
+136
+00:06:01,100 --> 00:06:02,980
+Is that what you mean?
+
+137
+00:06:04,100 --> 00:06:05,580
+what? So how...?
+
+138
+00:06:05,580 --> 00:06:07,580
+So think about how 
+the padding is right now.
+
+139
+00:06:07,580 --> 00:06:09,180
+How it's stiff
+
+140
+00:06:09,180 --> 00:06:12,020
+compared to something 
+that kind of gave.
+
+141
+00:06:15,540 --> 00:06:17,980
+So think about 
+relating this back to force
+
+142
+00:06:17,980 --> 00:06:19,980
+times the change in time.
+
+143
+00:06:24,580 --> 00:06:25,620
+You can ask...
+
+144
+00:06:28,460 --> 00:06:31,140
+If it's built too soft, it's 
+going to hit you with a stronger force...
+
+145
+00:06:31,140 --> 00:06:32,540
+So what could 
+happen to the time?
+
+146
+00:06:32,540 --> 00:06:34,460
+It's going to be slower, it's going to be faster.
+
+147
+00:06:34,460 --> 00:06:37,180
+It's going to be faster, so what's 
+going to happen to the force?
+
+148
+00:06:37,180 --> 00:06:40,460
+The force is going to increase... 
+So it's going to hurt even
+
+149
+00:06:40,460 --> 00:06:42,300
+more and it will 
+be more dangerous.
+
+150
+00:06:42,300 --> 00:06:44,860
+So what you need is like a stable
+material that
+
+151
+00:06:44,860 --> 00:06:47,300
+not too soft, but at the same time
+
+152
+00:06:47,300 --> 00:06:51,060
+So besides Kevlar,
+which you brought up which is
+
+153
+00:06:51,060 --> 00:06:55,540
+I was thinking like (unintelligible)
+
+154
+00:06:55,540 --> 00:06:58,380
+like for example 
+when you are hit
+
+155
+00:06:58,380 --> 00:06:59,980
+and you're hit you want that
+
+156
+00:06:59,980 --> 00:07:01,780
+like bulletproof
+
+157
+00:07:01,780 --> 00:07:12,860
+(unintelligible) that the force spreads in 
+all the space of the body of the helmet. So is you are
+hit here, all the force is not concentrated in this place, 
+but is moving over all the helmet.
+
+158
+00:07:12,860 --> 00:07:15,180
+So it displaces the 
+force so it's not on one area.
+
+159
+00:07:15,180 --> 00:07:17,780
+So I was like 
+thinking like maybe
+
+160
+00:07:17,780 --> 00:07:19,820
+like this big, the helmet
+
+161
+00:07:19,820 --> 00:07:22,580
+then in the middle like
+
+162
+00:07:24,100 --> 00:07:25,780
+like a wave
+
+163
+00:07:25,780 --> 00:07:29,140
+like when it hits, 
+it spreads to all the helmet.
+
+164
+00:07:29,140 --> 00:07:36,100
+So that's you versus less (unintelligible)
+
+165
+00:07:36,100 --> 00:07:38,620
+you spread all the 
+force on your head
+
+166
+00:07:38,620 --> 00:07:40,180
+so you have like less
+
+167
+00:07:40,180 --> 00:07:42,300
+(unintelligible)
+
+168
+00:07:42,300 --> 00:07:44,100
+Something that will 
+transfer the motion
+
+169
+00:07:44,100 --> 00:07:45,180
+Yeah.
+
+170
+00:07:46,300 --> 00:07:47,500
+I like this idea.
+
+171
+00:07:47,500 --> 00:07:51,140
+But what I was thinking is that
+we could put layers
+
+172
+00:07:51,140 --> 00:07:53,380
+so instead of hitting
+
+173
+00:07:53,380 --> 00:07:55,660
+the helmet right away
+
+174
+00:07:55,660 --> 00:07:57,820
+you hit something cushiony first
+
+175
+00:07:57,820 --> 00:07:59,980
+so have something 
+cushiony on the outside
+
+176
+00:07:59,980 --> 00:08:02,380
+so that it takes time 
+for you to hit the helmet.
+
+177
+00:08:02,380 --> 00:08:04,460
+And once you hit the 
+helmet, the small cushiony
+
+178
+00:08:04,460 --> 00:08:07,220
+so that it takes 
+time for that to hit
+
+179
+00:08:07,220 --> 00:08:08,820
+the other hard part
+
+180
+00:08:08,820 --> 00:08:12,020
+which would then hit cushion again 
+and then hit you.
+
+181
+00:08:12,020 --> 00:08:14,020
+So kind of 
+like an atmosphere.
+
+182
+00:08:14,020 --> 00:08:16,660
+Yeah, it will have 
+like little layers
+
+183
+00:08:16,660 --> 00:08:19,540
+It will probably have to make 
+the helmet a little bit like bigger.
+
+184
+00:08:19,540 --> 00:08:22,660
+But not like... 
+Don't make it like huge,
+
+185
+00:08:22,660 --> 00:08:24,020
+but have layers on there.
+
+186
+00:08:24,020 --> 00:08:27,820
+and then incorporate his idea 
+when you're making waves.
+
+187
+00:08:27,820 --> 00:08:31,140
+So something 
+like that first layer
+
+188
+00:08:31,140 --> 00:08:34,020
+could help 
+dissipate the force.
+
+189
+00:08:34,020 --> 00:08:37,540
+So we have cushiony 
+against cushiony like boxers use.
+
+190
+00:08:37,540 --> 00:08:39,620
+And then they have the 
+hard part on the bottom
+
+191
+00:08:39,620 --> 00:08:41,380
+when they do little wrapping.
+
+192
+00:08:41,380 --> 00:08:43,740
+So we have the
+cushiony part first.
+
+193
+00:08:43,740 --> 00:08:46,100
+So it's going to take time and 
+I think that's what they use.
+
+194
+00:08:46,100 --> 00:08:47,220
+They put cushion on there,
+
+195
+00:08:47,220 --> 00:08:49,900
+so that it takes time for you 
+to actually feel the force.
+
+196
+00:08:49,900 --> 00:08:51,700
+So that the force will be less.
+
+197
+00:08:51,700 --> 00:08:54,340
+And if you have 
+cushion with cushion
+
+198
+00:08:54,340 --> 00:08:56,180
+It's because you 
+are increasing the time.
+
+199
+00:08:56,180 --> 00:08:58,060
+Yeah, because if you have two 
+helmets that are hitting each other,
+
+200
+00:08:58,060 --> 00:08:59,300
+that are cushion and cushion,
+
+201
+00:08:59,300 --> 00:09:01,700
+it will take longer for 
+them to hit each other.
+
+202
+00:09:01,700 --> 00:09:04,780
+And then the force 
+will be decreased.
+
+203
+00:09:05,300 --> 00:09:07,700
+My question for Matt is- 
+How big is the helmet?
+
+204
+00:09:07,700 --> 00:09:08,820
+Oh! The padding?
+
+205
+00:09:08,820 --> 00:09:12,500
+It's like thick. 
+It's kind of thick.
+
+206
+00:09:13,420 --> 00:09:16,860
+That's just the padding 
+and then you have the helmet,
+
+207
+00:09:16,860 --> 00:09:18,780
+which is like that 
+much more. -Yeah.
+
+208
+00:09:18,780 --> 00:09:22,020
+It's like that thick.
+
+209
+00:09:22,020 --> 00:09:23,340
+How heavy is the helmet?
+
+210
+00:09:23,340 --> 00:09:26,260
+Like when you're wearing it, 
+does it feeling like it's weighing you down?
+
+211
+00:09:26,260 --> 00:09:31,420
+Yeah, it takes time to get used to it. 
+And that day, you're neck will hurt.
+
+212
+00:09:31,420 --> 00:09:33,460
+That's how heavy it is.
+
+213
+00:09:35,100 --> 00:09:37,460
+Another version of like 
+what we are trying to do.
+
+214
+00:09:37,460 --> 00:09:38,820
+I think it'd also be cool.
+
+215
+00:09:38,820 --> 00:09:42,980
+Maybe like helmet 
+were like it was fitted to like the head
+
+216
+00:09:42,980 --> 00:09:46,900
+and then it'd have like
+inbetween kind of like a net structure.
+
+217
+00:09:46,900 --> 00:09:50,300
+which is a part of uh...
+
+218
+00:09:50,300 --> 00:09:51,660
+kind of like what he had
+
+219
+00:09:51,660 --> 00:09:53,620
+but something that is hung.
+
+220
+00:09:53,620 --> 00:09:55,420
+I want to kind of 
+imagine it like the bridges.
+
+221
+00:09:55,420 --> 00:09:56,860
+How they have like
+
+222
+00:09:56,860 --> 00:09:58,860
+a whole bunch of 
+
+223
+00:09:59,580 --> 00:10:01,140
+little columns
+
+224
+00:10:01,140 --> 00:10:02,500
+But just a whole bunch that
+
+225
+00:10:02,500 --> 00:10:06,860
+is attached to the 
+outside of the helmet.
+
+226
+00:10:06,860 --> 00:10:09,700
+I will draw it, and I'll show you guys.
+
+227
+00:10:09,700 --> 00:10:11,860
+You had your hand up, do you want 
+to share while he...?
+
+228
+00:10:11,860 --> 00:10:14,700
+Yeah I was wondering, since 
+we're talking about the injuries
+
+229
+00:10:14,700 --> 00:10:19,860
+and can you guys give an example of the 
+type of brain damage that you can get?
+
+230
+00:10:19,860 --> 00:10:22,420
+Just like an actual name.
+
+231
+00:10:22,420 --> 00:10:23,940
+Like I heard concussion.
+
+232
+00:10:24,660 --> 00:10:26,660
+Other injuries, other names.
+
+233
+00:10:26,660 --> 00:10:28,340
+Can you tell...
+
+234
+00:10:28,340 --> 00:10:29,460
+What a concussion is?
+
+235
+00:10:30,700 --> 00:10:31,220
+What is a concussion? Ask the group.
+
+236
+00:10:31,220 --> 00:10:33,940
+Well, a concussion is when...
+
+237
+00:10:33,940 --> 00:10:35,660
+It's when you...
+
+238
+00:10:35,660 --> 00:10:38,380
+your brain between your 
+actual brain and your skull
+
+239
+00:10:38,380 --> 00:10:41,060
+There is a liquid, 
+like Spinal fluid, is it?
+
+240
+00:10:41,060 --> 00:10:44,260
+and that's supposed 
+to cushion your brain from
+
+241
+00:10:44,260 --> 00:10:47,980
+touching the, or hitting, your skull.
+
+242
+00:10:47,980 --> 00:10:51,300
+But a concussion is when it's 
+hitting and it's going back and forth.
+
+243
+00:10:51,300 --> 00:10:53,060
+I mean gradually it will
+
+244
+00:10:53,060 --> 00:10:56,340
+go back to normal but...
+
+245
+00:10:56,340 --> 00:10:58,060
+That's my understanding
+ of concussion.
+
+246
+00:10:58,060 --> 00:11:05,860
+And you would have lost like feeling
+for like one or two seconds
+
+247
+00:11:05,860 --> 00:11:07,980
+on the biggest 
+areas of the impact
+
+248
+00:11:12,820 --> 00:11:14,700
+So what part do you think 
+is the most dangerous part
+
+249
+00:11:14,700 --> 00:11:16,980
+to hit of your brain, 
+on your brain?
+
+250
+00:11:16,980 --> 00:11:20,020
+The sides.
+
+251
+00:11:20,020 --> 00:11:21,980
+What do the sides control?
+
+252
+00:11:21,980 --> 00:11:23,780
+Well, it wasn't like that.
+
+253
+00:11:23,780 --> 00:11:26,020
+I thinking like in 
+the structure of the...
+
+254
+00:11:26,020 --> 00:11:28,220
+of the skull.
+
+255
+00:11:28,700 --> 00:11:31,340
+So the sides, where 
+the nerves enter, like
+
+256
+00:11:34,180 --> 00:11:35,900
+Your optic nerves?-Yeah.
+
+257
+00:11:35,900 --> 00:11:39,380
+So I think that's like less pain.
+
+258
+00:11:39,380 --> 00:11:44,020
+It's like a really big hit here 
+ can kill a man.
+
+259
+00:11:45,980 --> 00:11:48,580
+So I think that hit is worst.
+
+260
+00:11:48,580 --> 00:11:50,860
+You're saying the skull 
+is thinnest right there? -Yeah.
+
+261
+00:11:50,860 --> 00:11:53,700
+It's not as thick 
+as the other parts.
+
+262
+00:11:53,700 --> 00:11:57,940
+It's thickest, like right here...
+
+263
+00:11:57,940 --> 00:11:59,820
+What does your 
+frontal lobe control?
+
+264
+00:12:04,780 --> 00:12:07,100
+So that's what 
+kind of separates us
+
+265
+00:12:07,100 --> 00:12:08,180
+from other species
+
+266
+00:12:08,180 --> 00:12:11,020
+is that we have the most 
+developed frontal lobe.
+
+267
+00:12:11,020 --> 00:12:13,900
+And then on the sides is 
+more of your sensory stuff.
+
+268
+00:12:13,900 --> 00:12:16,060
+and then in the back is your
+
+269
+00:12:16,060 --> 00:12:17,540
+actually your Occipital lobe
+
+270
+00:12:17,540 --> 00:12:19,900
+for your eyes is in 
+the back, a long with
+
+271
+00:12:19,900 --> 00:12:22,060
+your movement, 
+your cerebellum.
+
+272
+00:12:22,060 --> 00:12:26,260
+So different spots, 
+that's why you have
+
+273
+00:12:26,260 --> 00:12:29,380
+padding here, and 
+here and back here,
+
+274
+00:12:29,380 --> 00:12:32,460
+is to protect all sides of the brain.
+
+275
+00:12:32,460 --> 00:12:36,340
+So a concussion is just like your 
+brain keeps vibrating, basically, after the blow?
+
+276
+00:12:36,340 --> 00:12:39,060
+So I like to think about it, and I meant to bring
+this in 
+
+277
+00:12:39,060 --> 00:12:40,300
+and I apologize.
+
+278
+00:12:40,300 --> 00:12:42,020
+So if you have... 
+Think about your Tupperware.
+
+279
+00:12:42,020 --> 00:12:44,180
+and inside the 
+Tupperware you have an egg.
+
+280
+00:12:44,180 --> 00:12:46,540
+You just cracked 
+a nice egg inside
+
+281
+00:12:46,540 --> 00:12:49,460
+and then you shake it.
+
+282
+00:12:49,460 --> 00:12:51,620
+So imagine 
+that egg is your brain.
+
+283
+00:12:51,620 --> 00:12:54,660
+And that Tupperware is your skull.
+
+284
+00:12:54,660 --> 00:12:57,940
+So the harder you rattle it, 
+what's going to happen to the egg?
+
+285
+00:12:58,740 --> 00:12:59,500
+It will break.
+
+286
+00:12:59,500 --> 00:13:00,860
+It's gonna break, right? The yolk's going to
+break, right?
+
+287
+00:13:00,860 --> 00:13:02,500
+I mean your brain doesn't really break.
+
+288
+00:13:02,500 --> 00:13:03,980
+But you can think that
+
+289
+00:13:03,980 --> 00:13:05,100
+It's just kind 
+of the movement.
+
+290
+00:13:05,100 --> 00:13:07,940
+Because if you think about 
+what does Newton's first law say?
+
+291
+00:13:09,860 --> 00:13:13,460
+An object that's in motion will
+stay in motion 
+unless acted upon by outside force.
+
+292
+00:13:13,460 --> 00:13:16,580
+So if the brain...
+If you get hit here,
+
+293
+00:13:16,580 --> 00:13:19,020
+which way is your 
+brain going to go?
+
+294
+00:13:19,020 --> 00:13:20,020
+That way.
+
+295
+00:13:20,020 --> 00:13:24,620
+Until it hits the 
+skull and then it's going to *thunk*
+
+296
+00:13:24,620 --> 00:13:27,980
+So that's what they 
+call rattling your cage.
+
+297
+00:13:27,980 --> 00:13:29,980
+I was thinking of like 
+when I play baseball,
+
+298
+00:13:29,980 --> 00:13:35,020
+when I swing the 
+bat and I hit the ball, and my hands keep like,
+I can feel it inside and
+
+299
+00:13:35,940 --> 00:13:38,060
+like even after 
+a minute it will keep rattling.
+
+300
+00:13:38,060 --> 00:13:40,420
+So now take that 
+and think about
+
+301
+00:13:40,420 --> 00:13:42,460
+how that would...
+
+302
+00:13:42,460 --> 00:13:45,220
+Okay! So David, can you uh...
+
+303
+00:13:47,540 --> 00:13:48,940
+Explain what you 
+have so we can...
+
+304
+00:13:48,940 --> 00:13:50,700
+This is kind of like the bridge 
+idea that I had where like
+
+305
+00:13:50,700 --> 00:13:53,380
+there's like different
+
+306
+00:13:53,380 --> 00:13:55,260
+columns that go around, like the frame.
+
+307
+00:13:57,540 --> 00:13:59,420
+So in this, it would kind of be like, 
+the head goes right here
+
+308
+00:13:59,420 --> 00:14:00,900
+and the helmet's right here.
+
+309
+00:14:00,900 --> 00:14:04,780
+And these would be like some kind of
+material that's bendable.
+
+310
+00:14:06,860 --> 00:14:09,620
+So, when something 
+hits it, they would bend in
+
+311
+00:14:09,620 --> 00:14:11,300
+so, to absorb kind of the impact.
+
+312
+00:14:11,300 --> 00:14:13,980
+Kind of like a cage 
+in the racing cars.
+
+313
+00:14:13,980 --> 00:14:16,100
+Like how racing cars have a cage
+
+314
+00:14:16,100 --> 00:14:17,260
+inside of them.
+
+315
+00:14:17,260 --> 00:14:21,060
+Just in case they roll over, 
+the cage still protects the person.
+
+316
+00:14:21,060 --> 00:14:22,580
+Yeah kind of...
+No, but...
+
+317
+00:14:22,580 --> 00:14:25,420
+Yeah kind of like that 
+but these are like cushions.
+
+318
+00:14:25,420 --> 00:14:27,540
+Yeah. So they 
+absorb the momentum.
+
+319
+00:14:28,980 --> 00:14:31,460
+So like a coil? Like for your bed. 
+The bed spring
+
+320
+00:14:31,460 --> 00:14:34,860
+that when you jump up on it, 
+you rebound back, so...
+
+321
+00:14:34,860 --> 00:14:38,860
+Wouldn't that be 
+more dangerous if it's...?
+
+322
+00:14:38,860 --> 00:14:40,860
+elastic?
+
+323
+00:14:40,860 --> 00:14:42,100
+Yeah, it's elastic, and when we did the little 
+cars
+
+324
+00:14:43,700 --> 00:14:45,980
+When it was elastic, 
+it completely transferred
+
+325
+00:14:45,980 --> 00:14:48,220
+all of its momentum 
+to the other car.
+
+326
+00:14:48,220 --> 00:14:50,580
+So when you get hit, 
+it will just like swing
+
+327
+00:14:50,580 --> 00:14:52,700
+and then all the 
+momentum will hit you.
+
+328
+00:14:52,700 --> 00:14:55,140
+instead of both 
+of you sharing it.
+
+329
+00:14:55,140 --> 00:14:57,380
+So if you share, 
+it'd probably be better.
+
+330
+00:14:57,380 --> 00:15:00,940
+But I don't know if that's...
+
+331
+00:15:00,940 --> 00:15:07,780
+(Multiple people talking)
+
+332
+00:15:07,780 --> 00:15:10,260
+Because I was also 
+thinking of mattresses.
+
+333
+00:15:10,260 --> 00:15:11,780
+A little sleep mattresses.
+
+334
+00:15:11,780 --> 00:15:14,500
+and how they talked about the coils 
+and how they give you pressure points
+
+335
+00:15:14,500 --> 00:15:16,660
+and it will be stronger 
+over here than over here.
+
+336
+00:15:16,660 --> 00:15:20,060
+and then they have the new 
+ones now that are like foam.
+
+337
+00:15:20,060 --> 00:15:22,700
+The Tempurpedic ones, Yeah.
+
+338
+00:15:22,700 --> 00:15:26,020
+So I was thinking also 
+ if you like spread out...
+
+339
+00:15:26,020 --> 00:15:28,180
+where the momentum goes.
+
+340
+00:15:28,180 --> 00:15:32,140
+Saying if you spread out where 
+it won't be in one certain area.
+
+341
+00:15:32,140 --> 00:15:34,500
+Then you won't get hit 
+really hard right here.
+
+342
+00:15:34,500 --> 00:15:36,140
+And if you get hit 
+hard like over here,
+
+343
+00:15:36,140 --> 00:15:37,860
+it'd probably be better 
+than getting hit hard
+
+344
+00:15:37,860 --> 00:15:39,980
+just right there. -Yeah.
+
+345
+00:15:40,460 --> 00:15:42,580
+It will probably 
+be less of a force.
+
+346
+00:15:43,780 --> 00:15:46,020
+So when they 
+design like a helmet,
+
+347
+00:15:46,020 --> 00:15:49,380
+they've got one piece thing 
+where it's like your body
+
+348
+00:15:49,380 --> 00:15:51,260
+their shoulder pads 
+connected to their helmet.
+
+349
+00:15:51,260 --> 00:15:54,660
+So your body absorbs some of 
+that too, instead of just your head.
+
+350
+00:15:54,660 --> 00:15:58,860
+So that depends 
+how you turn your head
+
+351
+00:16:00,380 --> 00:16:02,660
+And would it be 
+good if your body...
+
+352
+00:16:02,660 --> 00:16:03,900
+have you guys ever heard
+
+353
+00:16:03,900 --> 00:16:07,060
+that people who 
+are like drunk drivers
+
+354
+00:16:07,060 --> 00:16:10,580
+they kind of walk 
+away from a car crash
+
+355
+00:16:10,580 --> 00:16:13,980
+and it's the passengers or the victims
+
+356
+00:16:13,980 --> 00:16:16,660
+are the ones 
+that get hurt the most...
+
+357
+00:16:16,660 --> 00:16:18,300
+So think about what's different between
+
+358
+00:16:18,300 --> 00:16:20,980
+their body in motion and 
+the other person's body in motion.
+
+359
+00:16:21,780 --> 00:16:24,900
+So they're looser, right?
+
+360
+00:16:24,900 --> 00:16:28,220
+They're not tightening their muscles 
+compared to someone who is
+
+361
+00:16:28,220 --> 00:16:29,740
+trying to absorb the impact.
+
+362
+00:16:29,740 --> 00:16:31,740
+We flex, right? 
+
+363
+00:16:31,740 --> 00:16:35,980
+Just waiting for it, and 
+so, by being more rigid
+
+364
+00:16:35,980 --> 00:16:37,380
+your body doesn't move.
+
+365
+00:16:37,380 --> 00:16:39,780
+You're trying to 
+fight against the motion.
+
+366
+00:16:39,780 --> 00:16:42,020
+So you get more of the whiplash
+
+367
+00:16:42,020 --> 00:16:42,860
+and stuff like that.
+
+368
+00:16:42,860 --> 00:16:44,420
+Because you... 
+It hurt your body more
+
+369
+00:16:44,420 --> 00:16:46,180
+because you're 
+trying to fight against
+
+370
+00:16:46,180 --> 00:16:48,140
+what you're body is 
+actually going to do instead of
+
+371
+00:16:48,140 --> 00:16:50,500
+the other person 
+who's just like really loose
+
+372
+00:16:50,500 --> 00:16:51,900
+is moving with it,
+
+373
+00:16:51,900 --> 00:16:54,780
+so there's not as much impact.
+
+374
+00:16:54,780 --> 00:16:57,940
+Well, I've been playing football
+
+375
+00:16:57,940 --> 00:16:59,380
+and how you play
+
+376
+00:16:59,380 --> 00:17:00,540
+like you want to win.
+
+377
+00:17:00,540 --> 00:17:02,140
+You hit someone you want to.
+
+378
+00:17:02,140 --> 00:17:03,380
+After that
+
+379
+00:17:03,380 --> 00:17:05,180
+you're still going and
+
+380
+00:17:05,180 --> 00:17:06,740
+if you are like losing
+
+381
+00:17:06,740 --> 00:17:10,620
+the other person is stronger than you
+can beat you up like...
+
+382
+00:17:10,620 --> 00:17:11,820
+I know. What he 
+is saying is like
+
+383
+00:17:11,820 --> 00:17:13,660
+if you see someone 
+about to collide with you,
+
+384
+00:17:13,660 --> 00:17:15,380
+you want to hit 
+him back instead of...
+
+385
+00:17:15,380 --> 00:17:15,980
+Yeah.
+
+386
+00:17:15,980 --> 00:17:19,380
+Why is that? 
+Related that to momentum.
+
+387
+00:17:20,180 --> 00:17:22,300
+Because momentum 
+is vector, right?
+
+388
+00:17:22,300 --> 00:17:23,980
+So you have to think 
+about the direction
+
+389
+00:17:23,980 --> 00:17:25,340
+and of the way 
+that things are moving.
+
+390
+00:17:25,340 --> 00:17:26,780
+So think back to...
+
+391
+00:17:26,780 --> 00:17:28,660
+When we were playing 
+with different cars.
+
+392
+00:17:28,660 --> 00:17:31,460
+So you had the greater mass 
+in one car going this way.
+
+393
+00:17:31,460 --> 00:17:34,740
+And had the smaller 
+mass going this way.
+
+394
+00:17:34,740 --> 00:17:35,500
+Right?
+
+395
+00:17:35,500 --> 00:17:37,540
+So what would you want to 
+do to the smaller mass
+
+396
+00:17:37,540 --> 00:17:39,260
+car to make sure that
+
+397
+00:17:39,260 --> 00:17:42,220
+the impact of the....
+
+398
+00:17:42,220 --> 00:17:43,860
+Raise his speed
+
+399
+00:17:43,860 --> 00:17:45,020
+Increase the speed, right?
+
+400
+00:17:45,020 --> 00:17:47,300
+And so by knowing that 
+you're going to get hit
+
+401
+00:17:47,300 --> 00:17:48,700
+you're going to 
+run a little faster.
+
+402
+00:17:48,700 --> 00:17:49,820
+So then what was the...
+
+403
+00:17:49,820 --> 00:17:52,500
+what is the ending result there?
+
+404
+00:17:53,260 --> 00:17:55,500
+So like if you have more speed
+
+405
+00:17:55,500 --> 00:17:58,260
+you hit the other object
+
+406
+00:17:58,260 --> 00:17:59,500
+that has more mass
+
+407
+00:17:59,500 --> 00:18:04,420
+Mean like.... 
+how do you think is like...
+
+408
+00:18:04,420 --> 00:18:07,740
+Inelastic, I don't know, like
+
+409
+00:18:08,340 --> 00:18:09,220
+So what's going to happen?
+
+410
+00:18:09,220 --> 00:18:10,740
+Are they going to 
+stay stuck together?
+
+411
+00:18:10,740 --> 00:18:13,100
+(Multiple people speaking)
+
+412
+00:18:13,660 --> 00:18:15,660
+So it's elastic
+
+413
+00:18:15,660 --> 00:18:16,340
+so it comes off, right?
+
+414
+00:18:16,340 --> 00:18:18,020
+Think about it 
+like a rubber band,
+
+415
+00:18:18,020 --> 00:18:19,020
+an elastic rubber band.
+
+416
+00:18:19,020 --> 00:18:22,380
+You can stretch it, so...
+
+417
+00:18:22,380 --> 00:18:26,220
+elastic is, is saying, something 
+that's going to rebound.
+
+418
+00:18:26,220 --> 00:18:29,340
+whereas inelastic 
+you're just rigid.
+
+419
+00:18:29,340 --> 00:18:31,220
+There is no motion, 
+I guess, you should say.
+
+420
+00:18:31,220 --> 00:18:34,020
+I thought that was inelastic, when you 
+hit something, it will both go off
+
+421
+00:18:34,020 --> 00:18:35,900
+completely and 
+elastic it will stick together.
+
+422
+00:18:35,900 --> 00:18:39,000
+And inelastics magnets.
+

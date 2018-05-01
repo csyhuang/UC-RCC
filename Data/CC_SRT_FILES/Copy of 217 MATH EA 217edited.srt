@@ -1,0 +1,1360 @@
+1
+00:00:00,309 --> 00:00:02,502
+- (student) ...so you can't
+count it out completely.
+
+2
+00:00:02,502 --> 00:00:05,509
+- (Teacher) Hmm. So we have
+three things going on here.
+
+3
+00:00:05,509 --> 00:00:08,838
+I hear exponential decay,
+
+4
+00:00:08,838 --> 00:00:12,355
+I hear an upside-down parabola,
+
+5
+00:00:12,355 --> 00:00:17,259
+and I hear a negative-sloping line.
+
+6
+00:00:17,259 --> 00:00:19,470
+Red, why don't you chime in?
+I haven't heard from you.
+
+7
+00:00:22,470 --> 00:00:25,043
+Are you going with decay?
+
+8
+00:00:25,043 --> 00:00:27,215
+Are you going with decreasing line?
+
+9
+00:00:27,215 --> 00:00:29,842
+You going with upside-down parabola?
+
+10
+00:00:29,842 --> 00:00:31,471.
+What had you guys decided?
+
+11
+00:00:31,471 --> 00:00:33,418
+- We were going to go with decay but...
+
+12
+00:00:33,418 --> 00:00:36,458
+- (Teacher) You were going
+to go with decay, okay
+
+13
+00:00:36,458 --> 00:00:38,755
+- But, I changed my mind because
+
+14
+00:00:38,755 --> 00:00:42,529
+decay, it keeps decreasing all the way.
+
+15
+00:00:42,529 --> 00:00:47,449
+But MySpace, it got to a point
+where it stopped decreasing...
+
+16
+00:00:47,449 --> 00:00:50,925
+and it was (inaudible) like what Rosetta said.
+
+17
+00:00:50,925 --> 00:00:53,436
+- (Teacher) So it stopped decreasing,
+
+18
+00:00:53,436 --> 00:00:55,417
+which is what you're
+saying, and you're saying
+
+19
+00:00:55,417 --> 00:00:56,918
+that's in agreement with Rosetta.
+
+20
+00:00:56,918 --> 00:01:02,323
+I have a serious issue
+with a line stopping.
+
+21
+00:01:02,323 --> 00:01:04,957
+Can somebody talk to me about that?
+
+22
+00:01:04,957 --> 00:01:08,611
+I have a serious issue
+with a line stopping
+
+23
+00:01:08,611 --> 00:01:12,912
+or having some kind of decrease
+that then slows itself.
+
+24
+00:01:12,912 --> 00:01:14,553
+- It's the end of the line.
+
+25
+00:01:14,553 --> 00:01:19,168
+Slows itself. Colin, I
+haven't heard from you.
+
+26
+00:01:19,168 --> 00:01:24,143
+- I don't think it's linear
+because the linear is going to
+
+27
+00:01:24,143 --> 00:01:26,460
+signify that at one point
+there are going to be
+
+28
+00:01:26,460 --> 00:01:30,840
+no users or people on MySpace.
+
+29
+00:01:30,840 --> 00:01:34,388
+I agree with Elsie that it
+might be decay because
+
+30
+00:01:34,388 --> 00:01:38,228
+it decreased, but
+
+31
+00:01:38,228 --> 00:01:43,258
+decay doesn't ever touch the X-axis,
+
+32
+00:01:43,258 --> 00:01:45,478
+which would signify there are no users.
+
+33
+00:01:45,478 --> 00:01:46,108
+- (Teacher) Ah!
+
+34
+00:01:46,108 --> 00:01:47,873
+- And there will always be users.
+
+35
+00:01:47,873 --> 00:01:49,499
+- (Teacher) Oooh, what's
+somebody thing about that?
+
+36
+00:01:49,499 --> 00:01:53,260
+Really, really, really
+significant comment that
+
+37
+00:01:53,260 --> 00:01:56,928
+was just made by Colin. What do we think?
+
+38
+00:01:56,928 --> 00:02:00,867
+The fact that it's never going
+to... how did you say it?
+
+39
+00:02:00,867 --> 00:02:04,621
+- I said that the linear
+was going to, at one point,
+
+40
+00:02:04,621 --> 00:02:07,065
+to hit zero, and
+
+41
+00:02:07,065 --> 00:02:10,255
+with decay it's never going to hit zero.
+
+42
+00:02:10,255 --> 00:02:13,908
+It's going to get really
+close but not touch it.
+
+43
+00:02:13,908 --> 00:02:14,903
+- (Teacher) Jeffrey.
+
+44
+00:02:14,903 --> 00:02:16,410
+- I agree with Colin.
+
+45
+00:02:16,410 --> 00:02:20,625
+Because if it was a negative line, like
+a negative line, right?
+
+46
+00:02:20,625 --> 00:02:23,774
+You're going to go past
+zero, and you can't have
+
+47
+00:02:23,774 --> 00:02:28,896
+a negative amount of users,
+'cause a line keeps on going forever.
+
+48
+00:02:28,896 --> 00:02:32,311
+- (Teacher) Ok, does
+exponential keep going forever?
+
+49
+00:02:32,311 --> 00:02:35,907
+- No. I mean yes! Yes, it does, but
+
+50
+00:02:35,907 --> 00:02:41,156
+because it's so small that
+it never touches the X-axis,
+
+51
+00:02:41,156 --> 00:02:45,716
+but it keeps on going so
+it just never hits zero.
+
+52
+00:02:45,716 --> 00:02:46,996
+- (Teacher) So, if we all agree,
+
+53
+00:02:46,996 --> 00:02:48,621
+are we getting closer
+to agreeing that it's
+
+54
+00:02:48,621 --> 00:02:49,801
+exponential decay?
+
+55
+00:02:49,801 --> 00:02:50,836
+- (female student) Yes.
+
+56
+00:02:50,836 --> 00:02:52,843
+- (Teacher) If we are agreeing
+it's exponential decay,
+
+57
+00:02:52,843 --> 00:02:54,626
+then what Jeffrey just said...
+
+58
+00:02:56,626 --> 00:02:59,239
+what does that mean for
+MySpace the company?
+
+59
+00:02:59,239 --> 00:03:02,132
+Will it go out of business?
+
+60
+00:03:02,132 --> 00:03:03,391
+- (several students) no...
+
+61
+00:03:03,391 --> 00:03:04,610
+- (Teacher) Based on what
+Jeffrey just said about
+
+62
+00:03:04,610 --> 00:03:07,689
+an exponential decay, at the end.
+
+63
+00:03:07,689 --> 00:03:10,440
+What does that mean for
+MySpace the company?
+
+64
+00:03:10,440 --> 00:03:15,312
+What do you know about MySpace
+the company at this moment?
+
+65
+00:03:15,312 --> 00:03:17,312
+- It's still low. 
+
+66
+00:03:17,312 --> 00:03:20,471
+- It's still low, but is it in existence?
+
+67
+00:03:20,471 --> 00:03:21,515
+- (several students) Yes
+
+68
+00:03:21,515 --> 00:03:26,948
+- It is. Do you know what's keeping it
+
+69
+00:03:26,948 --> 00:03:27,544
+You know?
+
+70
+00:03:27,544 --> 00:03:30,358
+- I think because you're
+always going to have
+
+71
+00:03:30,358 --> 00:03:32,946
+that one user account
+
+72
+00:03:32,946 --> 00:03:35,106
+(laughter)
+
+73
+00:03:35,106 --> 00:03:37,402
+- (Teacher) Ok, you might, you
+might always have that one user.
+
+74
+00:03:37,402 --> 00:03:39,023
+There's something, though,
+that MySpace provides
+
+75
+00:03:39,023 --> 00:03:43,966
+that other websites don't,
+that's very easy to do
+
+76
+00:03:43,966 --> 00:03:47,941
+that other sites don't have.
+And this is what's keeping it
+
+77
+00:03:47,941 --> 00:03:50,516
+from touching that X-axis.
+
+78
+00:03:50,516 --> 00:03:52,368
+Do you know what it is?
+
+79
+00:03:52,368 --> 00:03:56,169
+Alicia? Talk to us, I can't hear you.
+
+80
+00:03:56,169 --> 00:03:56,936
+- Music?
+
+81
+00:03:56,936 --> 00:03:58,323
+- (Teacher) Yes, Alicia,
+who is in the band,
+
+82
+00:03:58,323 --> 00:03:59,725
+would obviously know this, right?
+
+83
+00:03:59,725 --> 00:04:02,965
+Tell them what you do on MySpace, Alicia.
+
+84
+00:04:02,965 --> 00:04:06,348
+- Bands can make pages and they can
+
+85
+00:04:06,348 --> 00:04:08,922
+upload their songs and
+you can listen to them.
+
+86
+00:04:08,922 --> 00:04:10,327
+- (Teacher) Yeah, you
+can upload your music
+
+87
+00:04:10,327 --> 00:04:14,058
+on MySpace easier than
+any of the other sites.
+
+88
+00:04:14,058 --> 00:04:15,389
+Very good, thank you for chiming in.
+
+89
+00:04:15,389 --> 00:04:17,868
+Alright, let's shift gears from MySpace,
+
+90
+00:04:17,868 --> 00:04:21,295
+now let's talk Twitter.
+
+91
+00:04:21,295 --> 00:04:22,216
+Twitter, Twitter, Twitter.
+
+92
+00:04:22,216 --> 00:04:27,544
+What do you think about
+the growth of Twitter?
+
+93
+00:04:27,544 --> 00:04:30,830
+(background chatter)
+
+94
+00:04:30,830 --> 00:04:34,003
+- Alright, keywords. Red,
+start me off with keywords
+
+95
+00:04:34,003 --> 00:04:36,868
+and then we'll bounce to
+Pink and around the room.
+
+96
+00:04:36,868 --> 00:04:38,078
+(clears throat)
+
+97
+00:04:38,078 --> 00:04:43,341
+Give them your attention,
+ladies and gentlemen.
+
+98
+00:04:43,341 --> 00:04:44,686
+Are you guys prepared
+and ready for Twitter?
+
+99
+00:04:44,686 --> 00:04:45,804
+- Rush
+
+100
+00:04:45,804 --> 00:04:46,921
+- (Teacher) I'm sorry, rush?
+
+101
+00:04:46,921 --> 00:04:48,060
+(inaudible)
+
+102
+00:04:48,060 --> 00:04:55,040
+Where, show me?
+
+103
+00:04:55,040 --> 00:05:01,211
+- It's missing...something there
+
+104
+00:05:01,211 --> 00:05:02,707
+- (Teacher) What's your keyword?
+
+105
+00:05:02,707 --> 00:05:03,484
+- Rush
+
+106
+00:05:03,484 --> 00:05:04,301
+- It's in the middle of the sentence.
+
+107
+00:05:04,301 --> 00:05:05,411
+- (Teacher) In the third sentence.
+
+108
+00:05:05,411 --> 00:05:07,136
+Oh, rush, is that what you said?
+
+109
+00:05:07,136 --> 00:05:10,775
+Ok, just speak up, I'm
+getting old, I can't hear.
+
+110
+00:05:10,775 --> 00:05:15,639
+- Growth continues steadily.
+
+111
+00:05:15,639 --> 00:05:22,618
+- (Teacher) Okay... anything else?
+
+112
+00:05:22,618 --> 00:05:27,707
+- Yeah, but it's at the tweets.
+
+113
+00:05:27,707 --> 00:05:30,165
+- (Teacher) This, the tweeted?
+
+114
+00:05:30,165 --> 00:05:32,847
+- Yeah.
+
+115
+00:05:32,847 --> 00:05:34,777
+- (Teacher) It goes with this. Okay.
+
+116
+00:05:34,777 --> 00:05:36,424
+So what do you guys pick for the growth?
+
+117
+00:05:36,424 --> 00:05:43,286
+What function models Twitter's growth?
+
+118
+00:05:43,286 --> 00:05:44,817
+- Exponential growth.
+
+119
+00:05:44,817 --> 00:05:46,968
+- (Teacher) You think it's
+exponential growth, as well?
+
+120
+00:05:46,968 --> 00:05:49,785
+Alright, is there a team? Pink, you're up.
+
+121
+00:05:49,785 --> 00:05:51,458
+- I disagree with that.
+
+122
+00:05:51,458 --> 00:05:54,343
+I think it's linear because it says that
+
+123
+00:05:54,343 --> 00:05:56,151
+another keyword that they've given
+
+124
+00:05:56,151 --> 00:05:59,617
+is with 40 million in May, that
+whole sentence right there.
+
+125
+00:05:59,617 --> 00:06:00,705
+- (Teacher) Got it.
+
+126
+00:06:00,705 --> 00:06:03,691
+- That's like a slope,
+if you think about it.
+
+127
+00:06:03,691 --> 00:06:07,593
+With 40 million in May, 2009,
+6 months later 60 million,
+
+128
+00:06:07,593 --> 00:06:10,580
+and then 80 million in May 2010.
+
+129
+00:06:10,580 --> 00:06:12,910
+The slope, it would be 20 million.
+
+130
+00:06:12,910 --> 00:06:15,601
+So it's linear. It's going positive slope.
+
+131
+00:06:15,601 --> 00:06:17,110
+(inaudible)
+
+132
+00:06:17,110 --> 00:06:24,153
+- (Teacher) Hmm...
+filling out those listening labs?
+
+133
+00:06:24,153 --> 00:06:26,303
+Pink just gave some hard core evidence.
+
+134
+00:06:26,303 --> 00:06:30,570
+Red, do you have a comeback?
+Or have they won you over?
+
+135
+00:06:30,570 --> 00:06:31,600
+You have a comeback.
+
+136
+00:06:31,600 --> 00:06:34,247
+Let's hear it, Lenny,
+what's your comeback?
+
+137
+00:06:34,247 --> 00:06:35,868
+- This can not be because
+
+138
+00:06:35,868 --> 00:06:37,456
+(laughter)
+
+139
+00:06:37,456 --> 00:06:42,107
+because it's going to get to a
+point where it's going to stop.
+
+140
+00:06:42,107 --> 00:06:43,409
+It's not like we're going to take it like
+
+141
+00:06:43,409 --> 00:06:47,064
+100, 100, 200, and so on
+
+142
+00:06:47,064 --> 00:06:49,442
+- (pink) Do you have a time machine?
+
+143
+00:06:49,442 --> 00:06:50,273
+(laughter)
+
+144
+00:06:51,273 --> 00:06:53,284
+- (Teacher) Ok, so let's leave...
+
+145
+00:06:53,284 --> 00:06:56,555
+Lenny, I think exponential
+growth isn't going to stop
+
+146
+00:06:56,555 --> 00:06:59,538
+and I think a line isn't
+going to stop, right?
+
+147
+00:06:59,538 --> 00:07:01,817
+And I think that, if we
+think about the future...
+
+148
+00:07:01,817 --> 00:07:04,931
+I think that's what Star is maybe
+trying to do, is predict the future.
+
+149
+00:07:04,931 --> 00:07:08,479
+We don't really know. But
+from the language here
+
+150
+00:07:08,479 --> 00:07:11,951
+in your text, the information you do know,
+
+151
+00:07:11,951 --> 00:07:16,084
+I think 40 million then
+60 million then 80 million
+
+152
+00:07:16,084 --> 00:07:19,808
+is pretty concrete evidence of slope.
+
+153
+00:07:19,808 --> 00:07:22,053
+Do you agree?
+
+154
+00:07:22,053 --> 00:07:22,492
+- yes
+
+155
+00:07:22,492 --> 00:07:25,016
+- (Teacher) Yes? Anybody else
+want to chime in on this one
+
+156
+00:07:25,016 --> 00:07:26,123
+that I haven't heard from?
+
+157
+00:07:26,123 --> 00:07:27,916
+Maybe from...
+
+158
+00:07:27,916 --> 00:07:30,706
+Elianna on Blue?
+
+159
+00:07:30,706 --> 00:07:32,234
+Bleaker, I haven't heard from you.
+
+160
+00:07:32,234 --> 00:07:34,487
+Carlia yet? What do you guys think?
+
+161
+00:07:34,487 --> 00:07:40,308
+How 'bout anything you
+want to add about Twitter?
+
+162
+00:07:40,308 --> 00:07:42,525
+Anything you want to add?
+
+163
+00:07:42,525 --> 00:07:43,662
+Greg, go ahead.
+
+164
+00:07:43,662 --> 00:07:45,836
+- Well what Lenny was
+saying, I cannot beat
+
+165
+00:07:45,836 --> 00:07:48,180
+and I agree with them. That's it.
+
+166
+00:07:48,180 --> 00:07:51,117
+- (Teacher) Ok, thank you!
+
+167
+00:07:51,117 --> 00:07:53,188
+Any...?
+
+168
+00:07:53,188 --> 00:07:55,670
+- I agree with Star because
+
+169
+00:07:55,670 --> 00:07:58,193
+as you mentioned (inaudible) what this does
+
+170
+00:07:58,193 --> 00:08:01,583
+or hope is that they'll be able
+to Tweet via text messages.
+
+171
+00:08:01,583 --> 00:08:03,893
+And that's something that
+Facebook didn't offer.
+
+172
+00:08:03,893 --> 00:08:07,418
+So the more things that...
+
+173
+00:08:07,418 --> 00:08:10,258
+the more things that
+Twitter puts out there
+
+174
+00:08:10,258 --> 00:08:14,792
+the other social networks
+is going to increase.
+
+175
+00:08:14,792 --> 00:08:17,801
+- Ok, so as Twitter grows, you're saying
+
+176
+00:08:17,801 --> 00:08:20,507
+the other networks might be slowed?
+
+177
+00:08:20,507 --> 00:08:23,801
+Who though, is going to outperform it
+
+178
+00:08:23,801 --> 00:08:26,384
+if it's a different type of graph?
+
+179
+00:08:26,384 --> 00:08:30,339
+Who is going to outperform
+Twitter for sure,
+
+180
+00:08:30,339 --> 00:08:33,048
+if Twitter is linear and the other one is
+
+181
+00:08:33,048 --> 00:08:34,892
+a certain other graph we mentioned?
+
+182
+00:08:34,892 --> 00:08:35,988
+(inaudible)
+
+183
+00:08:35,988 --> 00:08:38,058
+Facebook, right? Because Facebook is what?
+
+184
+00:08:38,058 --> 00:08:38,968
+- Exponential
+
+185
+00:08:38,968 --> 00:08:40,330
+- (Teacher) Exponential. Very good.
+
+186
+00:08:40,330 --> 00:08:43,146
+Ok! So let's go now to AIM.
+
+187
+00:08:43,146 --> 00:08:45,118
+We're doing very well on time here.
+
+188
+00:08:45,118 --> 00:08:48,185
+AIM. Who's going to start us off with AIM?
+
+189
+00:08:48,185 --> 00:08:50,846
+Alright, Pink, you can start us off.
+
+190
+00:08:50,846 --> 00:08:54,576
+(background chatter)
+
+191
+00:08:54,576 --> 00:08:56,532
+Keywords and reasoning, talk to me.
+
+192
+00:08:56,532 --> 00:08:59,056
+- Some key words we worked was
+
+193
+00:08:59,056 --> 00:09:02,576
+AOL lost their dominance.
+
+194
+00:09:02,576 --> 00:09:09,258
+- (Teacher) Lost their dominance. Okay?
+
+195
+00:09:09,258 --> 00:09:09,932
+Yep?
+
+196
+00:09:09,932 --> 00:09:14,150
+- And then we put continuous
+fielding is growth today.
+
+197
+00:09:14,150 --> 00:09:16,995
+- (Teacher) Okay.
+
+198
+00:09:16,995 --> 00:09:21,143
+- And we said that it was
+
+199
+00:09:21,143 --> 00:09:25,421
+quadratic equations, because
+
+200
+00:09:25,421 --> 00:09:28,477
+at one point it was really high,
+
+201
+00:09:28,477 --> 00:09:31,797
+but then as time went by,
+it started decreasing,
+
+202
+00:09:31,797 --> 00:09:34,843
+but then it started
+getting more popular again.
+
+203
+00:09:34,843 --> 00:09:38,110
+Lately, teenagers liked using it,
+
+204
+00:09:38,110 --> 00:09:39,680
+so it started going up again.
+
+205
+00:09:39,680 --> 00:09:43,485
+- (Teacher) Ok. Is there
+another keyword up here
+
+206
+00:09:43,485 --> 00:09:46,243
+that would help anybody?
+
+207
+00:09:46,243 --> 00:09:48,976
+I think there's at least one more keyword
+
+208
+00:09:48,976 --> 00:09:52,475
+that I haven't seen pointed up. Elianna?
+
+209
+00:09:52,475 --> 00:09:53,653
+- Is it comeback?
+
+210
+00:09:53,653 --> 00:09:55,602
+- Comeback? Where's comeback?
+
+211
+00:09:55,602 --> 00:09:57,482
+(inaudible)
+
+212
+00:09:57,482 --> 00:10:00,229
+Beautiful. Made a comeback and maybe even
+
+213
+00:10:00,229 --> 00:10:03,384
+one more thing a little
+earlier. Jermaine? Thank you.
+
+214
+00:10:03,384 --> 00:10:04,401
+Sorry, say that again?
+
+215
+00:10:04,401 --> 00:10:05,018
+- Dominated
+
+216
+00:10:05,018 --> 00:10:06,405
+- (Teacher) Dominated,
+very nice, Jermaine.
+
+217
+00:10:06,405 --> 00:10:09,419
+So it started out dominating,
+
+218
+00:10:09,419 --> 00:10:11,659
+then had to make a comeback.
+
+219
+00:10:11,659 --> 00:10:13,618
+Does anybody want to
+add on to what Pink said
+
+220
+00:10:13,618 --> 00:10:17,986
+about this being quadratic?
+
+221
+00:10:17,986 --> 00:10:19,469
+- Which way?
+
+222
+00:10:19,469 --> 00:10:20,850
+- (Teacher) Which way?
+
+223
+00:10:20,850 --> 00:10:22,374
+- Would make it positive from earlier?
+
+224
+00:10:22,374 --> 00:10:25,523
+- (Teacher) Positive what? Talk
+to me about the equation now.
+
+225
+00:10:25,523 --> 00:10:27,413
+- Quadratic is always going to...
+
+226
+00:10:27,413 --> 00:10:30,582
+- (Teacher) Do quadratics always go up?
+
+227
+00:10:30,582 --> 00:10:35,409
+- (student chatter) no,
+go down too, parabolic
+
+228
+00:10:35,409 --> 00:10:37,815
+- (Teacher) This parabola?
+They always look like this?
+
+229
+00:10:37,815 --> 00:10:39,766
+- no
+
+230
+00:10:39,766 --> 00:10:43,735
+- (Teacher) Think about inverses
+we learned through this year.
+
+231
+00:10:43,735 --> 00:10:46,570
+Raise your hand and let me
+know what you want to say.
+
+232
+00:10:46,570 --> 00:10:49,626
+Talk to me. Do parabolas
+always open upwards?
+
+233
+00:10:49,626 --> 00:10:50,126
+Go ahead.
+
+234
+00:10:50,126 --> 00:10:51,590
+- (male student) I just
+want to agree with them
+
+235
+00:10:51,590 --> 00:10:53,432
+- (Teacher) You agree
+that it's a parabola?
+
+236
+00:10:53,432 --> 00:10:56,101
+- Yeah, because in a parabola...
+
+237
+00:10:56,101 --> 00:10:58,904
+it says that it started
+off dominating, but
+
+238
+00:10:58,904 --> 00:11:00,469
+you're on top if you're dominating.
+
+239
+00:11:00,469 --> 00:11:02,622
+Then it said that it made a comeback.
+
+240
+00:11:02,622 --> 00:11:05,223
+That means at one point it
+would have to be decreasing
+
+241
+00:11:05,223 --> 00:11:07,498
+and then to make a
+comeback they come back,
+
+242
+00:11:07,498 --> 00:11:08,778
+they come back up.
+
+243
+00:11:08,778 --> 00:11:11,418
+- (Teacher) Beautiful. Wanna add to that?
+
+244
+00:11:11,418 --> 00:11:14,573
+Go ahead.
+
+245
+00:11:14,573 --> 00:11:19,810
+- I was just going to say
+the other end (inaudible)
+
+246
+00:11:19,810 --> 00:11:21,782
+- Alright, so I just want
+to make sure I answered
+
+247
+00:11:21,782 --> 00:11:22,634
+Purple's question in the back.
+
+248
+00:11:22,634 --> 00:11:25,276
+You asked which way? Take a look at this.
+
+249
+00:11:25,276 --> 00:11:26,915
+This is what you're talking about.
+
+250
+00:11:26,915 --> 00:11:31,543
+Could the parabola be like this?
+
+251
+00:11:31,543 --> 00:11:33,910
+(background chatter)
+
+252
+00:11:33,910 --> 00:11:36,612
+What would this mean if
+the parabola were down
+
+253
+00:11:36,612 --> 00:11:38,685
+for the company?
+
+254
+00:11:38,685 --> 00:11:42,814
+- If it was down, then that
+means it's imaginary. Right?
+
+255
+00:11:42,814 --> 00:11:45,147
+- (Teacher) You're thinking
+of something about imaginary
+
+256
+00:11:45,147 --> 00:11:48,495
+and it's not if it's down.
+That has to do with a negative.
+
+257
+00:11:48,495 --> 00:11:51,111
+Right, if there's a
+negative A coefficient.
+
+258
+00:11:51,111 --> 00:11:52,353
+Something else, though.
+
+259
+00:11:52,353 --> 00:11:55,948
+What would this mean
+for the company's trend?
+
+260
+00:11:55,948 --> 00:11:58,170
+DeShawn?
+
+261
+00:11:58,170 --> 00:11:59,660
+Go ahead, DeShawn
+
+262
+00:11:59,660 --> 00:12:02,367
+- They would have had
+a spiral at the bottom
+
+263
+00:12:02,367 --> 00:12:03,960
+and then they would lift up
+
+264
+00:12:03,960 --> 00:12:05,483
+- (Teacher) And come back down.
+
+265
+00:12:05,483 --> 00:12:06,539
+Purple, are you alright with that now?
+
+266
+00:12:06,539 --> 00:12:09,300
+You understand? This would not have worked
+
+267
+00:12:09,300 --> 00:12:16,039
+based on what DeShawn just said.
+
+268
+00:12:16,039 --> 00:12:21,381
+Here's my question for you on AOL.
+
+269
+00:12:21,381 --> 00:12:25,549
+Why isn't AOL an absolute value graph?
+
+270
+00:12:25,549 --> 00:12:31,769
+What starts high, comes
+down, and goes back up?
+
+271
+00:12:31,769 --> 00:12:34,719
+We did do absolute value functions, right?
+
+272
+00:12:34,719 --> 00:12:37,767
+Turn and talk first, and
+then you're going to tell me.
+
+273
+00:12:37,767 --> 00:12:39,256
+Write that question down somewhere.
+
+274
+00:12:39,256 --> 00:12:43,678
+I want to know why it's not
+an absolute value graph.
+
+275
+00:12:43,678 --> 00:12:57,235
+(background chatter)
+
+276
+00:12:57,235 --> 00:13:03,047
+- Oh, yeah, we did talk
+about these today (inaudible)
+
+277
+00:13:03,047 --> 00:13:14,237
+(background chatter)
+
+278
+00:13:14,237 --> 00:13:16,058
+- if every five minutes
+they add ten members
+
+279
+00:13:16,058 --> 00:13:19,261
+but every five minutes
+you're getting ten members
+
+280
+00:13:19,261 --> 00:13:22,601
+then every five minutes
+you're gonna lose ten members
+
+281
+00:13:22,601 --> 00:13:25,565
+so parabola is not possible
+
+282
+00:13:25,565 --> 00:13:34,770
+(inaudible)
+
+283
+00:13:34,770 --> 00:13:44,594
+(background chatter)
+
+284
+00:13:44,594 --> 00:13:47,243
+- (Teacher) Ok, guys...
+
+285
+00:13:47,243 --> 00:13:49,769
+Bring it back.
+
+286
+00:13:49,769 --> 00:13:52,199
+I want to know why isn't...
+
+287
+00:13:52,199 --> 00:13:55,756
+Why didn't anybody say absolute value?
+
+288
+00:13:55,756 --> 00:13:58,369
+I'm going to maybe put one over here,
+
+289
+00:13:58,369 --> 00:14:00,325
+and then I have one more
+really important question
+
+290
+00:14:00,325 --> 00:14:03,552
+about these graphs for you,
+and then we're in good shape.
+
+291
+00:14:03,552 --> 00:14:06,199
+Absolute value... the reason
+I asked that is because
+
+292
+00:14:06,199 --> 00:14:08,007
+that also starts high, comes down low
+
+293
+00:14:08,007 --> 00:14:11,183
+and goes back up. I need some reasoning.
+
+294
+00:14:11,183 --> 00:14:15,186
+Let's change it around, start
+with Gold and go around. Go.
+
+295
+00:14:15,186 --> 00:14:18,836
+- I don't think it's
+an absolute value graph
+
+296
+00:14:18,836 --> 00:14:21,985
+even though it kind of follows
+the same kind of trend.
+
+297
+00:14:21,985 --> 00:14:24,606
+Because in the absolute value, it's
+
+298
+00:14:24,606 --> 00:14:28,795
+Y is equal to absolute
+value of X, meaning that
+
+299
+00:14:28,795 --> 00:14:32,543
+as time passed, they would
+be losing and gaining
+
+300
+00:14:32,543 --> 00:14:34,866
+a constant amount of people.
+
+301
+00:14:34,866 --> 00:14:38,970
+So like, if you gained ten
+members every five minutes,
+
+302
+00:14:38,970 --> 00:14:41,510
+every five minutes you
+would be gaining ten members
+
+303
+00:14:41,510 --> 00:14:43,582
+no matter what. Every five minutes, or
+
+304
+00:14:43,582 --> 00:14:46,101
+when it goes down, every five minutes
+
+305
+00:14:46,101 --> 00:14:46,873
+you'd be losing ten members.
+
+306
+00:14:46,873 --> 00:14:49,007
+Whereas a parabola that
+changes is not constant,
+
+307
+00:14:49,007 --> 00:14:51,059
+you can lose and gain
+power then they'd be equal
+
+308
+00:14:51,059 --> 00:14:55,122
+to join or don't join
+and you can't guarantee
+
+309
+00:14:55,122 --> 00:14:56,686
+that you're going to gain
+that amount of members
+
+310
+00:14:56,686 --> 00:14:59,599
+every time that amount of time passed.
+
+311
+00:14:59,599 --> 00:15:01,599
+- (Teacher) So would it be
+fair to say it's too con-
+
