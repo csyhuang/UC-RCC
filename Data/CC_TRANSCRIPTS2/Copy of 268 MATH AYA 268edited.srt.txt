@@ -1,0 +1,88 @@
+ [Student] We started testing out our theory that it's an exponential.
+ 'Cause we found out that the ratios...
+ [Teacher] Does that verify that it's an exponential equation?
+ We thought it did but it doesn't.
+ [Teacher] So why aren't you sure?
+ I don't know.
+ [Teacher] So the more disks I add, I'm eventually gonna have a cap on the minimum number of moves that I can make.
+ Isn't that a logistic function?
+ [Teacher] So logistic function would say that you're gonna have a cap on the minimum number of moves you make. And it would say at some point you're gonna slow down the number of moves you're adding on. Does that make sense based on what you've done so far?
+ No, not at all.
+ [Teacher] What do you think is gonna happen instead?
+ That it would increase.
+ [Teacher] And what would that be?
+ That's the exponential.
+ But the numbers are all really long decimals.
+ [Teacher] So, I heard someone in here earlier say you were gonna scatter plot this. So have you looked at your scatter plot?
+ [Student] Yes
+ [Teacher] Okay. What might be other ways to change an exponential function?
+ [Student] I can get it out of my backpack.
+ [Teacher] Based on what you had before what was your gut instinct with your ratio? Before you did any of the arithmetic, what did you think your ratio might be?
+ Small? I don't know. I didn't really think it was two automatically.
+ [Teacher] But two's in your head. Why is two in your head?
+ [Student] Because doubling?
+ Because there's doubling.
+ [Teacher] Here's what I'm gonna suggest to you guys. You've got your scatter plot on Marissa's calculator, right? You're thinking that two might have been the ratio. Why don't you graph two y equals two to the X and compare it to what's happening on your scatter plot and see if there's a different way that you might be able to change the extremum.
+ [Student] It's increasing by a factor of 2. She's trying it in an actual game.
+ [Teacher] Normally I'd want you guys to struggle with it right now but it sounds ... We're at 20 so what's your goal?
+ 27, 28, 29, 30, 31.
+ Good job, Caitlyn.
+ [Teacher] Good job. Now I'm convinced that that works. You're seeing that the difference is doubling each time, correct? What kind of function is that suggesting?
+ Exponential.
+ [Teacher] And what do you suspect is probably your factor?
+ [Student] Two?
+ [Teacher] Two? So that's what I want you to look at. How could you verify that it's an exponential function using any of the tools you have here? Once you've found out this was an exponential function what did you do to figure out what the function actually is?  There is a little bit of a trick to this one. It has to do with some of the other types of changes we do to functions. Okay? Figure out that. When you get stuck again, let me know and I'll be back.
+ [Student] So you think that's two to the power of X minus one?
+ [Student] Why did you get minus one?
+ Because with one it worked fine but with two, when you try to put in X as the exponent, two to the X so two times two is four. So far X minus 1 is the exponent.
+ [Teacher] What I'm hearing is that you're convinced that the factor is two. And you're trying to do some transformations on this to make your y values fit with what you got here, is that correct? Talk me through again why you guys think that the exponent is x minus one and then why you're adding the one at the end? (students laugh)
+ Because there has to be at least one move.
+ [Student] We added the one at the end because we were looking at just the y values first.
+ Oh wait, that doesn't work though. If you have one, so two to the zero is 1. And one plus one is two but that's ...
+ Tell me more about this idea of the plus one at the end. You said that had something to do with why you had to have a plus one.
+ Is it a piece of the function? That would be really mean.
+ We were like well it has to double and then we have to add one on the end.
+ [Teacher] I think you guys are in a great place. I think you've got a good idea here which is to take y equals two to the x and find the transformation that gives you this table. So try more with the transformation. I also like this idea you guys have about how you have to have at least one move, but I would think a little bit more about how to pattern your moves, that's just that you need at least one move. Alright, I'm going to leave you guys to think. I'll come back.
+ [Student] So we found the equation but now we're stuck at number four.
+ [Teacher] Okay, so talk to me about the equation and tell me how you found it.
+ [Student] The difference between...
+ [Student] I was kinda thinking of how this was relating to the difference, so how it would relate to the y values.
+ We saw the two to the x, we figured "oh well, two to the four to the 16. Well how do we get to 15, minus one?"
+ [Teacher] This is going back to the algebra from last year. So you saw that you had two to the x. You noticed here that we have just two to the x and then you go back one using algebra. You also talked about how when you graphed two to the x it matched up with your scatter plot. Did it lie directly on your scatter plot?
+ No.
+ [Teacher] So what do you mean by it matched up?
+ It was close.
+ It was the same curve.
+ [Teacher] So how did you know that created a transformation?
+ [Student] Because whether it depends on the number or which value it is. It changed the steepness of it. So we just knew it transformed it somehow. Like we had to have it. It wasn't the parent function.
+ [Teacher] So what made you guys think about doing a minus 1 after two to the x instead of saying four times two to the x or three to the x? How did you know that? Because if you'd done four times two to the x, you would have stretched it.
+ [Student] Because it would have moved to the left too... on the graph.
+ [Teacher] And what did that end up doing to your y-intercept? Okay, so that would be my next question for you. I agree with you guys that definitely there's a transformation. I agree with your algebra and your understanding of tables, you've done a nice job with that. So how does a transformation, what you've done is you've taken two to the x, what does the minus one do? Does that move this to the left? Move it up or down?
+ [Student] Well if you graph it...
+ It moves it up.
+ [Teacher] Okay. So Jamie is saying that she thinks that changing the a value changed the slope of the function. And you're saying that you don't think the slope changes. Okay, so you change the y-intercept. And do you have a change in the y-intercept?
+ It's still zero comma zero.
+ [Teacher] So you just had two to the x. Find out just two to the x. What's the y-intercept of the graph? What happened to your function and how did the function get transformed to achieve that?
+ The y-intercept moved down.
+ [Teacher] And does that match what we've been talking about? You take the function and subtract the value and move down one? Alright you guys said you were stuck on number four?
+ Yeah.
+ [Teacher] Okay. Why are you stuck?
+ So we figured out that you put But the minus one doesn't do anything.
+ [Teacher] Yeah, the numbers are so big that it doesn't matter. It actually does change the actual number a little teeny, tiny bit. But our calculator can't see that number. It looks like the same number on your calculator.
+ [Student] So we have a number of moves.
+ [Teacher] If each move is a second, then how long is it gonna take for the world to end? Alright, now you guys are also at the challenge question down here. Which is, based on the patterns you were seeing and how the pieces were moved. Why is your function which is correct match the way the patterns that were made? Okay? And I'll be back in a little bit. I'm going to give you guys about seven more minutes. You should answer question four before you try that. (students laugh)
+ [Student] So I got it kind of close. Looking at just... I did what you do to find a normal exponential equation. I plugged in y-two over y-one and then to the square root of four.
+ [Teacher] And are you getting consistent ratios between those y values of yours?
+ No.
+ [Teacher] You guys are correct that this is exponential. But if we're not getting a consistent ratio between y values then that suggests that your original thought, which was to start with two to the x and do a transformation, is on the right track. So I really think you need to go back to y equals two to the x and find the transformation that gets you to these y values.
+ Okay.
+ [Teacher] I'm gonna make a suggestion to you again stealing from another group. Try finding the differences between all these y values and see if you can see a pattern between the differences and the actual y values you have. Alright, what have you guys got?
+ [Student] Our answer was 30.
+ Talk me through how you got that function and how you know it works.
+ I realized that... the table matches the graph of two to the x but minus one.
+ [Teacher] So you just have that in your head. Did you graph it or did you just know those numbers in you head?
+ We didn't graph it. We used the tables to confirm that it was y equals two to the x minus one. Went to the table and it was the same numbers.
+ And I noticed here you've got 2 to the 64th minus one. What's that for?
+ That's from another number. It's like a really high number. One point eight times
+ Two to the 19th.
+ [Teacher] While you guys figure out how long it's gonna take for the world to end with that really huge number, I'd also like you to think about the answer to the challenge. You guys spent a lot of time looking at the patterns and how these pieces are moved. So I'd like you to think about why your function has two to the x. Why are you doubling those?

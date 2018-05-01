@@ -1,0 +1,208 @@
+ [Voiceover] How much bigger is one than the other?
+ It’s like a thousand times.
+ [Voiceover] It’s like four times. Wait.
+ Those zeros are really skinny [mumbles]
+ Well, they weren’t too bad. It’s quite a big difference isn’t it? So, is our picture drawn to scale?
+ No.
+ No. Can we make judgments on what’s happening by our picture?
+ No.
+ [Voiceover] Not unless its drawn to scale, right? Rachel, how would we redraw that to make it more in line with our numbers?
+ [Rachel mumbles]
+ [Voicover] Which side is bigger?
+ The one with the negative [mumbles]
+ [Voiceover] Okay, so we want to make that three times seven to  the sixth minus six much smaller, right?
+ Yes. Would you please redraw. Make it about a fourth of the size.
+ [voiceover] I’ll try.
+ [Voiceover] You can just do a new one. Don’t forget arrow tips please. Okay. Now does that picture help us understand why our hypotenuse is almost the same as the side? Okay, so, do we use our picture to make judgments?
+ Yeah.
+ Okay, only if it's to scale. Thank you, ma’am. Okay, Sam. You understand that? Okay. Alright, now one more thing we needed to do for the- Yeah. Go ahead.
+ That hypotenuse has got a curve. [chuckles]
+ It’s okay. We’ll make allowances. He doesn’t have a straight edge up at the board.
+ Okay, Raci, what else do we have to do here?
+ [Raci] Find the direction.
+ Find the direction. Raci, how would we go about doing that? [student mumbles]
+ [Voiceover] Okay so tangent... [mumbles]
+ No, that’s fine. We can use tangent. Which numbers will we use then? [mumbles]
+ Okay. And-
+ Pardon me?
+ Are we trying to find the hypotenuse right now?
+ [Voiceover] No.
+ [Voiceover] We, well, yeah, we’re going to. We just didn’t write it that way. To solve for Theta we would do inverse tangent okay? Now, what do I tell you always to do with this? Make sure...
+ It’s in degrees.
+ [voiceover] In degrees. A couple of you had it in radians.
+ That’s because in Precal, we [mumbles].
+ [voiceover] I understand that, but- So. Okay, now we have the angle. Is that the angle of the resultant?
+ No.
+ [voiceover] What would you do, Jonah?
+ 180.
+Add 180 because? [mumbles] It’s in the third quadrant. Drew would you agree with that?
+ Yes.
+ Because?
+ Because the resulting forces can’t-- They can’t, there’s no forces in the other quadrants, so the resulting force couldn’t possibly be in another quadrant.
+ Okay, but how do we measure that angle? Counter clockwise from East. Okay good. Alright. Any questions? Sam?
+ Question. I didn’t add the 180, but then I put my answer as a certain number of degrees southwest.
+ That would be fine. So you can do south of west also because it defines where that angle is. Alright? Now, do you guys feel better about this problem? Okay. John?
+ Can you measure that from? I said it was... I’m pretty sure this is incorrect, but 12 and a half degrees west of south. I mean, now that I realize it's...
+ Yes, you could have. I guess it's technically the same thing.
+ It would have been west of south. Did I mark it wrong?
+ Yeah.
+ Alright, well just show it to me later. I might have just missed that angle there. Okay. I’ll make that correction for you, John. Okay. Let’s go on. Jonah? Jake, thank you. Jonah, you’re going to the board for this one.
+ What should I write?
+ We can erase all of number one. [mumbles] Taylor, would you please read the problem for us?
+ [Taylor] Sure. A proton accelerates from rest in a uniform electric field of 640... What does that say?
+ Newtons over Coulombs. [crosstalk]
+ Okay, let’s stop there for a second. Hold on. Don’t erase the nanocoulombs. You see the difference between an ‘N’ slash ‘C’ and a lower case ‘nc’? Sometimes, if you’re reading too fast you are going to mess those up. I do it myself. So, always take a good look at the units. Units help inform you what you have. Okay, thank you.
+ [Taylor] At some later time its speed is 1.2 times 10 to the second [mumbles]. For A, you have to find the magnitude of the acceleration of a proton. For B, how long does it take the proton to reach the speed? C, how far has it moved in an interval? And D, what is the kinetic energy at the later time?
+ Okay so, Connor. Calling on you again here. Magnitude of the acceleration. How would we go about finding acceleration normally if I just said, Connor tell me how to find acceleration? What’s the first stuff that comes to mind?
+ [Connor] ‘f’ equals ‘m’ ‘a’.
+ ‘f’ equals ‘m’ ‘a’. Okay, or ‘a’ equals-
+ [Connor] ‘f’ over ‘m’.
+ [voiceover] ‘f’ over ‘m’. Jonah, ‘a’ equals ‘f’ over ‘m’. We’re working with a proton. Mass isn’t given in the problem, but is that going to be an issue for us?
+ No.
+ [voiceover] No, because that’s our table of equations. So the mass of a proton: 1.67 times 10 to the minus 27 kg. So, we have that part, but we don’t have the force. So Rachel, how might we find the force?
+ Isn't the 'e' equals 'f' over 'q', so we can use the charge of the proton to find the [mumbles].
+ To find the charge, and what’s e?
+ It’s a constant. No, no, no its not a constant. Oh, isn’t it the 640 newtons over coulombs, right?
+ And what does e represent, Rachel?
+ The electric field.
+ Electric field, good. So, if we solve this for force, what is that going to be? F equals- Okay, you can plug numbers in first too, that’s good.
+ Jonah. Can you slow down for some of us, please?
+ Yeah, Jonah, you’re not supposed to be looking at your sheet, so put your sheet down. What did Jonah just write up there? [mumbles]
+ Okay, he went too fast. So let’s back up.
+ He plugged in the variables.
+ He plugged in the numbers. But do we all know where that equation came from?
+ Green sheet.
+ Green sheet. And 'e' is the?
+ Electric field.
+ Good okay. And 'f'?
+ Force.
+ 'q'.
+ The charge of a proton.
+ Alright. So, now do you all know the charge of the proton?
+ It’s equal to the charge of an electron.
+ Very good, alright now we can find force, right? What was the force then?
+ 6.13 times 10 to the 10th?
+ I got 1.02 times 10 to the ninth.
+ That's the acceleration.
+ Oh, my bad. Yeah, I was doing acceleration.
+ F equals?
+ 1.67.
+ 1.024. How did I get this problem right? Oh, there it is right there. 1.024 x 10 to the negative 16th.
+ And that brings up another good point. Write your work more clearly, right? Because if you can’t follow your own, how do you expect me or the AP reader to do that? So, do yourself a favor. Make sure its clear. Okay. Where do we go from here, Ann? Back to a equals f over m. And we have force and we have mass now, right? [mumbles] Okay, now I have led you through the problem solving steps for number one and number two A. John, lead your classmates through 2 B.
+ Okay. 2 B. You have... Do you want me to lead the class?
+ I want you to ask questions. Don’t tell us. I want you to ask questions, okay?
+ Okay. So, you need to find time. So, what equation would you use?
+ Jonah, stop using the sheet.
+ No, I told him he could use it.
+ Wouldn’t it be velocity equals acceleration times time?
+ It is.
+ Yes. [mumbles]
+ Oh, come on Jonah, don’t... It's actually v o times x, times t, not x v o times t.
+ That’s right.
+ Isn’t it v o times t?
+ You are thinking of the equation for displacement. Oh yeah, x times v o. Well v o is zero because it's from rest.
+ Alright, Drew what would you plug in? [mumbles] The speed that you’re given at the beginning of the problem and you found the acceleration. Oh, the speed is 1.2 x 10 to the sixth, and then you plug the acceleration you found from the previous problem, into that equation and solve it. [mumbles]
+ So, t equals...
+ No, John’s leading.
+ Class what does t equal?
+ 1.96 times 10 to the negative fifth.
+ Negative fifth or negative seven?
+ Five.
+ Alright, Sam, you lead for part C. Read part C. You lead.
+ Part C. How far has it moved in the interval? And if you look up to the problem, nope you don’t have to look up to the problem. You look up to number B which we just did. Number B. Yes, you do. Number B, and you look at the time that we just found, and that’s going to be the interval. Thank you, Jonah. So, how are we gonna find time, Ann? Or distance? Sorry, distance.
+ Why’d you ask me a question?
+ You told me to ask you a question.
+ No, I didn’t.
+ Alright, anyone else know? Gretchen, you look like you know. What’s the equation to find distance in number C?
+ Distance equals velocity times time.
+ Nope. That's not what I got. But, I guess you could do that. You could do that.
+ No, you can’t. You can’t do that.
+ Why not? Because I was gonna do that at first Gretchen, but then I thought in my head, that since the object’s accelerating, the velocity is not going to be constant throughout the path of the travel. I have an equation.
+ You have an equation, Ann?
+ I do.
+ What is it?
+ How about x equals, x, the original x plus v o times, times t plus one half 'a' 'v' squared.
+ So, what do we know about v o and x o, Ann?
+ That they are just zero.
+ So what can we do to both those first parts of the equation?
+ Just throw them out the window.
+ Drop it like a bad habit.
+ Drop it like it's hot.
+ So, that would be half times acceleration times time squared. And conveniently, letter A, letter A we found the acceleration which was what, Drew?
+ 6.13 x 10 to the 10. Nice. ½ is just ½ and the time in letter B. What was it Raci?
+ 1.93 times 10 to the negative [mumbles].
+ So, if you pound that out on the calc...
+ Can we just pound it out?
+ You cannot just pound it out because you have to...
+ Do what, Miranda?
+ I don’t know, [mumbles].
+ Put the square in there?
+ Change back to degrees?
+ Oh, you snuck it in.
+ Snuck what in?
+ The square.
+ I don’t think I said the square. No I didn’t, but Jonah thank you for saying the square for me. Pound that out in sig fig-wise, what do you get?
+ I got 11.8.
+ 11.7.
+ John.
+ If acceleration does matter, couldn’t you also use the equation ½ v t? Because I also did that and I got the same.
+ D equals one. Write it on the board, please. D equals? What’s d? [mumbles] I know it works. I just don't know how it works. I’m going to tell you in a second. One half v average times t. So, why will this also work, then? Let’s get some of your thoughts. Ann?
+ Because if it’s the average, then it’s looking at the middle velocity instead of the top and bottom so you just-
+ Wait a minute.
+ It’s the average velocity; and really the equation is ½ the quantity vo plus v times t.
+ Yeah, that’s what I wrote down.
+ Right and so you take into account the acceleration with the change in velocity.
+ So, wait a minute. If the equation is ½ vo plus v?
+ Then you just get rid of the ½.
+ No.
+ Yeah, you do.
+ ½ v plus vo times t.
+ ½ the quantity vo plus v.
+ Times t would just be v average times t.
+ Okay, let’s write the whole equation out. John, one half parenthesis v o plus v end parenthesis t.
+ Then isn’t ½ vo plus v just v average?
+ So, t equals v average times t.
+ Not ½ v average? [mumbles]
+ No.
+ Yes.
+ But vo plus v divided by 2... [crosstalk]
+ Oh okay. I’m sorry. I see what you mean. I missed that. Yes, sorry. But it can’t just be final velocity. Okay. Is there another equation we could’ve used? I saw some of the other ones on your sheets that worked. [mumbles] Anybody in this class have one of the other ones? Jonah, did you?
+ You could do V squared equals 2 a x.
+ [voiceover] So another way, v squared eqals 2 a x and solve for x, right? Good job, so you can see there’s multiple ways of getting at the same answer, right? And D, letter D. I'll have Gretchen lead.
+ [Gretchen] Letter D is asking to find the kinetic energy at the later time. So, what equation would you use? Sam?
+ [Sam] Would it be kinetic energy equals ½ times the mass of the object times the velocity of the object squared?
+ Yes. And then if we know the mass of the object of the proton from the first equation and that was?
+ 1.67 x 10 -27 kilograms.
+ Thank you for using the unit.
+ And then we found the velocity in letter...
+ Given.
+ Or it was given, right. So 1.2 x 10 to the 6th...
+ Meters per second.
+ Thank you.
+ Squared.
+ And then you can just plug that into your calculator.
+ Sig figs 1.2 times 10 to the negative 15th gs or kilogram meters per second.
+ [voiceover] Meters squared over seconds squared. Don’t forget you have to square the units.
+ Kilogram meters squared over seconds squared?
+ Kilograms meters squared over seconds squared. Yeah.
+ What is kilogram meters per second?
+ You have to convert the meters.
+ I could have sworn kilogram meters per second was something.
+ Oh, momentum.
+ That’s not what we’re looking for though, right?
+ No, it’s not. No, we’re good.
+ Okay, now. Better understanding?
+ Yes.
+ You gotta stay on top of stuff. You can’t let those distractions get to you. Okay. Pass your quizzes to the front face down. I’ll put them in your files for you.
+ Do you want to see [mumbles]?
+ I’ll take yours separate.
+ Are we allowed to retake them?
+ Pardon me?
+ Can we retake them?
+ Sure. Thank you. [mumbles]
+ You gave me a minus six.
+ Well...
+ I had everything [mumbles].
+ Okay now, we are starting the next chapter today, so I have some handouts to give to you. [mumbles]
+ Do we have till this Friday to retake the last test?
+ Yeah, and quarter ends on Friday, so anything you guys need...
