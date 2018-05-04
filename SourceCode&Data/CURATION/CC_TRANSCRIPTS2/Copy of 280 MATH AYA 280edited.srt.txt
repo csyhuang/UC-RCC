@@ -1,0 +1,198 @@
+ It's probably three. Because five to the third is 125.
+ [Voiceover] Alright, so let's test that out.
+ Can I use my calculator?
+ [Voiceover] You can have your guy test it out here.
+ Oh.
+ The other thing to work on is the pronunciation of this. This is something that is unusual because it's got that subscript. Read that first line up at the top where it says "pronouncing logarithmic equations".
+ Log base b of x equals y.
+ Yeah, so can you transfer that pronunciation to, for example, the one in example six? How would you say that out loud?
+ Log base two of eight equals...
+ [Male Student] It's three.
+ [Male Instructor] Equals three. So, that's how we say these things out loud. Log base two of eight. The little number, this subscript, is the base. Keep going, you guys are doing fantastic.
+ [Instructor] Speak up.
+ The log of 10,000 is four. Forgot, I don't have a pencil.
+ [Male Instructor] You're off. No pencil.
+ In number nine, is it one?
+ For number nine?
+ [Voicever] Yeah.
+ When the log, when the base is equal to X.
+ [Male Student White Shirt] When B is equal to X it will be one.
+ [Male Student Green Shirt] So would 10 be negative one?
+ Uh, 10, yeah negative one.
+ [Male Student Green Shirt] Oh, I think I get it now.
+ And then 11 would be...
+ [Male Student Green Shirt] Negative three.
+ Negative three yeah. It's like the power stable thing, you know?
+ [Male Student Green Shirt]: Yeah.
+ It's like four to the y would be equal to this?
+ [Male Student White Shirt]: Yeah.
+ [Male Student Green Shirt]: So, 12 and 13 would be zero?
+ Let's see.
+ Yeah.
+ Yep.
+ [Voiceover] : Okay.
+ Pretty easy.
+ Yeah and...
+ [Male Voiceover] : What's 14?
+ 14 is one-half.
+ [Voiceover] : So again what you're saying is...
+ If it's a fraction or if like, like for 14,
+ [Voiceover] : Yeah. It'd be a fraction. So 14 came out a fraction or a decimal of half.
+ [Female voiceover]: Yeah.
+ So that, what about that one made you think it's going to come out a fraction versus the other ones that were all integers?
+ The other ones were integers because in the log, the little exponent there
+ Mmhm.
+ is less than the actual number.
+ Okay, let's work on the pronunciation because this is something that's brand new as far as how to say this thing out loud. Let's go back up to the top, where it says "read this out loud". So, Matt, I'll have you... Are you the, what is your role here?
+ We're professors here.
+ Oh, so that's a good role for you. So, why don't you speak that out loud.
+ Log base root of x equals y.
+ Yeah, now I want you to say the first example out loud.
+ Log base of, log base five of 25 equals 2.
+ Yeah, so it's hard to pronounce it.
+ Yeah.
+ But the little number, that's down is what?
+ Uh, base.
+ Yeah, so it's the base. So when we say it, we're gonna say base little number, whatever it is. Alright, so now say what you were saying before, either of you guys. You told me why it comes out a fraction. How will you recognize it comes out a negative number?
+ When the y, or when the x is a fraction, and the log base is a whole number.
+ Okay, yeah, so like, which examples do that?
+ Ten and eleven.
+ Alright, that's good. How, will you recognize if it comes out as zero? See any patterns for the ones that log?
+ If the x is a 1.
+ [Instructor] : Alright, yeah. Why does that make sense? Have you figured it out?
+ [Female voiceover]: Like, any number to the power of 1 is itself, or no, it's zero. Or I mean, not any number to the power of zero is one.
+ [Male Voiceover] : Exactly. Alright, you're very, you're getting right to the idea of what a log is. How will you recognize the ones that will come out one, without calculating?
+ X equals the base.
+ [Male voiceover] : Okay, well said. Why does that make sense in terms of exponents?
+ 'Cause if you divide itself, it'll equal one.
+ [Male voiceover] : Can you give me an example of an exponential equation that might look like this one? Because that's the next thing we're going to try to do...
+ Seven to the fifth power.
+ Seven to the one equals seven. Good, having done all of this, can you say what a log is in one word?
+ A single word.
+ It's like the power of...
+ [Male Voiceover] : Mmhm, it's the exponent.
+ Yeah.
+ [Male Voiceover] : Good, a log is an exponent. Now, what I'd like you to do is try to do the bottom ones based on what your understanding of log is, yeah.
+ [Male student voiceover]: Woah-oh-oh-oh-oh...
+ It would be.
+ Don't stop.
+ So it's gotta be two. Take the, so the first one would be 32 because basically the base is the actual number and the answer to the logarithm is the actual number.
+ [Male Student Voiceover]: So right to the there...
+ Yeah, so 32.
+ Something with...
+ [Male Voiceover] : Something to the fourth...
+ Yeah.
+ Maybe five, five to the fourth.
+ [Female voiceover]: Five, to the...
+ Execuse you.
+ So 59 is...
+ [Female Voiceover]: One, 52 equals one.
+ So it'd be 59.
+ Yeah.
+ 18 would be...
+ [Male Voiceover] : Just three.
+ [Female Voiceover]: Is it a thousand?
+ Yeah, a thousand. You put ten thousand.
+ [Female Voiceover]: I have a question.
+ Yeah.
+ For this one, what's the, for this one, what's the log? No, well, yeah, I don't know.
+ [Male Voiceover] : The log of what?
+ [Instructor] : I think I understand your question, but you first have to figure out the way to read these things. Read that part, that first, because the pronunciation is challenging at first.
+ Log base b of x equals y.
+ [Instructor] : Alright, so now read example... Well, we know example four is three. So, the log is three. So read example four out loud.
+ So log three of 27 equals three?
+ [Male Voiceover] : Good, except I want you to say the word base in there.
+ Okay log base three of 27 equals three.
+ [Instructor] : Perfect, so I think your question was about examples seven and eight?
+ So, what's the base?
+ [Female Voiceover]: Wouldn't the base be one, it's just not there?
+ [Male Voiceover] : It's not there. Here's the question, the answers, the logs came out two for number seven and four for number eight. Go back to what you guys were saying about an exponential equation. What's equivalent to that?
+ [Male Voiceover] : Oh, if it's not there, the base is ten.
+ [Instructor] : Alright, so can you write the equivalent exponential equation for example seven?
+ Ten squared equals 100.
+ [Male Voiceover] : Ten squared equals 100. Does it still work for that? Is that void?
+ Mmhm. Because it would be ten to the fourth equals...
+ [Female Voiceover]: But I thought he just said the base was one.
+ Well, he said the base was one. He thought it might be.
+ Oh, it's not.
+ [Instructor] : It turns out it's ten.
+ Okay.
+ [Instructor] : So the base, if not written, is ten. I want you to check this two ways. Who's our calculator person here? Alright, so Brandon I want you just to type in the log, but just use this button. It's next to the seven. Just type in log of 100. So if he doesn't use any base, it comes out as two. Now, try it with the log base, on the new operating system log base ten of 100.
+ Log base ten of 100?
+ [Instructor] : Mmhm. See if that still works.
+ Two.
+ [Instructor] : It turns out, it's sort of optional. If there's no base what is the base?
+ Nothing.
+ No, it's a certain thing. So, if there's no base written, like all of the other ones had a base written...
+ [Female Voiceover]: Okay.
+ [Male Voiceover] : If there's no base written it's saying what's the number to raise a certain base to, to get 100? And this one came out two. So, what's the number, that you can use as a base, squared to get 100?
+ Ten.
+ [Instructor] : Yeah, so if there's no base, the base applied is ten. And it turns out, you can write it or not. So, what I'd like you guys to do is as you're working through these, also consider what would be an equivalent exponential equation for each of the ones that you're taught.
+ So just do all of the ones at the bottom and then go back and do it again.
+ [Instructor] Yeah, sure. And the one's at the bottom, you can't just type into the calculator. So you got to kind of think a little bit about what would be the relationship there.
+ [Male Student Voiceover]: Then for like, any number in there?
+ That's a really good insight. How come that's the case?
+ Because anything to the zero power is one.
+ [Instructor] : You got it. Yeah. Except for one number. There's one number you can't put there.
+ Zero.
+ [Instructor] : Yeah, good job. You got it, good job.
+ Thank you.
+ 20 would be 81...
+ I wasn't even close.
+ So, ten, alright so ten to the third would be 1000?
+ [Male Voiceover] : For 18, wouldn't it be a thousand, supposed to be base, is implied to be ten. Ten to the third would be 1000.
+ I'm not sure.
+ [Male Voiceover] : For 18.
+ [Male Voiceover] : I don't know. (chuckle)
+ [Male Voiceover] : Alright.
+ [Instructor] : Alright, say it again, except this time include the word base.
+ Log base of, log base of eight. Wait, log base of eight equals zero?
+ [Instructor] : Close. Log base eight...
+ Log base eight of one equals zero.
+ [Instructor] That's it exactly, yeah.
+ Okay.
+ [Instructor] : So we say base, where's the base always on a log equation?
+ [Female Voiceover]: Under the exponent.
+ [Instructor] : Yeah its a subscript, it's down.
+ A subscript...
+ [Instructor] : So I'd like you to pronounce number 12.
+ Log three of one equals zero.
+ [Instructor] : Close. I want you to get the word base in there.
+ Log base three of one equals zero.
+ [Instructor] : Yeah, and that way, if you're always saying what the base is, when you create an equivalent exponential function, it's going to be a lot easier. So next to each one of these, let's do a few together. Let's do the top row, going one, six, 11. I want you to write an exponential equation using 5, 25, and 2.
+ [Female Voiceover]: So it would just be, five squared equals 25.
+ [Instructor] : Exactly. What's the base in that equation?
+ [Female Voiceover]: It's five.
+ Yeah. So, you did two cubed equals eight. Yeah. Yeah, so now you recognize, you guys correctly identified that a log can be summarized as an exponent. Yeah, that's good. Each of these numbers is an exponent. What'd you notice about the ones that came up zero? Would you be able to recognize those and predict...
+ [Male Voiceover] : Any number works for it. Really.
+ What do you mean any number works for it?
+ For this one...
+ Oh, I see for that last one.
+ You could put any number here other than zero.
+ [Instructor] : Yes.
+ [Female Voiceover]: I thought it was one, but they had got it.
+ [Instructor] : One works, but so does two.
+ [Male Voiceover] : So does, two, three, four and five.
+ [Instructor] : I'm wondering about the ones like 12 and 13. How would you predict or recognize in the future, that the log is going to be zero?
+ If it has a one for the...
+ [Male voiceover] : X
+ For the X, yeah.
+ [Instructor] : Mmhm, yep. I think there's a fancy mathy word, called a characteristic for that. But we don't use that word very often. But yeah, you could say the x 'cause that's how it showed up in our first equation. Sure. How will you recognize that it's going to come out a negative number?
+ [Female Voiceover]: If it has a fraction in it.
+ [Instructor] : Mmhm.
+ As the X.
+ [Instructor] : Okay, well said, yeah. Why does that make sense in terms of what you know about exponents?
+ On the green chart, whatever is on the left side and whatever's left...
+ [Instructor] : Yeah. Our powers table. You're talking about all of our fractions here. Yeah. How about the ones that came out with one as the log. The log was one.
+ [Female Voiceover]: They have the same base and the same x value.
+ And what about this one? This is a fraction, so...
+ [Intructor] : Yeah, how come it had a negative log?
+ Well, I know it's because it's a fraction.
+ [Instructor] : Can you write an equivalent exponential equation?
+ Two to the, no, two to the negative one
+ [Instructor] : Mmhm.
+ equals, it doesn't equal this right?
+ [Instructor] : Actually it does. Two to the negative one, equals half.
+ Okay.
+ [Instructor] : Yep.
+ Okay, so that's correct.

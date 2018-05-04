@@ -1,0 +1,125 @@
+[Teacher] Megan, what quadrant am I going to be centered in?
+Quadrant four?
+[Teacher] Good, okay, so I'm gonna go to the right six, and down five... I know my radius is three root seven. Now, this may be a little difficult for you, because three root seven is kind of a hard number to wrap your mind around. Any thoughts on how we can tell which quadrants this goes into? I want to know if it goes into quadrant one first. Twink, what could we do?
+Do you un-simplify it, so when it gets through the center, it'd be like, square root of 63, and then you like, have..., so it's in-between eight, nine, or I know it's in-between seven and eight.
+[Teacher] Okay, did you guys follow her on that?
+[Students] Yeah!
+Yeah, okay, so Twink knows that this decimal is going to be between seven and eight, because she knows it's the square root of 63. And the square root of 64 is eight. So, it's just below eight. All right? So, you may be able to picture a decimal in your mind, close to eight, but not quite, so we're armed with that knowledge, true or false, this circle goes into quadrant one. Melissa.
+[Melissa] (inaudible)
+[Teacher] Agree?
+[Students] No.
+[Teacher] Ben?
+Yes, it does go into quadrant one.
+[Teacher] Do you have anything to back that up?
+[Ben] Yeah, because it only, the center point is down six, and if we go up one more than that, at least.
+[Teacher] James?
+It's down five, and since it's more than seven, it's gotta be at least past the two.
+There were a lot of pronouns there. What James was saying is, we're five units below the x-axis, the radius is seven point something units long, so we're going to top out right around there. There's the top of our circle, okay. Let's speed up this process a little bit here. The, is it going to go into quadrant three?
+[Students] Yes.
+Why, Abby Simpson?
+[Abby Simpson] Because it's over six,  and yeah, you count seven the other way.
+[Teacher] Okay?
+[Abby Simpson] Or a little over seven.
+[Teacher] So, we're going to be there.  Oh, and now for the great dilemma, will this circle go into quadrant two, Robert, what am I going to have to resort to?
+[Robert] The distance formula?
+[Teacher] I can't hear you.
+[Robert] The distance formula.
+[Teacher] Okay, give me some more pairs to plug into this formula. William?
+Zero, sorry, zero minus six squared, and then zero plus five squared.
+[Teacher] All right. Now what is the square root of 61 in simplified radical form? Rue?
+Is it just square root of 61?
+[Teacher] Good, maybe that was a trick question. Maybe not, it's not going to break down any further, because 61 is what type of number again?
+[Rue] Prime.
+[Teacher] Prime, okay, so, we've got square root of 61. Robert, you told me to use distance formula, I used distance formula. I followed your orders to the T. I still don't know if this goes into quadrant two or not.
+It does not.
+[Teacher] The circle doesn't make it to quadrant two?
+[Robert] No.
+[Teacher] So, you're saying it does this?
+[Robert] Yes.
+Prove it.
+[Robert] Well if you actually put, I don't know...
+(laughter)
+[Robert] Call on someone else please.
+[Teacher] Maddie.
+Since you know that your radius is the square root of 63, and that's a larger number than the square root of 61, it therefore passes the origin, and it goes into the opposite quadrant, or quadrant two in this case.
+So, you're saying it goes like that.
+[Maddie] Correct.
+Is that good enough for your piece of mind? The radius is longer than it needs to be to reach. And therefore yeah, you're right. Moral of the story? The circle goes through all four quadrants. So far, we've kind of been in, been there, done that land, and so now I'm going to take you into some new stuff, right now. The x and y intercepts. First, the x-intercepts of this graph. How am I going to find where this circle collides with the x-axis? Let me ask an intermediate question, what do you know about every x-intercept in the universe? They all have something in common, Abby?
+[Abby] All of their lines, like the y equals zero?
+[Teacher] What, I'm sorry.
+Okay, all like the y's equal zero... like the y?
+[Teacher] Which variable?
+Y.
+[Teacher] Equals?
+Zero.
+[Teacher] One more time.
+Y equals zero.
+Okay does that makes sense to you guys?
+[Students] Yeah.
+Because if you do go up or down to plot your ordered pair, I've got bad news for you, you're not on the x-axis any more. Thus, it's not an x-intercept. All right, just one more time Abby, I forgot what you had said earlier.
+[Abby] Y equals zero.
+Okay, so how am I going to find my x-intercepts here? Twink?
+[Twink] I have a question, does it like, the circle cross over x, like the x-axis twice?
+[Teacher] Well, we'll find out if it does.
+[Twink] I mean sometimes, doesn't it?
+[Teacher] Yeah.
+[Twink] So, what do you do if it does?
+[Teacher] So, this is the first time in your math careers where you might have two x-intercepts. Colliding once, and coming back down and colliding again with the x-axis, that's good instincts. And I'll just warn you right now, yeah, we're going to have two x-intercepts here. Maddie, how are we going to find these two?
+[Maddie] We use the formula of a circle, and we plug in for y, zero?
+[Teacher] Okay, so let's get the equation up here, because I forgot to write it earlier. Josh?
+[Josh] Ah, I don't remember.
+Ella May?
+[Ella May] X squared... X squared plus, or minus six? Or no, x minus six.
+[Teacher] Okay.
+[Ella May] Squared, plus y? Plus five. Squared, equals 63.
+Okay, Maddie, now we have our equation, and you said to do what to it?
+Since you know you have, when you're looking for an x-intercept, you're always going to have zero for your y.
+[Teacher] Oh, Abby told us that.
+Yeah, you have your y in that formula equal zero.
+[Teacher] Literally, literally.
+[Ben] (inaudible) Well, we've got to see what x is, Ben.
+[Ben] Well, I know but that's it?
+Does it make sense to you?
+[Ben] Yeah!
+It isn't that hard of a concept, and that's why I had Abby repeat it eight times. If you get that y literally has to be zero, you understand why you literally make y zero, and then solve for x. We're finding, here's one of the ordered pairs right here that we're searching for, and I'll be darned if the y is gonna be zero. The question is, what's the x? All right, so I've got x minus six squared. Plus, I'm just going to write five squared equals 63. So, according to my calculations, we have that right there. Mason?
+[Mason] You forgot that middle term. It should be minus 12 x? Yeah, or something like that. You forgot the middle term. You forgot, like, the something x. Yeah, it'd be x squared minus 12 x, and then plus 36.
+Oh, so I need to square both those terms?
+[Mason] Yes, no wait, what'd you say?
+I just wanted to square the x and square the negative six.
+[Mason] No you didn't, you wanted to square the whole thing.
+Okay, which means we utilize what process in math? What's that called again, Twink?
+[Twink] Foil?
+[Teacher] Foil, we had forgotten our oi, Ben.
+[Ben] Where did we get 12 x from?
+Vanessa?
+We squared x minus six, so we used factoring. We did x minus (inaudible).
+Now do you see where we get it from, Ben? Okay, thank you Ben. What to do with the 63, what to do, what to do? Mason?
+Do you just combine, like subtract 63 from both sides, combine all the like terms of the whole numbers, and then you have a quadratic equation.
+[Teacher] Okay. Well, now I have a quadratic trinomial, and it's arranged in what? What do we call that, Kate?
+[Teacher] Ellie?
+Descending order.
+Mm-hm. Nice, so let's try and factor that. Michelle, you're shaking your head like no way.
+[Michelle] It doesn't work. Well, all right, then I guess we're stuck.
+(class boos and laughs)
+[Student] That's so stupid.
+[Student] Don't we have to do  the quadratic formula?
+[Teacher] Yes, if only I could remember that though. It's been such a long time.
+[Student] Sing the song! (laughter) You tell me the song, I'll actually write the line pertinent to this problem, what's the first line?
+(inaudible)
+[Teacher] Keep going...
+[Students] (singing) Plus or minus the root of b squared minus 4 a-c, all over 2a. (laughter)
+[Teacher] Okay. I'm going to do some of the math for you, and then I'm going to have you do some of the math for me, because I'm more interested in seeing that you can do this. So, I get 12 plus or minus the square root of 152, over two. Now normally, normally I would have you guys simplify that and give me exact answers. But it's hard on a graph for you guys to see where something like 12 plus root 152 is, I mean that's kind of an abstract.
+So, we're actually, I'm going to let you do decimals here. So, here's what I want to do, Kevin's row through Sarah's row, I want you guys to find the plus branch, so you do plus. You two rows, find the minus. As soon as you get an answer, real quietly and quickly check with a neighbor, and make sure we have confirmation. Let's go to the nearest hundredth.
+(students discuss with each other) Okay, if you've got an answer that corresponds to what your neighbor got, regroup. Regroup, Ellie. If you've got the same answer as your neighbor, raise your hand right now, over here. So, Melissa, what was the value of x you got?
+[Melissa] 12.2.
+[Teacher] 12.2, what is it to the nearest hundredth?
+[Melissa] Oh, 12.16.
+[Teacher] 12.16. All right,  that sounds about right. And then over here, my branch with the negative sine in there, Ellie?
+[Ellie] Negative 0.16.
+Okay, now let's not lose sight of big picture here. Context, what the heck's going on? Why have we been trying to chase down x, and why are we getting two different answers? And which one is right, and which one's extraneous? Help me make sense of all this, now that the procedure is done, Michelle?
+[Michelle] Neither of them are extraneous, because the circle hits the x-axis at two points?
+[Teacher] So, what are my two x-intercepts?
+12.16, and negative .16?
+[Teacher] In ordered pair form.
+12.16, zero, and negative .16, zero.
+There's that one right there, makes sense. And then the 12.16, zero hopefully you have room on your paper, I don't have room on the board for that. Should be somewhere over here. It's a good pit stop moment right here. Pull off to the side of the road. Stop for a second, are you sure this makes sense to you?

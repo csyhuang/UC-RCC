@@ -1,0 +1,2076 @@
+1
+00:00:00,400 --> 00:00:03,230
+- A prediction on the
+weather temperatures.
+
+2
+00:00:03,230 --> 00:00:04,623
+- Okay so maybe they can
+predict something
+
+3
+00:00:04,623 --> 00:00:05,882
+that's going to happen.
+
+4
+00:00:05,882 --> 00:00:06,747
+- Yes.
+- [Teacher] Okay.
+
+5
+00:00:06,747 --> 00:00:09,666
+So, based on the information
+that you collected
+
+6
+00:00:09,666 --> 00:00:11,024
+is there any information,
+
+7
+00:00:11,024 --> 00:00:13,227
+let's say you could go
+out the next day.
+
+8
+00:00:13,227 --> 00:00:15,111
+What do you think,
+based on what you saw,
+
+9
+00:00:15,111 --> 00:00:18,963
+what do you think might
+happen the next day?
+
+10
+00:00:18,963 --> 00:00:22,727
+- It might go back down
+into the 30s or the 20s.
+
+11
+00:00:22,727 --> 00:00:25,039
+- [Teacher] Okay, and
+what makes you say that?
+
+12
+00:00:25,039 --> 00:00:26,907
+- Because there's more 30s and 20s
+
+13
+00:00:26,907 --> 00:00:28,995
+then there are 50s and 40s.
+
+14
+00:00:28,995 --> 00:00:30,420
+And,
+
+15
+00:00:30,420 --> 00:00:31,253
+then
+
+16
+00:00:32,579 --> 00:00:34,829
+there was a large spike so.
+
+17
+00:00:36,154 --> 00:00:37,451
+- [Teacher] Okay, so it got warmer.
+
+18
+00:00:37,451 --> 00:00:40,343
+But you're saying because
+most of them were cooler,
+
+19
+00:00:40,343 --> 00:00:42,348
+it might get cooler again?
+
+20
+00:00:42,348 --> 00:00:43,181
+- Yes.
+
+21
+00:00:43,181 --> 00:00:44,703
+- Okay, so you're making
+a conclusion.
+
+22
+00:00:44,703 --> 00:00:46,774
+You're using your data
+to support that.
+
+23
+00:00:46,774 --> 00:00:47,960
+Shaun, what are you thinking?
+
+24
+00:00:47,960 --> 00:00:50,872
+- I was thinking that maybe
+
+25
+00:00:50,872 --> 00:00:52,938
+they might want to track it,
+
+26
+00:00:52,938 --> 00:00:56,049
+because maybe weather can,
+not evolve over time,
+
+27
+00:00:56,049 --> 00:00:58,216
+but how much it's changing
+
+28
+00:00:59,357 --> 00:01:02,074
+and predict what's gonna happen.
+
+29
+00:01:02,074 --> 00:01:04,122
+- Okay, so you're thinking
+like a meteorologist
+
+30
+00:01:04,122 --> 00:01:06,962
+or a scientist might
+make a forecast,
+
+31
+00:01:06,962 --> 00:01:10,080
+make a prediction, so you're
+thinking sort of like Hava.
+
+32
+00:01:10,080 --> 00:01:12,925
+And were your temperatures
+similar to her,
+
+33
+00:01:12,925 --> 00:01:14,587
+or were they very different?
+
+34
+00:01:14,587 --> 00:01:16,427
+because you might have been
+at two different stations.
+
+35
+00:01:16,427 --> 00:01:20,344
+What do you think might
+happen on the next day?
+
+36
+00:01:21,256 --> 00:01:24,310
+- I think it will drop
+down to the 30s,
+
+37
+00:01:24,310 --> 00:01:28,000
+because I see that it's
+dropping down, it's going up,
+
+38
+00:01:28,000 --> 00:01:29,292
+and then it's dropping down.
+
+39
+00:01:29,292 --> 00:01:32,822
+I think it's gonna go up
+and then drop down again.
+
+40
+00:01:32,822 --> 00:01:36,593
+- Okay, and it does look like
+you had kind of a trend here.
+
+41
+00:01:36,593 --> 00:01:38,926
+So, what do you think if you
+had a day that went down,
+
+42
+00:01:38,926 --> 00:01:40,559
+do you think it might go up again?
+
+43
+00:01:40,559 --> 00:01:41,856
+- Mhm.
+- Might peak up again?
+
+44
+00:01:41,856 --> 00:01:42,843
+Okay.
+
+45
+00:01:42,843 --> 00:01:43,676
+Is there anybody else
+
+46
+00:01:43,676 --> 00:01:45,427
+who's looking at their
+data thinking of
+
+47
+00:01:45,427 --> 00:01:47,951
+what else might happen with
+that temperature change?
+
+48
+00:01:47,951 --> 00:01:49,656
+Madison, are you
+looking at something?
+
+49
+00:01:49,656 --> 00:01:51,489
+Yeah, what do you think?
+
+50
+00:01:51,489 --> 00:01:55,489
+- Well, with the wind
+speed and it would be like
+
+51
+00:01:58,909 --> 00:02:01,576
+8.5 for quite a few times a day.
+
+52
+00:02:03,287 --> 00:02:06,454
+Sort of shot up into
+20s or something.
+
+53
+00:02:07,522 --> 00:02:10,655
+- So what do you think
+that was indicating?
+
+54
+00:02:10,655 --> 00:02:13,651
+- That it was a very windy day.
+
+55
+00:02:13,651 --> 00:02:15,051
+- A very windy day, okay.
+
+56
+00:02:15,051 --> 00:02:17,622
+So you guys, some of you look
+at your charts if you were,
+
+57
+00:02:17,622 --> 00:02:21,246
+Madison was in Group A, and
+can you make a connection,
+
+58
+00:02:21,246 --> 00:02:22,079
+or H.
+
+59
+00:02:22,079 --> 00:02:22,912
+Madison, can you make a connection
+
+60
+00:02:22,912 --> 00:02:25,857
+to your wind speed really spiked.
+
+61
+00:02:25,857 --> 00:02:28,380
+On that same day did
+you have any difference,
+
+62
+00:02:28,380 --> 00:02:32,547
+or did you have something
+happen in your temperature?
+
+63
+00:02:33,638 --> 00:02:37,305
+- Well, the temperature
+was about 20 degrees
+
+64
+00:02:39,236 --> 00:02:43,421
+and because of the wind
+was making it cooler.
+
+65
+00:02:43,421 --> 00:02:45,879
+- Okay, so you're saying
+that you think that the wind
+
+66
+00:02:45,879 --> 00:02:48,011
+also has an effect on
+the temperature?
+
+67
+00:02:48,011 --> 00:02:49,243
+- Mhm.
+- Okay, so
+
+68
+00:02:49,243 --> 00:02:50,708
+was there anybody else in Group H
+
+69
+00:02:50,708 --> 00:02:52,230
+that recorded that sort of thing?
+
+70
+00:02:52,230 --> 00:02:55,096
+You had a big windy gust,
+you had a very windy day,
+
+71
+00:02:55,096 --> 00:02:57,203
+your temperatures went down?
+
+72
+00:02:57,203 --> 00:02:59,143
+Did you have a similar
+thing happen to you Hava?
+
+73
+00:02:59,143 --> 00:03:00,304
+- Yes.
+- Yes, okay.
+
+74
+00:03:00,304 --> 00:03:03,718
+So you guys, why would we
+want to track something like
+
+75
+00:03:03,718 --> 00:03:06,724
+not only temperature,
+but also the wind speed?
+
+76
+00:03:06,724 --> 00:03:07,557
+Jada?
+
+77
+00:03:08,625 --> 00:03:11,716
+- So that they can know what
+tomorrow's gonna be like,
+
+78
+00:03:11,716 --> 00:03:13,851
+or what another day's gonna be like.
+
+79
+00:03:13,851 --> 00:03:16,690
+Or for them to know if
+it's gonna rain or,
+
+80
+00:03:16,690 --> 00:03:17,834
+- [Teacher] Okay.
+- What the temperature
+
+81
+00:03:17,834 --> 00:03:19,616
+is gonna do.
+
+82
+00:03:19,616 --> 00:03:21,505
+- So they want to think maybe more,
+
+83
+00:03:21,505 --> 00:03:23,088
+you guys now your thinking, Jada,
+
+84
+00:03:23,088 --> 00:03:25,200
+you're even putting
+together precipitation?
+
+85
+00:03:25,200 --> 00:03:27,728
+So maybe there's a
+consequence of precipitation?
+
+86
+00:03:27,728 --> 00:03:30,228
+- No, with low temperature and
+
+87
+00:03:31,994 --> 00:03:33,161
+maybe heat can
+
+88
+00:03:36,239 --> 00:03:38,736
+evaporate some water
+and then the next day
+
+89
+00:03:38,736 --> 00:03:42,558
+it can get dropped
+down and get colder.
+
+90
+00:03:42,558 --> 00:03:44,661
+- Okay, so maybe a connection
+with the precipitation,
+
+91
+00:03:44,661 --> 00:03:46,329
+temperature, those sorts of things.
+
+92
+00:03:46,329 --> 00:03:48,078
+Okay, Katie O. What are you thinking?
+
+93
+00:03:48,078 --> 00:03:49,422
+- I would think that they wouldn't
+
+94
+00:03:49,422 --> 00:03:50,815
+just want to track the temperature,
+
+95
+00:03:50,815 --> 00:03:52,455
+but they'd also do the wind speed
+
+96
+00:03:52,455 --> 00:03:56,015
+because wind speed can change how,
+
+97
+00:03:56,015 --> 00:04:00,106
+what the temperature is,
+and how it changes.
+
+98
+00:04:00,106 --> 00:04:02,368
+- So why do you think wind speed
+
+99
+00:04:02,368 --> 00:04:05,502
+makes a difference with temperature?
+
+100
+00:04:05,502 --> 00:04:06,808
+What are you making the connection with?
+
+101
+00:04:06,808 --> 00:04:07,698
+What's your evidence?
+
+102
+00:04:07,698 --> 00:04:10,904
+- Well wind speed I think would change
+
+103
+00:04:10,904 --> 00:04:12,666
+like it wouldn't make it warmer,
+
+104
+00:04:12,666 --> 00:04:15,329
+it would make the
+temperature feel colder.
+
+105
+00:04:15,329 --> 00:04:18,079
+- Okay.  So why do you think that?
+
+106
+00:04:19,918 --> 00:04:21,922
+- Because the wind...
+
+107
+00:04:21,922 --> 00:04:23,788
+- Well you go out to the
+playground a lot, right?
+
+108
+00:04:23,788 --> 00:04:24,624
+- Yeah.
+- And when you guys
+
+109
+00:04:24,624 --> 00:04:26,437
+are on the playground
+and it's really windy,
+
+110
+00:04:26,437 --> 00:04:27,270
+is it warm?
+
+111
+00:04:27,270 --> 00:04:28,103
+- No.
+
+112
+00:04:28,103 --> 00:04:29,868
+- Okay, so maybe are
+you thinking like
+
+113
+00:04:29,868 --> 00:04:31,163
+when you go out there
+and it's really windy
+
+114
+00:04:31,163 --> 00:04:33,680
+and you don't have a coat,
+does it feel cooler to you?
+
+115
+00:04:33,680 --> 00:04:34,513
+- Yes.
+
+116
+00:04:34,513 --> 00:04:35,807
+- Does it on sometimes?
+
+117
+00:04:35,807 --> 00:04:36,640
+- Yeah.
+- [Teacher] Alright,
+
+118
+00:04:36,640 --> 00:04:38,040
+so maybe they're maybe a prediction.
+
+119
+00:04:38,040 --> 00:04:39,914
+And so you were saying they,
+
+120
+00:04:39,914 --> 00:04:42,406
+so are you thinking
+scientists and meteorologists
+
+121
+00:04:42,406 --> 00:04:46,043
+are trying to put those two
+together, those phenomenons?
+
+122
+00:04:46,043 --> 00:04:46,876
+- Yeah.
+
+123
+00:04:46,876 --> 00:04:48,569
+- Okay, so Katie O, let me ask you,
+
+124
+00:04:48,569 --> 00:04:50,491
+if this was a hypothesis
+that you were saying,
+
+125
+00:04:50,491 --> 00:04:53,956
+if it's windier,
+then it may be cooler.
+
+126
+00:04:53,956 --> 00:04:56,857
+You guys agree as a class?
+
+127
+00:04:56,857 --> 00:04:58,151
+Okay thumps up, thumbs down,
+
+128
+00:04:58,151 --> 00:04:59,113
+what do you guys think?
+
+129
+00:04:59,113 --> 00:05:00,942
+Yes, no, maybe, a little bit there?
+
+130
+00:05:00,942 --> 00:05:03,917
+Alright, Josh, what are you thinking?
+
+131
+00:05:03,917 --> 00:05:05,750
+- I was saying that if
+
+132
+00:05:06,929 --> 00:05:08,510
+people are always looking
+at the temperature
+
+133
+00:05:08,510 --> 00:05:12,046
+so we know what's gonna happen,
+when it's gonna happen,
+
+134
+00:05:12,046 --> 00:05:14,881
+what we can expect,
+what we need to do.
+
+135
+00:05:14,881 --> 00:05:18,519
+- Okay.  So we're taking that
+forecast even further maybe?
+
+136
+00:05:18,519 --> 00:05:20,230
+So let me kind of pose
+another question real quick
+
+137
+00:05:20,230 --> 00:05:21,262
+before I keep going you guys.
+
+138
+00:05:21,262 --> 00:05:22,103
+Let me ask you, you guys remember
+
+139
+00:05:22,103 --> 00:05:24,102
+when you went on the computer
+
+140
+00:05:24,102 --> 00:05:26,837
+and you watched the hurricanes?
+
+141
+00:05:26,837 --> 00:05:29,091
+And you tracked the hurricanes?
+
+142
+00:05:29,091 --> 00:05:32,174
+So was that data indicating the speed
+
+143
+00:05:33,530 --> 00:05:35,666
+or the movement of the hurricane?
+
+144
+00:05:35,666 --> 00:05:36,789
+- Yes.
+- Yes?
+
+145
+00:05:36,789 --> 00:05:40,436
+So, does a meteorologist even
+track something like that
+
+146
+00:05:40,436 --> 00:05:43,666
+to be able to maybe help people?
+- Yes.
+
+147
+00:05:43,666 --> 00:05:45,058
+Okay.  So do you guys remember
+
+148
+00:05:45,058 --> 00:05:47,384
+when the meteorologist
+came to visit us?
+
+149
+00:05:47,384 --> 00:05:48,744
+You guys remember that?
+
+150
+00:05:48,744 --> 00:05:53,263
+And he really talked to us a
+lot about tornadoes, didn't he?
+
+151
+00:05:53,263 --> 00:05:55,673
+But, he was also giving us situations
+
+152
+00:05:55,673 --> 00:06:00,086
+of how we know a tornado
+might be forming, right?
+
+153
+00:06:00,086 --> 00:06:01,707
+So, yeah, does that make sense,
+
+154
+00:06:01,707 --> 00:06:05,444
+that that might be another
+reason that they start tracking?
+
+155
+00:06:05,444 --> 00:06:08,259
+So think and talk to
+your shoulder partner.
+
+156
+00:06:08,259 --> 00:06:12,740
+Besides a hurricane, what
+else might they track to,
+
+157
+00:06:12,740 --> 00:06:15,923
+like Josh was saying, to
+prepare us for, to let us know.
+
+158
+00:06:15,923 --> 00:06:17,704
+So talk to your shoulder partner.
+
+159
+00:06:17,704 --> 00:06:22,704
+[Background Chatter]
+
+160
+00:06:23,059 --> 00:06:24,783
+- The weather because some people
+
+161
+00:06:24,783 --> 00:06:27,733
+can know what to like my hands.
+
+162
+00:06:27,733 --> 00:06:29,900
+- Yeah, or like tornadoes.
+
+163
+00:06:30,789 --> 00:06:33,789
+- Yeah, or maybe even thunderstorms.
+
+164
+00:06:36,229 --> 00:06:38,229
+- Or the normal weather.
+
+165
+00:06:40,150 --> 00:06:44,067
+Very intense temperatures,
+we can already know.
+
+166
+00:06:45,508 --> 00:06:47,497
+- Maybe even like snow,
+
+167
+00:06:47,497 --> 00:06:49,113
+because that can be
+a really heavy and
+
+168
+00:06:49,113 --> 00:06:52,780
+or kind of get everywhere
+like snowbound us.
+
+169
+00:06:56,108 --> 00:06:59,358
+- Or it could like be rain, snow, hail.
+
+170
+00:07:03,592 --> 00:07:07,370
+[Background Chatter]
+
+171
+00:07:07,370 --> 00:07:08,203
+- [Teacher] So what do you think Emily,
+
+172
+00:07:08,203 --> 00:07:10,423
+what else can we determine?
+
+173
+00:07:10,423 --> 00:07:13,423
+[Background Chatter]
+
+174
+00:07:14,258 --> 00:07:15,890
+- Snow storm.
+
+175
+00:07:15,890 --> 00:07:16,973
+Or a tornado.
+
+176
+00:07:19,064 --> 00:07:21,564
+- Or a earthquake.
+
+177
+00:07:24,131 --> 00:07:25,811
+- So what were you
+thinking first Alexis,
+
+178
+00:07:25,811 --> 00:07:27,028
+and then we'll come back to Nick?
+
+179
+00:07:27,028 --> 00:07:31,195
+- I was thinking either a
+tornado or blizzard snowstorm.
+
+180
+00:07:32,967 --> 00:07:33,800
+- Okay.  So what kind of weather
+
+181
+00:07:33,800 --> 00:07:34,926
+do you think they're tracking
+
+182
+00:07:34,926 --> 00:07:37,215
+in order for us to be
+prepared about weather.
+
+183
+00:07:37,215 --> 00:07:38,331
+What do we?
+
+184
+00:07:38,331 --> 00:07:39,164
+- Wind.
+
+185
+00:07:39,164 --> 00:07:40,265
+- Wind, maybe.
+
+186
+00:07:40,265 --> 00:07:42,782
+- And temperature.
+- Snow.
+
+187
+00:07:42,782 --> 00:07:44,866
+- [Teacher] Okay, so if we're
+looking for just a tornado,
+
+188
+00:07:44,866 --> 00:07:47,042
+maybe temperature, maybe the wind.
+
+189
+00:07:47,042 --> 00:07:52,033
+- Yeah, what kind of wind is
+it, is it cold or hot, yeah.
+
+190
+00:07:52,033 --> 00:07:53,267
+- Okay, hot and cold fronts.
+
+191
+00:07:53,267 --> 00:07:55,440
+And then we were thinking
+about, what else Nick?
+
+192
+00:07:55,440 --> 00:07:58,357
+- I would say a flood because maybe
+
+193
+00:07:59,201 --> 00:08:00,711
+maybe the clouds are coming
+
+194
+00:08:00,711 --> 00:08:03,739
+and there's going to
+be a bunch of rain.
+
+195
+00:08:03,739 --> 00:08:06,139
+Like you said, that we
+could get a flash flood.
+
+196
+00:08:06,139 --> 00:08:08,060
+- Okay.  So and are you
+making that connection
+
+197
+00:08:08,060 --> 00:08:10,320
+to maybe our area that had a fire,
+
+198
+00:08:10,320 --> 00:08:13,047
+and so we have to think
+about would there be,
+
+199
+00:08:13,047 --> 00:08:14,850
+because it can't absorb the moisture.
+
+200
+00:08:14,850 --> 00:08:16,410
+Okay, so that's another idea.
+
+201
+00:08:16,410 --> 00:08:19,643
+So how would meteorologist
+or scientists,
+
+202
+00:08:19,643 --> 00:08:20,607
+how would they Austin,
+
+203
+00:08:20,607 --> 00:08:23,089
+how would they predict
+maybe a flood happening?
+
+204
+00:08:23,089 --> 00:08:25,495
+What do you think they'd use?
+
+205
+00:08:25,495 --> 00:08:27,532
+What kind of information
+would they be looking at?
+
+206
+00:08:27,532 --> 00:08:29,908
+- Well if a rainstorm was coming,
+
+207
+00:08:29,908 --> 00:08:32,991
+because that rain would cause a flood.
+
+208
+00:08:34,754 --> 00:08:36,963
+- [Teacher] Okay, so a
+large amount of rain,
+
+209
+00:08:36,963 --> 00:08:38,204
+that would make sense yes.
+
+210
+00:08:38,204 --> 00:08:39,503
+- Or snow.
+
+211
+00:08:39,503 --> 00:08:41,001
+- Or even if we had a lot of snow.
+
+212
+00:08:41,001 --> 00:08:43,918
+So if we had large amounts of snow,
+
+213
+00:08:44,848 --> 00:08:47,830
+what could we possibly
+be warning people of,
+
+214
+00:08:47,830 --> 00:08:48,769
+if that was the case?
+
+215
+00:08:48,769 --> 00:08:51,344
+Alexis, what do you think?
+
+216
+00:08:51,344 --> 00:08:55,096
+- Stay inside or wear warm
+clothes if you go somewhere
+
+217
+00:08:55,096 --> 00:08:58,248
+or something so they
+don't get so cold.
+
+218
+00:08:58,248 --> 00:09:00,231
+- [Teacher] Okay, so would
+you guys say,
+
+219
+00:09:00,231 --> 00:09:03,438
+would one of you formulate
+some sort of a hypothesis
+
+220
+00:09:03,438 --> 00:09:06,021
+about snow coming if there was?
+
+221
+00:09:07,630 --> 00:09:10,849
+- If there was enough cold air.
+
+222
+00:09:10,849 --> 00:09:15,476
+And some times when it's
+raining it starts to hail,
+
+223
+00:09:15,476 --> 00:09:19,213
+and then it starts to,
+sometimes it starts to snow.
+
+224
+00:09:19,213 --> 00:09:22,002
+- So, if there's cold
+weather and clouds,
+
+225
+00:09:22,002 --> 00:09:23,952
+then we might have consequences.
+
+226
+00:09:23,952 --> 00:09:25,660
+- Snow, or rain, or yeah.
+- [Teacher] of hail,
+
+227
+00:09:25,660 --> 00:09:26,493
+or heavy snow?
+
+228
+00:09:26,493 --> 00:09:27,540
+- Yeah.
+
+229
+00:09:27,540 --> 00:09:29,329
+- [Teacher] Okay, so we'd
+wanna keep that in mind.
+
+230
+00:09:29,329 --> 00:09:31,920
+And does that seem to
+happen in our areas?
+
+231
+00:09:31,920 --> 00:09:33,550
+- Sometimes.
+- [Teacher] Sometimes.
+
+232
+00:09:33,550 --> 00:09:35,564
+And sometimes when we
+make that forecast,
+
+233
+00:09:35,564 --> 00:09:37,774
+and then maybe it doesn't come.
+
+234
+00:09:37,774 --> 00:09:39,757
+- That happened on Saturday.
+
+235
+00:09:39,757 --> 00:09:42,663
+- [Teacher] Okay, so if it does come,
+
+236
+00:09:42,663 --> 00:09:46,200
+what happened on Saturday, Austin?
+
+237
+00:09:46,200 --> 00:09:47,508
+- I think
+
+238
+00:09:47,508 --> 00:09:49,948
+it was really humid out at first,
+
+239
+00:09:49,948 --> 00:09:51,158
+- [Teacher] Mhm.
+- And then,
+
+240
+00:09:51,158 --> 00:09:52,614
+it started to rain,
+
+241
+00:09:52,614 --> 00:09:54,531
+and then a lot of times
+
+242
+00:09:56,359 --> 00:10:00,882
+usually rain starts out
+as ice and then it melts.
+
+243
+00:10:00,882 --> 00:10:04,113
+And it started to get colder
+and then it started to hail.
+
+244
+00:10:04,113 --> 00:10:06,689
+- [Teacher] So then we have the
+consequences of a hailstorm.
+
+245
+00:10:06,689 --> 00:10:09,554
+Didn't last Saturday, did it
+start out really nice first?
+
+246
+00:10:09,554 --> 00:10:10,433
+- Yeah.
+- Yeah, and then
+
+247
+00:10:10,433 --> 00:10:12,350
+also happened yesterday too,
+
+248
+00:10:12,350 --> 00:10:13,183
+because
+
+249
+00:10:14,071 --> 00:10:18,564
+when I got picked up it was
+nice and warm and everything.
+
+250
+00:10:18,564 --> 00:10:20,984
+And then when I got to my
+house it was all windy,
+
+251
+00:10:20,984 --> 00:10:23,171
+and then it started raining.
+
+252
+00:10:23,171 --> 00:10:24,836
+So I was like,
+
+253
+00:10:24,836 --> 00:10:26,957
+I thought it was supposed
+to be hot today.
+
+254
+00:10:26,957 --> 00:10:27,790
+- Right.
+
+255
+00:10:27,790 --> 00:10:30,333
+So is it possible to use
+forecasting information
+
+256
+00:10:30,333 --> 00:10:31,719
+and still be wrong?
+- Yes.
+
+257
+00:10:31,719 --> 00:10:37,719
+[Background Chatter]
+
+258
+00:10:38,232 --> 00:10:40,985
+- Well in the weather book,
+
+259
+00:10:40,985 --> 00:10:44,429
+it explains the rating of tornadoes.
+
+260
+00:10:44,429 --> 00:10:46,596
+So I'm thinking tornadoes,
+
+261
+00:10:48,596 --> 00:10:51,276
+or something to track
+like the wind speed
+
+262
+00:10:51,276 --> 00:10:53,693
+if it's gets too crazy,
+
+263
+00:10:53,693 --> 00:10:54,610
+it get like
+
+264
+00:10:55,740 --> 00:10:57,740
+wind miles per hour, and
+
+265
+00:11:00,814 --> 00:11:02,795
+how bad it is.
+
+266
+00:11:02,795 --> 00:11:04,505
+Like if the wind
+speed's really high,
+
+267
+00:11:04,505 --> 00:11:06,838
+then it can cause a tornado.
+
+268
+00:11:09,906 --> 00:11:11,156
+Like the scale.
+
+269
+00:11:15,837 --> 00:11:28,837
+[Background Chatter]
+
+270
+00:11:29,978 --> 00:11:31,373
+- So they use that information.
+
+271
+00:11:31,373 --> 00:11:33,142
+We were just talking
+and showing the things
+
+272
+00:11:33,142 --> 00:11:35,470
+that they might be using for
+
+273
+00:11:35,470 --> 00:11:37,231
+information that they're
+collecting to do what now?
+
+274
+00:11:37,231 --> 00:11:38,496
+To give to the what?
+
+275
+00:11:38,496 --> 00:11:41,348
+- They're doing it to give us warnings.
+
+276
+00:11:41,348 --> 00:11:44,219
+They can't tell us that a
+tornado's happening prior to it,
+
+277
+00:11:44,219 --> 00:11:45,052
+- [Teacher] Right.
+- So they
+
+278
+00:11:45,052 --> 00:11:47,731
+have to warn us about them.
+
+279
+00:11:47,731 --> 00:11:51,397
+And so I think they collect
+the data from that to do that.
+
+280
+00:11:51,397 --> 00:11:53,632
+- Okay, and then Reagan, what
+were you connecting that with?
+
+281
+00:11:53,632 --> 00:11:57,168
+- I was connecting it with
+a blizzard or snow storm,
+
+282
+00:11:57,168 --> 00:12:00,974
+because if there's a delay
+and you need to go somewhere,
+
+283
+00:12:00,974 --> 00:12:02,966
+you can know that there
+might be delays.
+
+284
+00:12:02,966 --> 00:12:05,893
+And if you're gonna go outside
+you need to wear a coat,
+
+285
+00:12:05,893 --> 00:12:07,583
+a heavy coat.
+
+286
+00:12:07,583 --> 00:12:08,623
+- Okay, so how do we respond,
+
+287
+00:12:08,623 --> 00:12:10,956
+how do we react to it, good.
+
+288
+00:12:14,572 --> 00:12:16,550
+Okay, you guys I was going around,
+
+289
+00:12:16,550 --> 00:12:18,780
+and I heard some
+excellent conversations.
+
+290
+00:12:18,780 --> 00:12:21,865
+And so I think you guys
+made strong connections
+
+291
+00:12:21,865 --> 00:12:23,115
+with your data.
+
+292
+00:12:23,998 --> 00:12:27,066
+And probably with your
+meteorologist visit,
+
+293
+00:12:27,066 --> 00:12:27,904
+what they were telling you,
+
+294
+00:12:27,904 --> 00:12:30,605
+and how you were putting
+that information together.
+
+295
+00:12:30,605 --> 00:12:34,101
+So I want you guys to go ahead
+and pick up your pencils.
+
+296
+00:12:34,101 --> 00:12:36,744
+And write underneath your graphs,
+
+297
+00:12:36,744 --> 00:12:39,427
+I want you to answer this question.
+
+298
+00:12:39,427 --> 00:12:42,314
+What does your data tell you?
+
+299
+00:12:42,314 --> 00:12:44,573
+So write there on
+underneath your graph,
+
+300
+00:12:44,573 --> 00:12:46,776
+or write on your graph,
+
+301
+00:12:46,776 --> 00:12:50,207
+you could even write right
+in the middle of your graph,
+
+302
+00:12:50,207 --> 00:12:54,373
+I want you to write what is
+your graph actually telling you?
+
+303
+00:12:54,373 --> 00:12:58,837
+So is it telling you that you
+had a series of cold days?
+
+304
+00:12:58,837 --> 00:13:00,707
+Make your prediction.
+
+305
+00:13:00,707 --> 00:13:02,668
+So go ahead and take a minute or two,
+
+306
+00:13:02,668 --> 00:13:05,585
+write down what your data tells you
+
+307
+00:13:06,619 --> 00:13:09,039
+and then what changes
+did you observe?
+
+308
+00:13:09,039 --> 00:13:13,206
+What was the most significant
+change that you observed?
+
+309
+00:13:16,267 --> 00:13:18,593
+If at all possible, while
+you're writing that,
+
+310
+00:13:18,593 --> 00:13:20,582
+you can come up with a hypothesis
+
+311
+00:13:20,582 --> 00:13:22,668
+about your data.
+
+312
+00:13:22,668 --> 00:13:24,744
+It could either be your wind speed,
+
+313
+00:13:24,744 --> 00:13:27,411
+or it could be your temperature.
+
+314
+00:13:29,363 --> 00:13:33,280
+Write down what it is
+that actually took place.
+
+315
+00:13:46,214 --> 00:13:47,625
+Yeah, you want to
+answer the question,
+
+316
+00:13:47,625 --> 00:13:48,805
+what does your data tell you?
+
+317
+00:13:48,805 --> 00:13:51,991
+What changes did you observe?
+
+318
+00:13:51,991 --> 00:13:54,507
+On either graph or you
+can even write a sentence
+
+319
+00:13:54,507 --> 00:13:57,443
+that combines the two
+of them together.
+
+320
+00:13:57,443 --> 00:13:59,568
+- So mine says,
+I added a little more.
+
+321
+00:13:59,568 --> 00:14:04,246
+It says, it is telling me
+all about my wind speed,
+
+322
+00:14:04,246 --> 00:14:07,579
+and how it's going high
+or low, or high.
+
+323
+00:14:09,198 --> 00:14:11,058
+What does your say Austin?
+
+324
+00:14:11,058 --> 00:14:14,058
+- Mine is, it had cold and hot days.
+
+325
+00:14:16,876 --> 00:14:20,043
+And it went from 44 degrees Fahrenheit
+
+326
+00:14:22,161 --> 00:14:24,244
+to 20 degrees Fahrenheit.
+
+327
+00:14:25,590 --> 00:14:26,423
+- [Teacher] So go ahead,
+
+328
+00:14:26,423 --> 00:14:28,175
+just like Alexis and Austin shared,
+
+329
+00:14:28,175 --> 00:14:31,040
+go ahead and share with
+your face partner this time,
+
+330
+00:14:31,040 --> 00:14:33,753
+so that you change who
+you're talking to.
+
+331
+00:14:33,753 --> 00:14:36,985
+So Emily and Madison, you can
+also share what you wrote.
+
+332
+00:14:36,985 --> 00:14:40,356
+- It tells me that some
+times it can be hot,
+
+333
+00:14:40,356 --> 00:14:43,608
+and then go down to
+a little bit colder,
+
+334
+00:14:43,608 --> 00:14:46,923
+and then it goes back into hot.
+
+335
+00:14:46,923 --> 00:14:48,793
+- Yeah, that's what I was kinda saying
+
+336
+00:14:48,793 --> 00:14:50,183
+when I told the wind speed,
+
+337
+00:14:50,183 --> 00:14:53,318
+because it's not always wind speed.
+
+338
+00:14:53,318 --> 00:14:56,736
+Yeah, it's not always wind speed,
+
+339
+00:14:56,736 --> 00:14:59,565
+but most of the time when we took it,
+
+340
+00:14:59,565 --> 00:15:03,513
+it was mostly in the winter
+so it would mostly go down.
+
+341
+00:15:03,513 --> 00:15:06,903
+Like, it was 40, then it
+was 25, then it was 20,
+
+342
+00:15:06,903 --> 00:15:11,070
+and then it was 30, and then
+it was 30, and then it was 40,
+
+343
+00:15:12,042 --> 00:15:14,143
+and then it was 50.
+
+344
+00:15:14,143 --> 00:15:15,476
+So, that's what.
+
+345
+00:15:18,167 --> 00:15:21,228
+- [Teacher] So John what did
+you figure out from your data?
+
+346
+00:15:21,228 --> 00:15:22,895
+- I figured out that
+
+347
+00:15:23,906 --> 00:15:26,987
+it was colder the week
+we were doing this.
+
+348
+00:15:26,987 --> 00:15:27,945
+- [Teacher] Okay.
+
+349
+00:15:27,945 --> 00:15:31,195
+- And the wind speed
+was not very high.
+
+350
+00:15:33,061 --> 00:15:35,970
+- [Teacher] Okay, oh yeah, yeah.
+
+351
+00:15:35,970 --> 00:15:37,411
+So you were in an area that maybe
+
+352
+00:15:37,411 --> 00:15:39,867
+was more protected by
+the wind, do you think?
+
+353
+00:15:39,867 --> 00:15:41,356
+- Yeah, we were behind the building.
+
+354
+00:15:41,356 --> 00:15:43,579
+- [Teacher] Oh okay, so that
+might of had an effect too?
+
+355
+00:15:43,579 --> 00:15:44,412
+- Yeah.
+
+356
+00:15:44,412 --> 00:15:49,071
+- [Teacher] Okay, did you draw
+any conclusions from that?
+
+357
+00:15:49,071 --> 00:15:49,928
+- I forgot to do that.
+
+358
+00:15:49,928 --> 00:15:50,922
+- Okay, great.
+
+359
+00:15:50,922 --> 00:15:52,533
+Braden, tell us a little bit about
+
+360
+00:15:52,533 --> 00:15:54,147
+what you observed from your data?
+
+361
+00:15:54,147 --> 00:15:56,064
+- Well, I observed that
+
+362
+00:15:57,247 --> 00:15:59,305
+I did not get much wind speed.
+
+363
+00:15:59,305 --> 00:16:02,012
+- Okay, so where was your station?
+
+364
+00:16:02,012 --> 00:16:03,921
+Were you at a protected area as well?
+
+365
+00:16:03,921 --> 00:16:04,754
+- Yes.
+
+366
+00:16:04,754 --> 00:16:06,128
+- Okay, so that definitely
+had an effect, didn't it?
+
+367
+00:16:06,128 --> 00:16:06,961
+- Yes.
+
+368
+00:16:06,961 --> 00:16:07,920
+- So as a meteorologist,
+
+369
+00:16:07,920 --> 00:16:09,759
+would you want to be able
+to put your anemometers
+
+370
+00:16:09,759 --> 00:16:13,129
+somewhere where you know
+you're gonna catch the wind?
+
+371
+00:16:13,129 --> 00:16:13,962
+- Yep.
+- [Teacher] Okay,
+
+372
+00:16:13,962 --> 00:16:16,376
+so that was a really important
+lesson right there, too.
+
+373
+00:16:16,376 --> 00:16:18,675
+So what about your
+thermometer readings,
+
+374
+00:16:18,675 --> 00:16:21,466
+since those weren't
+dependent necessarily on
+
+375
+00:16:21,466 --> 00:16:22,717
+being protected from the wind.
+
+376
+00:16:22,717 --> 00:16:24,803
+What can you observe from
+your thermometer reading?
+
+377
+00:16:24,803 --> 00:16:28,170
+- Well, that it was
+40 degrees on Monday,
+
+378
+00:16:28,170 --> 00:16:31,714
+and then on Tuesday and
+Wednesday it got colder.
+
+379
+00:16:31,714 --> 00:16:33,464
+- Okay, so it got colder
+on Tuesday and Wednesday.
+
+380
+00:16:33,464 --> 00:16:34,619
+So if you were making a prediction,
+
+381
+00:16:34,619 --> 00:16:36,064
+what do you think would
+happen on this day,
+
+382
+00:16:36,064 --> 00:16:38,257
+based on your data?
+
+383
+00:16:38,257 --> 00:16:41,400
+Do you think it's gonna
+change, stay the same,
+
+384
+00:16:41,400 --> 00:16:42,384
+what do you think?
+
+385
+00:16:42,384 --> 00:16:43,217
+- Stay the same.
+
+386
+00:16:43,217 --> 00:16:44,250
+- Seems like it's
+gonna stay the same,
+
+387
+00:16:44,250 --> 00:16:46,124
+because you have
+that pretty consistently?
+
+388
+00:16:46,124 --> 00:16:47,339
+- Yeah.
+- [Teacher] Okay, alright.
+
+389
+00:16:47,339 --> 00:16:49,486
+Tariq, what do you find
+from your data?
+
+390
+00:16:49,486 --> 00:16:51,334
+What did you discover observing?
+
+391
+00:16:51,334 --> 00:16:54,751
+- I noticed that for
+my temperature I had
+
+392
+00:16:55,675 --> 00:16:57,902
+up and down weather.
+
+393
+00:16:57,902 --> 00:16:58,918
+- [Teacher] So your temperature was,
+
+394
+00:16:58,918 --> 00:17:01,048
+would you say it was fluctuating?
+
+395
+00:17:01,048 --> 00:17:01,881
+- Yeah.
+
+396
+00:17:01,881 --> 00:17:05,581
+- [Teacher] Okay, why do you
+think that was happening?
+
+397
+00:17:05,581 --> 00:17:09,369
+- Because, well it was cold
+on the days we went out,
+
+398
+00:17:09,369 --> 00:17:13,536
+but where we were the sun was
+kind of coming towards us,
+
+399
+00:17:15,649 --> 00:17:17,028
+at the times we went out.
+
+400
+00:17:17,028 --> 00:17:18,183
+- [Teacher] So do you
+think that had an effect
+
+401
+00:17:18,183 --> 00:17:19,467
+on your thermometer as well?
+
+402
+00:17:19,467 --> 00:17:20,300
+- Yeah.
+
+403
+00:17:20,300 --> 00:17:22,348
+- [Teacher] Hm, okay so
+then that's another thing
+
+404
+00:17:22,348 --> 00:17:24,209
+as a meteorologist, you
+might want to think about
+
+405
+00:17:24,209 --> 00:17:26,815
+where your thermometer is, right?
+
+406
+00:17:26,815 --> 00:17:28,752
+Are you just getting straight sun?
+
+407
+00:17:28,752 --> 00:17:29,798
+Okay, was there something else
+
+408
+00:17:29,798 --> 00:17:31,187
+you were gonna say about
+your wind speed?
+
+409
+00:17:31,187 --> 00:17:33,838
+- Well, my wind speed.
+
+410
+00:17:33,838 --> 00:17:35,755
+On Monday we got a lot.
+
+411
+00:17:37,098 --> 00:17:39,515
+And on Thursday we got a lot.
+
+412
+00:17:40,964 --> 00:17:43,969
+On the other two days
+we didn't get any wind.
+
+413
+00:17:43,969 --> 00:17:45,763
+- [Teacher] Not too much, okay.
+
+414
+00:17:45,763 --> 00:17:47,784
+- Then.
+- Then I also had,
+
+415
+00:17:47,784 --> 00:17:48,735
+- [Teacher] Go ahead.
+
+416
+00:17:48,735 --> 00:17:50,370
+- All three of us were
+in the same group.
+
+417
+00:17:50,370 --> 00:17:52,040
+- [Teacher] You were in
+the same group, alright.
+
+418
+00:17:52,040 --> 00:17:53,373
+So there you go.
+
+419
+00:17:54,438 --> 00:17:55,271
+- And,
+
+420
+00:17:56,298 --> 00:17:59,298
+I also had to say
+that my wind speed
+
+421
+00:18:00,175 --> 00:18:01,955
+was never below 20 degrees.
+- [Teacher] You to pull out
+
+422
+00:18:01,955 --> 00:18:03,826
+your sheet, right there that you have
+
+423
+00:18:03,826 --> 00:18:06,530
+about your temperature on the moon.
+
+424
+00:18:06,530 --> 00:18:09,277
+I want to ask you
+one more question.
+
+425
+00:18:09,277 --> 00:18:13,426
+And I want you to think about
+your temperature on the moon.
+
+426
+00:18:13,426 --> 00:18:16,546
+Now did you actually go to
+the moon to get your data?
+
+427
+00:18:16,546 --> 00:18:17,379
+- No.
+
+428
+00:18:17,379 --> 00:18:20,704
+- No, but let's look
+at the scientists
+
+429
+00:18:20,704 --> 00:18:22,501
+who recorded that data.
+
+430
+00:18:22,501 --> 00:18:26,423
+Why was it important
+for them to find out
+
+431
+00:18:26,423 --> 00:18:27,962
+the temperature on the moon?
+
+432
+00:18:27,962 --> 00:18:31,134
+And as you look at it,
+did it change very much?
+
+433
+00:18:31,134 --> 00:18:33,836
+So why was it important and
+did it change very much?
+
+434
+00:18:33,836 --> 00:18:34,836
+Okay, Jaime.
+
+435
+00:18:36,243 --> 00:18:37,576
+- I thought that
+
+436
+00:18:39,425 --> 00:18:40,926
+on
+
+437
+00:18:40,926 --> 00:18:42,509
+one of the missions
+
+438
+00:18:44,648 --> 00:18:47,565
+that it was different temperatures.
+
+439
+00:18:48,572 --> 00:18:49,905
+Like it would be
+
+440
+00:18:51,743 --> 00:18:52,576
+213,
+
+441
+00:18:54,491 --> 00:18:57,658
+and then it dropped
+down to about 200.
+
+442
+00:18:59,079 --> 00:19:02,091
+- Okay, and so you're specifically
+talking about the day?
+
+443
+00:19:02,091 --> 00:19:03,079
+- Yeah.
+- [Teacher] Okay.
+
+444
+00:19:03,079 --> 00:19:06,078
+And so you're saying
+is it pretty similar?
+
+445
+00:19:06,078 --> 00:19:08,543
+Is that you're saying?
+
+446
+00:19:08,543 --> 00:19:11,395
+- Pretty similar, but not very.
+
+447
+00:19:11,395 --> 00:19:12,312
+- Okay, so.
+
+448
+00:19:14,324 --> 00:19:18,382
+- The main thing is that
+it didn't stay the same.
+
+449
+00:19:18,382 --> 00:19:20,058
+- Okay, it didn't seem
+to stay the same.
+
+450
+00:19:20,058 --> 00:19:21,492
+- No.
+- [Teacher] Okay.
+
+451
+00:19:21,492 --> 00:19:23,502
+And then we had,
+not only day temperature,
+
+452
+00:19:23,502 --> 00:19:25,634
+but was the other temperature
+that we looked at on the moon?
+
+453
+00:19:25,634 --> 00:19:26,467
+- Night.
+
+454
+00:19:26,467 --> 00:19:27,300
+- Nighttime, okay.
+
+455
+00:19:27,300 --> 00:19:29,971
+So what were you thinking
+about that Shaun?
+
+456
+00:19:29,971 --> 00:19:33,506
+- I kind of had the
+same data as Jamie did.
+
+457
+00:19:33,506 --> 00:19:35,257
+- [Teacher] Okay.
+- Because
+
+458
+00:19:35,257 --> 00:19:37,729
+it switched every single mission.
+
+459
+00:19:37,729 --> 00:19:39,646
+So on mission 11 it was
+
+460
+00:19:43,875 --> 00:19:44,875
+210 degrees,
+
+461
+00:19:46,625 --> 00:19:49,125
+well 200 and about 13 degrees.
+
+462
+00:19:50,729 --> 00:19:51,562
+- [Teacher] Okay.
+
+463
+00:19:51,562 --> 00:19:54,965
+- And it just kept on going
+down and up each mission.
+
+464
+00:19:54,965 --> 00:19:58,169
+So it changed significantly
+each mission.
+

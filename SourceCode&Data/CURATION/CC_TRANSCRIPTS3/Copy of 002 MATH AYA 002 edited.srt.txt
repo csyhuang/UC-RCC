@@ -1,0 +1,129 @@
+Negative x minus it? 
+It's one over, oh wait, oh wait wait wait wait.
+ How do we solve for X?
+ X is the value of R anyway. X is the value of R.
+What would you do for the one over X? Wouldn't that be the first term?
+ X is the value of R .
+What I would suggest you do is, is that you could rewrite this as an expression.
+Oh, as the power ? Oh. Oh, okay okay.
+I used .
+ Oh, yeah yeah. All right, yeah I got it. So it's gonna be negative X minus one, okay. Okay, no I got it. So the first, it's gonna be, so what-- 
+ Whatever. 
+ Oh, come on.
+ I just wanted to find where it talks about--
+ It would be one minus one .
+ Oh we have one .
+ Is one over x the sum?
+ Do you see, see what I'm saying? Yeah.
+ I'm gonna put it in there, so negative X minus one, 'cause later it's gonna change
+ Wait, you don't really have to do it out since it's gonna change the  so it's higher. You'll have to, you gotta . Yeah. 
+No no no no no, don't, don't don't don't. Don't even do that. Do you know why? Because it's part of a . Well-- 
+ Yeah yeah yeah. 'Cause the whole thing is negative, and then that's the 
+Remember the .  
+ He's a natural.  
+ But now here's the question. You guys kind of already answered this question.  Could you have found it?
+They give you, basically R is two X.
+Uh huh.
+And, since it converges, it has to be less than the absolute value of .
+You got it. Okay. 
+ That makes sense. 
+ Go back for a second.
+Yeah, you multiply both sides by a third. So it'd be one third times every single one of 'em. And the interval .
+ Um--
+ Oh. Maybe someone's . It means it's gonna get shifted, and then .
+ You were just scaling the . Because it's like, .
+I'd never, I never considered . Oh, okay.
+ Yeah. 
+ It's not gonna change the domain of the--
+ Oh, no, no, I'm putting plus negative-- 
+ The answer.
+ Yeah. So, the only thing I'm thinking is it might be easier for you to just . It might make sense somehow.
+Oh, how do you read ?
+Yeah, how do you--
+ No no no, no no no no no. It doesn't reduce the time it takes for it to--
+No man, right? 
+Oh, okay yeah.
+ One third. Oh, I get it, I get it.
+ It only converges as you, . No matter what, well no matter what. 
+ One over X. Three X, five X, two in, two over X.
+ I think it does. 
+ Thank you.
+ You're welcome.
+ That's what I'm, yeah, that's what I'm saying.
+ One over X. Because what they want you to do now,  So, you'd say power series is gonna be written as a form of, say, geometric series. Because now you've got, what? What's the first term? 
+ Yeah? Right. Okay, what's the ratio?
+Negative .
+And when you write that out, put  around it.  Let him once, show him.
+Okay.  
+ Is it saying three X? 
+I would be, I would take the .
+ Are you sure you're working together?
+Yes. 
+ And I'll turn it, one. We got one, minus X squared.
+One over one plus X squared.
+That's X to the fourth, right? Minus X to the sixth, plus X to the eighth.
+This is, if you are indexing this. This is your first term, this is your second term, this is your third term, right? Think about the first one, okay? We have left that, in order to get that a two X. Like the first R, okay, the first side of it. And say, it's the second term that  the first time. So it's probably gonna, probably gonna be it. Probably.
+Okay.
+ At least on these simple ones.
+Okay.
+ Okay, leave that for .
+Okay.
+ N minus one over one minus one, x minus one would be zero, which would be .
+ Originally we have negative one .
+ X minus one. 
+ The right one, so it's either gonna be .
+ Now you're expanding by three instead of zero six.
+ So, it's like negative X squared switched. So the negative that goes over here, is negative X squared, too. So the negative is which Y .
+ I don't, uh!  I don't know what I'm doing! 
+ All right look, hold on. Isn't it the same as the third one?
+ That means that the Y, like the same one, Y is the common one.
+ Right? 
+To the one, so this would be X minus one. And negative .  Just put in one here, four, all right? What's the ratio here?  
+ One, you're multiplying the outside of two X. Another one you're doing it as the two X. That means you're moving the X to the inside. If you take a function and you just scale it by a multiple, if you take arcsine of x, any function you want, and you multiply it by scale, like one third, one fourth, . 
+ Ah, but then there we said--
+ No! Oh my God, what arc, what are you, wait wait, hold on, hold on, hold on, hold on, hold on.
+There's gonna be another one I haven't, there, and one third after that is what we're doing here. Our R remains the same. It's the whole series multiplied by the factor of one third.
+ Okay yeah, I'm agreeing to that.
+ I'm pretty sure that's right.
+You multiply this out, it's gonna be one over three, plus three x minus one.
+Why are you multiplying it out? Just think of it as a scale. It's not anything to do, it's not gonna affect our domain outside the function. It's only gonna affect the range. And therefore you're not gonna have any remains 'cause the remains only matter if you didn't have but like one third of it, so we're not doing it like that. One third after it, we're doing like a stretched version. So it's not gonna affect the equation. 
+ , so it's negative X.
+ What? No no no no no no. 
+ That's the series for .
+ Uh, all right.
+ I'm just  negative X squared. Right? 
+ No, no, no, I'm putting negative x squared. It's easier, 'cause then later on when you do plus--
+ No, no, no, no, no, I-- .
+ The sine's been switching. No, no.
+ Yeah, but you can represent that by saying--
+ Yeah, it's gonna be smaller.  Well, it'll be switching, but like would you represent, how would you represent X in the whole thing?
+ To the negative, see the n minus one is put, that's how I'm doing it. 
+ Wait, how would you find the ?
+ If it's the absolute value of x minus one, it would be less than one.
+ Mrs. Dockin?
+ Yes. 
+ Is this, is this, is this X?
+We're not sure where we are because of these coefficients that change. 
+What is X over R?
+Take this series right here, which is that. So, then integrate it. We just though you integrate every term to get it.
+Now you're looking for a general expression.
+Right.
+You have a general expression. It didn't tell you to come up with. no, they didn't tell you to do that.
+Oh, okay okay. Okay, because, in fact, that's not a power series.
+ That's not a power series?
+It is, okay, but it's a different form of a power series.  So you don't have to write 'em like this because you would also need to have, what? You also have to have .
+ Right, yeah okay.
+Got it? Okay. 
+ You flip it around.
+One, good, yeah good, what's R? The negative of, yeah you're the negative x plus one, but it needs to be in parentheses. So now you need your R, okay? Now, you're gonna do them when you get to--
+ It needs to be a form of K over R.
+Oh, I thought we just solve for R? You said the third nominated was R. 
+ All right guys, she said 1/3 times one, whatever that is. How do you multiply these?
+Does it need to be on the . 
+Yeah, so you do it again.
+Yeah, multiply the whole interval, yeah. Multiply the interval.
+ And this is not in the form of a series. 
+That one third, does that impact the greatness of one? That's the question you want to answer. I'm not answering it for you right now, you need to figure it out.
+ So, when it's asking for, does the function of the ? 
+This, it's like that.
+ You didn't divide it by seven.

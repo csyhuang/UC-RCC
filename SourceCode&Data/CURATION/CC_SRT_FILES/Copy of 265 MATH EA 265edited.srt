@@ -1,0 +1,2054 @@
+1
+00:00:00,156 --> 00:00:01,886
+- That's a start, ok, Devon and Sasha?
+
+2
+00:00:01,886 --> 00:00:06,138
+3 1/3, what are the classifications?
+
+3
+00:00:06,138 --> 00:00:07,718
+- [Voiceover] Natural.
+
+4
+00:00:07,718 --> 00:00:09,121
+- No, not natural.
+
+5
+00:00:09,121 --> 00:00:10,224
+- [Voiceover] Rational.
+
+6
+00:00:10,224 --> 00:00:11,187
+- Yes, rational.
+
+7
+00:00:11,187 --> 00:00:11,826
+- [Voiceover] Real.
+
+8
+00:00:11,826 --> 00:00:12,844
+- Yes.
+
+9
+00:00:12,844 --> 00:00:15,190
+- Ok, it's rational, and it's real.
+
+10
+00:00:15,190 --> 00:00:17,860
+Now Brian, you had first said natural.
+
+11
+00:00:17,860 --> 00:00:19,459
+- Yeah, I kinda,
+
+12
+00:00:19,459 --> 00:00:22,095
+because a fraction isn't natural.
+
+13
+00:00:22,095 --> 00:00:24,486
+- Ok, right, a fraction is not natural.
+
+14
+00:00:24,486 --> 00:00:27,714
+Who else can tell us something
+about natural numbers then?
+
+15
+00:00:27,714 --> 00:00:30,187
+What do we know about our natural numbers?
+
+16
+00:00:30,187 --> 00:00:31,361
+- They're the counting numbers.
+
+17
+00:00:31,361 --> 00:00:31,918
+- Yeah.
+
+18
+00:00:31,918 --> 00:00:32,928
+- Ok, counting numbers,
+
+19
+00:00:32,928 --> 00:00:34,484
+what do we mean by that,
+the counting numbers?
+
+20
+00:00:34,484 --> 00:00:36,060
+- [Voiceover] Numbers that you count with?
+
+21
+00:00:36,060 --> 00:00:38,284
+- Like one, two, three.
+
+22
+00:00:38,284 --> 00:00:40,746
+- Ok, our natural numbers
+are our counting numbers.
+
+23
+00:00:40,746 --> 00:00:45,285
+So 3 1/3, again, was just a--
+
+24
+00:00:45,285 --> 00:00:45,994
+- Rational.
+
+25
+00:00:45,994 --> 00:00:47,120
+- Rational and a--
+
+26
+00:00:47,120 --> 00:00:48,049
+- [Voiceover] Real.
+
+27
+00:00:48,049 --> 00:00:50,176
+- Ok, very good, somebody else.
+
+28
+00:00:51,818 --> 00:00:53,386
+Ok go ahead, Natalie?
+
+29
+00:00:53,386 --> 00:00:54,479
+- Square root of 19.
+
+30
+00:00:54,479 --> 00:00:55,892
+What are the classifications?
+
+31
+00:00:55,892 --> 00:00:56,845
+- [Voiceover] Rational.
+
+32
+00:00:56,845 --> 00:00:57,852
+- [Teacher] Hold on one second, thank you.
+
+33
+00:00:57,852 --> 00:00:59,628
+Can you show us your number?
+
+34
+00:01:01,189 --> 00:01:03,201
+So the square root of 19.
+
+35
+00:01:04,320 --> 00:01:04,991
+Ok.
+
+36
+00:01:04,991 --> 00:01:06,221
+- [Voiceover] Irrational?
+
+37
+00:01:06,221 --> 00:01:07,695
+- It's irrational, I decided.
+
+38
+00:01:07,695 --> 00:01:08,755
+- [Voiceover] It's irrational.
+
+39
+00:01:08,755 --> 00:01:11,459
+'Cause it's the square root
+of a nonperfect number.
+
+40
+00:01:11,459 --> 00:01:12,795
+- Nonperfect square.
+
+41
+00:01:12,795 --> 00:01:13,661
+- [Voiceover] Nonperfect square.
+
+42
+00:01:13,661 --> 00:01:16,284
+- Ok, so Sasha and Christina both agree
+
+43
+00:01:16,284 --> 00:01:18,177
+that it's irrational, and Christina,
+
+44
+00:01:18,177 --> 00:01:19,117
+what else did you say?
+
+45
+00:01:19,117 --> 00:01:20,287
+I'm not sure if they heard.
+
+46
+00:01:20,287 --> 00:01:21,085
+- It's a nonperfect square.
+
+47
+00:01:21,085 --> 00:01:22,590
+- Ok, it's not a perfect square.
+
+48
+00:01:22,590 --> 00:01:24,154
+- [Voiceover] And it's also real.
+
+49
+00:01:24,154 --> 00:01:26,720
+- Ok, it is irrational, and,
+
+50
+00:01:26,720 --> 00:01:28,053
+we wanna remember that,
+
+51
+00:01:28,053 --> 00:01:30,589
+an irrational number
+is also a real number,
+
+52
+00:01:30,589 --> 00:01:33,143
+even though it doesn't end or repeat.
+
+53
+00:01:34,487 --> 00:01:37,827
+How did you know, without
+using your calculator,
+
+54
+00:01:37,827 --> 00:01:40,750
+that the square root of 19
+was an irrational number?
+
+55
+00:01:40,750 --> 00:01:42,283
+- It doesn't make a perfect square.
+
+56
+00:01:42,283 --> 00:01:44,805
+- Ok, and how do you know it
+doesn't make a perfect square?
+
+57
+00:01:46,389 --> 00:01:48,259
+- Because, I have no idea.
+
+58
+00:01:48,259 --> 00:01:51,254
+- If you multiply two
+numbers, you don't get it.
+
+59
+00:01:51,254 --> 00:01:53,286
+- Ok, very good, that's exactly right.
+
+60
+00:01:53,286 --> 00:01:55,619
+- You actually can multiply
+two numbers to get 19--
+
+61
+00:01:55,619 --> 00:01:56,838
+- It's just a decimal or--
+
+62
+00:01:56,838 --> 00:01:59,268
+- Yeah, it's an irrational decimal.
+
+63
+00:02:00,388 --> 00:02:02,454
+- It's an irrational decimal, ok.
+
+64
+00:02:02,454 --> 00:02:04,254
+So you can multiply,
+
+65
+00:02:04,254 --> 00:02:05,868
+and we looked at an example,
+
+66
+00:02:07,349 --> 00:02:08,659
+of that, we did a little activity
+
+67
+00:02:08,659 --> 00:02:10,170
+with the square root of 19.
+
+68
+00:02:10,170 --> 00:02:11,721
+Is it gonna be two whole numbers
+
+69
+00:02:11,721 --> 00:02:14,585
+that you could multiply, to get 19?
+
+70
+00:02:14,585 --> 00:02:15,315
+Mm-mmm.
+
+71
+00:02:15,315 --> 00:02:17,553
+And that's what makes it irrational.
+
+72
+00:02:17,553 --> 00:02:20,327
+Compared with, if you did
+like the square root of 16,
+
+73
+00:02:20,327 --> 00:02:22,095
+what two numbers can you multiply to get--
+
+74
+00:02:22,095 --> 00:02:23,021
+- [Voiceover] Four and four.
+
+75
+00:02:23,021 --> 00:02:25,084
+- Four and four, ok, good.
+
+76
+00:02:25,084 --> 00:02:26,770
+Ok, how 'bout another number?
+
+77
+00:02:29,217 --> 00:02:29,754
+Go ahead.
+
+78
+00:02:29,754 --> 00:02:31,001
+- The classifications of 1/3.
+
+79
+00:02:32,325 --> 00:02:34,187
+- Rational and real.
+
+80
+00:02:34,187 --> 00:02:36,893
+- Ok, rational, real.
+
+81
+00:02:36,893 --> 00:02:40,166
+Anyone wanna throw in
+anything else about 1/3?
+
+82
+00:02:41,483 --> 00:02:42,726
+Mm-hmm?
+
+83
+00:02:42,726 --> 00:02:45,082
+- The greater the decimal, it's repeating.
+
+84
+00:02:45,082 --> 00:02:47,753
+- [Teacher] Right, it's
+a repeating decimal.
+
+85
+00:02:47,753 --> 00:02:49,343
+- It doesn't end, but it does repeat.
+
+86
+00:02:49,343 --> 00:02:50,049
+- [Teacher] Ok, so if it were--
+
+87
+00:02:50,049 --> 00:02:51,721
+- If it was, you could
+get a rational number.
+
+88
+00:02:51,721 --> 00:02:54,449
+- Right, and that makes it a
+rational number, very good.
+
+89
+00:02:54,449 --> 00:02:56,086
+Ok, we looked at several numbers.
+
+90
+00:02:56,086 --> 00:02:58,045
+How about someone ask a question?
+
+91
+00:02:58,045 --> 00:02:59,350
+Someone wanna throw in a question?
+
+92
+00:02:59,350 --> 00:03:00,424
+Ok, go ahead Scotty.
+
+93
+00:03:00,424 --> 00:03:02,577
+- What integers are also whole numbers?
+
+94
+00:03:02,577 --> 00:03:04,956
+- Ok, what integers, and let's make sure
+
+95
+00:03:04,956 --> 00:03:08,615
+everybody's having the
+opportunity to answer questions.
+
+96
+00:03:08,615 --> 00:03:09,753
+Repeat that again.
+
+97
+00:03:09,753 --> 00:03:11,820
+- What integers are also whole numbers?
+
+98
+00:03:11,820 --> 00:03:14,841
+- Ok, so what integers
+are also whole numbers?
+
+99
+00:03:15,718 --> 00:03:17,636
+- [Voiceover] Two can be
+a whole and an integer.
+
+100
+00:03:19,591 --> 00:03:21,791
+- Ok, what did you say first?
+
+101
+00:03:21,791 --> 00:03:22,662
+- Two.
+
+102
+00:03:22,662 --> 00:03:23,784
+- [Teacher] Ok, two is an example,
+
+103
+00:03:23,784 --> 00:03:25,990
+it can be an integer and a whole number.
+
+104
+00:03:25,990 --> 00:03:27,894
+- [Voiceover] Positive numbers?
+
+105
+00:03:27,894 --> 00:03:29,214
+Positive numbers?
+
+106
+00:03:29,214 --> 00:03:30,988
+- Ok, our positive numbers.
+
+107
+00:03:30,988 --> 00:03:32,927
+- [Voiceover] Negative
+numbers could be, too.
+
+108
+00:03:32,927 --> 00:03:35,748
+- [Teachers] Can negative
+numbers be whole numbers though?
+
+109
+00:03:35,748 --> 00:03:37,525
+- [Class] No.
+
+110
+00:03:37,525 --> 00:03:38,326
+- [Teacher] No?
+
+111
+00:03:38,326 --> 00:03:39,719
+- It can, zero.
+
+112
+00:03:39,719 --> 00:03:40,705
+- Ok, zero.
+
+113
+00:03:42,185 --> 00:03:43,450
+- Positive numbers.
+
+114
+00:03:43,450 --> 00:03:46,028
+- Ok, who remembers, what
+example did I give you,
+
+115
+00:03:46,028 --> 00:03:47,685
+when we're thinking about whole numbers?
+
+116
+00:03:47,685 --> 00:03:48,718
+- [Voiceover] Pets!
+
+117
+00:03:48,718 --> 00:03:50,256
+- What can help you think
+about whole numbers?
+
+118
+00:03:50,256 --> 00:03:51,023
+- Pets?
+
+119
+00:03:51,023 --> 00:03:52,126
+- Ok, Sasha says pets.
+
+120
+00:03:52,126 --> 00:03:54,572
+Who can elaborate on what that means?
+
+121
+00:03:54,572 --> 00:03:55,289
+- The number of pets you have--
+
+122
+00:03:55,289 --> 00:03:57,120
+- Count the number of pets you have.
+
+123
+00:03:57,120 --> 00:04:00,361
+- And then we asked for
+a number or something.
+
+124
+00:04:00,361 --> 00:04:03,693
+They wouldn't say, like I have
+3/4 of a dog or something.
+
+125
+00:04:03,693 --> 00:04:06,457
+- Ok, so if you'd ask somebody
+how many pets they have,
+
+126
+00:04:06,457 --> 00:04:08,453
+their answers are always gonna be what?
+
+127
+00:04:08,453 --> 00:04:09,255
+- [Class] A whole number.
+
+128
+00:04:09,255 --> 00:04:10,323
+- A whole number, which,
+
+129
+00:04:10,323 --> 00:04:12,157
+and what are our whole numbers?
+
+130
+00:04:12,157 --> 00:04:14,026
+- Zero, one.
+
+131
+00:04:14,026 --> 00:04:15,489
+- Zero to infinity.
+
+132
+00:04:15,489 --> 00:04:16,252
+- Zero through all the way.
+
+133
+00:04:16,252 --> 00:04:17,144
+- Ok, mm-hmm.
+
+134
+00:04:17,144 --> 00:04:19,024
+Zero and all.
+
+135
+00:04:19,024 --> 00:04:19,651
+Alright, good.
+
+136
+00:04:19,651 --> 00:04:20,946
+Good question, Scotty.
+
+137
+00:04:20,946 --> 00:04:22,385
+Let's have another question.
+
+138
+00:04:22,385 --> 00:04:23,256
+Go ahead Luke.
+
+139
+00:04:23,256 --> 00:04:26,077
+- Is a negative number
+rational or irrational?
+
+140
+00:04:26,077 --> 00:04:28,457
+- Ok, turn that around so we can see.
+
+141
+00:04:28,457 --> 00:04:31,348
+So is a negative number,
+can it be classified
+
+142
+00:04:31,348 --> 00:04:33,426
+as rational, or irrational?
+
+143
+00:04:33,426 --> 00:04:35,254
+- [Voiceover] It would
+be a rational number?
+
+144
+00:04:35,254 --> 00:04:35,791
+- No.
+
+145
+00:04:35,791 --> 00:04:37,448
+- [Teacher] A negative
+number is a rational number?
+
+146
+00:04:37,448 --> 00:04:38,061
+- It would be both.
+
+147
+00:04:38,061 --> 00:04:38,758
+- Yeah!
+
+148
+00:04:38,758 --> 00:04:39,826
+- It would be both.
+
+149
+00:04:39,826 --> 00:04:41,660
+- If you have the square
+root of a negative number.
+
+150
+00:04:41,660 --> 00:04:42,587
+- [Voiceover] It's an integer.
+
+151
+00:04:42,587 --> 00:04:44,889
+- Take the square root
+of a negative number.
+
+152
+00:04:44,889 --> 00:04:46,993
+- An integer is always rational, so--
+
+153
+00:04:46,993 --> 00:04:48,248
+- An integer is rational.
+
+154
+00:04:48,248 --> 00:04:49,743
+- And a negative number is a,
+
+155
+00:04:50,851 --> 00:04:52,581
+is rational.
+
+156
+00:04:52,581 --> 00:04:54,891
+- But his question, let's see that again.
+
+157
+00:04:54,891 --> 00:04:57,747
+Is a negative number,
+so it could be rational.
+
+158
+00:04:57,747 --> 00:05:00,487
+Can we have a negative
+number that's irrational?
+
+159
+00:05:00,487 --> 00:05:02,322
+Can somebody give me an example of that?
+
+160
+00:05:02,322 --> 00:05:03,518
+- Negative pi.
+
+161
+00:05:03,518 --> 00:05:06,120
+- [Teacher] Ok, negative pi, mm-hmm.
+
+162
+00:05:06,120 --> 00:05:09,115
+- The negative square root of two?
+
+163
+00:05:09,115 --> 00:05:11,361
+- Ok, the negative
+square root of a number.
+
+164
+00:05:11,361 --> 00:05:13,881
+Would the negative have
+to be on the outside,
+
+165
+00:05:13,881 --> 00:05:15,285
+or the inside of the pi?
+
+166
+00:05:15,285 --> 00:05:16,411
+- [Class] Outside.
+
+167
+00:05:16,411 --> 00:05:17,178
+- The pi?
+
+168
+00:05:18,089 --> 00:05:20,492
+- I mean, outside the square root sign.
+
+169
+00:05:20,492 --> 00:05:21,424
+So Luke, can you conclude us,
+
+170
+00:05:21,424 --> 00:05:23,394
+what was your answer to that question?
+
+171
+00:05:23,394 --> 00:05:24,555
+- Sometimes both.
+
+172
+00:05:24,555 --> 00:05:26,425
+- [Teacher] Ok, it can be both.
+
+173
+00:05:26,425 --> 00:05:27,730
+Mm-hmm, good.
+
+174
+00:05:27,730 --> 00:05:29,111
+Alright, good question too.
+
+175
+00:05:29,111 --> 00:05:30,528
+What about another number?
+
+176
+00:05:30,528 --> 00:05:31,258
+What's another number?
+
+177
+00:05:31,258 --> 00:05:32,107
+Madison, go ahead.
+
+178
+00:05:33,490 --> 00:05:35,453
+- The square root of 144.
+
+179
+00:05:35,453 --> 00:05:37,473
+- [Teacher] Ok, the square root of 144,
+
+180
+00:05:37,473 --> 00:05:39,992
+who can give us the
+different classifications?
+
+181
+00:05:39,992 --> 00:05:40,651
+- Real.
+
+182
+00:05:40,651 --> 00:05:42,456
+- Ok, Damian says real.
+
+183
+00:05:42,456 --> 00:05:43,420
+- Natural.
+
+184
+00:05:43,420 --> 00:05:44,116
+- [Teacher] Natural.
+
+185
+00:05:44,116 --> 00:05:45,044
+- [Voiceover] Whole.
+
+186
+00:05:45,044 --> 00:05:45,759
+- Whole.
+
+187
+00:05:45,759 --> 00:05:46,662
+- Integer.
+
+188
+00:05:46,662 --> 00:05:47,442
+- Yeah.
+
+189
+00:05:47,442 --> 00:05:48,726
+- Integer.
+
+190
+00:05:48,726 --> 00:05:49,672
+Any others?
+
+191
+00:05:49,672 --> 00:05:50,453
+- Rational.
+
+192
+00:05:50,453 --> 00:05:51,727
+- Ok, it's rational.
+
+193
+00:05:52,952 --> 00:05:53,822
+Do you agree, Madison?
+
+194
+00:05:53,822 --> 00:05:54,353
+- [Madison] Yes.
+
+195
+00:05:54,353 --> 00:05:55,186
+- Ok, very good.
+
+196
+00:05:55,186 --> 00:05:57,426
+So we looked at when that's,
+
+197
+00:05:57,426 --> 00:05:59,789
+if we look at our graphic organizer,
+
+198
+00:05:59,789 --> 00:06:01,612
+when it starts here with natural,
+
+199
+00:06:01,612 --> 00:06:02,886
+we read this going out, that it has
+
+200
+00:06:02,886 --> 00:06:05,023
+all those different classifications.
+
+201
+00:06:05,023 --> 00:06:05,754
+Good.
+
+202
+00:06:05,754 --> 00:06:07,054
+Ok, how about another number?
+
+203
+00:06:07,054 --> 00:06:08,088
+Go ahead, Amy.
+
+204
+00:06:08,088 --> 00:06:11,327
+- What is the difference
+between these two numbers?
+
+205
+00:06:11,327 --> 00:06:12,824
+The negative square root of nine,
+
+206
+00:06:12,824 --> 00:06:15,019
+and the square root of negative nine.
+
+207
+00:06:15,019 --> 00:06:16,528
+- [Teacher] Ok, I like that question.
+
+208
+00:06:16,528 --> 00:06:18,920
+So what's the difference
+between those two?
+
+209
+00:06:18,920 --> 00:06:21,218
+So on the first example,
+we see the negative
+
+210
+00:06:21,218 --> 00:06:23,657
+on the outside of the square root sign,
+
+211
+00:06:23,657 --> 00:06:26,524
+and then we see it on the inside.
+
+212
+00:06:26,524 --> 00:06:28,555
+- [Voiceover] One's real and one's not.
+
+213
+00:06:28,555 --> 00:06:30,505
+- [Teacher] Ok, Damian says one's real,
+
+214
+00:06:30,505 --> 00:06:31,910
+and one's not.
+
+215
+00:06:31,910 --> 00:06:33,941
+- When it's in the inside, it's not real.
+
+216
+00:06:33,941 --> 00:06:35,559
+Because you can't take the square root
+
+217
+00:06:35,559 --> 00:06:36,859
+of a negative number.
+
+218
+00:06:36,859 --> 00:06:38,519
+- Exactly, we cannot take the square root
+
+219
+00:06:38,519 --> 00:06:39,483
+of a negative number.
+
+220
+00:06:39,483 --> 00:06:41,535
+So when we see it on the inside,
+
+221
+00:06:41,535 --> 00:06:43,323
+there's not a solution to it.
+
+222
+00:06:43,323 --> 00:06:44,890
+What about when it's on the outside?
+
+223
+00:06:44,890 --> 00:06:47,027
+- You can take the square root of it
+
+224
+00:06:47,027 --> 00:06:48,652
+and just add the negative sign.
+
+225
+00:06:48,652 --> 00:06:50,115
+- Ok, so what would that answer be,
+
+226
+00:06:50,115 --> 00:06:51,473
+negative square root of nine?
+
+227
+00:06:51,473 --> 00:06:52,485
+- Negative three.
+
+228
+00:06:52,485 --> 00:06:53,353
+- Right, negative three.
+
+229
+00:06:53,353 --> 00:06:55,918
+Let's talk a little bit
+more in depth about,
+
+230
+00:06:55,918 --> 00:06:58,577
+when that negative is
+inside the square root,
+
+231
+00:06:58,577 --> 00:07:00,586
+why do we not have a solution to that?
+
+232
+00:07:00,586 --> 00:07:02,954
+So it was a square root of negative nine.
+
+233
+00:07:02,954 --> 00:07:05,998
+- Because you can't multiply
+two numbers to get a negative.
+
+234
+00:07:07,168 --> 00:07:08,427
+- Right, exactly.
+
+235
+00:07:08,427 --> 00:07:10,783
+So if we had like the square root of nine,
+
+236
+00:07:10,783 --> 00:07:12,792
+what two numbers can we
+multiply to give us--
+
+237
+00:07:12,792 --> 00:07:14,288
+- Three.
+
+238
+00:07:14,288 --> 00:07:15,358
+- Oh, nine, three and three.
+
+239
+00:07:15,358 --> 00:07:17,226
+- Three and three, and
+remember how we talked about,
+
+240
+00:07:17,226 --> 00:07:20,653
+what is the inverse of taking
+the square root of a number?
+
+241
+00:07:20,653 --> 00:07:21,352
+- Squaring it?
+
+242
+00:07:21,352 --> 00:07:22,350
+- Mm-hmm.
+
+243
+00:07:22,350 --> 00:07:24,220
+So there's not two numbers we can multiply
+
+244
+00:07:24,220 --> 00:07:26,785
+to give us that negative nine, good.
+
+245
+00:07:26,785 --> 00:07:28,678
+Alright, let's have another number.
+
+246
+00:07:28,678 --> 00:07:30,006
+Go ahead Brock.
+
+247
+00:07:30,006 --> 00:07:30,703
+- Ok.
+
+248
+00:07:32,752 --> 00:07:34,261
+3.14, pi.
+
+249
+00:07:35,451 --> 00:07:38,945
+- [Teacher] I'm glad you
+showed that number, 3.14.
+
+250
+00:07:38,945 --> 00:07:40,606
+- [Voiceover] That is not pi.
+
+251
+00:07:40,606 --> 00:07:42,510
+It's rational and real.
+
+252
+00:07:43,701 --> 00:07:44,759
+- [Voiceover] It's irrational.
+
+253
+00:07:44,759 --> 00:07:45,786
+- [Voiceover] No, it's rational.
+
+254
+00:07:45,786 --> 00:07:48,552
+- It's not rational, because
+it never ends or repeats.
+
+255
+00:07:48,552 --> 00:07:49,489
+- [Voiceover] It is rational.
+
+256
+00:07:49,489 --> 00:07:51,950
+- [Voiceover] Yeah, but 3.14 ends.
+
+257
+00:07:51,950 --> 00:07:52,655
+- [Voiceover] Yes, it ends.
+
+258
+00:07:52,655 --> 00:07:54,892
+- [Voiceover] It's 3.14, not pi.
+
+259
+00:07:54,892 --> 00:07:56,053
+- [Voiceover] That's not pi.
+
+260
+00:07:57,253 --> 00:08:01,461
+(class chatter)
+
+261
+00:08:02,421 --> 00:08:03,549
+- Pi doesn't end.
+
+262
+00:08:03,549 --> 00:08:04,721
+- [Voiceover] That one ends, pi doesn't end.
+
+263
+00:08:04,721 --> 00:08:08,053
+- Ok, so are we all in
+agreement that the number pi,
+
+264
+00:08:08,053 --> 00:08:10,782
+is an irrational number
+that doesn't end or repeat?
+
+265
+00:08:10,782 --> 00:08:12,120
+- [Class] Yes.
+
+266
+00:08:12,120 --> 00:08:13,925
+- But what is Brock's number?
+
+267
+00:08:13,925 --> 00:08:15,051
+- [Class] 3.14.
+
+268
+00:08:15,051 --> 00:08:19,347
+- 3.14, so that number, 3.14--
+
+269
+00:08:19,347 --> 00:08:20,020
+- [Voiceover] Ends.
+
+270
+00:08:20,020 --> 00:08:21,251
+- It ends.
+
+271
+00:08:21,251 --> 00:08:23,777
+So, what are the
+classifications for that number?
+
+272
+00:08:23,777 --> 00:08:25,028
+- [Class] Rational and real.
+
+273
+00:08:25,028 --> 00:08:26,328
+- It's rational and real.
+
+274
+00:08:26,328 --> 00:08:27,892
+Now when we're working problems,
+
+275
+00:08:27,892 --> 00:08:31,026
+like area, or circumference of a circle,
+
+276
+00:08:31,026 --> 00:08:33,325
+why do we use 3.14?
+
+277
+00:08:33,325 --> 00:08:34,192
+- Because it's easier.
+
+278
+00:08:34,192 --> 00:08:35,125
+- [Voiceover] Because it's easier.
+
+279
+00:08:35,125 --> 00:08:36,890
+- Right, could we use
+a whole number for pi,
+
+280
+00:08:36,890 --> 00:08:37,958
+to do a calculation?
+
+281
+00:08:37,958 --> 00:08:38,817
+- [Class] No.
+
+282
+00:08:38,817 --> 00:08:40,211
+- No way it's gonna end.
+
+283
+00:08:40,211 --> 00:08:41,592
+- Right, it would never end.
+
+284
+00:08:41,592 --> 00:08:42,939
+So when we're doing our calculations,
+
+285
+00:08:42,939 --> 00:08:44,982
+we use that 3.14.
+
+286
+00:08:44,982 --> 00:08:47,351
+But, Brock I'm glad you had that number,
+
+287
+00:08:47,351 --> 00:08:49,255
+so, you know, there's that difference.
+
+288
+00:08:49,255 --> 00:08:52,952
+Pi doesn't end, but just 3.14 does end.
+
+289
+00:08:52,952 --> 00:08:53,707
+Mm-hmm?
+
+290
+00:08:55,191 --> 00:08:56,804
+- Square root of negative 41.
+
+291
+00:08:56,804 --> 00:08:59,173
+- Ok, can you show everyone your number?
+
+292
+00:08:59,173 --> 00:09:01,553
+So the square root of negative 41.
+
+293
+00:09:01,553 --> 00:09:02,691
+- [Class] Not real.
+
+294
+00:09:02,691 --> 00:09:04,061
+- Ok, not a real number.
+
+295
+00:09:04,061 --> 00:09:05,524
+- But if it was real, then,
+
+296
+00:09:05,524 --> 00:09:07,207
+and they were on the outside,
+
+297
+00:09:07,207 --> 00:09:09,425
+then it'd be irrational, wouldn't it?
+
+298
+00:09:09,425 --> 00:09:11,317
+- Ok, and why would that be irrational,
+
+299
+00:09:11,317 --> 00:09:13,360
+the square root of 41?
+
+300
+00:09:13,360 --> 00:09:16,123
+(class mumbling)
+
+301
+00:09:16,123 --> 00:09:19,479
+Mm-hmm, no two numbers that can multiply.
+
+302
+00:09:19,479 --> 00:09:21,592
+Not the same two whole numbers.
+
+303
+00:09:21,592 --> 00:09:24,239
+Let me ask you a question
+about the square root of 41.
+
+304
+00:09:24,239 --> 00:09:25,946
+What if your neighbor came and said,
+
+305
+00:09:25,946 --> 00:09:28,418
+I'd like for you to help me,
+
+306
+00:09:28,418 --> 00:09:30,195
+make a fenced-in area for my dog,
+
+307
+00:09:30,195 --> 00:09:31,890
+and I want it to be a square,
+
+308
+00:09:31,890 --> 00:09:33,922
+and I want the area to be 41.
+
+309
+00:09:33,922 --> 00:09:35,791
+How would you maybe
+respond to your neighbor?
+
+310
+00:09:35,791 --> 00:09:37,803
+- Make it 49.
+
+311
+00:09:37,803 --> 00:09:38,446
+- Ok.
+
+312
+00:09:38,446 --> 00:09:39,090
+- 'Cause it wouldn't be a square.
+
+313
+00:09:39,090 --> 00:09:40,225
+- [Voiceover] It wouldn't
+be a perfect square.
+
+314
+00:09:40,225 --> 00:09:41,455
+- If it was 41?
+
+315
+00:09:41,455 --> 00:09:43,557
+Ok, so you, what did you say Damian?
+
+316
+00:09:43,557 --> 00:09:46,723
+- To make it, like 41, so
+you could have a seven by,
+
+317
+00:09:46,723 --> 00:09:48,627
+or 49, so you could have seven by seven.
+
+318
+00:09:48,627 --> 00:09:50,478
+- Ok, good.
+
+319
+00:09:50,478 --> 00:09:53,384
+- [Voiceover] Or make it a six by six, 36.
+
+320
+00:09:53,384 --> 00:09:54,139
+- Ok.
+
+321
+00:09:54,139 --> 00:09:55,660
+- I would tell him to make it way bigger,
+
+322
+00:09:55,660 --> 00:09:57,494
+because a dog needs a lot of space.
+
+323
+00:09:57,494 --> 00:10:00,848
+- No that wouldn't actually
+be a very big area, would it?
+
+324
+00:10:00,848 --> 00:10:01,753
+- [Voiceover] No that would be small.
+
+325
+00:10:01,753 --> 00:10:02,661
+- Unless maybe it was a small dog.
+
+326
+00:10:02,661 --> 00:10:03,451
+- Yes.
+
+327
+00:10:03,451 --> 00:10:05,633
+- A really small dog,
+like a teacup chihuahua.
+
+328
+00:10:05,633 --> 00:10:07,517
+- Ok, how about another question?
+
+329
+00:10:07,517 --> 00:10:08,759
+- Oh!
+
+330
+00:10:08,759 --> 00:10:10,222
+- Ok.
+
+331
+00:10:10,222 --> 00:10:13,536
+- Are repeating decimals ever fractions?
+
+332
+00:10:13,536 --> 00:10:14,103
+- [Voiceover] No.
+
+333
+00:10:14,103 --> 00:10:15,728
+- Yes, 1/3.
+
+334
+00:10:15,728 --> 00:10:17,451
+- So you could have a repeating decimal
+
+335
+00:10:17,451 --> 00:10:18,519
+as a fraction?
+
+336
+00:10:18,519 --> 00:10:20,051
+- Yeah, 1/3.
+
+337
+00:10:20,051 --> 00:10:20,640
+- Ok.
+
+338
+00:10:20,640 --> 00:10:21,159
+- 2/6.
+
+339
+00:10:21,159 --> 00:10:23,528
+- It's a bunch of threes.
+
+340
+00:10:23,528 --> 00:10:24,387
+- Yes.
+
+341
+00:10:24,387 --> 00:10:27,144
+- Ok, 1/3, definitely, that
+was the number Damian had,
+
+342
+00:10:27,144 --> 00:10:28,293
+a bunch of threes.
+
+343
+00:10:28,293 --> 00:10:31,405
+And you said, now two, what about 2/6?
+
+344
+00:10:31,405 --> 00:10:32,717
+- It's repeating also.
+
+345
+00:10:32,717 --> 00:10:34,981
+- Ok, 'cause that will
+reduce back to what?
+
+346
+00:10:34,981 --> 00:10:35,759
+- 1/3.
+
+347
+00:10:35,759 --> 00:10:37,825
+- 1/3, ok.
+
+348
+00:10:37,825 --> 00:10:39,637
+Alright, how about another number?
+
+349
+00:10:40,652 --> 00:10:41,468
+Ethan?
+
+350
+00:10:42,780 --> 00:10:44,289
+- Square root of two.
+
+351
+00:10:44,289 --> 00:10:45,891
+- Alright, I don't know
+if you can see that,
+
+352
+00:10:45,891 --> 00:10:47,388
+but the square root of two.
+
+353
+00:10:47,388 --> 00:10:49,350
+What if you try to take
+the square root of two?
+
+354
+00:10:49,350 --> 00:10:49,989
+- [Voiceover] It's irrational.
+
+355
+00:10:49,989 --> 00:10:50,790
+- Irrational.
+
+356
+00:10:50,790 --> 00:10:53,820
+- Ok, it's an irrational
+number, but it's also a...
+
+357
+00:10:53,820 --> 00:10:54,854
+- [Class] Real.
+
+358
+00:10:54,854 --> 00:10:56,386
+- Real number, good, alright.
+
+359
+00:10:56,386 --> 00:10:58,139
+Another number that we can look at?
+
+360
+00:10:58,139 --> 00:10:59,683
+Maybe someone who's not answered.
+
+361
+00:10:59,683 --> 00:11:00,624
+Down here?
+
+362
+00:11:00,624 --> 00:11:01,619
+Nicole?
+
+363
+00:11:01,619 --> 00:11:02,821
+- Five divided by zero.
+
+364
+00:11:02,821 --> 00:11:04,389
+- Oh, that's a good
+one, we've not had that.
+
+365
+00:11:04,389 --> 00:11:06,525
+How about five divided by zero.
+
+366
+00:11:06,525 --> 00:11:07,326
+- [Voiceover] It's not real.
+
+367
+00:11:07,326 --> 00:11:08,092
+- [Voiceover] That's not real.
+
+368
+00:11:08,092 --> 00:11:09,741
+- Ok, not a real number again.
+
+369
+00:11:09,741 --> 00:11:11,522
+Can we go a little bit further?
+
+370
+00:11:11,522 --> 00:11:13,217
+Why is that not a real number?
+
+371
+00:11:13,217 --> 00:11:15,922
+- Because there's no longer
+a number you can multiply by,
+
+372
+00:11:15,922 --> 00:11:16,839
+it's zero.
+
+373
+00:11:16,839 --> 00:11:18,488
+- [Voiceover] Anything divided
+by zero is not a real number.
+
+374
+00:11:18,488 --> 00:11:19,624
+- Ok, I had several of you talking,
+
+375
+00:11:19,624 --> 00:11:21,215
+and I do want to hear everyone.
+
+376
+00:11:21,215 --> 00:11:23,154
+What did you say Natalie?
+
+377
+00:11:23,154 --> 00:11:24,083
+- It's undefined.
+
+378
+00:11:24,083 --> 00:11:25,812
+- [Teacher] Ok, we do
+say that's undefined.
+
+379
+00:11:25,812 --> 00:11:28,692
+Michael, could you add to that?
+
+380
+00:11:28,692 --> 00:11:30,921
+- You can't divide anything by zero.
+
+381
+00:11:30,921 --> 00:11:32,918
+- Ok, you can't divide anything by zero.
+
+382
+00:11:32,918 --> 00:11:35,179
+And if you look on the overhead,
+
+383
+00:11:35,179 --> 00:11:38,417
+if I were to write that
+out, and put five inside
+
+384
+00:11:38,417 --> 00:11:41,320
+as our dividend, and zero as our divisor,
+
+385
+00:11:41,320 --> 00:11:43,456
+is there a number I can multiply by zero
+
+386
+00:11:43,456 --> 00:11:44,292
+to get five?
+
+387
+00:11:44,292 --> 00:11:46,417
+- No, 'cause anything times zero is zero.
+
+388
+00:11:46,417 --> 00:11:48,361
+- So that makes it undefined.
+
+389
+00:11:48,361 --> 00:11:49,556
+Ok, very good.
+
+390
+00:11:49,556 --> 00:11:51,411
+Ok, another number.
+
+391
+00:11:51,411 --> 00:11:53,187
+- Ooh! Ooh!
+
+392
+00:11:53,187 --> 00:11:55,184
+(speaker mumbles)
+
+393
+00:11:55,184 --> 00:11:56,751
+- Ok, Cliff go ahead, and then Brock,
+
+394
+00:11:56,751 --> 00:11:59,352
+you had your hand raised,
+I'll come back to you.
+
+395
+00:11:59,352 --> 00:12:01,245
+- The square root of 53.
+
+396
+00:12:01,245 --> 00:12:02,951
+- Ok, hold that up so everyone can see.
+
+397
+00:12:02,951 --> 00:12:04,844
+Ok, we have the square root of 53.
+
+398
+00:12:04,844 --> 00:12:07,653
+Classifications for square root of 53.
+
+399
+00:12:07,653 --> 00:12:08,547
+- [Class] Irrational.
+
+400
+00:12:08,547 --> 00:12:09,906
+- Irrational and...
+
+401
+00:12:09,906 --> 00:12:10,753
+- [Class] Real.
+
+402
+00:12:10,753 --> 00:12:11,993
+- And real, very good.
+
+403
+00:12:11,993 --> 00:12:13,688
+Ok Brock, how about your number?
+
+404
+00:12:13,688 --> 00:12:16,422
+- Ok, the square root of a prime number
+
+405
+00:12:16,422 --> 00:12:17,884
+is always what?
+
+406
+00:12:17,884 --> 00:12:19,858
+- [Teacher] Ok, Brock's
+given us a question.
+
+407
+00:12:19,858 --> 00:12:21,391
+Can you repeat that again?
+
+408
+00:12:21,391 --> 00:12:24,421
+- The square root of a
+prime number is always what?
+
+409
+00:12:24,421 --> 00:12:25,849
+- [Teacher] Oh, that's
+a very good question.
+
+410
+00:12:25,849 --> 00:12:27,393
+- [Class] Irrational.
+
+411
+00:12:27,393 --> 00:12:28,856
+- Ok, so if it's a prime number,
+
+412
+00:12:28,856 --> 00:12:30,179
+and you're trying to take the square root,
+
+413
+00:12:30,179 --> 00:12:31,619
+it's always irrational.
+
+414
+00:12:31,619 --> 00:12:35,039
+Ethan, you said irrational,
+can you expand on that?
+
+415
+00:12:37,593 --> 00:12:39,919
+- I said the square root of a prime number
+
+416
+00:12:39,919 --> 00:12:41,185
+will always be irrational
+
+417
+00:12:41,185 --> 00:12:44,637
+because you cannot make a
+square out of a prime number,
+
+418
+00:12:44,637 --> 00:12:49,353
+you have to have two, for
+it to be a perfect square.
+
+419
+00:12:49,353 --> 00:12:51,373
+You have to have two
+numbers, prime numbers,
+
+420
+00:12:51,373 --> 00:12:53,753
+and you have one, and the number itself.
+
+421
+00:12:53,753 --> 00:12:56,052
+- [Teacher] Ok, only
+those two factors, right.
+
+422
+00:12:56,052 --> 00:12:57,619
+Ok, very good.
+
+423
+00:12:57,619 --> 00:12:59,721
+Ok, maybe another question.
+
+424
+00:12:59,721 --> 00:13:00,831
+Mm-hmm.
+
+425
+00:13:00,831 --> 00:13:04,056
+- Is a repeating decimal
+rational or irrational?
+
+426
+00:13:04,056 --> 00:13:06,820
+- So if it's a repeating decimal.
+
+427
+00:13:06,820 --> 00:13:08,422
+- [Class] Rational.
+
+428
+00:13:08,422 --> 00:13:09,594
+- Rational?
+
+429
+00:13:09,594 --> 00:13:11,057
+- Yes.
+
+430
+00:13:11,057 --> 00:13:13,693
+- Ok, very good, how
+about another question,
+
+431
+00:13:13,693 --> 00:13:14,514
+that we could discuss?
+
+432
+00:13:14,514 --> 00:13:15,362
+Madison?
+
+433
+00:13:15,362 --> 00:13:16,256
+- True or false:
+
+434
+00:13:16,256 --> 00:13:19,878
+a terminating decimal
+means the decimal repeats.
+
+435
+00:13:19,878 --> 00:13:20,992
+- [Voiceover] It's false.
+
+436
+00:13:20,992 --> 00:13:23,059
+- Ok, it's false.
+
+437
+00:13:23,059 --> 00:13:24,943
+What does that mean,
+Mariah, if it's terminating?
+
+438
+00:13:26,888 --> 00:13:27,572
+- It...
+
+439
+00:13:29,059 --> 00:13:29,618
+- So if it terminates, it--
+
+440
+00:13:29,618 --> 00:13:30,327
+- It ends.
+
+441
+00:13:30,327 --> 00:13:31,894
+- It ends, right, exactly.
+
+442
+00:13:31,894 --> 00:13:33,821
+Ok, how about another number?
+
+443
+00:13:33,821 --> 00:13:35,958
+Anyone, an example, we've not had many
+
+444
+00:13:35,958 --> 00:13:38,245
+with integers.
+
+445
+00:13:38,245 --> 00:13:39,754
+I see you.
+
+446
+00:13:39,754 --> 00:13:42,577
+How about one with a negative number?
+
+447
+00:13:43,661 --> 00:13:45,206
+Anybody have one with a negative number?
+
+448
+00:13:46,286 --> 00:13:47,022
+Brian, you do?
+
+449
+00:13:47,022 --> 00:13:47,684
+Ok.
+
+450
+00:13:47,684 --> 00:13:51,025
+- I have the square root of negative 225.
+
+451
+00:13:51,025 --> 00:13:52,395
+- [Class] Not real.
+
+452
+00:13:52,395 --> 00:13:53,451
+- Ok, not real, again,
+
+453
+00:13:53,451 --> 00:13:55,146
+why is that not a real number?
+
+454
+00:13:55,146 --> 00:13:55,956
+- Because it's negative.
+
+455
+00:13:55,956 --> 00:13:58,394
+- [Voiceover] The decimal's inside.
+
+456
+00:13:58,394 --> 00:14:00,739
+- Ok, well not the decimal
+is inside but the--
+
+457
+00:14:00,739 --> 00:14:01,258
+- [Voiceover] Negative.
+
+458
+00:14:01,258 --> 00:14:03,408
+- The negative's inside.
+
+459
+00:14:03,408 --> 00:14:04,657
+I wanna throw a number out.
+
+460
+00:14:04,657 --> 00:14:08,384
+How about negative 4/5?
+
+461
+00:14:08,384 --> 00:14:10,938
+For the number negative 4/5.
+
+462
+00:14:11,858 --> 00:14:13,238
+- [Voiceover] Rational?
+
+463
+00:14:13,238 --> 00:14:14,360
+- [Voiceover] Yeah, rational.
+
+464
+00:14:14,360 --> 00:14:16,693
+- Ok, it's a rational number and it is a--
+
+465
+00:14:16,693 --> 00:14:17,715
+- [Class] Real number.
+
+466
+00:14:17,715 --> 00:14:19,782
+- Is it a negative number?
+
+467
+00:14:19,782 --> 00:14:20,490
+- Yes.
+
+468
+00:14:20,490 --> 00:14:21,256
+- No!
+
+469
+00:14:21,256 --> 00:14:22,057
+- [Voiceover] Yeah.
+
+470
+00:14:22,057 --> 00:14:22,951
+- [Voiceover] No?
+
+471
+00:14:22,951 --> 00:14:23,717
+- Hmmm.
+
+472
+00:14:23,717 --> 00:14:25,587
+So negative 4/5.
+
+473
+00:14:25,587 --> 00:14:27,758
+Wouldn't that be considered an integer?
+
+474
+00:14:27,758 --> 00:14:28,756
+- [Class] No.
+
+475
+00:14:28,756 --> 00:14:31,461
+- Because it's not a whole
+or a natural number.
+
+476
+00:14:31,461 --> 00:14:32,355
+- Ok, very good.
+
+477
+00:14:32,355 --> 00:14:34,851
+What do we know, we haven't
+talked too much about integers.
+
+478
+00:14:34,851 --> 00:14:36,285
+What do we know about our integers?
+
+479
+00:14:36,285 --> 00:14:38,055
+How do we classify an integer?
+
+480
+00:14:38,055 --> 00:14:40,180
+- That it's whole numbers
+and their opposites?
+
+481
+00:14:40,180 --> 00:14:42,049
+- Ok, whole numbers and their opposites.
+
+482
+00:14:42,049 --> 00:14:43,860
+And we used our number line in class.
+
+483
+00:14:43,860 --> 00:14:46,217
+Do we have any fractions or decimals
+
+484
+00:14:46,217 --> 00:14:47,785
+on our number line?
+
+485
+00:14:47,785 --> 00:14:48,620
+- [Class] No.
+
+486
+00:14:48,620 --> 00:14:51,651
+- So what numbers are
+not considered integers?
+
+487
+00:14:51,651 --> 00:14:52,452
+- [Class] Decimals.
+
+488
+00:14:52,452 --> 00:14:53,590
+- Decimals and...
+
+489
+00:14:53,590 --> 00:14:54,751
+- [Class] Fractions.
+
+490
+00:14:54,751 --> 00:14:57,084
+- Ok, so if they have that
+negative sign in front of them,
+
+491
+00:14:57,084 --> 00:14:58,323
+then what do we call em?
+
+492
+00:14:58,323 --> 00:14:59,909
+If they're not integers.
+

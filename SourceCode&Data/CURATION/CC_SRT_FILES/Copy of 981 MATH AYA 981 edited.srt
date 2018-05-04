@@ -1,0 +1,1186 @@
+1
+00:00:00,828 --> 00:00:02,413
+- [Teacher] Okay, you guys based
+
+2
+00:00:02,413 --> 00:00:04,953
+on the answer tickets
+that we took yesterday,
+
+3
+00:00:04,953 --> 00:00:06,563
+what we realized, or what I realized,
+
+4
+00:00:06,563 --> 00:00:08,197
+is that there's still confusion
+
+5
+00:00:08,197 --> 00:00:10,732
+on going from the general to factor.
+
+6
+00:00:10,732 --> 00:00:13,577
+General to vertex, or
+vice versa on any of those
+
+7
+00:00:13,577 --> 00:00:14,788
+three particular forms.
+
+8
+00:00:14,788 --> 00:00:17,465
+Also, another objective we're gonna do is
+
+9
+00:00:17,465 --> 00:00:19,279
+we're gonna figure out- determine why each
+
+10
+00:00:19,279 --> 00:00:22,105
+form is important. So, the first
+thing I want you guys to do
+
+11
+00:00:22,105 --> 00:00:24,068
+is, I want you guys to look at number one
+
+12
+00:00:24,068 --> 00:00:25,838
+on that task card. Can
+someone read it out loud?
+
+13
+00:00:25,838 --> 00:00:26,915
+- [Drew] I will.
+
+14
+00:00:26,915 --> 00:00:29,241
+- [Teacher] Yeah, Drew.
+
+15
+00:00:29,241 --> 00:00:31,651
+- [Drew] The Angry
+Bird was blasted through a
+
+16
+00:00:31,651 --> 00:00:33,986
+slingshot at the initial
+height of 45 meters.
+
+17
+00:00:33,986 --> 00:00:36,996
+The bird's initial velocity
+was 14.7 meters per second.
+
+18
+00:00:37,429 --> 00:00:39,628
+Write an equation that gives
+the height of the Angry Bird
+
+19
+00:00:39,628 --> 00:00:40,962
+as a function of time.
+
+20
+00:00:40,962 --> 00:00:42,807
+- [Teacher] Okay, so what
+I need you guys to do is
+
+21
+00:00:42,807 --> 00:00:46,864
+I need you guys to write that
+equation on the white board.
+
+22
+00:00:50,554 --> 00:01:01,612
+- (background chatter)
+
+23
+00:01:03,053 --> 00:01:04,447
+- [Teacher] Okay, so now I want people
+
+24
+00:01:04,447 --> 00:01:06,544
+to put it up on the board.
+
+25
+00:01:06,544 --> 00:01:11,098
+Okay. 
+
+26
+00:01:13,308 --> 00:01:15,015
+Okay, so can you guys look
+around to each other too,
+
+27
+00:01:15,015 --> 00:01:16,753
+I know you guys are gonna want to, 
+
+28
+00:01:16,753 --> 00:01:24,593
+like, show everybody what people are getting.
+- [Students] Yay...Cool...
+
+29
+00:01:26,985 --> 00:01:29,021
+- [Teacher] Okay, guys,
+these are the four things,
+
+30
+00:01:29,021 --> 00:01:33,377
+or the three things that I saw.
+
+31
+00:01:35,848 --> 00:01:37,918
+Okay, so right here.
+
+32
+00:01:37,918 --> 00:01:41,469
+So, if you notice a lot of you guys,
+you guys had the first one.
+
+33
+00:01:41,469 --> 00:01:44,156
+Negative four point nine
+'x' squared plus 14.7 'x'
+
+34
+00:01:44,156 --> 00:01:47,536
+plus 49. Can someone tell
+me in words how you were
+
+35
+00:01:47,536 --> 00:01:48,784
+able to figure that out?
+
+36
+00:01:48,784 --> 00:01:51,611
+- You just did it.
+
+37
+00:01:51,611 --> 00:01:53,787
+- What was the question?
+
+38
+00:01:53,787 --> 00:01:57,684
+- [Teacher] So, can someone tell me how, like,
+
+39
+00:01:57,684 --> 00:02:01,021
+relate this general formula to the story.
+
+40
+00:02:01,021 --> 00:02:03,863
+Since you've read already, I
+wants someone else to speak.
+
+41
+00:02:03,863 --> 00:02:05,231
+So who? Okay, Jamilah,
+
+42
+00:02:05,231 --> 00:02:07,504
+can you explain how you were
+able to get this equation?
+
+43
+00:02:07,504 --> 00:02:11,574
+- So, the height is c, and
+
+44
+00:02:11,574 --> 00:02:14,870
+the original equation is a 'x'
+squared, plus b 'x', plus c.
+
+45
+00:02:14,870 --> 00:02:18,401
+And so the initial height is
+b, which is the y intercept.
+
+46
+00:02:18,401 --> 00:02:22,080
+And then b is the initial velocity?
+
+47
+00:02:22,080 --> 00:02:25,302
+And then negative four point
+nine is just the random number
+
+48
+00:02:25,302 --> 00:02:26,658
+that they chose.
+
+49
+00:02:26,658 --> 00:02:29,152
+- [Teacher] So, you guys, is it random?
+
+50
+00:02:29,152 --> 00:02:30,646
+- No.
+- It's the scale factor.
+
+51
+00:02:30,646 --> 00:02:32,106
+- [Teacher] Is there any
+other terminology for that?
+
+52
+00:02:36,842 --> 00:02:38,015
+- It's the starting point.
+
+- [Teacher] Hey guys, do you think it's
+
+53
+00:02:38,015 --> 00:02:39,008
+the starting point? Is
+it the starting point?
+
+54
+00:02:39,008 --> 00:02:40,277
+Or, what else...?
+
+55
+00:02:40,277 --> 00:02:42,015
+- It's gravity.
+
+56
+00:02:42,015 --> 00:02:43,519
+- [Teacher] So wait, what does this
+
+57
+00:02:43,519 --> 00:02:44,522
+negative four point nine mean?
+
+58
+00:02:45,738 --> 00:02:47,020
+- That's the constant. Remember, it's gravity.
+
+59
+00:02:47,020 --> 00:02:48,277
+- [Teacher] So, I heard...
+
+60
+00:02:48,277 --> 00:02:49,471
+- Scale factor?
+
+61
+00:02:49,471 --> 00:02:50,591
+- [Teacher] Okay, scale factor,
+
+62
+00:02:50,591 --> 00:02:51,849
+but relatively to your
+projectile motion, what is it?
+
+63
+00:02:51,849 --> 00:02:52,682
+- Acceleration?
+
+64
+00:02:52,682 --> 00:02:54,574
+- [Teacher] Acceleration. So you guys...(inaudible).
+
+65
+00:02:57,298 --> 00:02:59,027
+- [Teacher] It's acceleration.
+
+66
+00:02:59,027 --> 00:03:00,507
+So, right now, what I want you guys to do...
+
+67
+00:03:00,507 --> 00:03:02,150
+Oh, actually once again, right here-
+
+68
+00:03:02,150 --> 00:03:06,524
+here are different forms
+of an equation that I saw.
+
+69
+00:03:06,524 --> 00:03:08,496
+So, right here what do you think?
+
+70
+00:03:08,496 --> 00:03:10,363
+Can someone tell me what's
+wrong with this particular one?
+
+71
+00:03:10,363 --> 00:03:12,410
+- They don't
+have a squared and they don't
+
+72
+00:03:12,410 --> 00:03:14,406
+have an 'x' after the
+4.2 
+
+73
+00:03:14,406 --> 00:03:19,406
+- Okay, so, Ravelle, what's
+the problem with this one?
+
+74
+00:03:19,609 --> 00:03:24,609
+- There's no 'y' intercept or... (inaudible).
+
+75
+00:03:30,313 --> 00:03:31,849
+- [Teacher] So, once
+again, I still notice,
+
+76
+00:03:31,849 --> 00:03:33,737
+now I want to go back to
+the original equation.
+
+77
+00:03:33,737 --> 00:03:36,189
+Okay, someone tell me in words. Ah, Jamilah,
+
+78
+00:03:36,189 --> 00:03:39,723
+she did a fantastic job
+explaining relatively to the
+
+79
+00:03:39,723 --> 00:03:42,786
+a 'x' squared, plus b
+'x', plus c, but according
+
+80
+00:03:42,786 --> 00:03:45,730
+to the story, can someone
+refer to the story
+
+81
+00:03:45,730 --> 00:03:49,069
+back to the general equation?
+
+82
+00:03:49,069 --> 00:03:50,262
+- Can you rephrase the question?
+
+83
+00:03:50,262 --> 00:03:53,184
+- [Teacher] Yes. How are
+we able to get 14.7 here?
+
+84
+00:03:53,184 --> 00:03:56,800
+How did we get 49 here? How
+do you know what stuff to use?
+
+85
+00:03:56,800 --> 00:03:59,713
+- The 49 is the initial height in meters,
+
+86
+00:03:59,713 --> 00:04:02,208
+so that one's gonna be your 'y' intercept,
+
+87
+00:04:02,208 --> 00:04:06,600
+And 14.7 is the initial velocity,
+
+88
+00:04:06,600 --> 00:04:11,220
+and the initial velocity is
+always 'b' so... (inaudible)
+
+89
+00:04:11,220 --> 00:04:12,233
+- [Teacher] Awesome.
+
+90
+00:04:12,233 --> 00:04:13,558
+So, now what I want you guys to do is,
+
+91
+00:04:13,558 --> 00:04:15,687
+I want you to go to number two.
+
+92
+00:04:15,687 --> 00:04:17,242
+So, I want you to put
+that on the white board.
+
+93
+00:04:17,242 --> 00:04:18,747
+- Can I read it again?
+
+94
+00:04:18,747 --> 00:04:20,728
+- [Teacher] Well,
+actually, no. Let's have,
+
+95
+00:04:20,728 --> 00:04:25,504
+Fatima, can you read number two?
+
+96
+00:04:25,814 --> 00:04:29,150
+- [Fatima] What does the 'x' axis
+represent in this story?
+
+97
+00:04:29,150 --> 00:04:32,723
+What does the 'y' axis represent in our story?
+
+98
+00:04:32,723 --> 00:04:42,125
+- [Teacher] Okay, let's do that quickly.
+
+99
+00:04:44,005 --> 00:04:45,277
+- I have a question.
+
+100
+00:04:45,277 --> 00:04:46,075
+- [Teacher] Yes.
+
+101
+00:04:46,075 --> 00:04:48,431
+- Did 'x', never mind,
+I'll wait until after this.
+
+102
+00:04:48,431 --> 00:04:51,736
+- [Teacher] So, let's look
+around. So, a lot of people
+
+103
+00:04:51,736 --> 00:04:52,813
+are getting what?
+
+104
+00:04:52,813 --> 00:04:54,871
+- 'X' equals time. 'Y' equals height.
+
+105
+00:04:54,871 --> 00:04:56,632
+- [Teacher] So Markeisha,
+what was your question?
+
+106
+00:04:56,632 --> 00:05:01,069
+- I was gonna say, could
+'x' be distance as well?
+
+107
+00:05:01,069 --> 00:05:02,200
+- [Teacher] Can 'x' be distance, people?
+- No.
+
+108
+00:05:02,200 --> 00:05:04,150
+- No. If it wanted to. 
+
+109
+00:05:04,150 --> 00:05:05,222
+- [Teacher] Why not?
+
+110
+00:05:05,222 --> 00:05:07,888
+- Because, it's meters
+per second, not meters per
+
+111
+00:05:07,888 --> 00:05:11,328
+(inaudible)
+
+112
+00:05:11,328 --> 00:05:12,616
+- [Teacher] So, does that make sense?
+- (inaudible)
+
+113
+00:05:13,427 --> 00:05:14,575
+- [Teacher] All right. So, now
+
+114
+00:05:14,575 --> 00:05:15,975
+what I want you guys to do... 
+
+115
+00:05:15,975 --> 00:05:17,538
+So, so far, let's recap what we've done so far.
+
+116
+00:05:17,538 --> 00:05:18,393
+Can everyone generalize
+
+117
+00:05:18,393 --> 00:05:19,393
+what we've just done
+
+118
+00:05:19,393 --> 00:05:20,796
+in the first couple of questions?
+
+119
+00:05:20,796 --> 00:05:23,153
+- We set up the equation
+
+120
+00:05:23,153 --> 00:05:26,368
+and we figured out our 'x'
+and y axes, in the general form.
+
+121
+00:05:26,368 --> 00:05:28,352
+- [Teacher] Okay, right now,
+what I want you guys to do is,
+
+122
+00:05:28,352 --> 00:05:31,382
+I want you guys to work on number four.
+
+123
+00:05:31,382 --> 00:05:33,631
+Okay, someone read that out loud
+
+124
+00:05:33,631 --> 00:05:34,954
+that hasn't read out loud yet.
+
+125
+00:05:34,954 --> 00:05:36,642
+- I haven't.
+
+126
+00:05:36,642 --> 00:05:39,480
+- [Teacher] So, Leslie, you
+want to read? Number four?
+
+127
+00:05:39,480 --> 00:05:42,486
+- [Leslie] From the equation that you
+got from question number one,
+
+128
+00:05:42,486 --> 00:05:45,655
+show the steps on how you
+translate the general form
+
+129
+00:05:45,655 --> 00:05:47,177
+into the factor form.
+
+130
+00:05:47,177 --> 00:05:48,565
+- [Teacher] Now what
+I want you guys to do,
+
+131
+00:05:48,565 --> 00:05:49,869
+I want you to turn and talk
+
+132
+00:05:49,869 --> 00:05:52,132
+about the strategies
+you're planning to use
+
+133
+00:05:52,132 --> 00:07:53,595
+to work out this problem.
+- (students discussing the problem)
+
+134
+00:07:55,462 --> 00:07:56,505
+- [Teacher] Okay, you
+guys, I'm gonna stop class
+
+135
+00:07:56,505 --> 00:07:59,555
+real quick. You guys, I'm
+gonna stop class real quick.
+
+136
+00:07:59,555 --> 00:08:02,137
+- (inaudible)
+
+137
+00:08:02,137 --> 00:08:04,567
+Okay, so Mary, can you just
+ask the question that you
+
+138
+00:08:04,567 --> 00:08:05,603
+just asked me?
+
+139
+00:08:05,603 --> 00:08:08,109
+- She asked me.
+
+140
+00:08:08,109 --> 00:08:10,630
+- [Teacher] Okay, so one
+of you guys ask the question
+
+141
+00:08:10,630 --> 00:08:14,533
+that we just talked about.
+So Markeisha, Jamilah?
+
+142
+00:08:14,533 --> 00:08:17,819
+- Can we use the box to figure it out?
+
+143
+00:08:17,819 --> 00:08:19,526
+- Yeah, you can.
+
+144
+00:08:19,526 --> 00:08:20,548
+- [Teacher] Why? How?
+
+145
+00:08:20,548 --> 00:08:23,183
+Hang on.
+
+146
+00:08:23,183 --> 00:08:24,463
+Put that back away. So, you guys.
+
+147
+00:08:24,463 --> 00:08:27,092
+So the question is...
+Okay, so Autumn just asked,
+
+148
+00:08:27,092 --> 00:08:30,661
+can she use the diamond
+and rectangle method
+
+149
+00:08:30,661 --> 00:08:35,122
+as opposed to (inaudible) and why?
+- (background chatter)
+
+150
+00:08:37,756 --> 00:08:42,126
+- [Teacher] You guys...
+
+151
+00:08:43,866 --> 00:08:46,102
+You guys, let's listen,
+please. Mary. Sorry.
+
+152
+00:08:46,396 --> 00:08:48,870
+- You figure it out by dividing
+negative four point nine
+
+153
+00:08:48,870 --> 00:08:50,544
+by all the numbers. So, if
+you divide negative four
+
+154
+00:08:50,544 --> 00:08:53,403
+point nine 'x' squared, by
+negative four point nine,
+
+155
+00:08:53,403 --> 00:08:55,616
+you'll get 'x' squared. 14.7 divided by
+
+156
+00:08:55,616 --> 00:08:58,857
+negative four point
+nine is negative three.
+
+157
+00:08:58,857 --> 00:09:01,174
+And then 49 divided by
+negative four point nine is
+
+158
+00:09:01,174 --> 00:09:02,329
+negative ten?
+
+159
+00:09:02,329 --> 00:09:03,835
+- [Teacher] Okay, I'll
+stop you right there.
+
+160
+00:09:03,835 --> 00:09:06,075
+So, back to what I said. Okay,
+so the diamond-rectangle
+
+161
+00:09:06,075 --> 00:09:08,347
+method, people. So, when you are doing this,
+
+162
+00:09:08,347 --> 00:09:10,362
+what are you finding?
+- We're finding the box.
+
+163
+00:09:10,362 --> 00:09:11,473
+- [Teacher] You're finding the box.
+
+164
+00:09:11,473 --> 00:09:13,424
+So, what are those things
+
+165
+00:09:13,424 --> 00:09:18,009
+outside of the box here?
+What are they called.
+
+166
+00:09:18,127 --> 00:09:19,585
+- The factors.
+
+167
+00:09:19,585 --> 00:09:20,327
+- [Teacher] The factors.
+
+168
+00:09:20,327 --> 00:09:21,287
+Okay.
+
+169
+00:09:21,287 --> 00:09:22,973
+Okay, when you're using, it seems like
+
+170
+00:09:22,973 --> 00:09:24,721
+a lot of you guys are using
+the quadratic formula.
+
+171
+00:09:24,721 --> 00:09:25,959
+What are you trying to find then?
+- (inaudible)
+
+172
+00:09:27,826 --> 00:09:28,860
+- [Teacher] All right. So, right now...
+
+173
+00:09:28,860 --> 00:09:30,876
+So, Autumn. So, you have
+questions on that right?
+
+174
+00:09:30,876 --> 00:09:33,894
+So, later on... So, do you mind just moving
+
+175
+00:09:33,894 --> 00:09:37,366
+over there real quick?
+Because Leslie said that
+
+176
+00:09:37,366 --> 00:09:39,469
+you got it down.
+
+177
+00:09:39,469 --> 00:09:40,587
+So, you guys, so take two more minutes.
+
+178
+00:09:40,587 --> 00:09:43,787
+We're gonna see both methods.
+
+179
+00:09:43,787 --> 00:09:53,787
+- (students discussing the problem)
+
+180
+00:09:55,159 --> 00:09:57,377
+- So, are you done yet?
+
+181
+00:09:57,377 --> 00:10:01,781
+- No.
+
+182
+00:10:01,781 --> 00:10:35,190
+- (background chatter)
+
+183
+00:10:37,510 --> 00:10:40,271
+- [Teacher] Okay, you guys stop.
+
+184
+00:10:40,271 --> 00:10:42,834
+Okay, right now, 
+I'm gonna put this up right here.
+
+185
+00:10:42,834 --> 00:10:45,554
+We're gonna put up the
+most common mistakes
+
+186
+00:10:45,554 --> 00:10:48,407
+that people tend to do.
+
+187
+00:10:49,491 --> 00:10:51,666
+Okay, so right now, so how many people got
+
+188
+00:10:51,666 --> 00:10:53,709
+negative five and two?
+
+189
+00:10:54,066 --> 00:10:56,647
+- [Students] No...no...no.
+
+190
+00:10:56,647 --> 00:10:58,088
+- [Teacher] So, what was it?
+
+191
+00:10:58,088 --> 00:10:59,324
+- Negative two (inaudible).
+
+192
+00:10:59,324 --> 00:11:01,192
+- Oh, okay, I got negative
+two and five. My bad.
+
+193
+00:11:01,192 --> 00:11:03,110
+- [Teacher] Okay, so right
+now. What do you think
+
+194
+00:11:03,110 --> 00:11:07,240
+was the mistake that she did?
+
+195
+00:11:07,240 --> 00:11:08,746
+- She didn't square it.
+
+196
+00:11:08,746 --> 00:11:09,696
+- [Teacher] She didn't what?
+
+197
+00:11:09,696 --> 00:11:12,779
+- She didn't square.
+And then she re-fixed it.
+
+198
+00:11:12,779 --> 00:11:14,389
+- [Teacher] She fixed it?
+
+199
+00:11:14,389 --> 00:11:15,584
+- Yeah, she copied mine.
+
+200
+00:11:15,584 --> 00:11:18,975
+- It's supposed to be negative 14.7.
+
+201
+00:11:18,975 --> 00:11:20,405
+- [Teacher] Is that
+what its supposed to be?
+
+202
+00:11:20,405 --> 00:11:20,998
+- Yeah.
+
+203
+00:11:20,998 --> 00:11:22,293
+- [Teacher] And is
+that what she's missing?
+
+204
+00:11:22,293 --> 00:11:22,866
+- Yeah.
+
+205
+00:11:22,866 --> 00:11:24,714
+- [Teacher] Okay, guys, so
+that's one mistake that happens
+
+206
+00:11:24,714 --> 00:11:27,081
+quite a bit.
+
+207
+00:11:27,081 --> 00:11:30,431
+Also, let's look at...
+
+208
+00:11:30,431 --> 00:11:32,352
+Hey, you guys, what form is this right here?
+
+209
+00:11:32,352 --> 00:11:35,401
+What method did they use?
+
+210
+00:11:35,401 --> 00:11:38,068
+- Box and diamond method.
+
+211
+00:11:38,068 --> 00:11:39,241
+- [Teacher] Box and
+diamond method, right?
+
+212
+00:11:39,241 --> 00:11:41,194
+- Okay, so, you guys, what
+do you call these two
+
+213
+00:11:41,194 --> 00:11:42,388
+items right here?
+
+214
+00:11:44,404 --> 00:11:46,783
+What is it missing?
+
+215
+00:11:46,783 --> 00:11:48,978
+- The number at the
+beginning. The negative four.
+
+216
+00:11:48,978 --> 00:11:50,150
+- [Teacher] And what is that again?
+
+217
+00:11:50,150 --> 00:11:51,592
+What is the name of the
+four point nine again?
+
+218
+00:11:52,243 --> 00:11:53,390
+Scale factor or what?
+
+219
+00:11:53,390 --> 00:11:54,131
+- Acceleration!
+
+220
+00:11:54,131 --> 00:11:55,817
+- [Teacher] Acceleration.
+So, you guys, if you notice,
+
+221
+00:11:55,817 --> 00:12:00,277
+this is something that
+tends to be missing also.
+
+222
+00:12:00,277 --> 00:12:01,386
+So, now we will look at...ah...
+
+223
+00:12:01,386 --> 00:12:05,536
+- We have the same thing.
+
+224
+00:12:05,536 --> 00:12:06,796
+- We all have the same thing.
+
+225
+00:12:06,796 --> 00:12:10,911
+[Teacher] So, same thing, same thing. All right.
+
+226
+00:12:12,481 --> 00:12:14,865
+Okay. So, right now I
+think we looked at all
+
+227
+00:12:14,865 --> 00:12:16,466
+the common mistakes that people tend...
+
+228
+00:12:16,466 --> 00:12:17,809
+Oh actually, (inaudible)
+
+229
+00:12:17,809 --> 00:12:21,137
+So, now what I want is... so, how
+many methods do people use?
+
+230
+00:12:21,137 --> 00:12:22,339
+- Two?
+
+231
+00:12:22,339 --> 00:12:24,579
+- Okay, so tell me one
+what was one method?
+
+232
+00:12:24,579 --> 00:12:26,733
+What was the method that you used?
+
+233
+00:12:26,733 --> 00:12:27,928
+- Quadratic formula?
+
+234
+00:12:27,928 --> 00:12:30,831
+- Okay, Caleb? What was another
+method that people used?
+
+235
+00:12:30,831 --> 00:12:33,618
+- The box and diamond.
+
+236
+00:12:33,618 --> 00:12:35,395
+- [Teacher] The box and diamond, right?
+
+237
+00:12:35,395 --> 00:12:39,299
+So, right now, I want people
+to explain their thinking.
+
+238
+00:12:39,299 --> 00:12:43,298
+So, what I want you to do is, okay,
+since... Tiffany, since you said
+
+239
+00:12:43,298 --> 00:12:45,069
+you did the quadratic
+formula, you're gonna go up
+
+240
+00:12:45,069 --> 00:12:47,790
+and talk about it. Just
+talk about the process
+
+241
+00:12:47,790 --> 00:12:59,748
+of what you did.
+- (students cheering for Tiffany)
+
+242
+00:13:01,980 --> 00:13:04,258
+- [Teacher] How are you gonna
+explain the process?
+
+243
+00:13:04,258 --> 00:13:09,113
+- [Tiffany] All right. So, the 
+(background chatter)
+
+244
+00:13:10,873 --> 00:13:12,634
+- Can we do it on this hard board?
+
+245
+00:13:12,634 --> 00:13:19,170
+- [Teacher] Yeah. Okay. Let's
+do it on this hard board.
+
+246
+00:13:21,122 --> 00:13:22,786
+- [Student] Make sure you talk to us, okay?
+- [Teacher] Okay, while you're writing things down,
+
+247
+00:13:22,786 --> 00:13:34,589
+talk about how you're going through the process.
+- So, I used the quadratic formula?
+
+248
+00:13:36,130 --> 00:13:37,409
+- [Teacher] So, what
+are you doing right now?
+
+249
+00:13:37,409 --> 00:13:38,348
+- I'm writing it.
+
+250
+00:13:38,348 --> 00:13:39,137
+- [Teacher] Writing what?
+
+251
+00:13:39,137 --> 00:13:40,300
+- The quadratic formula.
+
+252
+00:13:40,300 --> 00:13:42,126
+- [Teacher] Okay. So you
+see, instead of me asking,
+
+253
+00:13:42,126 --> 00:13:43,873
+I just want you to explain all
+the things that you're doing.
+
+254
+00:13:43,873 --> 00:13:57,873
+- Okay.
+
+255
+00:13:59,694 --> 00:14:11,694
+- So, you guys need some visuals...
+
+256
+00:14:13,424 --> 00:14:18,121
+This will be your a, your b, and your c.
+
+257
+00:14:18,472 --> 00:14:21,644
+So, you plug all this into this.
+
+258
+00:14:23,222 --> 00:14:26,284
+- [Teacher] Okay, so let's (inaudible) do it.
+
+259
+00:14:26,284 --> 00:14:27,530
+- [Student] I have a question.
+
+260
+00:14:27,530 --> 00:14:28,466
+- [Teacher] Yes.
+
+261
+00:14:28,466 --> 00:14:30,511
+- [Student] What if the b is already negative?
+
+262
+00:14:32,581 --> 00:14:34,054
+- [Tiffany] That's a good question.
+
+263
+00:14:34,054 --> 00:14:50,916
+- (background chatter)
+
+264
+00:14:52,386 --> 00:14:53,729
+- [Teacher] So, you guys,
+while Tiffany is doing
+
+265
+00:14:53,729 --> 00:14:57,518
+the quadratic formula, think
+about what common mistakes
+
+266
+00:14:57,518 --> 00:14:59,802
+that we just talked about earlier,
+
+267
+00:14:59,802 --> 00:15:03,086
+and what mistakes that
+she may or may not have.
+
+268
+00:15:03,086 --> 00:15:04,064
+- (background chatter)
+

@@ -1,0 +1,1293 @@
+1
+00:00:02,050 --> 00:00:04,360
+- [Insructor] Gina.
+
+2
+00:00:04,360 --> 00:00:08,650
+- I wanted to test the amount of acid in
+different brands of antacids, example
+
+3
+00:00:08,650 --> 00:00:13,710
+Alka-Seltzer, Maalox and Tums, can
+effectively neutralize.
+
+4
+00:00:13,710 --> 00:00:21,300
+- Okay, so far we've been listening to
+this, are we talking mostly the same
+
+5
+00:00:21,300 --> 00:00:22,890
+equipment, same supplies?
+- Yeah.
+
+6
+00:00:22,890 --> 00:00:28,490
+- Right? Maybe some beakers, maybe some
+pipettes and some base? Right? Okay, is
+
+7
+00:00:28,490 --> 00:00:34,590
+this similar to, Juan's? This one is,
+right? So maybe we can start grouping
+
+8
+00:00:34,590 --> 00:00:38,920
+these two together. Christina.
+
+9
+00:00:38,920 --> 00:00:44,589
+- The goal of my investigation is to
+determine which laundry detergent is most
+
+10
+00:00:44,589 --> 00:00:51,490
+effective, Tide, Clorox, or OxyClean by
+determining which is most basic.
+
+11
+00:00:51,490 --> 00:00:55,280
+- Any concerns? Yeah? Adrian?
+
+12
+00:00:55,280 --> 00:01:00,436
+- How do you know that the most effective
+detergents are gonna be the most basic?
+
+13
+00:01:00,436 --> 00:01:04,117
+Maybe there's some other factors that go
+into that and they're, it's just,
+
+14
+00:01:04,117 --> 00:01:09,493
+basic-ness.
+- Juan?
+
+15
+00:01:09,493 --> 00:01:13,621
+- That some of them have really strong
+bases and maybe the vapors, I mean, Some
+
+16
+00:01:13,621 --> 00:01:17,653
+of them have safety warnings that say
+like, don't get too close to the vapors
+
+17
+00:01:17,653 --> 00:01:19,509
+that come out.
+
+18
+00:01:21,210 --> 00:01:26,930
+- Okay, so there could be some toxic
+chemicals that are associated with these
+
+19
+00:01:26,930 --> 00:01:29,850
+which is why we shouldn't use them? Is
+that what you mean?
+
+20
+00:01:29,850 --> 00:01:30,420
+- Yeah.
+
+21
+00:01:30,420 --> 00:01:37,000
+- Okay, okay, we use them in our homes,
+but don't bring them to school, right?
+
+22
+00:01:37,000 --> 00:01:42,090
+- Yeah, I'm a little concerned too,
+about your idea that it's about which one
+
+23
+00:01:42,090 --> 00:01:51,090
+is most basic. Okay? 'Cause the active
+ingredient in Clorox, I think, is bleach,
+
+24
+00:01:51,090 --> 00:01:54,310
+and bleach--
+- Sodium hypochlorite.
+
+25
+00:01:54,310 --> 00:01:54,890
+- Is sodium hypochlorite.
+
+26
+00:01:54,890 --> 00:01:57,500
+- Which has a pretty interesting smell.
+
+27
+00:01:57,500 --> 00:02:00,000
+- I'd stay away from that.
+
+28
+00:02:00,000 --> 00:02:08,800
+And then we have Tide, right? Tide is
+not bleach, all right? I'm not sure what
+
+29
+00:02:08,800 --> 00:02:16,460
+the actual detergent, active ingredient
+is, but I'm pretty sure it's not bleach.
+
+30
+00:02:16,460 --> 00:02:22,530
+So, this is probably going to require some
+cleaning up and making sure that we test
+
+31
+00:02:22,530 --> 00:02:28,930
+something that we can test, and that it
+makes sense why we're testing it. Okay?
+
+32
+00:02:28,930 --> 00:02:30,300
+All right, we'll come back to this.
+
+33
+00:02:30,300 --> 00:02:35,180
+- And OxyClean is powered by Billy Mays,
+so it doesn't matter, it wins anyway.
+
+34
+00:02:35,180 --> 00:02:37,350
+- I think he died, didn't he?
+
+35
+00:02:37,350 --> 00:02:38,820
+- Yeah he did, it's too bad.
+
+36
+00:02:38,820 --> 00:02:49,000
+- You know, that guy must have made so
+much money, I better not complain.
+
+37
+00:02:49,000 --> 00:02:51,820
+- Adrian! Go ahead.
+
+38
+00:02:51,820 --> 00:02:54,690
+- I will find the molarity of one of the
+magnesium sulfate bottles in the lab
+
+39
+00:02:54,690 --> 00:02:59,560
+inventory. To do this I'll mix 50
+milliliters of magnesium sulfate with 50
+
+40
+00:02:59,560 --> 00:03:03,730
+milliliters of one molar calcium chloride
+in a beaker. I'll mix it to form a
+
+41
+00:03:03,730 --> 00:03:08,710
+precipitate of calcium sulfate. After as
+much precipitate as possible has formed
+
+42
+00:03:08,710 --> 00:03:12,010
+I'll weigh the precipitate and calculate
+the molarity of the magnesium sulfate
+
+43
+00:03:12,010 --> 00:03:15,620
+solution with the data collected.
+
+44
+00:03:15,620 --> 00:03:19,430
+- Any ideas? Jimmy?
+
+45
+00:03:19,430 --> 00:03:25,100
+- I'm kinda wondering why it's important
+to you, like you said, to make the lab
+
+46
+00:03:25,100 --> 00:03:25,600
+meaningful.
+
+47
+00:03:25,600 --> 00:03:30,170
+- Yeah, it should be. So Adrian, do you
+have a response?
+
+48
+00:03:30,170 --> 00:03:35,740
+- It's just 'cause bottles that don't have
+molarity kind of annoy me, and I feel like
+
+49
+00:03:35,740 --> 00:03:40,320
+I should, there should be like a label
+that says the molarity, I just kinda...
+
+50
+00:03:40,320 --> 00:03:45,410
+- You know my room is open fifth period
+every day, you can come on in and do these
+
+51
+00:03:45,410 --> 00:03:49,570
+experiments and get them so that you know
+their concentrations.
+
+52
+00:03:49,570 --> 00:03:51,655
+- I don't have a free fifth period.
+
+53
+00:03:51,655 --> 00:03:58,330
+- After school's fine too.
+- That's cool, that's cool.
+
+54
+00:03:58,330 --> 00:04:04,510
+- What concerns me is, I thought the
+theme was titration, right? Is the theme
+
+55
+00:04:04,510 --> 00:04:12,450
+titration? Okay, where is the titration
+aspect to this? Do you know what I'm
+
+56
+00:04:12,450 --> 00:04:13,000
+asking here?
+
+57
+00:04:13,000 --> 00:04:14,800
+- Yeah, I know, I just didn't realize.
+
+58
+00:04:14,800 --> 00:04:18,290
+- Because you're mixing, you're doing a
+precipitate reaction, everybody see it
+
+59
+00:04:18,290 --> 00:04:25,490
+that way. I think you're doing a
+precipitate reaction and, so I just feel
+
+60
+00:04:25,490 --> 00:04:32,210
+like, you know, this, you had the wrong
+theme going on here. Anyway, we'll move
+
+61
+00:04:32,210 --> 00:04:44,810
+on. Nicholas, Artel, Artel. Sirhan Sirhan,
+although he was a bad man, though I think,
+
+62
+00:04:44,810 --> 00:04:48,450
+right? He was accused of being a bad man.
+Go ahead!
+
+63
+00:04:48,450 --> 00:04:54,000
+- The goal of my investigation is to see
+which of two pills have more Vitamin C per
+
+64
+00:04:54,000 --> 00:04:57,980
+100 milligrams. I will take two different
+pills and weigh them to 100 milligrams and
+
+65
+00:04:57,980 --> 00:05:01,470
+cut away mass as appropriate, crush them,
+dissolve in water and use a base to
+
+66
+00:05:01,470 --> 00:05:07,840
+titrate it. I would also use a pH sensor
+to see what the solution, to see when the
+
+67
+00:05:07,840 --> 00:05:11,500
+solution is at seven, to see when it's
+neutralized. Doing this will let me know
+
+68
+00:05:11,500 --> 00:05:17,940
+which company I should buy from for my
+Vitamin C pills.
+
+69
+00:05:17,940 --> 00:05:24,500
+- What do you guys think? Vitamin C is
+ascorbic acid, I don't know if you wrote
+
+70
+00:05:24,500 --> 00:05:33,790
+that. Did you? No, okay, so if it's an
+acid, you can titrate it, right? Is
+
+71
+00:05:33,790 --> 00:05:38,210
+anybody concerned about, like, anything
+here? Jimmy?
+
+72
+00:05:38,210 --> 00:05:42,710
+- Don't the pills tell you how much
+Vitamin C is in them? Like, the bottle?
+
+73
+00:05:42,710 --> 00:05:50,500
+- Wait, let me make sure, if you buy a
+Vitamin C that says 100 milligrams of
+
+74
+00:05:50,500 --> 00:05:57,280
+Vitamin C, my assumption is when you pull
+out one of them tablets, and you crush it
+
+75
+00:05:57,280 --> 00:06:02,290
+and you do this experiment, it's gonna be
+close to that 100 milligrams. So are you
+
+76
+00:06:02,290 --> 00:06:08,220
+testing because you think they're not
+accurate?
+
+77
+00:06:08,220 --> 00:06:08,610
+- Yeah.
+
+78
+00:06:08,610 --> 00:06:14,820
+- Oh! Okay, so you're testing for accuracy
+on their part, just to keep them honest.
+
+79
+00:06:14,820 --> 00:06:19,390
+- Because, I mean, 100 milligrams, it's
+kind of a, non-specific number.
+
+80
+00:06:19,390 --> 00:06:21,310
+- All right, Ian?
+
+81
+00:06:21,310 --> 00:06:25,320
+- Actually, another way you could look at
+it is that, just because it says 100
+
+82
+00:06:25,320 --> 00:06:28,240
+milligrams, that's how much of the Vitamin
+C is in it, that's not how big the tablet
+
+83
+00:06:28,240 --> 00:06:34,960
+is. Being that sometime, I mean you could
+have, and say, just arbitrary numbers, you
+
+84
+00:06:34,960 --> 00:06:38,840
+could have a 500 milligram tablet that has
+that 100 milligrams of vitamin C, or you
+
+85
+00:06:38,840 --> 00:06:41,480
+could have a 200 milligram tablet with
+that same 100 milligrams of vitamin C, so
+
+86
+00:06:41,480 --> 00:06:45,400
+you might wanna know which one actually
+had more stuff in it, actually had more
+
+87
+00:06:45,400 --> 00:06:49,724
+stuff in it per, density.
+
+88
+00:06:49,724 --> 00:06:56,380
+- Okay but, is that what you want him to
+do, I thought, are you doing it because you
+
+89
+00:06:56,380 --> 00:07:01,280
+wanna make sure that when they write 100,
+you don't care how big this tablet is,
+
+90
+00:07:01,280 --> 00:07:06,140
+unless, unless, what's the danger here?
+Some of that other that tablet contains,
+
+91
+00:07:06,140 --> 00:07:09,300
+acids or bases in them, then that would
+affect your results, right?
+
+92
+00:07:09,300 --> 00:07:17,060
+- One of them I have is pretty pure, it's
+pretty much just ascorbic acid, the other
+
+93
+00:07:17,060 --> 00:07:22,470
+company I have does have some other stuff
+in it, so I was wondering if anybody else
+
+94
+00:07:22,470 --> 00:07:26,820
+had like one that was mostly Vitamin C.
+
+95
+00:07:26,820 --> 00:07:29,830
+- Have you ever been to like, the CVS and
+looked in the section--
+
+96
+00:07:29,830 --> 00:07:34,900
+- I mean, I could find one I just
+haven't--
+
+97
+00:07:34,900 --> 00:07:36,150
+- There's a bunch, you could even--
+
+98
+00:07:36,150 --> 00:07:38,090
+- What'd you guys figure out?
+
+99
+00:07:38,090 --> 00:07:44,020
+- It's turning yellow.
+
+100
+00:07:44,020 --> 00:07:45,640
+- Why do you think it's doing that?
+
+101
+00:07:45,640 --> 00:07:51,880
+- Maybe the bicarbonate when it dissolves,
+gets out some CO2 and turns it acidic. I
+
+102
+00:07:51,880 --> 00:07:53,140
+didn't think it would be that big of a
+deal because--
+
+103
+00:07:53,140 --> 00:08:00,000
+- Wait! Hang on, so you mean, so far what
+you've done is you've crushed these things
+
+104
+00:08:00,000 --> 00:08:07,480
+you tried to dissolve them and you added
+some bromothymol blue?
+
+105
+00:08:07,480 --> 00:08:07,950
+- Yeah.
+
+106
+00:08:07,950 --> 00:08:11,410
+- And, that bromothymol blue is not quite
+the color that you want?
+
+107
+00:08:11,410 --> 00:08:13,330
+- That's right.
+- That's what you're saying?
+
+108
+00:08:13,330 --> 00:08:15,270
+- Yeah.
+
+109
+00:08:15,270 --> 00:08:18,250
+- What color should it be?
+
+110
+00:08:18,250 --> 00:08:27,240
+- Blue, I guess. It's kind of, green. It
+just looks as if this coloring is just,
+
+111
+00:08:27,240 --> 00:08:27,660
+green dye.
+
+112
+00:08:27,660 --> 00:08:32,270
+- Have you thought about using like
+phenolphthalein? That has a distinctly
+
+113
+00:08:32,270 --> 00:08:36,720
+pink color, otherwise it's clear.
+
+114
+00:08:36,720 --> 00:08:39,610
+- No, we did not think of that.
+
+115
+00:08:39,610 --> 00:08:41,160
+- You wanna try that?
+- Yeah.
+
+116
+00:08:41,160 --> 00:08:49,080
+- Yeah, that'd be better.
+[Background Chatter]
+
+117
+00:08:49,080 --> 00:08:58,120
+- So, the phenolphthalein is gonna be,
+it's probably going to be behind... -
+
+118
+00:08:58,120 --> 00:08:59,880
+If it's pink it's acidic right?
+
+119
+00:08:59,880 --> 00:09:08,080
+- No, if it's basic.
+[Background Chatter]
+
+120
+00:09:08,080 --> 00:09:09,520
+- Do the bubbles matter?
+
+121
+00:09:09,520 --> 00:09:15,870
+- All right, could I just stop and ask you
+guys, did you guys get your color change
+
+122
+00:09:15,870 --> 00:09:16,620
+you were looking for?
+- Yeah.
+
+123
+00:09:16,620 --> 00:09:19,070
+- So the titration is working out?
+
+124
+00:09:19,070 --> 00:09:20,710
+- [together] Yep.
+- Very clean.
+
+125
+00:09:20,710 --> 00:09:23,730
+- What? So, tell me what you got here?
+
+126
+00:09:23,730 --> 00:09:27,250
+- This is a disinfecting Clorox, we're
+just starting out, we're just trying to
+
+127
+00:09:27,250 --> 00:09:31,080
+measure out 10 milliliters. That one we're
+done with, we got it to the brown, like,
+
+128
+00:09:31,080 --> 00:09:33,830
+it didn't stir anymore, that was it.
+
+129
+00:09:33,830 --> 00:09:35,660
+- That's as far as it went?
+
+130
+00:09:35,660 --> 00:09:39,170
+- We put in 61 and that was it. Now we're
+going to start this one. And that worked
+
+131
+00:09:39,170 --> 00:09:39,780
+with the one molar.
+
+132
+00:09:39,780 --> 00:09:46,320
+- So is this, oh, so this is a different
+concentration? Or how is this one
+
+133
+00:09:46,320 --> 00:09:47,870
+different, this is just a different--
+
+134
+00:09:47,870 --> 00:09:53,930
+- This is a different type, and it's a
+different percentage of the hypochlorate.
+
+135
+00:09:53,930 --> 00:09:54,780
+- That's disinfecting spray and that's
+bleach.
+
+136
+00:09:54,780 --> 00:09:58,610
+- With a different type of Clorox cleaning
+product.
+
+137
+00:09:58,610 --> 00:10:04,070
+- All right. Did you make sure that mixing
+some of these would not produce anything
+
+138
+00:10:04,070 --> 00:10:05,220
+poisonous?
+
+139
+00:10:05,220 --> 00:10:08,990
+- No, we did not make sure. But they're--
+
+140
+00:10:08,990 --> 00:10:14,810
+- I just wanna, you know, we don't wanna
+create any of these strange gases coming
+
+141
+00:10:14,810 --> 00:10:15,220
+out of here.
+
+142
+00:10:15,220 --> 00:10:19,050
+- When we looked at the reaction this is
+the reaction that they showed on the
+
+143
+00:10:19,050 --> 00:10:24,410
+thing. And this was fine, like it said it
+should be done in basic and everything.
+
+144
+00:10:24,410 --> 00:10:25,990
+- Okay.
+- God bless you.
+
+145
+00:10:25,990 --> 00:10:27,774
+- Excuse me.
+
+146
+00:10:27,774 --> 00:10:41,000
+[Background Chatter]
+
+147
+00:10:41,000 --> 00:10:42,110
+- How's everything going?
+
+148
+00:10:42,110 --> 00:10:44,500
+- Not good with this one.
+
+149
+00:10:44,500 --> 00:10:46,730
+- What's in there?
+- It's red wine vinegar.
+
+150
+00:10:46,730 --> 00:10:49,570
+- But it hasn't changed color.
+
+151
+00:10:49,570 --> 00:10:51,420
+- The treatment's too powerful.
+
+152
+00:10:51,420 --> 00:10:53,050
+- Yeah, we're thinking it's too...
+
+153
+00:10:53,050 --> 00:10:54,330
+- So, we're gonna do the white--
+
+154
+00:10:54,330 --> 00:11:00,190
+- What's the solution to that, then? Why
+don't you just use less?
+
+155
+00:11:00,190 --> 00:11:02,030
+- Less of the vinegar?
+
+156
+00:11:02,030 --> 00:11:03,120
+- Right. All right?
+
+157
+00:11:03,120 --> 00:11:08,780
+- So we use five milliliters instead of
+10.
+
+158
+00:11:08,780 --> 00:11:14,720
+- Well, I mean, right? If you use less,
+then don't you think you'll be able to
+
+159
+00:11:14,720 --> 00:11:16,500
+titrate it--
+- Easier.
+
+160
+00:11:16,500 --> 00:11:19,980
+- Well, you'd need less base to get there.
+
+161
+00:11:19,980 --> 00:11:23,850
+- Right.
+- Okay.
+
+162
+00:11:25,487 --> 00:11:33,630
+- Let's go over here, see what happens over here.
+[Background Chatter]
+
+163
+00:11:33,630 --> 00:11:35,460
+- So, squeeze that out.
+
+164
+00:11:35,460 --> 00:11:47,075
+- What are you guys, so you've got Vitamin
+C, crushed in there, you used, is this
+
+165
+00:11:47,075 --> 00:11:48,803
+bromothymol blue, what did you use?
+
+166
+00:11:48,803 --> 00:11:52,090
+- Yeah, we used BTB, and now we're gonna
+see how much base we used.
+
+167
+00:11:52,090 --> 00:12:03,377
+- Just out of curiosity, why did you use a
+graduat--, what is this about, 50? You
+
+168
+00:12:03,377 --> 00:12:05,520
+didn't want to use like... 'Cause
+that is, are you gonna--
+
+169
+00:12:05,520 --> 00:12:07,000
+- All the other ones were like dirty.
+
+170
+00:12:07,000 --> 00:12:08,990
+- Yeah, they were kinda...
+
+171
+00:12:08,990 --> 00:12:15,779
+- And I think this is accurate to two sig
+figs which is our experiment's limit.
+
+172
+00:12:15,779 --> 00:12:23,000
+[Background Chatter]
+
+173
+00:12:23,000 --> 00:12:28,340
+- All right, coming along okay it looks
+like.
+
+174
+00:12:28,340 --> 00:12:41,241
+- [together] 1, 2, 3, 4, 5, 6, 7, 8, 9,
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+
+175
+00:12:41,241 --> 00:12:44,057
+20.
+- Hi!
+
+176
+00:12:44,057 --> 00:12:47,033
+- You're adding 20 drops of bromothymol
+blue?
+
+177
+00:12:47,033 --> 00:12:49,433
+- Yeah. Is that too much?
+
+178
+00:12:49,433 --> 00:12:56,121
+- Well, has it occurred to you, and it
+probably hasn't, it's okay, bromothymol
+
+179
+00:12:56,121 --> 00:13:04,089
+blue itself is either a weak, my guess is
+it's a weak acid, it could be a weak base,
+
+180
+00:13:04,089 --> 00:13:10,777
+but all indicators are going to be weak
+acids and bases. So, we always want to use
+
+181
+00:13:10,777 --> 00:13:16,025
+a bare minimum amount. Therefore, how
+about if you use something that has a
+
+182
+00:13:16,025 --> 00:13:23,161
+distinct color change, roughly at the,
+neutral point, like phenolphthalein.
+
+183
+00:13:23,161 --> 00:13:27,417
+'Cause then it'll go from pink,
+your...
+
+184
+00:13:27,417 --> 00:13:29,401
+- This is acid.
+
+185
+00:13:29,401 --> 00:13:32,440
+- These are acids, so they'll go from
+clear to a pinkish color.
+
+186
+00:13:32,440 --> 00:13:38,233
+- Okay, okay, but do you think the pink
+will be able to be seen?
+
+187
+00:13:38,233 --> 00:13:41,273
+- Well--
+- Like the blue one?
+
+188
+00:13:41,273 --> 00:13:48,152
+- You know, the blue you need to use a lot
+more to get there, although, I don't know,
+
+189
+00:13:48,152 --> 00:13:51,033
+I suppose since you already did this one--
+
+190
+00:13:51,033 --> 00:13:53,113
+- I mean, we could remeasure, out--
+
+191
+00:13:53,113 --> 00:13:57,340
+- You may wanna, well, we don't want to
+run out of time here, so, right? Stay
+
+192
+00:13:57,340 --> 00:14:02,120
+consistent and then consider it, how you
+can make improvements later.
+
+193
+00:14:02,120 --> 00:14:02,710
+- Okay.
+
+194
+00:14:02,710 --> 00:14:04,251
+- All right?
+
+195
+00:14:04,251 --> 00:14:18,000
+[Background Chatter] [clapping and laughter]
+
+196
+00:14:18,000 --> 00:14:19,200
+- Now that's very nice.
+
+197
+00:14:19,828 --> 00:14:22,453
+- You guys have questions?
+
+198
+00:14:22,453 --> 00:14:28,885
+- What was your results in comparing what
+the company says and what you--
+
+199
+00:14:28,885 --> 00:14:33,909
+- There was a little bit less, since we
+used 500 milligrams and the company
+
+200
+00:14:33,909 --> 00:14:40,520
+labeled it as pretty much pure, pure
+ascorbic acid. As in the first trials it
+
+201
+00:14:40,520 --> 00:14:47,100
+was around 480 per kil to, which is, it's
+pretty close and the other one was around
+
+202
+00:14:47,100 --> 00:14:52,190
+410, 400.so I mean it's a little bit less
+than what you're probably paying for.
+
+203
+00:14:52,190 --> 00:14:52,470
+But--
+
+204
+00:14:52,470 --> 00:14:54,910
+- But that's, then again, it could've
+been, because--
+
+205
+00:14:54,910 --> 00:14:58,600
+- Because not all the powder dissolved,
+some of it was still settled on the
+
+206
+00:14:58,600 --> 00:14:59,860
+bottom.
+- So they could be really accurate?
+
+207
+00:14:59,860 --> 00:15:02,440
+- Yeah they could be, you know, dead on.
+
+208
+00:15:02,440 --> 00:15:08,480
+- For the trials, did you guys use
+different amounts of stuff, for the two
+
+209
+00:15:08,480 --> 00:15:08,840
+trials?
+
+210
+00:15:08,840 --> 00:15:11,970
+- For the first two trials we used 500
+milligrams of powder for each pill, and
+
+211
+00:15:11,970 --> 00:15:15,790
+then, for the third trial we used 100,
+right? A hundred.
+
+212
+00:15:15,790 --> 00:15:20,470
+- And then for those trials, like the
+third one you said you used a different
+
+213
+00:15:20,470 --> 00:15:22,370
+concentration of NaOH?
+- Yeah.
+
+214
+00:15:22,370 --> 00:15:26,280
+- Why did you use a different
+concentration?
+
+215
+00:15:26,280 --> 00:15:32,890
+- First of all there wasn't much left of
+the .567, and also, you know, who's to--,
+
+216
+00:15:32,890 --> 00:15:36,120
+you know, maybe that could've been
+contaminated, it might not have been .567,
+
+217
+00:15:36,120 --> 00:15:39,180
+so it's also good to use some different
+stuff sometimes.
+
+218
+00:15:39,180 --> 00:15:39,540
+- Right.
+
+219
+00:15:39,540 --> 00:15:41,950
+- You can't always base it, you can't have
+it all on one thing.
+
+220
+00:15:41,950 --> 00:15:43,710
+- Yeah, that's smart.
+
+221
+00:15:43,710 --> 00:15:47,180
+- How did yo actually figure out the
+amounts? What was the math?
+
+222
+00:15:47,180 --> 00:15:49,240
+- [together] Oh!
+- We did the stoichiometry.
+
+223
+00:15:49,240 --> 00:15:53,990
+- Yeah, but we assumed that it was a
+one-to-one ratio, one hydrogen ion
+
+224
+00:15:53,990 --> 00:16:00,410
+dissolved from the ascorbic acid from one
+OH from the base. And so we just
+
+225
+00:16:00,410 --> 00:16:05,190
+calculated moles and changed moles to
+grams using the formula mass of Vitamin C.
+
+226
+00:16:05,190 --> 00:16:10,800
+- Do you know with certainty that ascorbic
+acid is one H plus?
+
+227
+00:16:10,800 --> 00:16:14,805
+- No we just assumed that, for the
+experiment.
+
+228
+00:16:14,805 --> 00:16:15,957
+- Maybe you should look that up.
+
+229
+00:16:15,957 --> 00:16:16,981
+- Yeah.
+- Yeah.
+
+230
+00:16:16,981 --> 00:16:22,140
+- The other thing, anybody else? So the
+other thing is, and I just wanna make
+
+231
+00:16:22,140 --> 00:16:28,545
+sure, when you said 500 milligrams, that's
+.5 grams, right?
+
+232
+00:16:28,545 --> 00:16:30,380
+- We did it accurate with--
+
+233
+00:16:30,380 --> 00:16:35,440
+- Yeah, 'cause that thing, the scales here
+give you two sig figs, right? Okay, I mean
+
+234
+00:16:35,440 --> 00:16:42,240
+to the hundredths, hundredths of a gram,
+right? So you crush this thing and you
+
+235
+00:16:42,240 --> 00:16:44,180
+weighed out .50?
+- [together] Yeah.
+
+236
+00:16:44,180 --> 00:16:52,150
+- That's what you did it? How much was
+left in the... ; I mean, of one tablet,
+
+237
+00:16:52,150 --> 00:16:54,200
+when you, you know what I mean? When you
+crush it?
+
+238
+00:16:54,200 --> 00:16:55,130
+- Yeah--
+- How much--
+
+239
+00:16:55,130 --> 00:17:00,050
+- We had excess, I mean, one of the pills
+I had was 1000 milligrams, so we, you
+
+240
+00:17:00,050 --> 00:17:02,730
+know, we had about, we had a, like, about,
+500--
+
+241
+00:17:02,730 --> 00:17:03,250
+- It is my fault for--
+
+242
+00:17:03,250 --> 00:17:05,680
+- Oh, you were using 1000 milligram
+tablets.
+
+243
+00:17:05,680 --> 00:17:10,820
+- And then my pill was 500 milligrams and
+then we weighed them and it was actually
+
+244
+00:17:10,820 --> 00:17:13,140
+six five seven, like milligrams.
+
+245
+00:17:13,140 --> 00:17:15,300
+- That's how we removed--
+- So we had to-- we removed mass.
+
+246
+00:17:15,300 --> 00:17:21,340
+- Oh, well how 'bout this, if it, if they
+say 500, but the thing weighs six...
+
+247
+00:17:21,340 --> 00:17:22,750
+What'd you say, six or seven hundred?
+
+248
+00:17:22,750 --> 00:17:23,550
+- Oh yeah.
+
+249
+00:17:23,550 --> 00:17:27,530
+- Then, aren't there other ingredients
+already in there?
+
+250
+00:17:27,530 --> 00:17:30,230
+- Not that were listed, like--
+
+251
+00:17:30,230 --> 00:17:31,240
+- Yeah, they weren't listed--
+
+252
+00:17:31,240 --> 00:17:33,460
+- It just said, it just said Vitamin C--
+
+253
+00:17:33,460 --> 00:17:36,620
+- Because they might just list the active
+ingredient, right?
+
+254
+00:17:36,620 --> 00:17:37,250
+- Yeah.
+
+255
+00:17:37,250 --> 00:17:43,900
+- In other words, if the pill itself
+weighs more than the 500 that they claim,
+
+256
+00:17:43,900 --> 00:17:48,650
+my guess would be there's more of
+something else.
+
+257
+00:17:48,650 --> 00:17:48,940
+- Okay.
+
+258
+00:17:48,940 --> 00:17:56,780
+- Because here's another thing. Don't you
+need possibly a binding agent to keep all
+
+259
+00:17:56,780 --> 00:17:59,660
+the Vitamin C in a clump? Do you see what
+I'm saying?
+
+260
+00:17:59,660 --> 00:18:00,810
+- [together] Yeah , yeah.
+
+261
+00:18:00,810 --> 00:18:05,510
+- And they'll typically use, some, there's
+gonna be some certain chemicals they're
+
+262
+00:18:05,510 --> 00:18:11,600
+gonna use that's in there. So I have a
+feeling before you write the company, be
+
+263
+00:18:11,600 --> 00:18:13,840
+careful, they're--
+- [together] Yeah, yeah.
+
+264
+00:18:13,840 --> 00:18:15,660
+- They probably added other ingredients.
+
+265
+00:18:15,660 --> 00:18:16,380
+- Yeah.
+
+266
+00:18:16,380 --> 00:18:23,520
+- Because what I think might've been even
+better is if they claim 500, then why
+
+267
+00:18:23,520 --> 00:18:29,200
+don't you just crush the whole thing,
+regardless of how much it weighs? And then
+
+268
+00:18:29,200 --> 00:18:30,740
+titrate that. You see what I'm saying?
+
+269
+00:18:30,740 --> 00:18:31,190
+- [together] Yes.
+
+270
+00:18:31,190 --> 00:18:35,840
+- 'Cause then, they're claiming there's
+500 in this thing, let's see, based on
+
+271
+00:18:35,840 --> 00:18:37,150
+the... You see what I'm saying?
+
+272
+00:18:37,150 --> 00:18:40,190
+- So that would be taking further just
+simply--
+
+273
+00:18:40,190 --> 00:18:42,210
+- Yeah, that would be--
+- The experiment.
+
+274
+00:18:42,210 --> 00:18:44,227
+- Wouldn't that be like the next--
+- Yeah.
+
+275
+00:18:44,227 --> 00:18:48,063
+- Thing that you could try? Same thing
+with 1000, right? I mean if they
+
+276
+00:18:48,063 --> 00:18:49,260
+claim 1000.
+- Yeah.
+
+277
+00:18:49,260 --> 00:18:53,000
+- Go crush the whole thing and see what--

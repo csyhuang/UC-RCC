@@ -1,0 +1,1230 @@
+1
+00:00:02,230 --> 00:00:03,478
+- [Teacher] Megan, what quadrant
+
+2
+00:00:03,478 --> 00:00:06,091
+am I going to be centered in?
+
+3
+00:00:06,091 --> 00:00:10,262
+- Quadrant four?
+
+4
+00:00:10,262 --> 00:00:15,262
+- [Teacher] Good, okay, so I'm gonna
+go to the right six,
+
+5
+00:00:15,329 --> 00:00:21,639
+and down five...
+
+6
+00:00:23,773 --> 00:00:26,471
+I know my radius is three root seven.
+
+7
+00:00:26,471 --> 00:00:30,076
+Now, this may be a little
+difficult for you,
+
+8
+00:00:30,076 --> 00:00:33,286
+because three root seven
+is kind of a hard number
+
+9
+00:00:33,286 --> 00:00:35,153
+to wrap your mind around.
+
+10
+00:00:35,153 --> 00:00:37,776
+Any thoughts on how we
+can tell which quadrants
+
+11
+00:00:37,776 --> 00:00:38,790
+this goes into?
+
+12
+00:00:38,790 --> 00:00:41,404
+I want to know if it goes
+into quadrant one first.
+
+13
+00:00:41,404 --> 00:00:42,684
+Twink, what could we do?
+
+14
+00:00:42,684 --> 00:00:44,561
+- Do you un-simplify it,
+so when it gets through
+
+15
+00:00:44,561 --> 00:00:47,281
+the center, it'd be
+like, square root of 63,
+
+16
+00:00:47,281 --> 00:00:50,587
+and then you like, have...,
+so it's in-between eight,
+
+17
+00:00:50,587 --> 00:00:53,723
+nine, or I know it's
+in-between seven and eight.
+
+18
+00:00:53,723 --> 00:00:55,948
+- [Teacher] Okay, did you guys follow her on that?
+
+19
+00:00:55,948 --> 00:00:56,802
+- [Students] Yeah!
+
+20
+00:00:56,802 --> 00:01:00,097
+- Yeah, okay, so Twink
+knows that this decimal
+
+21
+00:01:00,097 --> 00:01:02,124
+is going to be between seven and eight,
+
+22
+00:01:02,124 --> 00:01:05,260
+because she knows it's
+the square root of 63.
+
+23
+00:01:05,260 --> 00:01:07,777
+And the square root of 64 is eight.
+
+24
+00:01:07,777 --> 00:01:10,678
+So, it's just below eight. All right?
+
+25
+00:01:10,678 --> 00:01:12,960
+So, you may be able to picture
+a decimal in your mind,
+
+26
+00:01:12,960 --> 00:01:16,182
+close to eight, but not
+quite, so we're armed
+
+27
+00:01:16,182 --> 00:01:18,667
+with that knowledge, true or false,
+
+28
+00:01:18,667 --> 00:01:21,344
+this circle goes into quadrant one.
+
+29
+00:01:21,344 --> 00:01:22,955
+Melissa.
+
+30
+00:01:22,955 --> 00:01:27,286
+- [Melissa] (inaudible)
+
+31
+00:01:27,286 --> 00:01:28,457
+- [Teacher] Agree?
+
+32
+00:01:28,457 --> 00:01:29,220
+- [Students] No.
+
+33
+00:01:29,220 --> 00:01:30,025
+- [Teacher] Ben?
+
+34
+00:01:30,025 --> 00:01:34,916
+- Yes, it does go into quadrant one.
+
+35
+00:01:36,426 --> 00:01:38,569
+- [Teacher] Do you have anything to back that up?
+
+36
+00:01:38,569 --> 00:01:42,760
+- [Ben] Yeah, because it only, the
+center point is down six,
+
+37
+00:01:42,760 --> 00:01:47,101
+and if we go up one
+more than that, at least.
+
+38
+00:01:47,101 --> 00:01:48,200
+- [Teacher] James?
+
+39
+00:01:48,200 --> 00:01:51,091
+- It's down five, and
+since it's more than seven,
+
+40
+00:01:51,091 --> 00:01:53,544
+it's gotta be at least past the two.
+
+41
+00:01:53,544 --> 00:01:54,730
+- There were a lot of pronouns there.
+
+42
+00:01:54,730 --> 00:01:56,447
+What James was saying is, we're
+
+43
+00:01:56,447 --> 00:02:00,437
+five units below the
+x-axis, the radius is seven
+
+44
+00:02:00,437 --> 00:02:04,746
+point something units long,
+so we're going to top out
+
+45
+00:02:04,746 --> 00:02:07,007
+right around there.
+
+46
+00:02:07,007 --> 00:02:09,364
+There's the top of our circle, okay.
+
+47
+00:02:09,364 --> 00:02:12,489
+Let's speed up this
+process a little bit here.
+
+48
+00:02:12,489 --> 00:02:15,454
+The, is it going to go
+into quadrant three?
+
+49
+00:02:15,454 --> 00:02:17,268
+- [Students] Yes.
+
+50
+00:02:17,268 --> 00:02:19,037
+- Why, Abby Simpson?
+
+51
+00:02:19,037 --> 00:02:22,952
+- [Abby Simpson] Because it's over six, 
+and yeah,
+
+52
+00:02:22,952 --> 00:02:24,520
+you count seven the other way.
+- [Teacher] Okay?
+
+53
+00:02:24,520 --> 00:02:26,526
+- [Abby Simpson] Or a little over seven.
+
+54
+00:02:26,526 --> 00:02:28,584
+- [Teacher] So, we're going to be there. 
+Oh, and now
+
+55
+00:02:28,584 --> 00:02:31,571
+for the great dilemma, will this circle
+
+56
+00:02:31,571 --> 00:02:35,752
+go into quadrant two,
+Robert, what am I going
+
+57
+00:02:35,752 --> 00:02:38,236
+to have to resort to?
+
+58
+00:02:38,236 --> 00:02:41,163
+- [Robert] The distance formula?
+
+59
+00:02:41,163 --> 00:02:42,422
+- [Teacher] I can't hear you.
+
+60
+00:02:42,422 --> 00:02:44,128
+- [Robert] The distance formula.
+
+61
+00:02:44,128 --> 00:02:46,283
+- [Teacher] Okay,
+give me some more pairs
+
+62
+00:02:46,283 --> 00:02:51,195
+to plug into this formula.
+
+63
+00:02:53,635 --> 00:02:55,061
+William?
+
+64
+00:02:55,061 --> 00:02:59,733
+- Zero, sorry, zero minus six squared,
+
+65
+00:03:04,003 --> 00:03:07,957
+and then zero plus five squared.
+
+66
+00:03:07,957 --> 00:03:22,092
+- [Teacher] All right.
+
+67
+00:03:24,431 --> 00:03:25,977
+Now what is the square root of 61
+
+68
+00:03:25,977 --> 00:03:33,225
+in simplified radical form?
+
+69
+00:03:35,541 --> 00:03:37,716
+Rue?
+
+70
+00:03:40,051 --> 00:03:42,526
+- Is it just square root of 61?
+
+71
+00:03:42,526 --> 00:03:44,808
+- [Teacher] Good, maybe
+that was a trick question.
+
+72
+00:03:44,808 --> 00:03:46,759
+Maybe not, it's not going
+to break down any further,
+
+73
+00:03:46,759 --> 00:03:48,893
+because 61 is what type of number again?
+
+74
+00:03:48,893 --> 00:03:49,725
+- [Rue] Prime.
+
+75
+00:03:49,725 --> 00:03:52,562
+- [Teacher] Prime, okay, so,
+
+76
+00:03:52,562 --> 00:03:57,117
+we've got square root
+of 61. Robert, you told
+
+77
+00:03:57,117 --> 00:04:01,223
+me to use distance formula,
+I used distance formula.
+
+78
+00:04:01,223 --> 00:04:03,356
+I followed your orders to the T.
+
+79
+00:04:03,356 --> 00:04:07,335
+I still don't know if this
+goes into quadrant two or not.
+
+80
+00:04:07,335 --> 00:04:09,735
+- It does not.
+
+81
+00:04:09,735 --> 00:04:12,473
+- [Teacher] The circle
+doesn't make it to quadrant two?
+
+82
+00:04:12,473 --> 00:04:13,372
+- [Robert] No.
+
+83
+00:04:13,372 --> 00:04:15,387
+- [Teacher] So, you're
+saying it does this?
+
+84
+00:04:15,387 --> 00:04:17,135
+- [Robert] Yes.
+
+85
+00:04:17,135 --> 00:04:19,231
+- Prove it.
+
+86
+00:04:20,512 --> 00:04:24,340
+- [Robert] Well if you
+actually put, I don't know...
+
+87
+00:04:26,181 --> 00:04:29,388
+- (laughter)
+
+88
+00:04:29,388 --> 00:04:32,022
+- [Robert] Call on someone else please.
+
+89
+00:04:32,022 --> 00:04:33,729
+- [Teacher] Maddie.
+
+90
+00:04:33,729 --> 00:04:37,046
+- Since you know that your
+radius is the square root
+
+91
+00:04:37,046 --> 00:04:39,851
+of 63, and that's a larger
+number than the square root
+
+92
+00:04:39,851 --> 00:04:42,731
+of 61, it therefore passes the origin,
+
+93
+00:04:42,731 --> 00:04:46,165
+and it goes into the opposite quadrant,
+
+94
+00:04:46,165 --> 00:04:49,013
+or quadrant two in this case.
+
+95
+00:04:52,393 --> 00:04:54,737
+- So, you're saying it goes like that.
+
+96
+00:04:54,737 --> 00:04:56,283
+- [Maddie] Correct.
+
+97
+00:04:56,283 --> 00:04:59,408
+- Is that good enough
+for your piece of mind?
+
+98
+00:04:59,408 --> 00:05:06,683
+The radius is longer than
+it needs to be to reach.
+
+99
+00:05:08,833 --> 00:05:11,297
+And therefore yeah, you're right.
+
+100
+00:05:11,297 --> 00:05:13,473
+Moral of the story?
+The circle goes through
+
+101
+00:05:13,473 --> 00:05:15,808
+all four quadrants. So far,
+
+102
+00:05:15,808 --> 00:05:17,408
+we've kind of been in, been there,
+
+103
+00:05:17,408 --> 00:05:20,246
+done that land, and so now I'm going
+
+104
+00:05:20,246 --> 00:05:22,662
+to take you into some new stuff, right now.
+
+105
+00:05:22,662 --> 00:05:25,297
+The x and y intercepts.
+
+106
+00:05:27,597 --> 00:05:31,441
+First, the x-intercepts of this graph.
+
+107
+00:05:35,003 --> 00:05:37,530
+How am I going to find
+where this circle collides
+
+108
+00:05:37,530 --> 00:05:42,942
+with the x-axis?
+
+109
+00:05:44,400 --> 00:05:45,829
+Let me ask an intermediate question,
+
+110
+00:05:45,829 --> 00:05:49,360
+what do you know about every
+x-intercept in the universe?
+
+111
+00:05:49,360 --> 00:05:53,259
+They all have something in common, Abby?
+
+112
+00:05:53,259 --> 00:05:57,470
+- [Abby] All of their lines,
+like the y equals zero?
+
+113
+00:05:57,470 --> 00:05:59,165
+- [Teacher] What, I'm sorry.
+
+114
+00:05:59,165 --> 00:06:01,139
+- Okay, all like the y's equal zero...
+like the y?
+
+115
+00:06:01,139 --> 00:06:02,953
+- [Teacher] Which variable?
+
+116
+00:06:02,953 --> 00:06:03,987
+- Y.
+
+117
+00:06:03,987 --> 00:06:04,926
+- [Teacher] Equals?
+
+118
+00:06:04,926 --> 00:06:05,821
+- Zero.
+
+119
+00:06:05,821 --> 00:06:06,974
+- [Teacher] One more time.
+
+120
+00:06:06,974 --> 00:06:08,435
+- Y equals zero.
+
+121
+00:06:08,435 --> 00:06:10,472
+- Okay does that makes sense to you guys?
+
+122
+00:06:10,472 --> 00:06:11,464
+- [Students] Yeah.
+
+123
+00:06:11,464 --> 00:06:13,927
+- Because if you do go up or
+down to plot your ordered pair,
+
+124
+00:06:13,927 --> 00:06:17,458
+I've got bad news for you,
+you're not on the x-axis any more.
+
+125
+00:06:17,458 --> 00:06:20,583
+Thus, it's not an x-intercept.
+
+126
+00:06:20,583 --> 00:06:22,126
+All right, just one more time Abby,
+
+127
+00:06:22,126 --> 00:06:23,466
+I forgot what you had said earlier.
+
+128
+00:06:23,466 --> 00:06:24,522
+- [Abby] Y equals zero.
+
+129
+00:06:24,522 --> 00:06:28,543
+- Okay, so how am I going to
+find my x-intercepts here?
+
+130
+00:06:28,543 --> 00:06:30,293
+Twink?
+
+131
+00:06:30,293 --> 00:06:31,615
+- [Twink] I have a question, does it like,
+
+132
+00:06:31,615 --> 00:06:34,111
+the circle cross over x,
+like the x-axis twice?
+
+133
+00:06:34,111 --> 00:06:36,329
+- [Teacher] Well, we'll
+find out if it does.
+
+134
+00:06:36,329 --> 00:06:37,663
+- [Twink] I mean sometimes, doesn't it?
+
+135
+00:06:37,663 --> 00:06:38,740
+- [Teacher] Yeah.
+
+136
+00:06:38,740 --> 00:06:39,945
+- [Twink] So, what do you do if it does?
+
+137
+00:06:39,945 --> 00:06:41,530
+- [Teacher] So, this is the first
+time in your math careers
+
+138
+00:06:41,530 --> 00:06:44,794
+where you might have two x-intercepts.
+
+139
+00:06:44,794 --> 00:06:49,487
+Colliding once, and coming
+back down and colliding again
+
+140
+00:06:49,487 --> 00:06:53,252
+with the x-axis, that's good instincts.
+
+141
+00:06:53,252 --> 00:06:54,937
+And I'll just warn you right now,
+
+142
+00:06:54,937 --> 00:06:57,209
+yeah, we're going to have
+two x-intercepts here.
+
+143
+00:06:57,209 --> 00:06:59,876
+Maddie, how are we
+going to find these two?
+
+144
+00:06:59,876 --> 00:07:03,332
+- [Maddie] We use the formula of a circle,
+
+145
+00:07:03,332 --> 00:07:06,233
+and we plug in for y, zero?
+
+146
+00:07:06,233 --> 00:07:09,891
+- [Teacher] Okay, so let's get the equation up here,
+
+147
+00:07:09,891 --> 00:07:11,374
+because I forgot to write it earlier.
+
+148
+00:07:11,374 --> 00:07:14,547
+Josh?
+
+149
+00:07:16,084 --> 00:07:18,100
+- [Josh] Ah, I don't remember.
+
+150
+00:07:18,100 --> 00:07:20,265
+- Ella May?
+
+151
+00:07:22,323 --> 00:07:24,372
+- [Ella May] X squared...
+
+152
+00:07:26,412 --> 00:07:31,266
+X squared plus, or minus six?
+
+153
+00:07:31,266 --> 00:07:34,572
+Or no, x minus six.
+
+154
+00:07:34,572 --> 00:07:36,998
+- [Teacher] Okay.
+
+155
+00:07:38,136 --> 00:07:42,402
+- [Ella May] Squared, plus y?
+
+156
+00:07:44,103 --> 00:07:46,487
+Plus five.
+
+157
+00:07:47,698 --> 00:07:51,916
+Squared, equals 63.
+
+158
+00:07:54,002 --> 00:07:55,847
+- Okay, Maddie, now we have our equation,
+
+159
+00:07:55,847 --> 00:07:58,086
+and you said to do what to it?
+
+160
+00:07:58,086 --> 00:08:00,742
+- Since you know you
+have, when you're looking
+
+161
+00:08:00,742 --> 00:08:03,590
+for an x-intercept, you're
+always going to have zero
+
+162
+00:08:03,590 --> 00:08:05,147
+for your y.
+
+163
+00:08:05,147 --> 00:08:06,619
+- [Teacher] Oh, Abby told us that.
+
+164
+00:08:06,619 --> 00:08:10,800
+- Yeah, you have your y in
+that formula equal zero.
+
+165
+00:08:10,800 --> 00:08:20,218
+- [Teacher] Literally, literally.
+- [Ben] (inaudible)
+
+166
+00:08:22,181 --> 00:08:24,335
+Well, we've got to see what x is, Ben.
+
+167
+00:08:24,335 --> 00:08:27,354
+- [Ben] Well, I know but that's it?
+
+168
+00:08:27,354 --> 00:08:28,762
+- Does it make sense to you?
+
+169
+00:08:28,762 --> 00:08:29,657
+- [Ben] Yeah!
+
+170
+00:08:29,657 --> 00:08:31,119
+- It isn't that hard of a concept,
+
+171
+00:08:31,119 --> 00:08:33,775
+and that's why I had Abby
+repeat it eight times.
+
+172
+00:08:33,775 --> 00:08:37,295
+If you get that y
+literally has to be zero,
+
+173
+00:08:37,295 --> 00:08:39,771
+you understand why you
+literally make y zero,
+
+174
+00:08:39,771 --> 00:08:41,531
+and then solve for x.
+
+175
+00:08:41,531 --> 00:08:43,501
+We're finding, here's one of
+the ordered pairs right here
+
+176
+00:08:43,501 --> 00:08:45,591
+that we're searching
+for, and I'll be darned if
+
+177
+00:08:45,591 --> 00:08:49,271
+the y is gonna be zero. The
+question is, what's the x?
+
+178
+00:08:49,271 --> 00:08:53,249
+All right, so I've got x minus six squared.
+
+179
+00:08:53,249 --> 00:08:59,857
+Plus, I'm just going to write
+five squared equals 63.
+
+180
+00:09:02,652 --> 00:09:06,470
+So, according to my calculations,
+
+181
+00:09:06,470 --> 00:09:10,240
+we have that right there.
+
+182
+00:09:13,244 --> 00:09:14,374
+Mason?
+
+183
+00:09:14,374 --> 00:09:16,860
+- [Mason] You forgot that middle term.
+
+184
+00:09:16,860 --> 00:09:21,860
+It should be minus 12 x?
+Yeah, or something like that.
+
+185
+00:09:24,113 --> 00:09:27,569
+You forgot the middle
+term. You forgot, like, the something x.
+
+186
+00:09:27,569 --> 00:09:30,406
+Yeah, it'd be x squared minus 12 x,
+
+187
+00:09:30,406 --> 00:09:32,151
+and then plus 36.
+
+188
+00:09:32,151 --> 00:09:34,807
+- Oh, so I need to square both those terms?
+
+189
+00:09:34,807 --> 00:09:37,975
+- [Mason] Yes, no wait, what'd you say?
+
+190
+00:09:37,975 --> 00:09:40,780
+- I just wanted to square the
+x and square the negative six.
+
+191
+00:09:40,780 --> 00:09:42,508
+- [Mason] No you
+didn't, you wanted to square
+
+192
+00:09:42,508 --> 00:09:43,670
+the whole thing.
+
+193
+00:09:43,670 --> 00:09:48,139
+- Okay, which means we
+utilize what process in math?
+
+194
+00:09:48,139 --> 00:09:49,532
+What's that called again, Twink?
+
+195
+00:09:49,532 --> 00:09:50,368
+- [Twink] Foil?
+
+196
+00:09:50,368 --> 00:09:53,920
+- [Teacher] Foil, we had forgotten our oi, Ben.
+
+197
+00:09:53,920 --> 00:09:57,088
+- [Ben] Where did we get 12 x from?
+
+198
+00:09:57,088 --> 00:09:58,709
+- Vanessa?
+
+199
+00:09:58,709 --> 00:10:02,976
+- We squared x minus six,
+so we used factoring.
+
+200
+00:10:02,976 --> 00:10:06,047
+We did x minus (inaudible).
+
+201
+00:10:06,047 --> 00:10:08,202
+- Now do you see where we get it from, Ben?
+
+202
+00:10:08,202 --> 00:10:11,417
+Okay, thank you Ben.
+
+203
+00:10:12,713 --> 00:10:15,754
+What to do with the 63,
+what to do, what to do?
+
+204
+00:10:17,499 --> 00:10:18,618
+Mason?
+
+205
+00:10:18,618 --> 00:10:21,413
+- Do you just combine, like
+subtract 63 from both sides,
+
+206
+00:10:21,413 --> 00:10:23,940
+combine all the like terms
+of the whole numbers,
+
+207
+00:10:23,940 --> 00:10:27,002
+and then you have a quadratic equation.
+
+208
+00:10:27,002 --> 00:10:29,018
+- [Teacher] Okay.
+
+209
+00:10:30,785 --> 00:10:33,569
+Well, now I have a quadratic trinomial,
+
+210
+00:10:33,569 --> 00:10:36,203
+and it's arranged in what?
+
+211
+00:10:36,203 --> 00:10:38,294
+What do we call that, Kate?
+
+212
+00:10:40,434 --> 00:10:41,714
+- [Teacher] Ellie?
+
+213
+00:10:41,714 --> 00:10:43,133
+- Descending order.
+
+214
+00:10:44,484 --> 00:10:48,686
+- Mm-hm. Nice, so let's try and factor that.
+
+215
+00:10:48,686 --> 00:10:52,270
+Michelle, you're shaking
+your head like no way.
+
+216
+00:10:52,270 --> 00:10:55,587
+- [Michelle] It doesn't work.
+Well, all right, then I guess we're stuck.
+
+217
+00:10:55,587 --> 00:10:58,915
+- (class boos and laughs)
+
+218
+00:10:58,915 --> 00:11:00,603
+- [Student] That's so stupid.
+
+219
+00:11:03,103 --> 00:11:06,558
+- [Student] Don't we have to do 
+the quadratic formula?
+
+220
+00:11:06,558 --> 00:11:09,587
+- [Teacher] Yes, if only I could
+remember that though.
+
+221
+00:11:09,587 --> 00:11:11,294
+It's been such a long time.
+- [Student] Sing the song! (laughter)
+
+222
+00:11:14,614 --> 00:11:18,191
+You tell me the song, I'll
+actually write the line
+
+223
+00:11:18,191 --> 00:11:21,775
+pertinent to this problem,
+what's the first line?
+
+224
+00:11:21,775 --> 00:11:26,494
+- (inaudible)
+- [Teacher] Keep going...
+
+225
+00:11:27,801 --> 00:11:30,382
+- [Students] (singing) Plus or minus the root
+
+226
+00:11:30,382 --> 00:11:33,785
+of b squared minus 4 a-c,
+
+227
+00:11:33,785 --> 00:11:37,736
+all over 2a. (laughter)
+
+228
+00:11:39,310 --> 00:11:41,486
+- [Teacher] Okay.
+
+229
+00:11:43,455 --> 00:11:45,257
+I'm going to do some of the math for you,
+
+230
+00:11:45,257 --> 00:11:46,985
+and then I'm going to have
+you do some of the math
+
+231
+00:11:46,985 --> 00:11:48,957
+for me, because I'm more
+interested in seeing
+
+232
+00:11:48,957 --> 00:11:50,173
+that you can do this.
+
+233
+00:11:50,173 --> 00:11:53,874
+So, I get 12 plus or minus the square root
+
+234
+00:11:53,874 --> 00:11:57,825
+of 152, over two.
+
+235
+00:12:00,433 --> 00:12:04,583
+Now normally, normally I would
+have you guys simplify that
+
+236
+00:12:04,583 --> 00:12:08,646
+and give me exact answers.
+But it's hard on a graph
+
+237
+00:12:08,646 --> 00:12:11,654
+for you guys to see where
+something like 12 plus
+
+238
+00:12:11,654 --> 00:12:14,694
+root 152 is, I mean that's
+kind of an abstract.
+
+239
+00:12:14,694 --> 00:12:18,054
+- So, we're actually, I'm going
+to let you do decimals here.
+
+240
+00:12:18,054 --> 00:12:20,187
+So, here's what I want to do, Kevin's row
+
+241
+00:12:20,187 --> 00:12:21,935
+through Sarah's row, I want you guys
+
+242
+00:12:21,935 --> 00:12:25,179
+to find the plus branch, so you do plus.
+
+243
+00:12:25,179 --> 00:12:28,522
+You two rows, find the minus.
+
+244
+00:12:30,117 --> 00:12:46,660
+12 minus root 152 over two.
+
+245
+00:12:48,313 --> 00:12:50,510
+As soon as you get an answer, real quietly
+
+246
+00:12:50,510 --> 00:12:52,249
+and quickly check with a neighbor,
+
+247
+00:12:52,249 --> 00:12:53,902
+and make sure we have confirmation.
+
+248
+00:12:53,902 --> 00:12:56,099
+Let's go to the nearest hundredth.
+
+249
+00:12:56,099 --> 00:13:28,659
+- (students discuss with each other)
+
+250
+00:13:30,078 --> 00:13:33,022
+Okay, if you've got an answer
+
+251
+00:13:33,022 --> 00:13:37,374
+that corresponds to what
+your neighbor got, regroup.
+
+252
+00:13:37,374 --> 00:13:39,128
+Regroup, Ellie.
+
+253
+00:13:40,723 --> 00:13:42,130
+If you've got the same
+answer as your neighbor,
+
+254
+00:13:42,130 --> 00:13:44,042
+raise your hand right now, over here.
+
+255
+00:13:44,042 --> 00:13:47,050
+So, Melissa, what was
+the value of x you got?
+
+256
+00:13:47,050 --> 00:13:48,692
+- [Melissa] 12.2.
+
+257
+00:13:48,692 --> 00:13:50,793
+- [Teacher] 12.2, what is it to
+the nearest hundredth?
+
+258
+00:13:50,793 --> 00:13:54,463
+- [Melissa] Oh, 12.16.
+
+259
+00:13:54,463 --> 00:13:59,203
+- [Teacher] 12.16. All right, 
+that sounds about right.
+
+260
+00:14:01,843 --> 00:14:04,403
+And then over here, my
+branch with the negative sine
+
+261
+00:14:04,403 --> 00:14:06,703
+in there, Ellie?
+
+262
+00:14:06,703 --> 00:14:09,892
+- [Ellie] Negative 0.16.
+
+263
+00:14:13,052 --> 00:14:16,071
+- Okay, now let's not lose
+sight of big picture here.
+
+264
+00:14:16,071 --> 00:14:17,744
+Context, what the heck's going on?
+
+265
+00:14:17,744 --> 00:14:20,220
+Why have we been trying to chase down x,
+
+266
+00:14:20,220 --> 00:14:21,808
+and why are we getting
+two different answers?
+
+267
+00:14:21,808 --> 00:14:24,262
+And which one is right,
+and which one's extraneous?
+
+268
+00:14:24,262 --> 00:14:26,129
+Help me make sense of all this,
+
+269
+00:14:26,129 --> 00:14:28,870
+now that the procedure is done, Michelle?
+
+270
+00:14:28,870 --> 00:14:30,640
+- [Michelle] Neither of them are extraneous,
+
+271
+00:14:30,640 --> 00:14:33,157
+because the circle hits
+the x-axis at two points?
+
+272
+00:14:33,157 --> 00:14:36,027
+- [Teacher] So, what
+are my two x-intercepts?
+
+273
+00:14:36,027 --> 00:14:38,661
+- 12.16, and negative .16?
+
+274
+00:14:38,661 --> 00:14:40,965
+- [Teacher] In ordered pair form.
+
+275
+00:14:40,965 --> 00:14:45,965
+- 12.16, zero,
+and negative .16, zero.
+
+276
+00:14:48,315 --> 00:14:51,835
+- There's that one right
+there, makes sense.
+
+277
+00:14:51,835 --> 00:14:56,186
+And then the 12.16,
+zero hopefully you have room
+
+278
+00:14:56,186 --> 00:14:58,843
+on your paper, I don't have
+room on the board for that.
+
+279
+00:14:58,843 --> 00:15:01,898
+Should be somewhere over here.
+
+280
+00:15:04,368 --> 00:15:06,565
+It's a good pit stop moment right here.
+
+281
+00:15:06,565 --> 00:15:08,367
+Pull off to the side of the road.
+
+282
+00:15:08,367 --> 00:15:12,607
+Stop for a second, are you
+sure this makes sense to you?
+

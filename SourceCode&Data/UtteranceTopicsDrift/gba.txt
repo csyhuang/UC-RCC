@@ -1,0 +1,24 @@
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
+Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. 
+We are met on a great battle-field of that war. 
+We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. 
+It is altogether fitting and proper that we should do this
+But, in a larger sense, we can not dedicate -- 
+we can not consecrate -- 
+we can not hallow -- this ground. 
+The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. 
+The world will little note, nor long remember what we say here, but it can never forget what they did here. 
+It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. 
+It is rather for us to be here dedicated to the great task remaining before us -- 
+that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion -- 
+that we here highly resolve that these dead shall not have died in vain -- 
+that this nation, under God, shall have a new birth of freedom -- 
+and that government of the people, by the people, for the people, shall not perish from the earth.
+In the deep learning journey so far on this website, I’ve introduced dense neural networks and convolutional neural networks (CNNs) which explain how to perform classification tasks on static images.  
+We’ve seen good results, especially with CNN’s. 
+However, what happens if we want to analyze dynamic data? What about videos, voice recognition or sequences of text? 
+There are ways to do some of this using CNN’s, but the most popular method of performing classification and other analysis on sequences of data is recurrent neural networks.  
+This tutorial will be a very comprehensive introduction to recurrent neural networks and a subset of such networks – long-short term memory networks (or LSTM networks). 
+I’ll also show you how to implement such networks in TensorFlow – including the data preparation step. 
+It’s going to be a long one, so settle in and enjoy these pivotal networks in deep learning – at the end of this post, you’ll have a very solid understanding of recurrent neural networks and LSTMs. 
+By the way, if you’d like to learn how to build LSTM networks in Keras, see this tutorial.

@@ -1,0 +1,112 @@
+ Toma la medicina con el almuerzo. [quejidos alumno simulando estar enfermo] [tose] [voces alumnos de fondo]
+ Adiós.
+ Adiós. [voces alumnos hablando de fondo] [alumno] ¡Hola!
+ ¡Hola! [voces alumnos hablando de fondo]
+ ¿Cómo te llamas? [alumno] Me llamo Otrisa.
+ ¿Dónde vive usted?
+ Vivo en México.
+ ¿Cuántos años tienes?
+ Tengo 13 años. [voces alumnos hablando de fondo]
+ ¿Cuál es su número de teléfono?
+ Mi número de teléfono es... cinco, cinco, uno, dos, tres, cinco, cuatro. [suena señal acústica] [todos los alumnos] ¡Adiós! [alumnos hablando al mismo tiempo] [alumno] ¡Muchas gracias! [alumna] ¡Oh! [alumnos hablando al mismo tiempo] [alumna] ¡Hija! Ven acá. [alumnos hablando al mismo tiempo]
+ ¡Hola!
+ ¡Hola!
+ ¿Cómo te llamas? [alumna] Me llamo Andrea. [voces de fondo alumnos hablando a la vez] [alumno] ¿Dónde vive usted? [inaudible voces de fondo hablando al mismo tiempo]
+ ¿Cuántos años tienes? [alumna] Tengo 13 años. [alumno] ¿Cuál es su número de teléfono?
+ Uno, dos, tres, cuatro, cinco, seis, siete. [voces de fondo alumnos]
+ ¿Qué te duele? [alumna] Me duel... Me duele... [simula quejidos] [alumno] ¿Tiene algo de su hijo? [sonido pasando páginas] [alumno] ¡Adiós! [alumna] ¡Adiós! [alumno] Sí, sí. [otro alumno] Mira, qué bien. [voces de fondo] [alumno] <i>Me too.</i> [alumno] No me gusta leer.
+ Su hija necesita lentes. Vamos a probarlas. [voces de fondo alumnos] [voces alumnos de fondo hablando al mismo tiempo]
+ <i>Alright</i>, veo. [risas alumnos] [risas alumnos]
+ ¿Qué te costó ver?
+ No. [risas] [sonido señal acústica] [alumnos] ¡Adiós! [alumna] Muchas gracias. [ruido por cambio de mesas]
+ ¡Hola!
+ ¡Hola!
+ El examen de ojos... Di las letras... venga. [voces de fondo alumnos hablando al mismo tiempo] [alumno otra mesa] Hola, ¿cómo te llamas?
+ F, W T, O. [alumna] Z. [alumna] L, P. [alumna] E. [voces de fondo alumnos] [voces de fondo alumnos hablando al mismo tiempo] [alumna otra mesa] Tengo 13 años.
+ ¿Dónde te duele? [alumno] Me duele el estómago. [simula quejidos] [voces de fondo alumnos otras mesas]
+ ¿Juega alguna vez algún deporte? [voces de fondo alumnos] [maestra] ¿Juegas deportes? No, no. ¿Te gusta? ¿Te gustaría?
+ No, no me gusta. [voces de fondo alumnos otras mesas]
+ También tengo la medicina. [voces de fondo alumnos otras mesas] [alumna] <i>Okay, it´s good.</i> [alumno] Adiós. [alumna] Adiós. [voces de fondo alumnos de otras mesas] [maestra] No respira bien. ¿Respira bien?
+ No.
+ ¿No? [tos] [maestra] Tiene la tos. [tos]
+ Sí, sí. [alumno] Pero no me duele, mamá. [sonido señal acústica] [todos] ¡Adiós! [maestra] Adiós, Pastor. [alumno] Adiós, gracias amigo. Muchas gracias. [voces de fondo alumnos de otras mesas]
+ Hola.
+ Hola. [voces de fondo, alumnos de otras mesas hablando] [alumna] Te atiendo. [todos los alumnos hablando al mismo tiempo]
+ Por favor, respire. Por favor, respire. [voces alumnos de otras mesas hablando]
+ ¿Dónde te duele?
+ Me duele... [risas] Me duele el pie.
+ Le duele el pie. [voces de fondo de otras mesas] [alumna otra mesa] Me duele. [alumno otra mesa] ¿Qué te duele? [voces de fondo de alumnos de otras mesas]
+ Tome las medicinas con el almuerzo. [risas] [alumno de otra mesa] Toma la medicina... [voces de fondo de alumnos de otras mesas] [alumna de otra mesa] ¡Hola! [alumna] ¡Hola! [voces de fondo de alumnos de otras mesas] [alumno de otra mesa] ¿Cómo te llamas? [voces alumnos, todos hablando al mismo tiempo] [sonido señal acústica] [todos] ¡Adiós! [hablan todos mientras cambian de mesa] [alumna] ¡Hola! [alumno] ¡Hola! [diálogo inaudible, todas las mesas hablando al mismo tiempo]
+ La temperatura, tiene fiebre. [voces de fondo del resto de mesas]
+ Respira, por favor. [diálogo inaudible por voces del resto de mesas]
+ ¿Tiene alergias su hija?
+ No. [voces de fondo del resto de mesas]
+ Tiene la gripe. [voces de fondo del resto de mesas]
+ Toma la medicina con el almuerzo. [voces de fondo del resto de las mesas]
+ Adiós.
+ Adiós. [voces de fondo del resto de las mesas]
+ ¡Hola! [voces todos los alumnos hablando] [risas] [voces de los alumnos de fondo]
+ Hola.
+ Hola. ¿Cómo te llamas?
+ Me llamo Greg.
+ ¿Dónde vive usted? [sonido señal acústica] [todos] ¡Adiós! [todos los alumnos hablan mientras cambian de mesa]
+ El examen de ojos. [voces de fondo alumnos de otras mesas] [alumno de otra mesa] Hola. [otro alumno] Hola. [voces de fondo alumnos de otras mesas] [alumno de otra mesa] Muy bien. [alumna] Dime la primera  línea. [compañera] E. [voces de fondo de alumnos de otras mesas] [alumna] F. P. C.
+ Muchas gracias. [voces de fondo de alumnos de otras mesas]
+ O, d. [voces de fondo]
+ F. F, efe, efe. [voces de fondo del resto de las mesas] [alumna] ¡Muchas gracias!
+ Bueno, todo va bien. ¿Tiene problemas su hija cuando lee?
+ Sí, no mucho... leer.
+ Su hija necesita l... [voces de fondo del resto de mesas] [alumna] ¡Oh! ¡Muchas gracias, muy bonita!
+ ¿Cómo está usted... [inaudible]
+ Ella está muy inteligente. [risas] [sonido señal acústica] [todos] ¡Adiós! [alumnos hablan a la vez mientras cambian de mesa] [alumno] ¡Hola! [alumnos de otras mesas] ¡Hola!¡Hola! [alumno] Hola, buenos días. [voces de fondo] [alumno] Me llamo... [compañero] Te controlo si tienes fiebre. [voces de fondo de otras mesas] [maestra] ¿Es bien? ¿Noventa y nueve? [voces de fondo alumnos de otras mesas]
+ Tengo que sentirte... [voces de fondo de otras mesas] [maestra] ¿Dónde te duele?
+ ¿Tiene alergias su hijo?
+ No, no tiene.
+ Tiene la gripe.
+ ¿Tiene la gripe? ¡Ay! [voces de fondo de otras mesas]
+ La medicina con el almuerzo. [voces de fondo de otras mesas] [maestra] ¿Por qué te gusta la medicina? [voces de fondo]
+ No. [voces de fondo de otras mesas]
+ Una pregunta, doctor. ¿Toma...? ¿Toma la medicina... todos los días? ¿Lunes? ¿Martes? ¿Qué día? [alumno] Lunes.
+ ¿Lunes? [alumno] Está bien.
+ No me asustes. Es difícil.
+ Hola.
+ Hola. [sonido señal acústica] [todos] ¡Adiós! [alumna] ¡Hola! [otra alumna] ¡Hola! [alumno]  Hola. [alumno] Hola. [voces de fondo] [alumno] Hola. [varios alumnos de otras mesas] ¡Hola! ¡Hola! ¡Hola!
+ No tiene fiebre. [voces de fondo] [alumno de otra mesa] Vivo en Méjico. [voces de alumnos de otras mesas]
+ Por favor, respira. [alumna de otra mesa] ¿Cómo te llamas?
+ No puedo respirar bien. [voces de fondo de alumnos de otras mesas] [diálogo inaudible]
+ Del nueve al cuatro. [voces de alumnos de otras mesas]
+ ¿Juega deportes su hijo? [voces de fondo]
+ Sí. Es fútbol. [voces de fondo de alumnos de otras mesas]
+ Necesito una ... de estudio. [inaudible voces de fondo] [voces de fondo de alumnos de otras mesas]
+ Toma la medicina con el almuerzo. [voces de fondo de alumnos de otras mesas] [alumno] Adiós.
+ Adiós. [voces de fondo de alumnos de otras mesas] [alumnos hablan al mismo tiempo] [alumno de otra mesa] Vivo en Méjico. [voces de alumnos de todas las mesas] [sonido señal acústica] [todos] ¡Adiós!
+ ¡Adiós! [todos] ¡Hola!
+ Hola. [alumna de otra mesa] Hola, ¿cómo te llamas?
+ Necesito... ¿Cómo te llamas?
+ Me llamo Luis.
+ ¿Dónde vive usted? [alumno] Vivo en Méjico.
+ ¿Cuántos años tienes? [alumno] Tiene 13 años.
+ ¿Y cuál es tu número de teléfono?
+ Mi número de teléfono es... cinco, cinco, cinco, uno, dos, tres, cuatro. [voces de fondo]
+ ¿Qué?
+ Cinco, cinco, cinco, uno, dos, tres, cuatro. [voces de fondo de alumnos de otras mesas]
+ ¿Dónde escuela?
+ ¿Qué?
+ No lo sé.
+ Sí. [risas alumna]
+ ¿Cómo te llamas?
+ Me llamo Luis.
+ Em... ¿Dónde vive usted?
+ Vivo... Usted donde vivo yo... [alumna] ¿Cuántos años tiene? [voces alumnos de todas las mesas] [sonido señal acústica] [todos] ¡Adiós! [voces de todos los alumnos]
+ Hola.
+ Hola. [alumno de otra mesa] ¡Hola! [otro alumno] ¡Hola! [voces de fondo de alumnos de otras mesas]
+ Sofía. [voces de fondo]
+ Sofía. [voces de fondo] [alumno de otra mesa] Vivo en Méjico. [voces de fondo de alumnos de otras mesas] [alumno de otra mesa] Me llamo Gart. [voces de fondo de alumnos de otras mesas] [diálogo inaudible por voces de fondo] [voces de fondo alumnos de otras mesas]
+ Puede tener... diferenti... síntomas. [voces de fondo alumnos de otras mesas]
+ <i>Well...</i> [voces de fondo]
+ Necesito unos estudios. [voces de fondo de alumnos de otras mesas]
+ Toma la medicina con el almuerzo. [voces de fondo de alumnos de otras mesas]
+ Gracias. [compañera] Gracias.
+ Muy bien. [alumno de otra mesa] Necesito lentes nuevas. [voces de fondo de alumnos de otras mesas] [sonido señal acústica] [todos] ¡Adiós! [alumno] ¡Adiós! [voces de alumnos cambiando de mesa]
+ Hola.
+ Hola. [voces de fondo] ¡Hola! [alumno] ¡Hola! [voces de fondo] [alumna] ¿Qué va mal?

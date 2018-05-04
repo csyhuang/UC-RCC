@@ -1,0 +1,150 @@
+The corners.
+ The corners, that's fine. How do you get exactly one painted face? Which one of these have just one color on them?
+The middle.
+ Yeah just the ones in the middle on each face. And how many of them are there?
+Six.
+ So that's 6 out of 27. So that's fine. And realize that if you did it right, those are all your options. Each of these cubes has either zero colors, up to three colors. Nothing has four colors. So that means all your probabilities should add up to what?
+ 27.
+27 out of 27. Does it?
+ No.
+No, so what's the issue? One of these numbers at least has to be off. So figure out which one that is. See if you could figure what one. So keep in mind, these look right. But realize, these are all probabilities because you're picking them out of that hat. So, these should all be out of...
+ 27.
+Right, because there's 27 cubes you're picking from.
+ Right.
+And if you did it right and these are all the cubes, then they should add up to what?
+ 27.
+Right, does it?
+ Yeah it does.
+27, okay so fine. Good. So when you do the next one it should all be out of...
+We can figure that out.
+You can figure that out.
+ Isn't it 16 times 4 so 64?
+So where are you getting these numbers from?
+ My mind.
+Okay, so I get no painted faces. There's just the one cube that's right in the middle. So that's one out of... Because you're picking them out. 1 out of 27. You gotta do a probability, right. But then how many have one painted face? How'd you get six? Which six?
+The middle ones.
+Sure, the middle ones. And there's six faces so it makes sense, 6 out of 27. How do you get three painted faces?
+ I didn't do that one.
+Okay. The corners. So that should be eight. And then realize if you did this right, it should all at up to what?
+ 27.
+27 out of 27. So how do you figure out how many have two painted faces?
+Just add these together and subtract them.
+Yeah you could do that. Now, there is a pattern to the two, just like the other ones. But you can also subtract and figure that out. So, yeah, good. Oh that brings up a good point. Everybody, for your first cube... For your very first cube everything should be out of what number?
+ 27.
+27. All your probabilities should be out of 27. Is it possible you can reduce the fractions, when you figure it out?
+ Yes.
+Yes, I'm gonna tell you, don't reduce them. Leave it out of 27. Even if it's 3 out of 27, don't reduce it to one ninth. Just leave it at 3 out of 27, it'll help you down the line. So those look good. And you know-- One of the ways you could check if you did this right, is all four of these should add up to what?
+ 27.
+27. And does it?
+Yeah.
+It adds up to 27 out of 27. So you got all your bases covered. So that's good. Okay, good keep going. How many have no painted faces?
+Four.
+Why four, which four?
+The four is right over here inside, and then there's four.
+Okay but let me ask you this, there's these four. But you said go inside a layer. And then you're right there's four underneath. But then there's another layer underneath that.
+So there's eight.
+So there should be eight. And one of the ways you know you're right about this, besides just hoping that you're thinking about it the right way. How do you know there's three painted faces? Which eight are you talking about?
+ The corners.
+The corners. So you know you're right with the eight, but these should all add up to what? And they do, so you're okay. Okay, good. So keep going and you're good, it's all out of 64. So that's a good start.
+ Will this still have one painted face?
+Well there is a pattern to it, just like the other ones. But it's fine if you can't figure that out yet. Just keep going, you've got the right number. So see if you can figure it out now for the 4x4x4. How are we doing on the front side? Everything good? So let me ask you this about this stuff. I assume you all have the same answers.
+ Yeah.
+So, you said one painted face, there's six of them. Which six? Just one color painted. Sure the center of each of the six faces. And there's six faces, so six times one is six. That's fine. No, we got 8 out of 27 for three. Because which ones are you looking at? The corners. No painted faces, there's just one in the middle. If you added all these up, what should they equal?  But what does it equal up to? Not 27. So, what's the issue? What's the deal there?
+ No idea.
+Where is there something going wrong? Because you know that one has to be eight. You know there's exactly one because it's the center one in each of the six sides. So, you know that has to be six. The issue is with the two painted faces. It's not eight. Now, you can figure it out by subtracting, and just figuring out what adds up to 27. Or you could go back and just look at those, how many of those have the two painted faces. Where are you getting eight from? Which cubes here have two painted faces?
+These ones.
+So that's four on this front side.
+There's four on the back side.
+That's eight.
+Two on this side, 10, 12.
+12. Does that make sense? And that adds up to 27 then, when you add all those up. So now do the same thing for the one out of 64. Okay. Good. How we doing?
+These should add up to 64 shouldn't they?
+They should add up to 64. How do you get no painted faces? How do you get the four with no painted faces?
+ The center pieces.
+So, over here, let's say these four in the middle. But you're not looking at those. Those have one painted face, but you look a layer below that. And that's four right there. But you can go a layer below that. So that should be eight. So does that mess up something else? I don't know how you got the other numbers.
+So the equation for this, it'd be distance... divided by two to get three.
+Does that work up here? You're on the right track. You're thinking the right way.
+Minus two.
+Does that work? I mean, once you get this, I would try to do a 5x5x5 cube. Even though, I didn't write it down there. See if it holds up.
+Yeah, because there'd be 27 in the middle.
+That seems to make sense. And that'll help you on the back side when you get there. So these look fine. Let's talk about this one for a second. If you add these up, you have 24, 24, 18, 4. If you add all those up what do you get?  Do you?
+60.
+ 60. Right now you have 60 out of 64. So there's four squares you haven't counted yet. Where did they go? And you kinda know you're right with the three colored cubes because you know which ones they are. Which ones are those?
+So would we add it to the non painted faces?
+Why? You can't randomly-- What's the pattern? Which ones have no painted faces?
+The ones on the top.
+So basically, you have these four right here, but a layer below, right? But there's also another layer below that.
+Oh so it's eight.
+So that's where there's eight. Does that make sense?
+Oh yeah, I see that.
+So that's where that's coming from. So now it adds up to 64. It looks like you're probably good. Why don't you try doing it for a 5x5x5 cube before you go to the back side, so at least you have some patterns you can detect. It'll make the back side easier. But it should be a breeze now to get the 5x5x5 cube. Wow, Chris. You're on a roll. Smart idea, making a graph. And that should be eight over what?  Over here how many squares do we have?
+We have 27.
+And you got that because it's...
+Three cubed.
+ Three cubed. And the other one is four cubed. If you do the 5x5x5, it would be five cubed. So if you have an nxnxn, what is that? n cubed. So everything should be out of n cubed on the back. And you're right that it's eight out of n cube for the three painted. Why don't you try the no painted? That's probably the next one to get.
+ But what, there's the one middle.
+How do you figure that out? And this is where you gotta go back and look at the pattern you got for no painted faces. How did you figure that out? And maybe the numbers help, but maybe just look at the picture and figure out, how did we know how many had no painted faces?
+ Right.
+What do those numbers have in common?
+ Okay.
+How we doing? Well you're definitely right with eight over n cubed. That makes sense, right? Because always the corners in the cube. It's always the same. How did you get 6n here? And you got it over here. You guys have 6n in different places.
+Well see, I thought I got a brain blast.
+What?
+But it didn't work out. I mean, I felt really smart for two seconds. But I was thinking that, since there's six sides, it has to be six times something.
+Okay. Okay, that's not a bad way to think. You know the answer here was 12.
+Yeah.
+That was with the 3x3x3 cube. Does that work? If n is three, you would get 18. But that's not what you got on the front side. So there's some discrepancy.
+Okay.
+But that's not a bad way to think. Some of these things have to do with six faces. Like, there's some multiplying by six involved. You know the corner ones are gonna be eight no matter what. That has nothing to do with six faces.
+Right.
+Right, that's just the corners.
+ How do you do this?
+Go back a second. Sorry, a lot of flipping. You feel confident about these two sets of numbers?
+ Yeah.
+So why don't you try doing it 5x5x5 cube, even though I didn't ask for it. But see what numbers you get for that because it'll make the back page a little better. Because now you'll have more numbers to use and try to find a pattern. You guys have different numbers. Why is that?
+ What do you mean?
+On the front side.
+ What do you mean?
+Sarah has 8 out of 64 here. You have 4 out of 64 here.
+ Oh blood.
+Oh my god. Do you need to go? Go, go. Go to the bathroom.
+ I don't care.
+I care, go.
+ Do you have band-aids now?
+I don't know. I don't think I do. Go to the bathroom. Things still happen. So you have eight out of eight cubed. That's fine... We know the three painted faces are going to be which ones? The corners.
+The corners. And there's always gonna be eight. So that's fine. Eight out of n cubed. How do you figure out how many have zero painted faces?
+It's always the ones in the middle.
+Yes, always the ones in the middle. So when you had a 3x3x3 cube, what was in the middle?
+One.
+And what's the dimensions of that cube? 1x1x1. When it was a 4x4x4 cube, what were the dimensions of the middle? That you couldn't see.
+4x4x4.
+Well 4x4x4 is the whole cube.
+2x2x2.
+ 2x2x2. If it was a 5x5x5 cube what would be the middle?
+3x3x3.
+ 3x3x3. If its an nxnxn cube, what's the middle? You kinda have it. If it's 6x6x6, what's the middle?
+ I don't know. I'm kinda lost.
+Okay go back for a second. You lost me at the 5x5x5 one.
+Okay, you know its 3x3x3. And the center was 1x1x1. That's the ones you couldn't see any color. 4x4x4 cube, what's the center?
+ 2x2x2.
+If it's a 5x5x5 cube, let's say. What would the center be?
+ 3x3x3.
+3x3x3. If it's a 6x6x6 cube?
+ 4x4x4.
+If it's an nxnxn cube?
+ n minus two.
+Times n minus two times n minus two. So what's the pattern for no painted faces?
+ n minus two cubed.
+Exactly. That's the sort of pattern you need to find for those first two now. How are you figuring these out when you actually have a concrete 5x5x5 cube?
+Is this what you're supposed to do? Because it's saying that n is the number of small cubes, so you can't just say it's a 4x4x4. n is representing the whole 125 cubes right?
+Right.
+So is this the correct equation for one painted sides?
+For one painted side?
+Yeah.
+For one painted side. Well, how are you finding the one painted face? Or how many painted cubes did you have here?
+I had six.
+Six, which six? It's basically the one in the center, but there's six faces so we multiplied by six. So, I get where this is coming from. The multiply by six.
+So n represents the 125.
+n represents how many across you have.
+Oh. I thought n represented the whole--
+No, I mean.

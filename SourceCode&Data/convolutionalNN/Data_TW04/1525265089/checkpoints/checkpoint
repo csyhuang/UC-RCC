@@ -1,0 +1,3 @@
+model_checkpoint_path: "/Users/fjgreco/Dev-Atlas/Dev-Atlas-Group2/Dev-Atlas-cnn/ConvolutionalNN/Data_TW04/1525265089/checkpoints/model-2"
+all_model_checkpoint_paths: "/Users/fjgreco/Dev-Atlas/Dev-Atlas-Group2/Dev-Atlas-cnn/ConvolutionalNN/Data_TW04/1525265089/checkpoints/model-1"
+all_model_checkpoint_paths: "/Users/fjgreco/Dev-Atlas/Dev-Atlas-Group2/Dev-Atlas-cnn/ConvolutionalNN/Data_TW04/1525265089/checkpoints/model-2"

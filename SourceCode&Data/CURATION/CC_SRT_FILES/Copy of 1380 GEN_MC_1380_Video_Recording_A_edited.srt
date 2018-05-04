@@ -1,0 +1,1347 @@
+1
+00:00:02,838 --> 00:00:04,754
+- [Voiceover] How you guys doing?
+
+2
+00:00:04,754 --> 00:00:06,171
+- So .3.
+
+3
+00:00:08,543 --> 00:00:11,577
+- Oh, what did you do by touching those?
+
+4
+00:00:11,577 --> 00:00:12,804
+- It made a short circuit.
+
+5
+00:00:12,804 --> 00:00:13,887
+- It crossed.
+
+6
+00:00:16,879 --> 00:00:19,082
+- Wow, the orange is a
+lot less than the kiwi and the apple.
+
+7
+00:00:19,082 --> 00:00:20,433
+- Yeah.
+
+8
+00:00:20,433 --> 00:00:22,065
+- It's only .3.
+
+9
+00:00:22,065 --> 00:00:22,922
+- Why do you think that is?
+
+10
+00:00:22,922 --> 00:00:24,230
+- .03.
+
+11
+00:00:24,230 --> 00:00:25,730
+- Maybe because...
+
+12
+00:00:27,289 --> 00:00:30,384
+- It's like different rods or something.
+
+13
+00:00:30,384 --> 00:00:33,441
+- Oranges are more sour
+than the other fruit.
+
+14
+00:00:33,441 --> 00:00:36,911
+Not, and like have more acid or something.
+
+15
+00:00:36,911 --> 00:00:39,0780
+Because it stops the energy.
+
+16
+00:00:40,792 --> 00:00:43,485
+- We want it a half
+centimeter apart right?
+- Yeah.
+
+17
+00:00:43,485 --> 00:00:44,818
+Two centimeters.
+
+18
+00:00:46,586 --> 00:00:47,419
+Around.
+
+19
+00:00:48,379 --> 00:00:50,296
+- So okay, go ahead.
+
+20
+00:00:53,201 --> 00:00:55,784
+Make sure they aren't touching.
+
+21
+00:00:56,832 --> 00:00:57,999
+- 0.1.
+
+22
+00:00:58,875 --> 00:01:01,625
+- It's not even measuring at all.
+
+23
+00:01:02,547 --> 00:01:04,631
+Oh, 0.1.
+
+24
+00:01:04,631 --> 00:01:05,981
+0.01.
+
+25
+00:01:05,981 --> 00:01:06,814
+- Oh .01.
+
+26
+00:01:06,814 --> 00:01:07,647
+- That's crazy.
+
+27
+00:01:07,647 --> 00:01:08,714
+- I know.
+
+28
+00:01:08,714 --> 00:01:12,047
+How this supposed to be one, the other two were so high?
+
+29
+00:01:14,509 --> 00:01:16,341
+- 0.98.
+
+30
+00:01:16,341 --> 00:01:19,483
+- I never thought fruits and vegetables
+
+31
+00:01:19,483 --> 00:01:21,439
+could have so much energy.
+
+32
+00:01:21,439 --> 00:01:23,848
+Except for oranges.
+
+33
+00:01:23,848 --> 00:01:27,041
+I thought this would have
+as much as the apple.
+
+34
+00:01:27,041 --> 00:01:29,819
+- My hypothesis, I actually thought that the
+orange would have the most.
+
+35
+00:01:29,819 --> 00:01:30,736
+- Go ahead.
+
+36
+00:01:32,274 --> 00:01:35,941
+Alright, Lizzy you can
+do the voltage reader.
+
+37
+00:01:36,956 --> 00:01:39,412
+Stick them in a half centimeter apart.
+
+38
+00:01:39,412 --> 00:01:41,079
+And a centimeter in.
+
+39
+00:01:42,759 --> 00:01:45,926
+Okay, Lizzy make sure they don't touch.
+
+40
+00:01:47,293 --> 00:01:49,543
+- Don't short circuit them.
+
+41
+00:01:52,450 --> 00:01:55,552
+- It's like completely zero.
+
+42
+00:01:55,552 --> 00:01:58,958
+(children talking over each other)
+
+43
+00:01:58,958 --> 00:02:01,775
+- The bigger it is, the more volts it has.
+
+44
+00:02:01,775 --> 00:02:03,854
+- The middle one, it left like a little here
+
+45
+00:02:03,854 --> 00:02:05,650
+and this was the most.
+
+46
+00:02:05,650 --> 00:02:07,528
+- I think it's more
+concentrating volts in the middle
+
+47
+00:02:07,528 --> 00:02:09,121
+more than anywhere else.
+
+48
+00:02:09,121 --> 00:02:11,327
+- Hmm, I wonder why that would be.
+
+49
+00:02:11,327 --> 00:02:14,827
+- Okay, so now we have to get a calculator.
+
+50
+00:02:16,806 --> 00:02:19,056
+Okay, so 0.22.
+
+51
+00:02:21,131 --> 00:02:23,131
+Plus 0.09.
+
+52
+00:02:24,317 --> 00:02:26,067
+- Plus 0.28.
+
+53
+00:02:29,866 --> 00:02:34,362
+- I got 0.1966667.
+
+54
+00:02:34,362 --> 00:02:37,299
+- So what are you
+gonna do with that number?
+
+55
+00:02:37,299 --> 00:02:38,606
+- Round it up.
+- Okay.
+
+56
+00:02:38,606 --> 00:02:39,773
+0.20.
+
+57
+00:02:40,765 --> 00:02:43,618
+But wait, doesn't someone
+else need to try it?
+
+58
+00:02:43,618 --> 00:02:46,868
+- Oh yeah, yeah, yeah, that's a good idea.
+
+59
+00:02:48,443 --> 00:02:50,488
+0.22, plus--
+
+60
+00:02:50,488 --> 00:02:52,821
+- 0., oh never mind.
+
+61
+00:02:56,120 --> 00:02:58,364
+- Divided by three.
+
+62
+00:02:58,364 --> 00:03:00,197
+I got the same answer.
+
+63
+00:03:05,269 --> 00:03:08,560
+- So what was the answer to
+the investigative question?
+
+64
+00:03:08,560 --> 00:03:09,826
+What do you think?
+
+65
+00:03:09,826 --> 00:03:10,659
+- The...
+
+66
+00:03:14,521 --> 00:03:15,521
+- The apple,
+
+67
+00:03:17,055 --> 00:03:18,138
+had the most.
+
+68
+00:03:21,619 --> 00:03:22,724
+- Do you agree with that?
+
+69
+00:03:22,724 --> 00:03:23,866
+- Yes.
+
+70
+00:03:23,866 --> 00:03:25,053
+- Why do you think that is?
+
+71
+00:03:25,053 --> 00:03:26,197
+Do you have any guesses?
+
+72
+00:03:26,197 --> 00:03:27,030
+- It's...
+
+73
+00:03:29,453 --> 00:03:31,182
+- It's bigger.
+
+74
+00:03:31,182 --> 00:03:33,627
+It could carry more volts.
+
+75
+00:03:33,627 --> 00:03:34,893
+- It has, yeah--
+
+76
+00:03:34,893 --> 00:03:36,809
+- It has like more juice.
+
+77
+00:03:36,809 --> 00:03:38,606
+- Yeah, that's true.
+
+78
+00:03:38,606 --> 00:03:40,523
+- I think the juice.
+
+79
+00:03:42,240 --> 00:03:44,763
+- Was your hypothesis correct?
+
+80
+00:03:45,763 --> 00:03:46,030
+- Actually,
+
+81
+00:03:46,030 --> 00:03:47,363
+it was.
+
+82
+00:03:48,270 --> 00:03:50,103
+Like right here, well.
+
+83
+00:03:54,113 --> 00:03:57,464
+Well, actually I said the potatoes
+will have the most voltage
+
+84
+00:03:57,464 --> 00:04:00,818
+because like usually they,
+potatoes for like cloth
+
+85
+00:04:00,818 --> 00:04:02,735
+and other things to
+
+86
+00:04:06,898 --> 00:04:10,648
+energize with, but I
+guess apples would work better.
+
+87
+00:04:12,856 --> 00:04:14,084
+- What was yours?
+
+88
+00:04:14,084 --> 00:04:16,820
+- I thought the, I thought
+the carrots would produce more
+
+89
+00:04:16,820 --> 00:04:18,777
+because you know,
+
+90
+00:04:18,777 --> 00:04:22,613
+usually when you like eat
+one it's like very wet,
+
+91
+00:04:22,613 --> 00:04:25,137
+wet when you just get them,
+
+92
+00:04:25,137 --> 00:04:28,146
+so I thought the carrot
+was going to win, but guess not.
+
+93
+00:04:28,146 --> 00:04:29,900
+- I thought it was the apple.
+
+94
+00:04:29,900 --> 00:04:31,567
+I already said that.
+
+95
+00:04:32,960 --> 00:04:35,377
+- My hypothesis, I thought,
+
+96
+00:04:38,271 --> 00:04:40,603
+I think the potato would have the most
+
+97
+00:04:40,603 --> 00:04:42,270
+because I heard like,
+
+98
+00:04:43,339 --> 00:04:47,506
+I've heard that potatoes
+could produce a lot of energy,
+
+99
+00:04:48,644 --> 00:04:50,477
+and last year when
+
+100
+00:04:52,766 --> 00:04:54,438
+when they were doing a science experiment
+
+101
+00:04:54,438 --> 00:04:55,986
+they said that
+
+102
+00:04:55,986 --> 00:04:57,862
+they had potatoes for like volts.
+
+103
+00:04:57,862 --> 00:05:00,557
+So I suspected that they may have been,
+
+104
+00:05:00,557 --> 00:05:02,807
+have a lot of voltage also.
+- Okay.
+
+105
+00:05:05,820 --> 00:05:08,225
+- To our investigative question,
+
+106
+00:05:08,225 --> 00:05:12,392
+our question was which fruit
+will produce the most energy?
+
+107
+00:05:13,412 --> 00:05:14,638
+- And the...
+
+108
+00:05:14,638 --> 00:05:15,471
+- Kiwi.
+
+109
+00:05:15,471 --> 00:05:17,882
+- Kiwi and apple had tied for it.
+
+110
+00:05:17,882 --> 00:05:19,882
+- 0.98.
+
+111
+00:05:20,981 --> 00:05:22,452
+- So I don't know, maybe like
+
+112
+00:05:22,452 --> 00:05:24,695
+some other time we should
+do another experiment
+
+113
+00:05:24,695 --> 00:05:26,165
+and see if we get the same results.
+
+114
+00:05:26,165 --> 00:05:28,252
+- I wonder why the
+orange was so low though.
+
+115
+00:05:28,252 --> 00:05:29,835
+- Maybe because we,
+
+116
+00:05:32,004 --> 00:05:35,473
+since we put it too deep or something.
+
+117
+00:05:35,473 --> 00:05:37,603
+- No, we did the same thing,
+
+118
+00:05:37,603 --> 00:05:39,272
+we put all of them.
+
+119
+00:05:39,272 --> 00:05:40,439
+- Yeah, I know.
+
+120
+00:05:43,195 --> 00:05:44,028
+- Well.
+
+121
+00:05:44,028 --> 00:05:45,195
+- So then our,
+
+122
+00:05:46,660 --> 00:05:48,950
+so our answer was that the kiwi and the
+
+123
+00:05:48,950 --> 00:05:51,034
+apple both had the highest.
+
+124
+00:05:51,034 --> 00:05:53,480
+- So how about your hypothesis?
+
+125
+00:05:53,480 --> 00:05:56,625
+- I thought orange would have it.
+
+126
+00:05:56,625 --> 00:05:58,054
+I thought orange would have it.
+
+127
+00:05:58,054 --> 00:05:59,401
+- I thought orange had it too.
+
+128
+00:05:59,401 --> 00:06:00,746
+- And had the highest.
+
+129
+00:06:00,746 --> 00:06:01,579
+- Why?
+
+130
+00:06:01,579 --> 00:06:03,246
+- Because it had like...
+
+131
+00:06:04,335 --> 00:06:08,168
+- I thought the apple
+would because we didn't,
+
+132
+00:06:09,811 --> 00:06:14,383
+I thought the apple was
+because of how much bigger it was.
+
+133
+00:06:14,383 --> 00:06:16,748
+- How about you Kirsten what did you think?
+
+134
+00:06:16,748 --> 00:06:20,713
+- I thought the orange because
+it has more citrus in it,
+
+135
+00:06:20,713 --> 00:06:22,018
+I mean yeah.
+
+136
+00:06:22,018 --> 00:06:25,527
+- I would have thought kiwi
+would have less because
+
+137
+00:06:25,527 --> 00:06:26,994
+it's so small.
+
+138
+00:06:26,994 --> 00:06:27,827
+- Yeah, me too.
+
+139
+00:06:27,827 --> 00:06:29,487
+- That's what I thought.
+
+140
+00:06:29,487 --> 00:06:31,647
+- Then what was our evidence?
+
+141
+00:06:31,647 --> 00:06:34,147
+- Apple had for an average, had
+
+142
+00:06:35,651 --> 00:06:37,942
+0.98.
+
+143
+00:06:37,942 --> 00:06:40,275
+Orange had 0.16.
+
+144
+00:06:41,574 --> 00:06:43,124
+And then kiwi had
+
+145
+00:06:43,124 --> 00:06:44,791
+0.06.
+
+146
+00:06:45,819 --> 00:06:47,290
+0.16.
+
+147
+00:06:47,290 --> 00:06:49,087
+And then kiwi had
+
+148
+00:06:49,087 --> 00:06:50,477
+0.98.
+
+149
+00:06:50,477 --> 00:06:53,054
+So kiwi and apple tied.
+
+150
+00:06:53,054 --> 00:06:55,060
+- And then our evidence is our data table
+
+151
+00:06:55,060 --> 00:06:57,539
+because that's where
+we recorded everything.
+
+152
+00:06:57,539 --> 00:06:58,682
+- Yep.
+
+153
+00:06:58,682 --> 00:07:00,439
+- So then how can you be sure
+
+154
+00:07:00,439 --> 00:07:03,464
+that you conducted a fair investigation?
+
+155
+00:07:03,464 --> 00:07:06,797
+- We did them the same length apart and...
+
+156
+00:07:08,234 --> 00:07:10,153
+- So what are you guys trying
+to figure out over here?
+
+157
+00:07:10,153 --> 00:07:11,497
+- We're,
+
+158
+00:07:11,497 --> 00:07:14,888
+we're trying to figure out what
+
+159
+00:07:14,888 --> 00:07:18,602
+if the apple, carrot or
+potato has enough voltage
+
+160
+00:07:18,602 --> 00:07:20,769
+to light the food battery.
+
+161
+00:07:22,827 --> 00:07:26,276
+- What is the food
+representing in this case?
+
+162
+00:07:26,276 --> 00:07:27,254
+- A battery.
+- Okay.
+
+163
+00:07:27,254 --> 00:07:28,567
+- Yeah.
+
+164
+00:07:28,567 --> 00:07:30,641
+- Okay, how you gonna figure that out?
+
+165
+00:07:30,641 --> 00:07:32,036
+What is your plan?
+
+166
+00:07:32,036 --> 00:07:33,786
+- We are gonna do,
+
+167
+00:07:35,583 --> 00:07:38,237
+gonna try to do a voltage reader
+
+168
+00:07:38,237 --> 00:07:39,487
+and put,
+
+169
+00:07:40,563 --> 00:07:43,813
+try to see how much voltage there is in
+
+170
+00:07:46,122 --> 00:07:48,455
+an apple, potato or a carrot.
+
+171
+00:07:49,546 --> 00:07:51,945
+- I think we should use the apple
+
+172
+00:07:51,945 --> 00:07:54,923
+because in our investigation
+it had the most voltage,
+
+173
+00:07:54,923 --> 00:07:56,310
+well like the apple,
+
+174
+00:07:56,310 --> 00:07:59,993
+but should we do a parallel battery
+
+175
+00:07:59,993 --> 00:08:00,826
+or the
+
+176
+00:08:02,724 --> 00:08:05,257
+something that starts with an S battery?
+- Series.
+
+177
+00:08:05,257 --> 00:08:08,113
+- Series, let's do series.
+
+178
+00:08:08,113 --> 00:08:09,053
+- Let's try series.
+
+179
+00:08:09,053 --> 00:08:11,011
+- It lights up more.
+
+180
+00:08:11,011 --> 00:08:12,606
+- Yeah, it's brighter.
+
+181
+00:08:12,606 --> 00:08:14,689
+- Okay, let's get it done.
+
+182
+00:08:17,583 --> 00:08:19,629
+Oh wait, we're gonna need more.
+
+183
+00:08:19,629 --> 00:08:21,712
+- There's a wire in here.
+
+184
+00:08:30,740 --> 00:08:34,777
+- So I think that the
+apple will like light up
+
+185
+00:08:34,777 --> 00:08:36,527
+the battery brighter.
+
+186
+00:08:40,005 --> 00:08:42,088
+Or at all because it has,
+
+187
+00:08:44,811 --> 00:08:47,427
+I think it's gonna have the most,
+
+188
+00:08:47,427 --> 00:08:50,427
+it has the most voltage and so it'll
+
+189
+00:08:52,487 --> 00:08:54,487
+make it become brighter.
+
+190
+00:09:02,774 --> 00:09:04,040
+- Which do you?
+
+191
+00:09:04,040 --> 00:09:07,873
+- Oh wait, we're doing
+a series battery so...
+
+192
+00:09:09,218 --> 00:09:10,525
+- Maybe we--
+
+193
+00:09:10,525 --> 00:09:11,872
+- Where's the other apple?
+
+194
+00:09:11,872 --> 00:09:14,085
+- It's over there, Reece has it.
+
+195
+00:09:14,085 --> 00:09:16,239
+- Need to wrap it around tight.
+
+196
+00:09:16,239 --> 00:09:17,262
+- Can I check?
+
+197
+00:09:17,262 --> 00:09:18,571
+- Jayden, do you wanna do it?
+
+198
+00:09:18,571 --> 00:09:19,715
+- Sure.
+
+199
+00:09:19,715 --> 00:09:22,285
+I'll have the honors.
+
+200
+00:09:22,285 --> 00:09:24,526
+- Keep this one untouched
+
+201
+00:09:24,526 --> 00:09:26,078
+because I'm gonna wrap
+this wire against that
+
+202
+00:09:26,078 --> 00:09:28,895
+because it needs to, this negative.
+
+203
+00:09:28,895 --> 00:09:30,283
+Just the white one.
+
+204
+00:09:30,283 --> 00:09:33,283
+- Okay, there is no wire in this.
+
+205
+00:09:34,205 --> 00:09:36,038
+- Okay, so--
+
+206
+00:09:36,038 --> 00:09:39,386
+- I think we have enough wires here.
+
+207
+00:09:39,386 --> 00:09:41,301
+- What do you need the wires for?
+
+208
+00:09:41,301 --> 00:09:42,634
+- To wrap around,
+
+209
+00:09:44,484 --> 00:09:45,817
+to make a series.
+
+210
+00:09:47,579 --> 00:09:51,024
+- To allow the energy to flow through.
+
+211
+00:09:51,024 --> 00:09:54,775
+- Okay, so what's the purpose of the wires?
+
+212
+00:09:54,775 --> 00:09:57,754
+- So that the energy will be able to flow.
+
+213
+00:09:57,754 --> 00:10:00,199
+- What is the energy that's
+going through the wires?
+
+214
+00:10:00,199 --> 00:10:01,205
+- Electricity.
+
+215
+00:10:01,205 --> 00:10:04,758
+- But okay, so what is the
+function of the wires?
+
+216
+00:10:04,758 --> 00:10:08,008
+- To like be able to pass from one spot
+
+217
+00:10:09,249 --> 00:10:11,867
+to like, the battery to the light.
+
+218
+00:10:11,867 --> 00:10:13,947
+- Okay, so you have two different wires.
+
+219
+00:10:13,947 --> 00:10:15,624
+Why is that?
+
+220
+00:10:15,624 --> 00:10:17,124
+- To be able to...
+
+221
+00:10:22,520 --> 00:10:25,128
+- You know, why you have
+two different wires?
+
+222
+00:10:25,128 --> 00:10:25,961
+- Um,
+
+223
+00:10:28,275 --> 00:10:29,133
+no.
+
+224
+00:10:29,133 --> 00:10:30,564
+- No.
+
+225
+00:10:30,564 --> 00:10:32,604
+I'm gonna give you a
+minute to think about it.
+
+226
+00:10:32,604 --> 00:10:33,437
+- Okay.
+
+227
+00:10:35,837 --> 00:10:36,670
+- Is it working?
+
+228
+00:10:36,670 --> 00:10:37,503
+- No, not yet.
+
+229
+00:10:37,503 --> 00:10:39,759
+Well, I don't think it's working.
+
+230
+00:10:39,759 --> 00:10:41,146
+- I think I didn't--
+
+231
+00:10:41,146 --> 00:10:42,396
+- Oh, it's going.
+
+232
+00:10:43,719 --> 00:10:45,721
+- No, I don't think I 
+
+233
+00:10:45,721 --> 00:10:48,942
+wrapped the wire around right.
+
+234
+00:10:48,942 --> 00:10:50,046
+- Oh, yeah, because the--
+
+235
+00:10:50,046 --> 00:10:51,105
+- This is really short.
+
+236
+00:10:51,105 --> 00:10:52,493
+- So yeah, it was tucking it.
+
+237
+00:10:52,493 --> 00:10:54,821
+- Let's see that and that and that.
+
+238
+00:10:54,821 --> 00:10:57,102
+Yeah, that thing's wrapped up tight.
+
+239
+00:10:57,102 --> 00:10:59,911
+- Well, if the volts are enough.
+
+240
+00:10:59,911 --> 00:11:01,950
+- Don't the apples have to be touching?
+
+241
+00:11:01,950 --> 00:11:03,705
+- No, they don't have to be touching.
+
+242
+00:11:03,705 --> 00:11:04,929
+They just have to be,
+
+243
+00:11:04,929 --> 00:11:07,872
+the wires just have to
+go from positive to negative.
+
+244
+00:11:07,872 --> 00:11:08,705
+- Yeah.
+
+245
+00:11:08,705 --> 00:11:09,627
+- True.
+
+246
+00:11:09,627 --> 00:11:12,243
+- But if they don't have enough voltage,
+
+247
+00:11:12,243 --> 00:11:13,754
+we should use a potato.
+
+248
+00:11:13,754 --> 00:11:16,837
+- Yeah, we can put the potato to help.
+
+249
+00:11:21,550 --> 00:11:23,387
+- Yeah, we need to put them in every fruit.
+
+250
+00:11:23,387 --> 00:11:25,912
+And then connect the wires like
+
+251
+00:11:25,912 --> 00:11:28,935
+that to that, that to that.
+
+252
+00:11:28,935 --> 00:11:30,653
+- So, make sure they don't touch.
+
+253
+00:11:30,653 --> 00:11:34,070
+- Yeah, so kinda wrap it around with the wire.
+
+254
+00:11:37,044 --> 00:11:40,950
+Yeah, try to wrap it
+around as tight as you can
+
+255
+00:11:40,950 --> 00:11:44,867
+so that...
+
+256
+00:11:53,387 --> 00:11:54,411
+- Do you, what do you guys think,
+
+257
+00:11:54,411 --> 00:11:57,027
+do you think that fruit
+could power our school?
+
+258
+00:11:57,027 --> 00:11:59,317
+- I don't think so.
+
+259
+00:11:59,317 --> 00:12:01,929
+- It might power a small light bulb
+
+260
+00:12:01,929 --> 00:12:05,035
+like the ones that we use in here, but--
+
+261
+00:12:05,035 --> 00:12:06,338
+- You don't think there's enough voltage
+
+262
+00:12:06,338 --> 00:12:08,096
+to supply our whole school?
+
+263
+00:12:08,096 --> 00:12:09,200
+- No.
+
+264
+00:12:09,200 --> 00:12:11,365
+- Well, like maybe if we put like
+
+265
+00:12:11,365 --> 00:12:13,528
+a bunch of fruit on the roof or something.
+
+266
+00:12:13,528 --> 00:12:14,888
+I don't know how that would turn out,
+
+267
+00:12:14,888 --> 00:12:17,136
+but maybe if we put a whole bunch
+
+268
+00:12:17,136 --> 00:12:19,748
+and like stacked it on top.
+
+269
+00:12:19,748 --> 00:12:22,735
+- Would you think that
+would be economical?
+
+270
+00:12:22,735 --> 00:12:26,043
+You think that would be
+beneficial to us in any way?
+
+271
+00:12:26,043 --> 00:12:26,876
+- Maybe.
+
+272
+00:12:26,876 --> 00:12:28,209
+- Why?
+
+273
+00:12:28,209 --> 00:12:29,126
+- It could,
+
+274
+00:12:29,992 --> 00:12:33,754
+but we'd have to keep
+changing out the fruit,
+
+275
+00:12:33,754 --> 00:12:35,510
+and changing out the fruit.
+
+276
+00:12:35,510 --> 00:12:38,927
+- It'd be lots more work that's for sure.
+
+277
+00:12:40,894 --> 00:12:42,244
+Don't let them touch.
+
+278
+00:12:42,244 --> 00:12:45,077
+- That connects to that and that.
+
+279
+00:12:46,699 --> 00:12:47,761
+- Do we have another one?
+
+280
+00:12:47,761 --> 00:12:49,928
+Because this one is broken.
+
+281
+00:12:54,458 --> 00:12:57,708
+- Can we borrow one from over here?
+- Oh, we have one.
+
+282
+00:13:01,147 --> 00:13:02,147
+There you go.
+
+283
+00:13:03,406 --> 00:13:05,490
+- What do you think is gonna happen?
+
+284
+00:13:05,490 --> 00:13:07,157
+- I think it'll like,
+
+285
+00:13:08,588 --> 00:13:11,245
+because we have none of the same touching.
+
+286
+00:13:11,245 --> 00:13:14,390
+- First we should check the voltage.
+
+287
+00:13:14,390 --> 00:13:18,557
+- Well I don't, we'll just
+see if it lights the light.
+
+288
+00:13:22,516 --> 00:13:23,985
+- No, don't connect those.
+
+289
+00:13:23,985 --> 00:13:26,716
+- Why would you wanna check the voltage?
+
+290
+00:13:26,716 --> 00:13:30,883
+- Just to see if it has
+enough potential of battery.
+
+291
+00:13:32,510 --> 00:13:34,184
+- Would make more electricity.
+
+292
+00:13:34,184 --> 00:13:35,245
+All the averages.
+
+293
+00:13:35,245 --> 00:13:37,118
+- I think it should be good this way.
+
+294
+00:13:37,118 --> 00:13:40,677
+- Because we tested a battery
+and saw how much it was.
+
+295
+00:13:40,677 --> 00:13:42,344
+- Connect one to it.
+
+296
+00:13:45,208 --> 00:13:47,625
+Then connect yours Lizzy.
+
+297
+00:13:53,353 --> 00:13:55,359
+- Maybe, did we do it wrong?
+
+298
+00:13:55,359 --> 00:13:57,192
+- No, I don't think so.
+
+299
+00:13:58,218 --> 00:14:00,016
+- Well, I think that maybe it loses
+
+300
+00:14:00,016 --> 00:14:00,959
+potential inside the fruit?
+
+301
+00:14:00,959 --> 00:14:01,792
+- Maybe it--
+
+302
+00:14:01,792 --> 00:14:03,691
+- Try an separate those
+a little more Kirsten.
+
+303
+00:14:03,691 --> 00:14:06,441
+- Maybe they're both plus and plus.
+
+304
+00:14:08,635 --> 00:14:12,802
+- Maybe it's because we're
+using three types of fruit.
+
+305
+00:14:13,648 --> 00:14:15,779
+If we use just two.
+
+306
+00:14:15,779 --> 00:14:19,278
+What if we took the prongs out and replace
+
+307
+00:14:19,278 --> 00:14:20,663
+that with this?
+
+308
+00:14:20,663 --> 00:14:21,996
+- Okay, try that.
+
+309
+00:14:23,442 --> 00:14:26,702
+- Put it in a different hole this time
+
+310
+00:14:26,702 --> 00:14:28,952
+because we just changed it.
+
+311
+00:14:29,966 --> 00:14:30,799
+- Well, don't--
+
+312
+00:14:30,799 --> 00:14:32,211
+- What are we trying to do here?
+
+313
+00:14:32,211 --> 00:14:34,538
+- We were trying to make
+
+314
+00:14:34,538 --> 00:14:36,455
+all these the same one.
+
+315
+00:14:37,682 --> 00:14:39,682
+- Why would you do that?
+
+316
+00:14:40,662 --> 00:14:42,507
+- Maybe because they need to be the same?
+
+317
+00:14:42,507 --> 00:14:45,322
+From the, both positive and negative.
+
+318
+00:14:45,322 --> 00:14:46,261
+- Oh.
+
+319
+00:14:46,261 --> 00:14:49,178
+- And we need to make sure so those
+
+320
+00:14:50,057 --> 00:14:53,407
+could be the plus and minus,
+doesn't matter which way.
+
+321
+00:14:53,407 --> 00:14:55,366
+And that and that needs to touch,
+
+322
+00:14:55,366 --> 00:14:59,533
+and then that one and that one, which is
+exactly what we did.
+
+323
+00:14:59,944 --> 00:15:00,777
+But wait--
+

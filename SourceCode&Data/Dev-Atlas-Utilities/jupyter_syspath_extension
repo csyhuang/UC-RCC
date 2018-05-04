@@ -1,0 +1,5 @@
+%load_ext autoreload
+%autoreload 2
+#%reload_ext autoreload
+import sys
+sys.path.append('/Users/fjgreco/Dev-Atlas/Dev-Atlas-Utilities')
