@@ -43,6 +43,7 @@ def dialogue_act_features(post):
      return features
 
 print ("Create Speech Act Classifier")
+posts = nltk.corpus.nps_chat.xml_posts()[:10000]
 featuresets = [(dialogue_act_features(post.text), post.get('class'))
                 for post in posts]
 size = int(len(featuresets) * 0.1)
